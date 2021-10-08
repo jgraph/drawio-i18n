@@ -1,1 +1,0 @@
-# drawio-i18n
