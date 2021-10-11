@@ -3,7 +3,7 @@
 about=За 
 aboutDrawio=За draw.io
 accessDenied=Достъпът отказан
-action=Action
+action=Действие
 actualSize=Действителен размер
 add=Добавяне
 addAccount=Add account
