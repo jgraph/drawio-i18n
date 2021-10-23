@@ -1163,3 +1163,4 @@ repository=Repository
 branch=Branch
 meters=Meter
 teamsNoEditingMsg=Editor functionality is only available in Desktop environment (in MS Teams App or a web browser)
+contactOwner=Contact Owner
