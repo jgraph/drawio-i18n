@@ -1168,3 +1168,4 @@ contactOwner=Contact Owner
 viewerOnlyMsg=Ezin dituzu diagramak editatu plataforma mugikorrean, mesedez erabili mahaigaineko bezeroa edo web arakatzailea.
 website=Webgunea
 check4Updates=Bilat eguneraketak
+attWriteFailedRetry={1}: Attachment write failed, trying again in {2} seconds...

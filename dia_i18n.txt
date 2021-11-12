@@ -1168,3 +1168,4 @@ contactOwner=contactOwner
 viewerOnlyMsg=viewerOnlyMsg
 website=website
 check4Updates=check4Updates
+attWriteFailedRetry=attWriteFailedRetry

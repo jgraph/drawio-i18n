@@ -1168,3 +1168,4 @@ contactOwner=Contact Owner
 viewerOnlyMsg=You cannot edit the diagrams in the mobile platform, please use the desktop client or a web browser.
 website=Website 
 check4Updates=Check for updates
+attWriteFailedRetry={1}: Attachment write failed, trying again in {2} seconds...
