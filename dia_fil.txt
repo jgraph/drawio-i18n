@@ -352,6 +352,7 @@ fullscreen=Buong Screen
 gap=Gap
 gcp=GCP
 general=Pangkalahatan
+getNotionChromeExtension=Get the Notion Chrome Extension
 github=GitHub
 gitlab=GitLab
 gliffy=Gliffy

@@ -352,6 +352,7 @@ fullscreen=Vollbild
 gap=Lücke
 gcp=GCP
 general=Allgemein
+getNotionChromeExtension=Holen Sie sich die Notion Chrome Extension
 github=GitHub
 gitlab=GitLab
 gliffy=Gliffy

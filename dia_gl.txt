@@ -352,6 +352,7 @@ fullscreen=Pantalla completa
 gap=Espazo
 gcp=GCP
 general=Xeral
+getNotionChromeExtension=Get the Notion Chrome Extension
 github=GitHub
 gitlab=GitLab
 gliffy=Gliffy

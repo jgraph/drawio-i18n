@@ -352,6 +352,7 @@ fullscreen=Повний екран
 gap=Проміжок
 gcp=GCP
 general=Загальний
+getNotionChromeExtension=Get the Notion Chrome Extension
 github=GitHub
 gitlab=GitLab
 gliffy=Gliffy

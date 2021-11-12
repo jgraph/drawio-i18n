@@ -352,6 +352,7 @@ fullscreen=Toàn màn hình
 gap=Gap
 gcp=GCP
 general=Chung
+getNotionChromeExtension=Get the Notion Chrome Extension
 github=GitHub
 gitlab=GitLab
 gliffy=Gliffy

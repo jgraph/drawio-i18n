@@ -352,6 +352,7 @@ fullscreen=Per visą ekraną
 gap=Tarpas
 gcp=GCP
 general=Pagrindinis
+getNotionChromeExtension=Get the Notion Chrome Extension
 github=GitHub
 gitlab=GitLab
 gliffy=Gliffy

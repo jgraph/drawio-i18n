@@ -352,6 +352,7 @@ fullscreen=フルスクリーン
 gap=Gap
 gcp=GCP
 general=一般
+getNotionChromeExtension=Get the Notion Chrome Extension
 github=GitHub
 gitlab=GitLab
 gliffy=Gliffy

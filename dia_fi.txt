@@ -352,6 +352,7 @@ fullscreen=Koko näyttö
 gap=Väli
 gcp=GCP
 general=Yleinen
+getNotionChromeExtension=Get the Notion Chrome Extension
 github=GitHub
 gitlab=GitLab
 gliffy=Gliffy

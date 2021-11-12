@@ -352,6 +352,7 @@ fullscreen=Pantaila osoa
 gap=Tartea
 gcp=GCP
 general=Orokorra
+getNotionChromeExtension=Get the Notion Chrome Extension
 github=GitHub
 gitlab=GitLab
 gliffy=Gliffy

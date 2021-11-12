@@ -352,6 +352,7 @@ fullscreen=Πλήρης οθόνη
 gap=Διάκενο
 gcp=GCP
 general=Γενικά
+getNotionChromeExtension=Get the Notion Chrome Extension
 github=GitHub
 gitlab=GitLab
 gliffy=Gliffy

@@ -352,6 +352,7 @@ fullscreen=เต็มหน้าจอ
 gap=Gap
 gcp=GCP
 general=ทั่วไป
+getNotionChromeExtension=Get the Notion Chrome Extension
 github=GitHub
 gitlab=GitLab
 gliffy=Gliffy

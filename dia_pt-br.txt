@@ -352,6 +352,7 @@ fullscreen=Tela cheia
 gap=Espaçamento
 gcp=GCP
 general=Geral
+getNotionChromeExtension=Get the Notion Chrome Extension
 github=GitHub
 gitlab=GitLab
 gliffy=Gliffy
