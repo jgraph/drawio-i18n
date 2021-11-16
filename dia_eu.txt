@@ -1169,3 +1169,4 @@ viewerOnlyMsg=Ezin dituzu diagramak editatu plataforma mugikorrean, mesedez erab
 website=Webgunea
 check4Updates=Bilat eguneraketak
 attWriteFailedRetry={1}: Attachment write failed, trying again in {2} seconds...
+confPartialPageList=We couldn't fetch all pages due to an error in Confluence. Continuing using {1} pages only. 
