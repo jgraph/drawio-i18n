@@ -1167,6 +1167,6 @@ teamsNoEditingMsg=Editor functionality is only available in Desktop environment 
 contactOwner=Contact Owner
 viewerOnlyMsg=You cannot edit the diagrams in the mobile platform, please use the desktop client or a web browser.
 website=Website
-check4Updates=Check for updates
+check4Updates=Verificar se há atualizações
 attWriteFailedRetry={1}: Attachment write failed, trying again in {2} seconds...
 confPartialPageList=We couldn't fetch all pages due to an error in Confluence. Continuing using {1} pages only.
