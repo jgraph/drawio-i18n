@@ -1172,3 +1172,6 @@ check4Updates=check4Updates
 attWriteFailedRetry=attWriteFailedRetry
 confPartialPageList=confPartialPageList
 spellCheck=spellCheck
+noChange=noChange
+lblToSvg=lblToSvg
+txtSettings=txtSettings

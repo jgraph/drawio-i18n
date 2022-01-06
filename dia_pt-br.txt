@@ -1172,3 +1172,6 @@ check4Updates=Verificar se há atualizações
 attWriteFailedRetry={1}: Attachment write failed, trying again in {2} seconds...
 confPartialPageList=We couldn't fetch all pages due to an error in Confluence. Continuing using {1} pages only.
 spellCheck=Spell checker
+noChange=No Change
+lblToSvg=Convert labels to SVG
+txtSettings=Text Settings
