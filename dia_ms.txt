@@ -427,6 +427,7 @@ ios=iOS
 italic=Italik
 kennedy=Kennedy
 keyboardShortcuts=Pintasan papan kekunci
+labels=Labels
 layers=Lapisan
 landscape=Landskap
 language=Bahasa

@@ -427,6 +427,7 @@ ios=iOS
 italic=斜体
 kennedy=ケネディ
 keyboardShortcuts=キーボードショートカット
+labels=Labels
 layers=レイヤー
 landscape=横向き
 language=言語

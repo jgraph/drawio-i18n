@@ -427,6 +427,7 @@ ios=iOS
 italic=Cursief
 kennedy=Kennedy
 keyboardShortcuts=Sneltoetscombinaties
+labels=Labels
 layers=Lagen
 landscape=Landschap
 language=Taal

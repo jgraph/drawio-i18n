@@ -427,6 +427,7 @@ ios=iOS
 italic=Italic
 kennedy=Kennedy
 keyboardShortcuts=Comenzi rapide tastatură
+labels=Labels
 layers=Layere
 landscape=Peisaj
 language=Limbă

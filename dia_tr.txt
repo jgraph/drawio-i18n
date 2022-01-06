@@ -427,6 +427,7 @@ ios=İOS
 italic=Eğik
 kennedy=Kennedy
 keyboardShortcuts=Klavye kısayolları
+labels=Labels
 layers=Katmanlar
 landscape=Yatay
 language=Dil

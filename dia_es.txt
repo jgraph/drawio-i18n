@@ -427,6 +427,7 @@ ios=iOS
 italic=Cursiva
 kennedy=Kennedy
 keyboardShortcuts=Atajos de teclado
+labels=Labels
 layers=Capas
 landscape=Orientación horizontal
 language=Idioma

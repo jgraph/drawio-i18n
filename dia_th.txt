@@ -427,6 +427,7 @@ ios=iOS
 italic=ตัวเอียง
 kennedy=Kennedy
 keyboardShortcuts=ทางลัดคีย์บอร์ด
+labels=Labels
 layers=ชั้นหลายชั้น
 landscape=ภูมิทัศน์
 language=ภาษา

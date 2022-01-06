@@ -427,6 +427,7 @@ ios=iOS
 italic=Corsivo
 kennedy=Kennedy
 keyboardShortcuts=Scorciatoie da tastiera
+labels=Labels
 layers=Livelli
 landscape=Orizzontale
 language=Lingua

@@ -427,6 +427,7 @@ ios=iOS
 italic=‫ایتالیک‬
 kennedy=Kennedy
 keyboardShortcuts=‫کلید های میانبر‬
+labels=Labels
 layers=‫لایه ها‬
 landscape=‫دورنما‬
 language=‫زبان‬

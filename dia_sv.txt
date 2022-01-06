@@ -427,6 +427,7 @@ ios=iOS
 italic=Kursiv
 kennedy=Kennedy
 keyboardShortcuts=Kortkommandon
+labels=Labels
 layers=Lager
 landscape=Landskap
 language=Språk

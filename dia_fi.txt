@@ -427,6 +427,7 @@ ios=iOS
 italic=Kursivoitu
 kennedy=Kennedy
 keyboardShortcuts=Pikanäppäimet
+labels=Labels
 layers=Tasot
 landscape=Vaakasuunta
 language=Kieli

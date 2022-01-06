@@ -427,6 +427,7 @@ ios=iOS
 italic=‫נטוי‬
 kennedy=‫קנדי‬
 keyboardShortcuts=‫קיצורי מקלדת‬
+labels=Labels
 layers=‫שכבות‬
 landscape=‫נוף‬
 language=‫שפה‬

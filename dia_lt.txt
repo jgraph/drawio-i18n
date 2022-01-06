@@ -427,6 +427,7 @@ ios=IOS
 italic=Kursyvas
 kennedy=Kennedy
 keyboardShortcuts=Spartieji klavišai
+labels=Labels
 layers=Sluoksniai
 landscape=Peizažas
 language=Kalba

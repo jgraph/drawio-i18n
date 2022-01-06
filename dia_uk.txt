@@ -427,6 +427,7 @@ ios=iOS
 italic=Рукописний
 kennedy=Кеннеді
 keyboardShortcuts=Скорочення набірниці
+labels=Labels
 layers=Шари
 landscape=Альбомний
 language=Мова

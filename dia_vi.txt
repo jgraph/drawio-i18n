@@ -427,6 +427,7 @@ ios=iOS
 italic=Chữ nghiêng
 kennedy=Kennedy
 keyboardShortcuts=Phím tắt
+labels=Labels
 layers=Lớp
 landscape=Khung cảnh
 language=Ngôn ngữ

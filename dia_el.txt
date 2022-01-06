@@ -427,6 +427,7 @@ ios=iOS
 italic=Πλάγια
 kennedy=Kennedy
 keyboardShortcuts=Συντομεύσεις πληκτρολογίου
+labels=Labels
 layers=Επίπεδα
 landscape=Οριζόντιος προσανατολισμός
 language=Γλώσσα

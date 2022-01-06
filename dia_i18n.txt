@@ -427,6 +427,7 @@ ios=ios
 italic=italic
 kennedy=kennedy
 keyboardShortcuts=keyboardShortcuts
+labels=labels
 layers=layers
 landscape=landscape
 language=language

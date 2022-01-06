@@ -427,6 +427,7 @@ ios=iOS
 italic=‫خط مائل‬
 kennedy=‫كنيدي‬
 keyboardShortcuts=Keyboard Shortcuts
+labels=Labels
 layers=‫طبقات‬
 landscape=‫طباعة بالعرض‬
 language=‫لغة‬

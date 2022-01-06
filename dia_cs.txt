@@ -427,6 +427,7 @@ ios=iOS
 italic=Kurzíva
 kennedy=Kennedy
 keyboardShortcuts=Klávesové zkratky
+labels=Labels
 layers=Vrstvy
 landscape=Na šířku
 language=Jazyk

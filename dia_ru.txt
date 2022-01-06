@@ -427,6 +427,7 @@ ios=iOS
 italic=Курсив
 kennedy=Кеннеди
 keyboardShortcuts=Комбинации клавиш
+labels=Labels
 layers=Слои
 landscape=Альбомная
 language=Язык
