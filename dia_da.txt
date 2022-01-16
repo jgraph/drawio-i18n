@@ -699,6 +699,7 @@ simpleArrow=Simpel pil
 simpleViewer=Simple Viewer
 size=Størrelse
 sketch=Sketch
+snapToGrid=Snap to Grid
 solid=Fast
 sourceSpacing=Kildeafstand
 south=Syd
