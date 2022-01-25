@@ -1180,3 +1180,4 @@ txtSettings=Configurações de texto
 LinksLost=Links will be lost
 arcSize=Arc Size
 editConnectionPoints=Editar pontos de conexão
+notInOffline=Not supported while offline

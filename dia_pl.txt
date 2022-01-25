@@ -1180,3 +1180,4 @@ txtSettings=Ustawienia tekstu
 LinksLost=Linki zostaną utracone
 arcSize=Rozmiar łuku
 editConnectionPoints=Edycja punktów połączeń
+notInOffline=Not supported while offline

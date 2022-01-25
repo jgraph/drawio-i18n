@@ -1180,3 +1180,4 @@ txtSettings=Texteinstellungen
 LinksLost=Verknüpfungen gehen verloren
 arcSize=Bogengrösse
 editConnectionPoints=Verbindungspunkte bearbeiten
+notInOffline=Not supported while offline
