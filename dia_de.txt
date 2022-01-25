@@ -1181,3 +1181,4 @@ LinksLost=Verknüpfungen gehen verloren
 arcSize=Bogengrösse
 editConnectionPoints=Verbindungspunkte bearbeiten
 notInOffline=Not supported while offline
+notInDesktop=Not supported in Desktop App

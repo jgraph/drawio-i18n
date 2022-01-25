@@ -1181,3 +1181,4 @@ LinksLost=Linki zostaną utracone
 arcSize=Rozmiar łuku
 editConnectionPoints=Edycja punktów połączeń
 notInOffline=Not supported while offline
+notInDesktop=Not supported in Desktop App
