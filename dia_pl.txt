@@ -3,7 +3,7 @@
 about=O aplikacji
 aboutDrawio=O aplikacji draw.io
 accessDenied=Brak dostępu
-action=Akcja
+action=Działanie
 actualSize=Rozmiar rzeczywisty
 add=Dodaj
 addAccount=Dodaj konto
