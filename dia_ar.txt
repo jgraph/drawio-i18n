@@ -686,6 +686,7 @@ shadow=‫ظل‬
 shape=‫شكل‬
 shapes=‫الأشكال‬
 share=‫انشر‬
+shareCursor=Share Cursor
 shareLink=‫رابط للتحرير المنشور‬
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=‫حاد‬

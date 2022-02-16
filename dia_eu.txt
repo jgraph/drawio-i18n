@@ -686,6 +686,7 @@ shadow=Itzala
 shape=Forma
 shapes=Formak
 share=Partekatu
+shareCursor=Share Cursor
 shareLink=Edizioa partekatzeko esteka
 sharingAvailable=Partekatzea onartzen zaio Google Drive eta OneDriveren fitxategiei
 sharp=Zorrotza

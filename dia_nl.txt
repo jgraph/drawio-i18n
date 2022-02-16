@@ -686,6 +686,7 @@ shadow=Schaduw
 shape=Vorm
 shapes=Vormen
 share=Delen
+shareCursor=Share Cursor
 shareLink=Link voor gedeeld bewerken
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Rechthoekig

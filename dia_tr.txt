@@ -686,6 +686,7 @@ shadow=Gölge
 shape=Şekil
 shapes=Şekiller
 share=Paylaş
+shareCursor=Share Cursor
 shareLink=Paylaşılan düzenleme linki
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Keskin

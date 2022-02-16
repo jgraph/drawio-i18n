@@ -686,6 +686,7 @@ shadow=Sombra
 shape=Forma
 shapes=Formas
 share=Compartilhar
+shareCursor=Share Cursor
 shareLink=Link para edição compartilhada
 sharingAvailable=O compartilhamento é disponível para arquivos salvos em Google Drive ou em OneDrive.
 sharp=Quadrado

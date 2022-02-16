@@ -686,6 +686,7 @@ shadow=Skugga
 shape=Form
 shapes=Former
 share=Dela
+shareCursor=Share Cursor
 shareLink=Länk för delad redigering
 sharingAvailable=Delning via Google Drive och OneDrive är möjlig
 sharp=Skarp

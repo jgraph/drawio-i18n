@@ -686,6 +686,7 @@ shadow=Anino
 shape=Hugis
 shapes=Mga hugis
 share=Ibahagi
+shareCursor=Share Cursor
 shareLink=Link para sa salu-salong pag-edit
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Matalas

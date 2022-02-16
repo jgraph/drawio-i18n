@@ -686,6 +686,7 @@ shadow=Sombra
 shape=Forma
 shapes=Formas
 share=Compartir
+shareCursor=Share Cursor
 shareLink=Vencello para compartir edición
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Brusco

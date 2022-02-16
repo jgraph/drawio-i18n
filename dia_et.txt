@@ -686,6 +686,7 @@ shadow=Vari
 shape=Kujund
 shapes=Kujundid
 share=Jaga
+shareCursor=Share Cursor
 shareLink=Link jagatud toimetamiseks
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Terav

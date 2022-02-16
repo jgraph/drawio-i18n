@@ -686,6 +686,7 @@ shadow=‫سایه‬
 shape=‫شکل‬
 shapes=‫اشکال‬
 share=‫به اشتراک گذاشتن‬
+shareCursor=Share Cursor
 shareLink=‫لینک برای ویرایش مشترک‬
 sharingAvailable=X
 sharp=‫تیز‬

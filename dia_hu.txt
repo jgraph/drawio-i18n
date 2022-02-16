@@ -686,6 +686,7 @@ shadow=Árnyék
 shape=Alakzat
 shapes=Alakzatok
 share=Osztás
+shareCursor=Share Cursor
 shareLink=Link osztása
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Éles

@@ -686,6 +686,7 @@ shadow=陰影
 shape=圖形
 shapes=圖形
 share=分享
+shareCursor=Share Cursor
 shareLink=分享編輯連結
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=銳角

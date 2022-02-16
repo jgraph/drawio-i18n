@@ -686,6 +686,7 @@ shadow=Senka
 shape=Oblik
 shapes=Oblici
 share=Podeli
+shareCursor=Share Cursor
 shareLink=Podeli link
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Oštar

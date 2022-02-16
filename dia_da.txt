@@ -686,6 +686,7 @@ shadow=Skygge
 shape=Figur
 shapes=Figurer
 share=Del
+shareCursor=Share Cursor
 shareLink=Link til fælles redigering
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Skarp

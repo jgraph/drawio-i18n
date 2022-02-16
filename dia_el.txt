@@ -686,6 +686,7 @@ shadow=Σκιά
 shape=Σχήμα
 shapes=Σχήματα
 share=Κοινοποίηση
+shareCursor=Share Cursor
 shareLink=Σύνδεσμός για κοινή επεξεργασία
 sharingAvailable=Ο διαμοιρασμός είναι διαθέσιμος για το Google Drive και για αρχεία OneDrive.
 sharp=Αιχμή

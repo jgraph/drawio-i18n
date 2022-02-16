@@ -686,6 +686,7 @@ shadow=그림자
 shape=도형
 shapes=도형
 share=공유
+shareCursor=Share Cursor
 shareLink=공유 편집을 위한 링크
 sharingAvailable=공유는 Google 드라이브와 Microsoft OneDrive 파일만 가능합니다.
 sharp=곧은선

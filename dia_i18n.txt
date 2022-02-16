@@ -686,6 +686,7 @@ shadow=shadow
 shape=shape
 shapes=shapes
 share=share
+shareCursor=shareCursor
 shareLink=shareLink
 sharingAvailable=sharingAvailable
 sharp=sharp

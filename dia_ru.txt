@@ -686,6 +686,7 @@ shadow=Тень
 shape=Фигура
 shapes=Фигуры
 share=Общий доступ
+shareCursor=Share Cursor
 shareLink=Ссылка для совместного редактирования
 sharingAvailable=Совместное использование доступно только для файлов Google Диск и OneDrive.
 sharp=Острые углы

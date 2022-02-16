@@ -686,6 +686,7 @@ shadow=Umbră
 shape=Formă
 shapes=Forme
 share=Distribuie
+shareCursor=Share Cursor
 shareLink=Link pentru editare în comun
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Ascuţit

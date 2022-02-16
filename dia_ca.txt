@@ -686,6 +686,7 @@ shadow=Ombra
 shape=Forma
 shapes=Formes
 share=Comparteix
+shareCursor=Share Cursor
 shareLink=Enllaç per a l'edició compartida
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Angulós

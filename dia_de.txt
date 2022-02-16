@@ -686,6 +686,7 @@ shadow=Schatten
 shape=Shape
 shapes=Shapes
 share=Freigeben
+shareCursor=Zeiger teilen
 shareLink=Verknüpfung zum gemeinsamen Bearbeiten
 sharingAvailable=Freigabe nur für Google Drive und OneDrive Dateien.
 sharp=Eckig

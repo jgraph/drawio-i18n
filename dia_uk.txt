@@ -686,6 +686,7 @@ shadow=Тінь
 shape=Форма
 shapes=Форми
 share=Поділитися
+shareCursor=Share Cursor
 shareLink=Посилання для спільного редагування
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Різке

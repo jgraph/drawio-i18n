@@ -686,6 +686,7 @@ shadow=Bayang-bayang
 shape=Bentuk
 shapes=Bentuk-bentuk
 share=Kongsi
+shareCursor=Share Cursor
 shareLink=Pautan untuk suntingan kongsian
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Tajam

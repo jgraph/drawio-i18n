@@ -686,6 +686,7 @@ shadow=Sjena
 shape=Oblik
 shapes=Oblici
 share=Podijeli
+shareCursor=Share Cursor
 shareLink=Link podijeljen za uređivanje
 sharingAvailable=Sharing available for Google Drive and OneDrive files.
 sharp=Oštro

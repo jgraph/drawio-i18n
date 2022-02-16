@@ -686,6 +686,7 @@ shadow=Varjostus
 shape=Muoto
 shapes=Muodot
 share=Jaa
+shareCursor=Share Cursor
 shareLink=Linkki jaettuun muokkaukseen
 sharingAvailable=Jakaminen käytettävissä Google Drive- ja OneDrive-tiedostoille.
 sharp=Terävä
