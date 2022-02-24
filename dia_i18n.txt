@@ -1190,4 +1190,4 @@ confACleanOldVerStarted=confACleanOldVerStarted
 confACleanOldVerDone=confACleanOldVerDone
 confACleaningFile=confACleaningFile
 confAFileCleaned=confAFileCleaned
-confAFileVerDelFailed=confAFileVerDelFailed
+confAFileCleanFailed=confAFileCleanFailed
