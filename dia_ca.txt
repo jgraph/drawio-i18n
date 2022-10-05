@@ -1210,3 +1210,4 @@ choosePageIDsFile=Trieu el fitxer csv d'identificadors de pàgina actuals
 chooseDrawioPsgesFile=Trieu pàgines amb el fitxer csv de diagrames draw.io
 private=Privat
 diagramTooLarge=The diagram is too large, please reduce its size and try again.
+selectAdminUsers=Select Admin Users

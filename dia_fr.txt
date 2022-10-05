@@ -1210,3 +1210,4 @@ choosePageIDsFile=Choose current page IDs csv file
 chooseDrawioPsgesFile=Choose pages with draw.io diagrams csv file
 private=Privé
 diagramTooLarge=The diagram is too large, please reduce its size and try again.
+selectAdminUsers=Select Admin Users
