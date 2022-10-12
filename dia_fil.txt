@@ -1222,3 +1222,7 @@ allowAll=Allow all
 noTeams=No teams found
 errorLoadingTeams=Error Loading Teams
 noTeamMembers=No team members found
+errLoadTMembers=Error loading team members
+errCreateTeamPage=Error creating team "{1}" page in "draw.io Configuration" space, please check you have the required permissions.
+gotoConfigPage=Please create the space from draw.io "Configuration" page.
+noAdminsSelected=No admins/editors selected

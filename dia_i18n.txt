@@ -1222,3 +1222,7 @@ allowAll=allowAll
 noTeams=noTeams
 errorLoadingTeams=errorLoadingTeams
 noTeamMembers=noTeamMembers
+errLoadTMembers=errLoadTMembers
+errCreateTeamPage=errCreateTeamPage
+gotoConfigPage=gotoConfigPage
+noAdminsSelected=noAdminsSelected
