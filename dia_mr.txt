@@ -1226,3 +1226,6 @@ errLoadTMembers=Error loading team members
 errCreateTeamPage=Error creating team "{1}" page in "draw.io Configuration" space, please check you have the required permissions.
 gotoConfigPage=Please create the space from draw.io "Configuration" page.
 noAdminsSelected=No admins/editors selected
+errCreateConfigFile=Error creating "configuration.json" file, please check you have the required permissions.
+errSetPageRestr=Error setting page restrictions
+notAdmin4Team=You are not an admin for this team
