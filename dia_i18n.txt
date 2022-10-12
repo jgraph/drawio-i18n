@@ -1219,3 +1219,6 @@ drawioTeams=drawioTeams
 members=members
 adminEditors=adminEditors
 allowAll=allowAll
+noTeams=noTeams
+errorLoadingTeams=errorLoadingTeams
+noTeamMembers=noTeamMembers

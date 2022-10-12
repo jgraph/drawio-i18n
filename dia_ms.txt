@@ -1219,3 +1219,6 @@ drawioTeams=draw.io Teams
 members=Members
 adminEditors=Admins/Editors
 allowAll=Allow all
+noTeams=No teams found
+errorLoadingTeams=Error Loading Teams
+noTeamMembers=No team members found
