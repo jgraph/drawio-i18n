@@ -1229,3 +1229,4 @@ noAdminsSelected=noAdminsSelected
 errCreateConfigFile=errCreateConfigFile
 errSetPageRestr=errSetPageRestr
 notAdmin4Team=notAdmin4Team
+configUpdated=configUpdated
