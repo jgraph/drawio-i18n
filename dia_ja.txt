@@ -15,6 +15,7 @@ addLayer=レイヤーを追加する
 addProperty=属性を追加する
 address=アドレス
 addToExistingDrawing=既存のファイルに追加する
+addToScratchpad=Add to Scratchpad
 addWaypoint=途中点を追加する
 adjustTo=拡大縮小率
 advanced=高度な設定

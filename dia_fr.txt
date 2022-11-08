@@ -15,6 +15,7 @@ addLayer=Ajouter une couche
 addProperty=Ajouter une propriété
 address=Adresse
 addToExistingDrawing=Ajouter au diagramme existant
+addToScratchpad=Add to Scratchpad
 addWaypoint=Ajouter un repère
 adjustTo=Ajuster à
 advanced=Avancé
