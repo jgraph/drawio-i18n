@@ -566,6 +566,7 @@ pageContent=หน้าเนื้อหา
 pageNotFound=ไม่พบหน้า
 pageWithNumber=หน้า-{1}
 pages=หน้า
+pageTabs=Page Tabs
 pageView=มุมมองหน้า
 pageSetup=ตั้งค่าหน้า
 pageScale=ขนาดหน้า

@@ -566,6 +566,7 @@ pageContent=Obsah stránky
 pageNotFound=Stránka nenalezena
 pageWithNumber=Stránka-{1}
 pages=Stránky
+pageTabs=Page Tabs
 pageView=Zobrazení stránky
 pageSetup=Nastavení stránky
 pageScale=Měřítko stránky

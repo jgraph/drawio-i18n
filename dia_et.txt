@@ -566,6 +566,7 @@ pageContent=Lehe sisu
 pageNotFound=Lehte ei leitud
 pageWithNumber=Leht-{1}
 pages=Lehed
+pageTabs=Page Tabs
 pageView=Lehevaade
 pageSetup=Lehe parameetrid
 pageScale=Lehe skaala

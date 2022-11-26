@@ -566,6 +566,7 @@ pageContent=Contingut de la pàgina
 pageNotFound=No s'ha trobat la pàgina
 pageWithNumber=Pàgina-{1}
 pages=Pàgines
+pageTabs=Page Tabs
 pageView=Vista de pàgina
 pageSetup=Configuració de la pàgina
 pageScale=Escala de la pàgina

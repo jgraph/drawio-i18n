@@ -566,6 +566,7 @@ pageContent=ページ コンテンツ
 pageNotFound=ページが見つかりません
 pageWithNumber=ページ{1}
 pages=ページを指定
+pageTabs=Page Tabs
 pageView=ページビュー
 pageSetup=ページ設定
 pageScale=ページスケール

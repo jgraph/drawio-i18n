@@ -566,6 +566,7 @@ pageContent=Page Content
 pageNotFound=Page not found
 pageWithNumber=Paĝo-{1}
 pages=Paĝoj
+pageTabs=Page Tabs
 pageView=Page View
 pageSetup=Page Setup
 pageScale=Page Scale

@@ -566,6 +566,7 @@ pageContent=Conținutul paginii
 pageNotFound=Pagina nu a fost găsită.
 pageWithNumber=Pagina-{1}
 pages=Pagini
+pageTabs=Page Tabs
 pageView=Stil de pagină
 pageSetup=Setările paginii
 pageScale=Zoom pagină

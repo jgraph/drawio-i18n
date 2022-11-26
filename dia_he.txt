@@ -566,6 +566,7 @@ pageContent=‫תוכן העמוד‬
 pageNotFound=‫העמוד לא נמצא‬
 pageWithNumber=‫עמוד-{1}‬
 pages=‫עמודים‬
+pageTabs=Page Tabs
 pageView=‫תצוגת עמוד‬
 pageSetup=‫הגדרת עמוד‬
 pageScale=‫קנה מידת העמוד‬

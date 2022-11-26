@@ -566,6 +566,7 @@ pageContent=Nilalaman ng Pahina
 pageNotFound=Di nahanap ang Pahina
 pageWithNumber=Pahina-{1}
 pages=Mga pahina
+pageTabs=Page Tabs
 pageView=Pagtanaw sa pahina
 pageSetup=Setup ng pahina
 pageScale=Iskala ng pahina

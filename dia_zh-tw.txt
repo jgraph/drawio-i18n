@@ -566,6 +566,7 @@ pageContent=頁面內容
 pageNotFound=未找到頁面
 pageWithNumber=第{1}頁
 pages=頁面
+pageTabs=Page Tabs
 pageView=頁面檢視
 pageSetup=頁面設定
 pageScale=頁面縮放

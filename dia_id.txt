@@ -566,6 +566,7 @@ pageContent=Isi Halaman
 pageNotFound=Halaman tidak ditemukan
 pageWithNumber=Halaman-{1}
 pages=Halaman
+pageTabs=Page Tabs
 pageView=Tampilan Halaman
 pageSetup=Pengaturan Halaman
 pageScale=Skala Halaman

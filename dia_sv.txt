@@ -566,6 +566,7 @@ pageContent=Sidoinnehåll
 pageNotFound=Sida hittas inte
 pageWithNumber=Sida-{1}
 pages=Sidor
+pageTabs=Page Tabs
 pageView=Sidvisning
 pageSetup=Sidinställning
 pageScale=Sidskala

@@ -566,6 +566,7 @@ pageContent=Lapu skaits
 pageNotFound=Lapa nav atrasta
 pageWithNumber=Lapa-{1}
 pages=Lapas
+pageTabs=Page Tabs
 pageView=Lapas skats
 pageSetup=Lapas iestatīšana
 pageScale=Lapas mērogs

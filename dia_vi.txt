@@ -566,6 +566,7 @@ pageContent=Nội dung trang
 pageNotFound=Không tìm thấy trang
 pageWithNumber=Trang-{1}
 pages=Trang
+pageTabs=Page Tabs
 pageView=Xem trang
 pageSetup=Cài đặt trang
 pageScale=Tỉ lệ trang

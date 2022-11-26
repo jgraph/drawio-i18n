@@ -566,6 +566,7 @@ pageContent=Oldal tartalma
 pageNotFound=Oldal nem találva
 pageWithNumber={1} oldal
 pages=Oldalak
+pageTabs=Page Tabs
 pageView=Oldal elrendezés
 pageSetup=Oldal beállítás
 pageScale=Oldal méretarány

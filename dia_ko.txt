@@ -566,6 +566,7 @@ pageContent=페이지 내용
 pageNotFound=페이지가 발견되지 않습니다
 pageWithNumber=페이지-{1}
 pages=페이지
+pageTabs=Page Tabs
 pageView=페이지 보기
 pageSetup=페이지 설정
 pageScale=페이지 크기

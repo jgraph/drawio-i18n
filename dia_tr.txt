@@ -566,6 +566,7 @@ pageContent=Sayfa içeriği
 pageNotFound=Sayfa bulunamadı
 pageWithNumber=Sayfa -{1}
 pages=Sayfalar
+pageTabs=Page Tabs
 pageView=Sayfa görünümü
 pageSetup=Sayfa ayarı
 pageScale=Sayfa ölçeği

@@ -566,6 +566,7 @@ pageContent=Puslapio turinys
 pageNotFound=Puslapis nerastas
 pageWithNumber=Puslapis-{1}
 pages=Puslapiai
+pageTabs=Page Tabs
 pageView=Puslapio peržiūra
 pageSetup=Puslapio nustatymai
 pageScale=Puslapio mastelis

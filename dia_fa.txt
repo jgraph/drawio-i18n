@@ -566,6 +566,7 @@ pageContent=‫محتوای صفحه‬
 pageNotFound=‫صفحه مورد نظر یافت نشد‬
 pageWithNumber=‫صفحه - {1}‬
 pages=‫صفحات‬
+pageTabs=Page Tabs
 pageView=‫نمای صفحه‬
 pageSetup=‫تنظیمات صفحه‬
 pageScale=‫مقیاس صفحه‬

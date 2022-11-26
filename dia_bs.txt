@@ -566,6 +566,7 @@ pageContent=Sadržaj stranice
 pageNotFound=Stranica nije pronađena
 pageWithNumber=Stranica-{1}
 pages=Stranice
+pageTabs=Page Tabs
 pageView=Pregled stranice
 pageSetup=Podešavanje strane
 pageScale=Razmjera stranice

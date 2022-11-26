@@ -566,6 +566,7 @@ pageContent=pageContent
 pageNotFound=pageNotFound
 pageWithNumber=pageWithNumber
 pages=pages
+pageTabs=pageTabs
 pageView=pageView
 pageSetup=pageSetup
 pageScale=pageScale

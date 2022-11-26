@@ -566,6 +566,7 @@ pageContent=Περιεχόμενο σελίδας
 pageNotFound=Η σελίδα δεν βρέθηκε
 pageWithNumber=Σελίδα-{1}
 pages=Σελίδες
+pageTabs=Page Tabs
 pageView=Προβολή Σελίδας
 pageSetup=Ρύθμιση Σελίδας
 pageScale=Κλίμακα Σελίδας

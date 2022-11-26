@@ -566,6 +566,7 @@ pageContent=页面内容
 pageNotFound=未找到页面
 pageWithNumber=第 {1} 页
 pages=页面
+pageTabs=Page Tabs
 pageView=页面视图
 pageSetup=页面设置
 pageScale=页面比例

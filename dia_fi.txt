@@ -566,6 +566,7 @@ pageContent=Sivun sisältö
 pageNotFound=Sivua ei löydetty
 pageWithNumber=Sivu-{1}
 pages=Sivut
+pageTabs=Page Tabs
 pageView=Sivunäkymä
 pageSetup=Sivun asetukset
 pageScale=Sivun mittakaava

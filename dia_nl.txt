@@ -566,6 +566,7 @@ pageContent=Pagina-inhoud
 pageNotFound=Pagina niet gevonden
 pageWithNumber=Pagina-{1}
 pages=Pagina's
+pageTabs=Page Tabs
 pageView=Paginaweergave
 pageSetup=Pagina-instelling
 pageScale=Paginaschaal

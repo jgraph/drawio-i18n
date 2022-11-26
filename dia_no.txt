@@ -566,6 +566,7 @@ pageContent=Sideinnhold
 pageNotFound=Siden ble ikke funnet
 pageWithNumber=Side-{1}
 pages=Sider
+pageTabs=Page Tabs
 pageView=Sidevisning
 pageSetup=Sideoppsett
 pageScale=Sideskalering

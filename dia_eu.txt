@@ -566,6 +566,7 @@ pageContent=Orriaren edukia
 pageNotFound=Ez da orria aurkitu
 pageWithNumber={1}-orria
 pages=Orriak
+pageTabs=Page Tabs
 pageView=Orriaren ikuspegia
 pageSetup=Orriaren ezarpenak
 pageScale=Orriaren eskala
