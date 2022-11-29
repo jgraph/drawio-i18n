@@ -130,6 +130,7 @@ clipart=クリップアート
 close=閉じる
 closingFile=ファイルを閉じる
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=共同編集者
 collaborators=共同編集者
 collapse=折りたたむ

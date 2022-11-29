@@ -130,6 +130,7 @@ clipart=Συλλογή εικόνων
 close=Κλείσιμο
 closingFile=Κλείσιμο αρχείου
 realtimeCollaboration=Συνεργασία σε πραγματικό χρόνο
+collaborate=Collaborate
 collaborator=Συνεργάτης
 collaborators=Συνεργάτες
 collapse=Σύμπτυξη

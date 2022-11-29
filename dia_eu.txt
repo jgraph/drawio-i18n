@@ -130,6 +130,7 @@ clipart=Cliparta
 close=Itxi
 closingFile=Fitxategia ixten
 realtimeCollaboration=Denbora errealeko lankidetza
+collaborate=Collaborate
 collaborator=Partaidea
 collaborators=Partaideak
 collapse=Tolestu

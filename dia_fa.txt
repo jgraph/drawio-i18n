@@ -130,6 +130,7 @@ clipart=Clipart
 close=‫بستن‬
 closingFile=Closing file
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=‫همکار‬
 collaborators=‫همکاران‬
 collapse=‫جمع‌ کردن‬

@@ -130,6 +130,7 @@ clipart=‫قصاصة فنية‬
 close=‫إغلاق‬
 closingFile=Closing file
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=‫مشارك‬
 collaborators=‫مشاركون‬
 collapse=‫إخفاء‬

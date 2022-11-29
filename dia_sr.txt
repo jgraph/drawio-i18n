@@ -130,6 +130,7 @@ clipart=Klip art
 close=Zatvori
 closingFile=Closing file
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=Saradnik
 collaborators=Saradnici
 collapse=Spusti

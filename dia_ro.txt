@@ -130,6 +130,7 @@ clipart=Clip Art
 close=Închide
 closingFile=Closing file
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=Colaborator
 collaborators=Colaboratori
 collapse=Micșorează

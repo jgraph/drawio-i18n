@@ -130,6 +130,7 @@ clipart=Ảnh nghệ thuật
 close=Đóng
 closingFile=Closing file
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=Người cộng tác
 collaborators=Người cộng tác
 collapse=Thu gọn

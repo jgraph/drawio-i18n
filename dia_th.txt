@@ -130,6 +130,7 @@ clipart=คลิปอาร์ท
 close=ปิด
 closingFile=Closing file
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=ผู้เข้าร่วม
 collaborators=ผู้เข้าร่วมหลายคน
 collapse=ย่อ

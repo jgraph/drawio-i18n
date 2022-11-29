@@ -130,6 +130,7 @@ clipart=Clipart
 close=Sulje
 closingFile=Tiedostoa suljetaan
 realtimeCollaboration=Reaaliaikainen yhteistyö
+collaborate=Collaborate
 collaborator=Yhteiskäyttäjä
 collaborators=Yhteiskäyttäjät
 collapse=Pienennä

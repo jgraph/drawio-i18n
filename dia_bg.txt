@@ -130,6 +130,7 @@ clipart=Графична колекция
 close=Затваряне
 closingFile=Затваряне на файл
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=Сътрудник
 collaborators=Сътрудници
 collapse=Свиване

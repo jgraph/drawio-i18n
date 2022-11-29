@@ -130,6 +130,7 @@ clipart=Seni klip
 close=Tutup
 closingFile=Closing file
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=Kolaborator
 collaborators=Kolaborator-kolaborator
 collapse=Runtuhkan

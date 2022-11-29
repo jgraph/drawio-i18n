@@ -130,6 +130,7 @@ clipart=클립아트
 close=닫기
 closingFile=파일을 닫고 있습니다.
 realtimeCollaboration=실시간 협력
+collaborate=Collaborate
 collaborator=공동작업자
 collaborators=공동작업자
 collapse=접기

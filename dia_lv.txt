@@ -130,6 +130,7 @@ clipart=Ilustrācijas
 close=Aizvērt
 closingFile=Aizvērt failu
 realtimeCollaboration=Reāllaika sadarbība
+collaborate=Collaborate
 collaborator=Palīgs
 collaborators=Palīgi
 collapse=Sakļaut

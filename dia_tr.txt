@@ -130,6 +130,7 @@ clipart=Küçük resim
 close=Kapat
 closingFile=Dosya kapatılıyor
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=İşbirlikçi
 collaborators=İşbirlikçiler
 collapse=Daralt

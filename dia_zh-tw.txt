@@ -130,6 +130,7 @@ clipart=剪貼畫
 close=關閉
 closingFile=Closing file
 realtimeCollaboration=即時協作
+collaborate=Collaborate
 collaborator=協作者
 collaborators=協作者
 collapse=收起

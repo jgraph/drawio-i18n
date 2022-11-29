@@ -130,6 +130,7 @@ clipart=clipart
 close=close
 closingFile=closingFile
 realtimeCollaboration=realtimeCollaboration
+collaborate=collaborate
 collaborator=collaborator
 collaborators=collaborators
 collapse=collapse

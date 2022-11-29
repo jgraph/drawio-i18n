@@ -130,6 +130,7 @@ clipart=‫קליפ ארט‬
 close=‫סגור‬
 closingFile=Closing file
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=‫משתף פעולה‬
 collaborators=‫משתפי פעולה‬
 collapse=‫כווץ‬

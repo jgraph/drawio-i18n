@@ -130,6 +130,7 @@ clipart=Clipart
 close=Chiudi
 closingFile=Chiusura file
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=Collaboratore
 collaborators=Collaboratori
 collapse=Contrai

@@ -130,6 +130,7 @@ clipart=Clipart
 close=Stäng
 closingFile=Stänger fil
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=Medarbetare
 collaborators=Medarbetare
 collapse=Minimera

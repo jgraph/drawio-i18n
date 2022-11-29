@@ -130,6 +130,7 @@ clipart=Felhasználható grafikus elemek
 close=Becsuk
 closingFile=Fájl bezárása
 realtimeCollaboration=Valósidejű együttműködés
+collaborate=Collaborate
 collaborator=Eggyüttműködő
 collaborators=Eggyüttműködők
 collapse=Összevon

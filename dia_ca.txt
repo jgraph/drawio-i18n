@@ -130,6 +130,7 @@ clipart=Imatges predissenyades
 close=Tanca
 closingFile=S'està tancant el fitxer
 realtimeCollaboration=Col·laboració en temps real
+collaborate=Collaborate
 collaborator=Col·laborador
 collaborators=Col·laboradors
 collapse=Minimitza

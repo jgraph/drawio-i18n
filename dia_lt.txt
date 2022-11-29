@@ -130,6 +130,7 @@ clipart=Iliustracijos
 close=Uždarytis
 closingFile=Closing file
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=Pagalbininkas
 collaborators=Pagalbininkai
 collapse=Sutrauktas

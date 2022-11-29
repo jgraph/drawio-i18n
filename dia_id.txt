@@ -130,6 +130,7 @@ clipart=Clipart
 close=Tutup
 closingFile=Closing file
 realtimeCollaboration=Real-Time Collaboration
+collaborate=Collaborate
 collaborator=Kolaborator
 collaborators=Kolaborator
 collapse=Persempit

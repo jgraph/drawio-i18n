@@ -130,6 +130,7 @@ clipart=Klipart
 close=Zavřít
 closingFile=Zavírání souboru
 realtimeCollaboration=Spolupráce v reálném čase
+collaborate=Collaborate
 collaborator=Spolupracovník
 collaborators=Spolupracovníci
 collapse=Sbalit

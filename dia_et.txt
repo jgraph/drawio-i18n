@@ -130,6 +130,7 @@ clipart=Clipart
 close=Sulge
 closingFile=Sulgeb faili
 realtimeCollaboration=Reaalajas koostöö
+collaborate=Collaborate
 collaborator=Osaleja
 collaborators=Osalejad
 collapse=Vähenda
