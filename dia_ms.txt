@@ -338,6 +338,7 @@ formattedText=Teks yang telah Diformat
 formatPng=PNG
 formatGif=GIF
 formatJpg=JPEG
+formatJson=JSON
 formatPdf=PDF
 formatSql=SQL
 formatSvg=SVG

@@ -338,6 +338,7 @@ formattedText=格式化文字
 formatPng=PNG
 formatGif=GIF
 formatJpg=JPEG
+formatJson=JSON
 formatPdf=PDF
 formatSql=SQL
 formatSvg=SVG
