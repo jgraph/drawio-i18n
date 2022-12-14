@@ -114,6 +114,7 @@ diagramHtmlDesc=HTML fails
 diagramPngDesc=Rediģējams bitkartes attēls
 diagramSvgDesc=Rediģējams vektoriāls attēls
 didYouMeanToExportToPdf=Vai gribat eksportēt uz PDF?
+disabled=Disabled
 draftFound=Ir atrasts uzmetums '{1}'. Ielādējiet to redaktorā vai izmetiet to, lai turpinātu.
 draftRevisionMismatch=Šīs lapas koplietotajā melnrakstā ir cita šīs diagrammas versija. Lūdzu, rediģējiet diagrammu no uzmetuma, lai nodrošinātu, ka strādājat ar jaunāko versiju.
 selectDraft=Lai turpinātu rediģēšanu, atlasiet melnrakstu:
