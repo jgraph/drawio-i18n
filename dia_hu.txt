@@ -495,6 +495,7 @@ middle=Közép
 minimal=Minimal
 misc=Vegyes
 mockups=Makett
+modern=Modern
 modificationDate=Módosítási dátum
 modifiedBy=Módosította
 more=Több

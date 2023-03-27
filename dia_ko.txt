@@ -495,6 +495,7 @@ middle=중간
 minimal=미니멀
 misc=기타
 mockups=Mockups
+modern=Modern
 modificationDate=변경일
 modifiedBy=변경됨
 more=더 보기

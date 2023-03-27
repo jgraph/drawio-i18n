@@ -495,6 +495,7 @@ middle=Erdia
 minimal=Minimoa
 misc=Hainbat
 mockups=Zirriborroak
+modern=Modern
 modificationDate=Aldatze data
 modifiedBy=Modifikatzailea
 more=Gehiago

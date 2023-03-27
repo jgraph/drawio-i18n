@@ -495,6 +495,7 @@ middle=Środek
 minimal=Minimalna
 misc=Różne
 mockups=Modele
+modern=Modern
 modificationDate=Data zmiany
 modifiedBy=Zmienione przez
 more=Więcej

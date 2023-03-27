@@ -495,6 +495,7 @@ middle=Orta
 minimal=Minimum
 misc=Çeşitli
 mockups=Test modelleri
+modern=Modern
 modificationDate=Modifikasyon tarihi
 modifiedBy=...tarafından modifiye edildi
 more=Daha

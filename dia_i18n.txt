@@ -495,6 +495,7 @@ middle=middle
 minimal=minimal
 misc=misc
 mockups=mockups
+modern=modern
 modificationDate=modificationDate
 modifiedBy=modifiedBy
 more=more

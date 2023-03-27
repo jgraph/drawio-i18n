@@ -495,6 +495,7 @@ middle=Μέσο
 minimal=Ελάχιστο
 misc=Διάφορα
 mockups=Προσχέδια
+modern=Modern
 modificationDate=Ημερομηνία τροποποίησης
 modifiedBy=Τροποποιήθηκε από
 more=Περισσότερα
