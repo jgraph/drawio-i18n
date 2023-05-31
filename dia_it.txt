@@ -781,6 +781,7 @@ turn=Ruota la forma di 90°
 type=Tipo
 twitter=Twitter
 uml=UML
+unassigned=Unassigned
 underline=Sottolinea
 undo=Annulla
 ungroup=Separa

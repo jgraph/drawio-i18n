@@ -781,6 +781,7 @@ turn=90° draaien
 type=Type
 twitter=Twitter
 uml=UML
+unassigned=Unassigned
 underline=Onderstrepen
 undo=Ongedaan maken
 ungroup=Groepering opheffen
