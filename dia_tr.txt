@@ -273,7 +273,7 @@ errorSavingFileForbidden=Dosya kaydetme hatası. Yetersiz erişim hakları.
 errorSavingFileNameConflict=Diyagramı kaydedemedi. Mevcut sayfa '{1}' isimli dosyayı çoktan içeriyor
 errorSavingFileNotFound=Dosyayı kaydederken hata. Dosya bulunamadı.
 errorSavingFileReadOnlyMode=Salt okunur mod aktif olduğu için diyagram kaydedilemedi.
-errorSavingFileSessionTimeout=Oturumunuz sona ermiştir. Lütfen HTML_LABEL_FILTERED{2}HTML_LABEL_FILTERED
+errorSavingFileSessionTimeout=Oturumunuz sona ermiştir. Lütfen <a target='_blank' href='{1}'>{2}</a>
 errorSendingFeedback=Geri-bildirim gönderme hatası.
 errorUpdatingPreview=Önizleme güncelleme hatası
 exit=Çıkış
@@ -428,7 +428,7 @@ insertRowAfter=Alta satır ekle
 insertText=Metin ekle
 inserting=Ekleniyor
 installApp=Proramı Yükle
-invalidFilename=Diyagram adları şu karakterleri içermelidir : \ / | : ; { } < > & + ? = "
+invalidFilename=Diyagram adları şu karakterleri içermelidir: \ / | : ; { } < > & + ? = "
 invalidLicenseSeeThisPage=Lisansınız geçersiz, lütfen <a target="_blank" href="https://www.drawio.com/doc/faq/license-drawio-confluence-jira-cloud">page</a> a bakınız
 invalidInput=Geçersiz giriş
 invalidName=Geçersiz isim
