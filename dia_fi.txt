@@ -410,6 +410,7 @@ imageTooBig=Liian suuri kuva
 imgur=Imgur
 import=Tuo
 importFrom=Tuo lähteestä
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=Liitä kopio kaaviostani
 increaseIndent=Lisää sisennystä
 decreaseIndent=Vähennä sisennystä

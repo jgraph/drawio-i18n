@@ -410,6 +410,7 @@ imageTooBig=Imaginea este prea mare
 imgur=Imgur
 import=Importare
 importFrom=Importare din
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=Include o copie a diagramei mele
 increaseIndent=Măreşte indentarea
 decreaseIndent=Micșorează indentarea

@@ -410,6 +410,7 @@ imageTooBig=이미지 크기가 너무 큽니다.
 imgur=Imgur
 import=가져오기
 importFrom=가져오기
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=내 다이어그램 복사본 포함
 increaseIndent=들여쓰기
 decreaseIndent=내어쓰기

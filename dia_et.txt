@@ -410,6 +410,7 @@ imageTooBig=Kujutis on liiga suur
 imgur=Imgur
 import=Impordi
 importFrom=Impordi...
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=Lisa koopia minu diagrammist
 increaseIndent=Tõsta taanet
 decreaseIndent=Alanda taanet

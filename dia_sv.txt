@@ -410,6 +410,7 @@ imageTooBig=Bilen är för stor
 imgur=Imgur
 import=Importera
 importFrom=Importera från
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=Inkludera en kopia av mitt diagram
 increaseIndent=Öka indrag
 decreaseIndent=Minska indrag

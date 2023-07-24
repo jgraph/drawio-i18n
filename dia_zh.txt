@@ -410,6 +410,7 @@ imageTooBig=图片太大
 imgur=Imgur
 import=导入
 importFrom=从...导入
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=包含绘图副本
 increaseIndent=增加缩进
 decreaseIndent=减少缩进

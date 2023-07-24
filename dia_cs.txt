@@ -410,6 +410,7 @@ imageTooBig=Obrázek je příliš velký
 imgur=Imgur
 import=Importovat
 importFrom=Importovat z
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=Zahrnout kopii diagramu
 increaseIndent=Zvětšit odsazení
 decreaseIndent=Zmenšit odsazení

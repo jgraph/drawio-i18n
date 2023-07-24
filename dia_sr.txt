@@ -410,6 +410,7 @@ imageTooBig=Image too big
 imgur=Imgur
 import=Import
 importFrom=Importuj iz
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=Uključi kopiju mog dijagrama
 increaseIndent=Uvećaj urez
 decreaseIndent=Smanji urez

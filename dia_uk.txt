@@ -410,6 +410,7 @@ imageTooBig=Зображення завелике
 imgur=Imgur
 import=Імпортувати
 importFrom=Імпортувати з
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=Включити копію моєї діаграми
 increaseIndent=Збільшити відступ
 decreaseIndent=Зменшити відступ

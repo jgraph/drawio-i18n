@@ -410,6 +410,7 @@ imageTooBig=Irudia handiegia da
 imgur=Imgur
 import=Inportatu
 importFrom=Inportatu hemendik
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=Diagramaren kopia bat barne
 increaseIndent=Koska handitu
 decreaseIndent=Koska txikitu

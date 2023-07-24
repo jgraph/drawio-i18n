@@ -410,6 +410,7 @@ imageTooBig=Slika je prevelika.
 imgur=Imgur
 import=Uvezi
 importFrom=Uvezi iz
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=Uključi kopiju mog dijagrama
 increaseIndent=Povećaj urez
 decreaseIndent=Smanji urez

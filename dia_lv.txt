@@ -410,6 +410,7 @@ imageTooBig=Attēls ir pārāk liels
 imgur=Imgur
 import=Importēt
 importFrom=Importēt no
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=Iekļaujiet manas diagrammas kopiju
 increaseIndent=Palielināt atkāpi
 decreaseIndent=Samazināt atkāpi

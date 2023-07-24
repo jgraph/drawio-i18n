@@ -410,6 +410,7 @@ imageTooBig=‫התמונה גדולה מידי‬
 imgur=Imgur
 import=‫ייבא‬
 importFrom=‫ייבא מתוך‬
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=‫כלול עותק של הדיאגרמה שלי‬
 increaseIndent=‫הגדל מרחק מהשוליים‬
 decreaseIndent=‫הקטן מרחק מהשוליים‬

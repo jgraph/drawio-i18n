@@ -410,6 +410,7 @@ imageTooBig=Afbeelding te groot
 imgur=Imgur
 import=Importeren
 importFrom=Importeren van
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=Een kopie van mijn diagram toevoegen
 increaseIndent=Inspringing vergroten
 decreaseIndent=Inspringing verkleinen

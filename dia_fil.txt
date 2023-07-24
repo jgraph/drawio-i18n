@@ -410,6 +410,7 @@ imageTooBig=Sobrang laki ng imahe
 imgur=Imgur
 import=I-angkat
 importFrom=Ini-angkatt mula
+improveContrast=Improve Contrast
 includeCopyOfMyDiagram=Magsama ng kopya ng aking dayagram
 increaseIndent=Dagdagan ang indensyon
 decreaseIndent=Bawasan ang indensyon
