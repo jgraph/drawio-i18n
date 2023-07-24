@@ -1265,3 +1265,4 @@ confA404ErrFaq=Hi ha ({1}) error(s) 404. No s'ha trobat l'adjunt/pàgina. Això 
 confA500ErrFaq=Hi ha ({1}) error(s) 500. Un error intern del servidor a Confluence Cloud. Aquests errors es deuen a la sobrecàrrega del servidor i normalment es solucionen tornant a intentar el procés.
 confAOtherErrFaq=Hi ha ({1}) altre(s) error(s). Comproveu la descripció de l'error. Si la descripció no és clara, poseu-vos en contacte amb el nostre servei d'assistència.
 confAReplaceBaseUrl=Substituïu l'URL base als enllaços del diagrama quan no es trobi cap assignació d'ID de pàgina
+drawSvgPrev=draw.io SVG preview

@@ -1265,3 +1265,4 @@ confA404ErrFaq=Ada ({1}) galat 404. Lampiran/halaman tidak ditemukan. Ini karena
 confA500ErrFaq=Ada ({1}) galat 500. Sebuah galat server internal dalam Cloud Confluence. Galat seperti itu karena pembebanan lebih server dan biasanya diperbaiki dengan mencoba ulang proses.
 confAOtherErrFaq=Ada ({1}) galat lain. Harap periksa deskripsi galat. Bila deskripsi tidak jelas, harap hubungi dukungan kami.
 confAReplaceBaseUrl=Menggantikan URL Dasar dalam tautan diagram ketika pemetaan ID halaman tidak ditemukan
+drawSvgPrev=draw.io SVG preview
