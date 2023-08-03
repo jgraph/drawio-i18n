@@ -372,7 +372,6 @@ global=Глобальный
 googleDocs=Google Документы
 googleDrive=Google Диск
 googleGadget=Google Гаджет
-googlePlus=Google+
 googleSharingNotAvailable=Совместный доступ к документу возможен только с использованием Google Диска. Нажмите на ссылку «Открыть» внизу и используйте команды меню, чтобы открыть доступ к документу:
 googleSlides=Google Презентации
 googleSites=Google Сайты

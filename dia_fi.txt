@@ -372,7 +372,6 @@ global=Yleinen
 googleDocs=Google Docs
 googleDrive=Google Drive
 googleGadget=Google Gadget
-googlePlus=Google+
 googleSharingNotAvailable=Jakaminen on käytettävissä vain Google Driven kautta. Napsauta 'avaa' alla ja jaa lisätoimintojen valikosta:
 googleSlides=Google Slides
 googleSites=Google Sites

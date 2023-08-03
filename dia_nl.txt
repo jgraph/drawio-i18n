@@ -372,7 +372,6 @@ global=Globaal
 googleDocs=Google Documenten
 googleDrive=Google Drive
 googleGadget=Google Gadget
-googlePlus=Google+
 googleSharingNotAvailable=Delen is alleen beschikbaar via Google Drive. Klik hieronder op Openen, Meer acties, Delen:
 googleSlides=Google Dia's
 googleSites=Google Sites

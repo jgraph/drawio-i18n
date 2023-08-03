@@ -372,7 +372,6 @@ global=Globala
 googleDocs=Google Docs
 googleDrive=Google Drive
 googleGadget=Google Gadget
-googlePlus=Google+
 googleSharingNotAvailable=Bakarrik parteka daiteke Google Driven bidez. Egin klik Ireki botoian eta partekatu menuko bestelako ekintzen menutik.
 googleSlides=Google Slides
 googleSites=Google Sites

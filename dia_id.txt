@@ -372,7 +372,6 @@ global=Global
 googleDocs=Google Docs
 googleDrive=Google Drive
 googleGadget=Google Gadget
-googlePlus=Google+
 googleSharingNotAvailable=Berbagi hanya tersedia melalui Google Drive. Harap klik Buka di bawah dan membagikan dari menu lebih banyak aksi:
 googleSlides=Google Slides
 googleSites=Situs Google

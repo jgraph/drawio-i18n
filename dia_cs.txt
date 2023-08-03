@@ -372,7 +372,6 @@ global=Globální
 googleDocs=Google Dokumenty
 googleDrive=Google Disk
 googleGadget=Google Gadget
-googlePlus=Google+
 googleSharingNotAvailable=Sdílení je k dispozici pouze prostřednictvím Google Disku. Klikněte níže na Otevřít a sdílejte z nabídky další akce:
 googleSlides=Google Prezentace
 googleSites=Google Stránky

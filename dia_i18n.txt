@@ -372,7 +372,6 @@ global=global
 googleDocs=googleDocs
 googleDrive=googleDrive
 googleGadget=googleGadget
-googlePlus=googlePlus
 googleSharingNotAvailable=googleSharingNotAvailable
 googleSlides=googleSlides
 googleSites=googleSites

@@ -372,7 +372,6 @@ global=Global
 googleDocs=Documents de Google
 googleDrive=Google Drive
 googleGadget=Google Gadget
-googlePlus=Google+
 googleSharingNotAvailable=Només està disponible compartir amb Google Drive. Feu clic a "Obra" més avall i compartiu-ho des del menú de més accions:
 googleSlides=Presentacions de Google
 googleSites=Google Sites
