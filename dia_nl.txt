@@ -1265,3 +1265,4 @@ confA500ErrFaq=Er zijn ({1}) fout(en) van type 500. Een interne serverfout bij C
 confAOtherErrFaq=Er zijn ({1}) andere fout(en). Controleer de foutbeschrijving. Als de beschrijving niet duidelijk is, neem dan contact op met onze ondersteuning.
 confAReplaceBaseUrl=Vervang de basis-URL in diagramlinks wanneer er geen pagina-ID-toewijzing wordt gevonden
 drawSvgPrev=draw.io SVG-voorbeeldweergave
+googleFonts=Google Fonts
