@@ -1270,4 +1270,4 @@ googleFonts=Google Fonts
 diagDupl=Duplicaatdiagram gedetecteerd
 diagDuplMsg=Dit diagram wordt op meerdere plaatsen gebruikt, wat bij bewerking tot onverwachte resultaten kan leiden. We hebben een onafhankelijke kopie gemaakt. Open de editor opnieuw.
 diagDuplNoEditMsg=Dit diagram wordt op meerdere plaatsen gebruikt. Bewerk het op de eigen pagina.
-confCloudMigConfirm=Warning: Links to Confluence pages within diagrams will be broken in this instance after this process. Do you want to proceed?
+confCloudMigConfirm=Waarschuwing: links naar Confluence-pagina's binnen diagrammen worden in dit geval na dit proces verbroken. Wil je doorgaan?
