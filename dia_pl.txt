@@ -1071,6 +1071,7 @@ parentChildSpacing=Odstępy między rodzicami i dziećmi
 siblingSpacing=Odstępy między rodzeństwem
 confNoPermErr=Przepraszamy, nie masz wystarczających uprawnień, aby wyświetlić ten osadzony diagram ze strony {1}.
 copyAsImage=Kopiuj jako obraz
+copyAsText=Copy as Text
 lucidImport=Import Lucidchart
 lucidImportInst1=Kliknij przycisk "Rozpocznij import", aby zaimportować wszystkie diagramy Lucidchart.
 installFirst=Proszę najpierw zainstalować {1}.
