@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Aranjează
 arrow=Săgeată
 arrows=Săgeți
+askMeAnything=Ask me anything
 asNew=Ca nou
 atlas=Atlas
 author=Autor

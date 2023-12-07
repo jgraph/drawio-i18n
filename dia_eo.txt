@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Arrange
 arrow=Sago
 arrows=Sagoj
+askMeAnything=Ask me anything
 asNew=Kiel nova
 atlas=Atlas
 author=Aŭtoro

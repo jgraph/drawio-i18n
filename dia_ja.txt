@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=配置
 arrow=矢印
 arrows=矢印
+askMeAnything=Ask me anything
 asNew=新規
 atlas=アトラス
 author=著者

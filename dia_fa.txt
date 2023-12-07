@@ -44,6 +44,7 @@ archiMate21=x
 arrange=‫مرتب‌سازی‬
 arrow=‫پیکان‬
 arrows=‫پیکان‌ها‬
+askMeAnything=Ask me anything
 asNew=‫به‌عنوان جدید‬
 atlas=‫اطلس‬
 author=‫مولف‬

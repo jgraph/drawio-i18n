@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Järjesta
 arrow=Nool
 arrows=Nooled
+askMeAnything=Ask me anything
 asNew=Uuena
 atlas=Atlas
 author=Autor

@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Ordenen
 arrow=Pijl
 arrows=Pijlen
+askMeAnything=Ask me anything
 asNew=Als nieuw
 atlas=Atlas
 author=Auteur

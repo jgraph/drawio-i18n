@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Οργάνωση
 arrow=Βέλος
 arrows=Βέλη
+askMeAnything=Ask me anything
 asNew=Ως νέο
 atlas=Atlas
 author=Δημιουργός

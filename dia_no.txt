@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Ordne
 arrow=Pil
 arrows=Piler
+askMeAnything=Ask me anything
 asNew=Som ny
 atlas=Atlas
 author=Author

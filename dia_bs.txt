@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Složi
 arrow=Strijelica
 arrows=Strijelice
+askMeAnything=Ask me anything
 asNew=Kao novo
 atlas=Atlas
 author=Autor

@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=จัดเรียง
 arrow=ลูกศร
 arrows=ลูกศร
+askMeAnything=Ask me anything
 asNew=เหมือนใหม่
 atlas=หนังสือแผนที่
 author=ผู้เขียน

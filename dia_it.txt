@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Organizza
 arrow=Freccia
 arrows=Frecce
+askMeAnything=Ask me anything
 asNew=Come nuovo
 atlas=Atlas
 author=Autore

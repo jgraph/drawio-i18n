@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=‫ארגן‬
 arrow=‫חץ‬
 arrows=‫חצים‬
+askMeAnything=Ask me anything
 asNew=‫כחדש‬
 atlas=‫אטלס‬
 author=‫מחבר‬

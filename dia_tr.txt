@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Düzenle
 arrow=Ok
 arrows=Oklar
+askMeAnything=Ask me anything
 asNew=Yeni olarak
 atlas=Atlas
 author=Yazar

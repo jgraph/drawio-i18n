@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Положение
 arrow=Стрелка
 arrows=Стрелки
+askMeAnything=Ask me anything
 asNew=Как новое
 atlas=Атлас
 author=Автор

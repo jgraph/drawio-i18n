@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=调整图形
 arrow=箭头
 arrows=箭头
+askMeAnything=Ask me anything
 asNew=作为新绘图
 atlas=Atlas
 author=作者

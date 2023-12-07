@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Surūšiuoti
 arrow=Rodyklė
 arrows=Rodyklės
+askMeAnything=Ask me anything
 asNew=Kaip naujas
 atlas=Atlasas
 author=Autorius

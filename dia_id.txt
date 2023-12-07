@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Susun
 arrow=Panah
 arrows=Panah
+askMeAnything=Ask me anything
 asNew=Sebagai Yang Baru
 atlas=Atlas
 author=Penulis

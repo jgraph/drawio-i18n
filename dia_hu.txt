@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Elrendezés
 arrow=Nyíl
 arrows=Nyilak
+askMeAnything=Ask me anything
 asNew=Mint új
 atlas=Modern
 author=Szerző

@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=배치
 arrow=화살표
 arrows=화살표
+askMeAnything=Ask me anything
 asNew=새로 만들기
 atlas=아틀라스
 author=저자

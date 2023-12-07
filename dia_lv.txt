@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Sakārtot
 arrow=Bulta
 arrows=Bultas
+askMeAnything=Ask me anything
 asNew=Kā jauns
 atlas=Atlants
 author=Autors

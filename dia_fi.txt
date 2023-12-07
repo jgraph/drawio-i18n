@@ -44,6 +44,7 @@ archiMate21=ArchiMate 2.1
 arrange=Järjestä
 arrow=Nuoli
 arrows=Nuolet
+askMeAnything=Ask me anything
 asNew=Uutena
 atlas=Atlas
 author=Tekijä
