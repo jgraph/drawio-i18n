@@ -795,6 +795,7 @@ untitledDiagram=Diagram zonder titel
 untitledLayer=Laag zonder titel
 untitledLibrary=Bibliotheek zonder titel
 unknownError=Onbekende fout
+updateExistingDiagram=Update existing diagram
 updateFile={1} bijwerken
 updatingDocument=Document wordt bijgewerkt. Even geduld...
 updatingPreview=Voorbeeld wordt bijgewerkt. Even geduld...

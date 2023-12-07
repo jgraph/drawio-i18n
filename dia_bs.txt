@@ -795,6 +795,7 @@ untitledDiagram=Dijagram bez naslova
 untitledLayer=Sloj bez naslova
 untitledLibrary=Biblioteka bez naslova
 unknownError=Nepoznata greška
+updateExistingDiagram=Update existing diagram
 updateFile=Ažuriraj {1}
 updatingDocument=Ažuriranje dokumenta. Molimo sačekajte...
 updatingPreview=Ažuriranje pregleda. Molimo sačekajte...

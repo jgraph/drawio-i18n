@@ -795,6 +795,7 @@ untitledDiagram=Walang Pamagat na Dayagram
 untitledLayer=Walang Pamagat na Patong
 untitledLibrary=Walang Pamagat na Library
 unknownError=Hindi malamang pagkakamali
+updateExistingDiagram=Update existing diagram
 updateFile=I-update ang {1}
 updatingDocument=Ina-update ang Dokumento.  Mangyaring maghintay...
 updatingPreview=Ina-update ang Paunang tingin.  Mangyaring maghintay...

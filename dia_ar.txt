@@ -795,6 +795,7 @@ untitledDiagram=‫مخطط دون اسم‬
 untitledLayer=Untitled Layer
 untitledLibrary=‫مكتبة دون اسم‬
 unknownError=‫حدث خطأ ما‬
+updateExistingDiagram=Update existing diagram
 updateFile=Update {1}
 updatingDocument=‫تحديث الوثيقة. برجاء الانتظار...‬
 updatingPreview=‫تحديث المعاينة. المرجو الانتظار...‬

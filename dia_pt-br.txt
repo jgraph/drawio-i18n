@@ -795,6 +795,7 @@ untitledDiagram=Diagrama sem título
 untitledLayer=Camada sem título
 untitledLibrary=Biblioteca sem título
 unknownError=Erro desconhecido
+updateExistingDiagram=Update existing diagram
 updateFile=Atualizar {1}
 updatingDocument=Atualizando o documento. Por favor, aguarde...
 updatingPreview=Atualizando a visualização. Por favor, aguarde...

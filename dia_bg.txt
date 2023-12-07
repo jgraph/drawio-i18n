@@ -795,6 +795,7 @@ untitledDiagram=Неозаглавена диаграма
 untitledLayer=Неозаглавен слой
 untitledLibrary=Неозаглавена библиотека
 unknownError=Непозната грешка
+updateExistingDiagram=Update existing diagram
 updateFile=Актуализиране на {1}
 updatingDocument=Актуализиране на документа. Моля изчакайте...
 updatingPreview=Актуализиране на предварителния преглед. Моля изчакайте...

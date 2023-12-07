@@ -795,6 +795,7 @@ untitledDiagram=Diagramma bez nosaukuma
 untitledLayer=Slānis bez nosaukuma
 untitledLibrary=Bibliotēka bez nosaukuma
 unknownError=Nezināma kļūda
+updateExistingDiagram=Update existing diagram
 updateFile=Atjaunināt {1}
 updatingDocument=Dokumenta atjaunināšana. Lūdzu uzgaidiet...
 updatingPreview=Notiek priekšskatījuma atjaunināšana. Lūdzu uzgaidiet...

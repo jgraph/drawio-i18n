@@ -795,6 +795,7 @@ untitledDiagram=‫דיאגרמה ללא שם‬
 untitledLayer=‫שכבה ללא שם‬
 untitledLibrary=‫ספרייה ללא שם‬
 unknownError=‫שגיאה לא מוכרת‬
+updateExistingDiagram=Update existing diagram
 updateFile=‫עדכון {1}‬
 updatingDocument=‫מעדכן מסמך. אנא המתן...‬
 updatingPreview=‫מעדכן תצוגה מקדימה. אנא המתן...‬

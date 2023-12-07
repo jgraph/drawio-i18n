@@ -795,6 +795,7 @@ untitledDiagram=Диаграмма без названия
 untitledLayer=Слой без названия
 untitledLibrary=Библиотека без названия
 unknownError=Неизвестная ошибка
+updateExistingDiagram=Update existing diagram
 updateFile=Обновление {1}
 updatingDocument=Документ обновляется. Пожалуйста, подождите...
 updatingPreview=Подготовка предпросмотра. Пожалуйста, подождите...

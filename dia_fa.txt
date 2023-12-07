@@ -795,6 +795,7 @@ untitledDiagram=‫نمودار بدون نام‬
 untitledLayer=‫لابه بدون نام‬
 untitledLibrary=‫کتابخانه بدون نام‬
 unknownError=‫ایراد نامعلوم‬
+updateExistingDiagram=Update existing diagram
 updateFile=‫به روز رسانی {1}‬
 updatingDocument=‫در حال به روز رسانی سند. لطفاً منتظر بمانید...‬
 updatingPreview=‫در حال به روز رسانی پیش نما. لطفا منتظر بمانید...‬

@@ -795,6 +795,7 @@ untitledDiagram=Diagrama sense títol
 untitledLayer=Capa sense títol
 untitledLibrary=Biblioteca sense títol
 unknownError=Error desconegut
+updateExistingDiagram=Update existing diagram
 updateFile=Actualitza {1}
 updatingDocument=S'està actualitzant el document. Espereu...
 updatingPreview=S'està actualitzant la vista prèvia. Espereu...

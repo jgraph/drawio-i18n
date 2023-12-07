@@ -795,6 +795,7 @@ untitledDiagram=Neimenovani dijagram
 untitledLayer=Untitled Layer
 untitledLibrary=Neimenovana biblioteka
 unknownError=Nepoznata greška
+updateExistingDiagram=Update existing diagram
 updateFile=Update {1}
 updatingDocument=Ažuriranje dokumenta. Molimo sačekajte...
 updatingPreview=Updating Preview. Please wait...

@@ -795,6 +795,7 @@ untitledDiagram=Namnlöst diagram
 untitledLayer=Namnlöst lager
 untitledLibrary=Namnlöst bibliotek
 unknownError=Okänt fel
+updateExistingDiagram=Update existing diagram
 updateFile=Uppdatera
 updatingDocument=Uppdaterar dokument, vänligen vänta…
 updatingPreview=Uppdaterar förhandsgranskning, vänligen vänta...

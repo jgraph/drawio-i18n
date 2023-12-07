@@ -795,6 +795,7 @@ untitledDiagram=Diagramma senza titolo
 untitledLayer=Livello senza titolo
 untitledLibrary=Libreria senza titolo
 unknownError=Errore sconosciuto
+updateExistingDiagram=Update existing diagram
 updateFile=Aggiorna {1}
 updatingDocument=Aggiornamento del documento in corso. Attendi...
 updatingPreview=Aggiornamento dell'anteprima in corso. Attendi...

@@ -795,6 +795,7 @@ untitledDiagram=Diagram Tanpa Judul
 untitledLayer=Lapisan Tanpa Judul
 untitledLibrary=Pustaka Tanpa Judul
 unknownError=Galat tidak diketahui
+updateExistingDiagram=Update existing diagram
 updateFile=Pemutakhiran {1}
 updatingDocument=Memutakhirkan Dokumen. Harap tunggu...
 updatingPreview=Memutakhirkan Pratinjau. Harap tunggu

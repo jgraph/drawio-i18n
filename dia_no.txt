@@ -795,6 +795,7 @@ untitledDiagram=Diagram uten navn
 untitledLayer=Lag uten navn
 untitledLibrary=Bibliotek uten navn
 unknownError=Ukjent feil
+updateExistingDiagram=Update existing diagram
 updateFile=Oppdatering {1}
 updatingDocument=Oppdaterer dokument. Vennligst vent...
 updatingPreview=Oppdaterer forhåndsvisning. Vennligst vent...

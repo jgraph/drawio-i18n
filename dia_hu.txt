@@ -795,6 +795,7 @@ untitledDiagram=Megnevezetlen diagram
 untitledLayer=Megnevezetlen réteg
 untitledLibrary=Megnevezetlen könyvtár
 unknownError=Ismeretlen hiba
+updateExistingDiagram=Update existing diagram
 updateFile={1} frissítés
 updatingDocument=Dokumentum frissítése. Kérem várjon...
 updatingPreview=Előnézet frissitése. Kérem várjon...

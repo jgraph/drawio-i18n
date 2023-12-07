@@ -795,6 +795,7 @@ untitledDiagram=Unavngivet diagram
 untitledLayer=Unavngivet lag
 untitledLibrary=Unavngivet bibliotek
 unknownError=Ukendt fejl
+updateExistingDiagram=Update existing diagram
 updateFile=Opdater {1}
 updatingDocument=Opdaterer Dokument. Vent venligst...
 updatingPreview=Opdaterer Preview. Vent venligst...

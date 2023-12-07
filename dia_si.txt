@@ -795,6 +795,7 @@ untitledDiagram=Untitled Diagram
 untitledLayer=Untitled Layer
 untitledLibrary=Untitled Library
 unknownError=Unknown error
+updateExistingDiagram=Update existing diagram
 updateFile=Update {1}
 updatingDocument=Updating Document. Please wait...
 updatingPreview=Updating Preview. Please wait...

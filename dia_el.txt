@@ -795,6 +795,7 @@ untitledDiagram=Ανώνυμο διάγραμμα
 untitledLayer=Ανώνυμο επίπεδο
 untitledLibrary=Ανώνυμη Βιβλιοθήκη
 unknownError=Άγνωστο σφάλμα
+updateExistingDiagram=Update existing diagram
 updateFile=Ενημέρωση {1}
 updatingDocument=Ενημέρωση Εγγράφου. Παρακαλούμε περιμένετε...
 updatingPreview=Ενημέρωση Προεπισκόπησης. Παρακαλούμε περιμένετε...
