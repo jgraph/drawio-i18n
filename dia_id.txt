@@ -728,6 +728,7 @@ simpleArrow=Panah Sederhana
 simpleViewer=Penampil Sederhana
 size=Ukuran
 sketch=Sketsa
+smoothing=Smoothing
 snapToGrid=Lekatkan ke Kisi
 solid=Padat
 sourceSpacing=Spasi Sumber
