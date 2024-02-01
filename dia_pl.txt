@@ -804,6 +804,7 @@ updatingPreview=Aktualizowanie podglądu. Proszę czekać...
 updatingSelection=Aktualizowanie wyboru. Proszę czekać...
 upload=Załaduj
 url=URL
+useCurrentSettings=Use current settings
 useOffline=Użycie w trybie offline
 useRootFolder=Użyć folderu głównego?
 userManual=Podręcznik użytkownika
