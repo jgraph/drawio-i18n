@@ -1278,3 +1278,4 @@ diagDuplNoEditMsg=Diagram ini dipakai di banyak tempat. Harap sunting itu di dal
 confCloudMigConfirm=Peringatan: Proses ini akan menyunting banyak halaman dan diagram, sehingga disarankan untuk menghentikan layanan Synchrony selama proses. Apakah Anda hendak melanjutkan?
 confCloudMigNotice=Dalam instansi Cloud, harap tambahkan linkAdjustments ke konfigurasi draw.io sebagai berikut {1}. Tanpa konfigurasi ini, tautan dalam diagram yang menunjuk ke Confluence tidak akan bekerja.
 confALogsPageDesc=Halaman ini memuat catatan log dari layanan draw.io yang berjalan lama sebagai lampiran
+confEditOnlyInPageEditor=Can only be edited within Confluence page editor
