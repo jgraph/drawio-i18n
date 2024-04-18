@@ -616,7 +616,6 @@ preview=Vista prèvia
 previousPage=Pàgina anterior
 presentationMode=Mode de presentació
 print=Imprimeix
-printAllPages=Imprimeix totes les pàgines
 procEng=Enginyeria de processos
 project=Projecta
 priority=Prioritat
