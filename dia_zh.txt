@@ -484,6 +484,7 @@ linewidth=线宽
 link=连接
 links=连接
 loading=加载中
+locked=Locked
 lockUnlock=锁定 / 解锁
 loggedOut=注销
 logIn=登录
