@@ -1284,3 +1284,4 @@ confCloudMigNotice=confCloudMigNotice
 confALogsPageDesc=confALogsPageDesc
 confEditOnlyInPageEditor=confEditOnlyInPageEditor
 confEvalWarn=confEvalWarn
+otherUsersEditing=otherUsersEditing

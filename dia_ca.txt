@@ -1284,3 +1284,4 @@ confCloudMigNotice=A la instància del núvol, afegiu linkAdjustments a la confi
 confALogsPageDesc=Aquesta pàgina conté registres de serveis de llarga durada de draw.io com a fitxers adjunts
 confEditOnlyInPageEditor=Només es pot editar amb l'editor de pàgines de Confluence
 confEvalWarn=Llicència d'Avaluació - No per a ús en producció
+otherUsersEditing=Other user(s) are editing this diagram

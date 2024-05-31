@@ -1284,3 +1284,4 @@ confCloudMigNotice=Voeg in de Cloud-instantie linkAdjustments toe om de configur
 confALogsPageDesc=Deze pagina bevat de draw.io-logboeken van langlopende diensten als bijlagen
 confEditOnlyInPageEditor=Kan alleen worden bewerkt binnen de Confluence-pagina-editor
 confEvalWarn=Evaluatielicentie - niet voor productiegebruik
+otherUsersEditing=Other user(s) are editing this diagram
