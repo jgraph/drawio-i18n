@@ -281,6 +281,7 @@ errorUpdatingPreview=Greška pri osvežavanju pregleda
 exit=Izlaz
 exitGroup=Izađi iz grupe
 expand=Razvij
+explore=Explore
 export=Izvezi
 exporting=Izvoz
 exportAs=Izvezi kao

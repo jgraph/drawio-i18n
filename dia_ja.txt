@@ -281,6 +281,7 @@ errorUpdatingPreview=エラー更新プレビュー。
 exit=終了
 exitGroup=グループから出る
 expand=拡張
+explore=Explore
 export=エクスポート
 exporting=エクスポート中
 exportAs=形式を指定してエクスポート

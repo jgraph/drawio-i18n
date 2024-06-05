@@ -281,6 +281,7 @@ errorUpdatingPreview=Errore durante l'aggiornamento dell'anteprima
 exit=Esci
 exitGroup=Esci dal gruppo
 expand=Espandi
+explore=Explore
 export=Esporta
 exporting=Esportazione
 exportAs=Esporta come

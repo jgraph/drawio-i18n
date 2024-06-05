@@ -281,6 +281,7 @@ errorUpdatingPreview=‫שגיאה בעדכון התצוגה המקדימה.‬
 exit=‫יציאה‬
 exitGroup=‫צא מהקבוצה‬
 expand=‫הרחב‬
+explore=Explore
 export=‫ייצא‬
 exporting=‫ייצוא‬
 exportAs=‫ייצא בתור‬

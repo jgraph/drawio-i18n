@@ -281,6 +281,7 @@ errorUpdatingPreview=Pagkakamali sa pag-update ng paunang tingin.
 exit=Lumabas
 exitGroup=Lumabas sa grupo
 expand=Palawakin
+explore=Explore
 export=Iluwas
 exporting=Iniluluwas
 exportAs=Iluwas bilang

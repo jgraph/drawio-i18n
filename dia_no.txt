@@ -281,6 +281,7 @@ errorUpdatingPreview=Feil ved oppdatering av forhåndsvisning.
 exit=Avslutt
 exitGroup=Avslutt gruppe
 expand=Utvid
+explore=Explore
 export=Eksporter som
 exporting=Eksporterer
 exportAs=Eksporter som

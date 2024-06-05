@@ -281,6 +281,7 @@ errorUpdatingPreview=Ralat mengemaskini pratonton.
 exit=Keluar
 exitGroup=Keluar dari Kumpulan
 expand=Kembangkan
+explore=Explore
 export=Eksport
 exporting=Mengeksport
 exportAs=Eksport sebagai

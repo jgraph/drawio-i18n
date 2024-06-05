@@ -281,6 +281,7 @@ errorUpdatingPreview=Önizleme güncelleme hatası
 exit=Çıkış
 exitGroup=Gruptan çık
 expand=Genişlet
+explore=Explore
 export=Dışa aktar
 exporting=Dışa aktarma
 exportAs=Farklı dışa aktar

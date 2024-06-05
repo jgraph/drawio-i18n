@@ -281,6 +281,7 @@ errorUpdatingPreview=Greška pri ažuriranju pregleda.
 exit=Izađi
 exitGroup=Izađi iz grupe
 expand=Proširi
+explore=Explore
 export=Izvezi
 exporting=Izvozi
 exportAs=Izvezi kao

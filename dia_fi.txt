@@ -281,6 +281,7 @@ errorUpdatingPreview=Virhe esikatselua päivitettäessä.
 exit=Poistu
 exitGroup=Poistu ryhmästä
 expand=Laajenna
+explore=Explore
 export=Vie
 exporting=Viedään
 exportAs=Vie nimellä

@@ -281,6 +281,7 @@ errorUpdatingPreview=Erro actualização antevisão.
 exit=Sair
 exitGroup=Sair do Grupo
 expand=Expandir
+explore=Explore
 export=Exportar
 exporting=Exportando
 exportAs=Exportar como

@@ -281,6 +281,7 @@ errorUpdatingPreview=Error updating preview.
 exit=‫مغادرة‬
 exitGroup=‫مغادرة مجموعة‬
 expand=‫إظهار‬
+explore=Explore
 export=‫تصدير‬
 exporting=Exporting
 exportAs=‫تصدير ك‬

@@ -281,6 +281,7 @@ errorUpdatingPreview=Eroare la actualizarea previzualizării.
 exit=Ieși
 exitGroup=Ieși din grup
 expand=Extinde
+explore=Explore
 export=Exportă
 exporting=Se exportă
 exportAs=Exportă ca

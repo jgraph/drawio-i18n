@@ -281,6 +281,7 @@ errorUpdatingPreview=Lỗi khi cập nhật bản xem trước.
 exit=Thoát
 exitGroup=Thoát khỏi nhóm
 expand=Mở rộng
+explore=Explore
 export=Xuất tập tin
 exporting=Đang xuất tập tin
 exportAs=Xuất tập tin dưới dạng

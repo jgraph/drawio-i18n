@@ -281,6 +281,7 @@ errorUpdatingPreview=Błąd podczas aktualizowania podglądu.
 exit=Wyjdź
 exitGroup=Wyjdź z grupy
 expand=Rozwiń
+explore=Explore
 export=Eksportuj
 exporting=Eksportowanie
 exportAs=Eksportuj jako

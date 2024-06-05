@@ -281,6 +281,7 @@ errorUpdatingPreview=Error updating preview.
 exit=Forlasi grupon
 exitGroup=Forlasi grupon
 expand=Expand
+explore=Explore
 export=Export
 exporting=Exporting
 exportAs=Export as

@@ -281,6 +281,7 @@ errorUpdatingPreview=‫خطا در بروز رسانی پیش نما‬
 exit=‫خروج‬
 exitGroup=‫خروج از گروه‬
 expand=‫بزرگ کردن‬
+explore=Explore
 export=‫فرستادن‬
 exporting=‫در حال فرستادن‬
 exportAs=‫فرستادن به عنوان‬

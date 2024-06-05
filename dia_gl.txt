@@ -281,6 +281,7 @@ errorUpdatingPreview=Erro actualizando a vista previa.
 exit=Saír
 exitGroup=Abandonar grupo
 expand=Expandir
+explore=Explore
 export=Exportar
 exporting=Exportando
 exportAs=Exportar como
