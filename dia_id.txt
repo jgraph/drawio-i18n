@@ -1286,3 +1286,4 @@ confALogsPageDesc=Halaman ini memuat catatan log dari layanan draw.io yang berja
 confEditOnlyInPageEditor=Hanya dapat diedit di dalam editor halaman Confluence
 confEvalWarn=Evaluation License - Not for production use
 otherUsersEditing=Other user(s) are editing this diagram
+firtTimeGD=First time to access this file?
