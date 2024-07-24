@@ -697,6 +697,7 @@ selectAll=Alles auswählen
 selectionOnly=Nur Markierung
 selectCard=Select Card
 selectEdges=Alle Verbindungen auswählen
+selectedPage=Ausgewählte Seite
 selectFile=Datei auswählen
 selectFolder=Ordner auswählen
 selectFont=Schriftart wählen
