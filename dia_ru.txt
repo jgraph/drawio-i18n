@@ -1288,5 +1288,5 @@ confALogsPageDesc=На этой странице в виде вложений п
 confEditOnlyInPageEditor=Редактирование возможно только в редакторе страницы Confluence
 confEvalWarn=Пробная лицензия — не для производственного использования
 otherUsersEditing=Другие пользователи редактируют эту диаграмму
-firtTimeGD=Первый раз обращаетесь к этому файлу?
+firstTimeGD=Первый раз обращаетесь к этому файлу?
 drawioGDAppNotInstalled=Приложение draw.io для Google Drive не установлено, пожалуйста, сначала установите его
