@@ -1290,3 +1290,4 @@ confEvalWarn=Llicència d'Avaluació - No per a ús en producció
 otherUsersEditing=Altres usuaris estan editant aquest diagrama
 firstTimeGD=Primer cop que accediu a aquest fitxer?
 drawioGDAppNotInstalled=L'aplicació draw.io de Google Drive no està instal·lada, primer instal·leu-la
+ConfDC415Error=Saving drafts is blocked. If you have "Attachment Checker for Confluence" app, please update to the latest version.

@@ -1290,3 +1290,4 @@ confEvalWarn=Lisensi Evaluasi - Tidak untuk penggunaan produksi
 otherUsersEditing=Pengguna lain sedang mengedit diagram ini
 firstTimeGD=Pertama kali mengakses berkas ini?
 drawioGDAppNotInstalled=Aplikasi Google Drive draw.io tidak terpasang, harap pasang terlebih dahulu
+ConfDC415Error=Saving drafts is blocked. If you have "Attachment Checker for Confluence" app, please update to the latest version.
