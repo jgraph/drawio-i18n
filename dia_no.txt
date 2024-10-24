@@ -405,7 +405,6 @@ horizontalTree=Horisontalt tre
 howTranslate=Hvor bra er oversettelsen til ditt språk?
 html=HTML
 htmlText=HTML-tekst
-hue=Hue
 id=ID
 iframe=iFrame
 ignore=Ignorer

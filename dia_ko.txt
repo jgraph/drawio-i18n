@@ -405,7 +405,6 @@ horizontalTree=수평 트리
 howTranslate=한글로 번역이 잘 되었습니까?
 html=HTML
 htmlText=HTML 텍스트
-hue=색조
 id=ID
 iframe=IFrame
 ignore=무시

@@ -405,7 +405,6 @@ horizontalTree=Οριζόντιο δέντρο
 howTranslate=Πόσο καλή είναι η μετάφραση στη γλώσσα σας;
 html=HTML
 htmlText=HTML κείμενο
-hue=Απόχρωση
 id=Αναγνωριστικό
 iframe=IFrame
 ignore=Παράβλεψη

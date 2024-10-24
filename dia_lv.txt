@@ -405,7 +405,6 @@ horizontalTree=Horizontāls koks
 howTranslate=Cik labs ir tulkojums jūsu valodā?
 html=HTML
 htmlText=HTML teksts
-hue=Nokrāsa
 id=ID
 iframe=IFrame
 ignore=Ignorēt

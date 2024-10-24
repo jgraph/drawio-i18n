@@ -405,7 +405,6 @@ horizontalTree=Yatay ağaç
 howTranslate=Dilinizin çevirisi ne kadar iyi?
 html=HTML
 htmlText=HTML metin
-hue=Renk Tonu
 id=ID
 iframe=IFrame
 ignore=Göz ardı et

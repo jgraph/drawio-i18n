@@ -405,7 +405,6 @@ horizontalTree=Arbre horizontal
 howTranslate=Etes-vous satisfait(e) de la traduction dans votre langue ?
 html=HTML
 htmlText=Texte HTML
-hue=Teinte
 id=ID
 iframe=IFrame
 ignore=Ignorer

@@ -405,7 +405,6 @@ horizontalTree=Horizontalus medis
 howTranslate=Ar geras vertimas į jūsų kalbą?
 html=HTML
 htmlText=HTML tekstas
-hue=Atspalvis
 id=ID
 iframe=IFrame
 ignore=Nepaisyti

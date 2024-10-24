@@ -405,7 +405,6 @@ horizontalTree=Хоризонтално дърво
 howTranslate=Колко е добър преводът на Вашия език?
 html=HTML
 htmlText=HTML текст
-hue=Hue
 id=ID
 iframe=IFrame
 ignore=Игнориране

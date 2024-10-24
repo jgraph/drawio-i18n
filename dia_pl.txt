@@ -405,7 +405,6 @@ horizontalTree=Drzewo poziome
 howTranslate=Jak dobre jest tłumaczenie w Twoim języku?
 html=HTML
 htmlText=Tekst w HTML
-hue=Odcień
 id=ID
 iframe=IFrame
 ignore=Ignoruj

@@ -405,7 +405,6 @@ horizontalTree=แผนผังต้นไม้ในแนวนอน
 howTranslate=How good is the translation in your language?
 html=HTML
 htmlText=ข้อความ HTML
-hue=เว้
 id=ID
 iframe=IFrame
 ignore=ละเลย

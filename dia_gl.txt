@@ -405,7 +405,6 @@ horizontalTree=Árbore horizontal
 howTranslate=A aplicación está ben traducida ao galego?
 html=HTML
 htmlText=Texto HTML
-hue=Hue
 id=ID
 iframe=IFrame
 ignore=Ignorar

@@ -405,7 +405,6 @@ horizontalTree=Árvore horizontal
 howTranslate=Como está a tradução?
 html=HTML
 htmlText=Texto HTML
-hue=Matiz
 id=ID
 iframe=IFrame
 ignore=Ignorar

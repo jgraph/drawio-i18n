@@ -405,7 +405,6 @@ horizontalTree=Horizontale boom
 howTranslate=Hoe goed is de vertaling in uw taal?
 html=HTML
 htmlText=HTML-tekst
-hue=Tint
 id=ID
 iframe=iFrame
 ignore=Negeren

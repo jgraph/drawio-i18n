@@ -405,7 +405,6 @@ horizontalTree=‫شجرة أفقية‬
 howTranslate=How good is the translation in your language?
 html=HTML
 htmlText=‫نص HTML‬
-hue=‫هوى‬
 id=ID
 iframe=IFrame
 ignore=‫تجاهل‬

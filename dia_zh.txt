@@ -405,7 +405,6 @@ horizontalTree=水平树
 howTranslate=你所选语言的翻译质量如何？
 html=HTML
 htmlText=HTML 文本
-hue=色调
 id=ID
 iframe=IFrame
 ignore=忽略

@@ -405,7 +405,6 @@ horizontalTree=Függőleges fa
 howTranslate=Milyen a fordítás minősége az ön nyelvén?
 html=HTML
 htmlText=HTML szöveg
-hue=Színárnyalat
 id=Azonosító
 iframe=IFrame
 ignore=Mellőz

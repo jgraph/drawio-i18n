@@ -405,7 +405,6 @@ horizontalTree=Zuhaitz horizontala
 howTranslate=Itzulpena ona al da?
 html=HTML
 htmlText=HTML testua
-hue=Hue
 id=ID
 iframe=IFrame
 ignore=Ezikusi

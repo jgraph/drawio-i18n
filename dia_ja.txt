@@ -405,7 +405,6 @@ horizontalTree=横向きツリー図
 howTranslate=あなたの翻訳レベルはいかがですか？
 html=HTML
 htmlText=HTMLテキスト
-hue=色相
 id=ID
 iframe=iFrame
 ignore=無視する

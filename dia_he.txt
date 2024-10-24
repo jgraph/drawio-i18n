@@ -405,7 +405,6 @@ horizontalTree=‫עץ אופקי‬
 howTranslate=‫מה רמת התרגום לשפה שלך?‬
 html=HTML
 htmlText=‫טקסט HTML‬
-hue=‫צֶבַע‬
 id=ID
 iframe=IFrame
 ignore=‫התעלם‬

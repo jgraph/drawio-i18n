@@ -405,7 +405,6 @@ horizontalTree=Vodoravno drvo
 howTranslate=Koliko je dobar prijevod na Vaš jezik?
 html=HTML
 htmlText=HTML tekst
-hue=Hue
 id=ID
 iframe=IFrame
 ignore=Ignoriši

@@ -405,7 +405,6 @@ horizontalTree=Pohon Melintang
 howTranslate=Sebagus manakah terjemahan ini dalam bahasa anda?
 html=HTML
 htmlText=Teks HTML
-hue=Hue
 id=ID
 iframe=IFrame
 ignore=Abaikan

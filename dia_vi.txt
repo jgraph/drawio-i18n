@@ -405,7 +405,6 @@ horizontalTree=Cây theo chiều ngang
 howTranslate=Bạn đánh giá bản dịch này như thế nào?
 html=HTML
 htmlText=Văn bản HTML
-hue=Huế
 id=ID
 iframe=IFrame
 ignore=Bỏ qua

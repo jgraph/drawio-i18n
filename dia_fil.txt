@@ -405,7 +405,6 @@ horizontalTree=Pahalang na istruktura
 howTranslate=Gaano kahusay ang pagsalin sa iyong linggwahe?
 html=HTML
 htmlText=Teksto ng HTML
-hue=Hue
 id=ID
 iframe=iFrame
 ignore=Balewalain

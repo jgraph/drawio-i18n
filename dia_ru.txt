@@ -405,7 +405,6 @@ horizontalTree=Горизонтальное дерево
 howTranslate=Насколько хорошо приложение переведено на ваш язык?
 html=HTML
 htmlText=HTML текст
-hue=Хюэ
 id=Идентификатор
 iframe=IFrame
 ignore=Игнорировать

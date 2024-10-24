@@ -405,7 +405,6 @@ horizontalTree=Horisontaalne puu
 howTranslate=Kui hea on tõlge sinu keeles?
 html=HTML
 htmlText=HTML tekst
-hue=Toon
 id=ID
 iframe=IFrame
 ignore=Eira

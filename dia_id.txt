@@ -405,7 +405,6 @@ horizontalTree=Pohon Horizontal
 howTranslate=Seberapa baik terjemahan ini dalam bahasa Anda?
 html=HTML
 htmlText=Teks HTML
-hue=Warna
 id=ID
 iframe=IFrame
 ignore=Abaikan

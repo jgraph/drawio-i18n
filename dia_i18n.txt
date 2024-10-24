@@ -405,7 +405,6 @@ horizontalTree=horizontalTree
 howTranslate=howTranslate
 html=html
 htmlText=htmlText
-hue=hue
 id=id
 iframe=iframe
 ignore=ignore

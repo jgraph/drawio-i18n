@@ -405,7 +405,6 @@ horizontalTree=Arbore orizontal
 howTranslate=Cât de bună este traducerea în limba ta?
 html=HTML
 htmlText=Text HTML
-hue=Nuanţă
 id=ID
 iframe=IFrame
 ignore=Ignoră

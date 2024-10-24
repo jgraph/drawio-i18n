@@ -405,7 +405,6 @@ horizontalTree=‫درخت افقی‬
 howTranslate=‫ترجمه به زبان شما تا چه اندازه خوب است؟‬
 html=HTML
 htmlText=‫متن HTML‬
-hue=‫رنگ‬
 id=ID
 iframe=IFrame
 ignore=‫نادیده گرفتن‬

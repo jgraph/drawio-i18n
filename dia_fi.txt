@@ -405,7 +405,6 @@ horizontalTree=Vaakasuora puu
 howTranslate=Kuinka hyvin sovellus on käännetty kielellesi?
 html=HTML
 htmlText=HTML-teksti
-hue=Värisävy
 id=ID
 iframe=IFrame
 ignore=Sivuuta

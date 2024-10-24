@@ -405,7 +405,6 @@ horizontalTree=Vodorovný strom
 howTranslate=Jaká je kvalita překladu do vašeho jazyka?
 html=HTML
 htmlText=HTML text
-hue=Odstín
 id=Identif.
 iframe=IFrame
 ignore=Ignorovat
