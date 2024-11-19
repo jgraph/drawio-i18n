@@ -6,6 +6,7 @@ accessDenied=Tilgang nektet
 accounts=Accounts
 action=Action
 actualSize=Faktisk størrelse
+adaptiveColors=Adaptive Farger
 add=Legg til
 addAccount=Add account
 addedFile=Fil lagt til

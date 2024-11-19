@@ -6,6 +6,7 @@ accessDenied=Tinanggihan ang pagpasok
 accounts=Accounts
 action=Action
 actualSize=Aktwal na sukat
+adaptiveColors=Mga Kulay Ng Adaptive
 add=Magdagdag
 addAccount=Add account
 addedFile=Idinagdag
