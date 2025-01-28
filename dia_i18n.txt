@@ -1298,3 +1298,5 @@ remove=remove
 selectPgLyr=selectPgLyr
 errGenPreview=errGenPreview
 attAccessErr=attAccessErr
+widthIntOrFixed=widthIntOrFixed
+dupDisabledPgLyrSlct=dupDisabledPgLyrSlct

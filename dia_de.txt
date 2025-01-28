@@ -1298,3 +1298,5 @@ remove=Entfernen
 selectPgLyr=Seite und Ebenen auswählen
 errGenPreview=Beim Generieren eines Diagrammaspekts ist ein Fehler aufgetreten. Bitte wenden Sie sich an den technischen Support.
 attAccessErr=Diagramm-Anhang Zugriffsfehler: Diagramm kann nicht dargestellt werden
+widthIntOrFixed=Die Breite muss eine gültige ganze Zahl oder der Wert 'fixed' sein.
+dupDisabledPgLyrSlct=Diagram duplication is disabled when page and layers are selected

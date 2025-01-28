@@ -1298,3 +1298,5 @@ remove=Remove
 selectPgLyr=Select Page and Layers
 errGenPreview=There was an error generating a diagram preview. Please consult technical support.
 attAccessErr=Diagram attachment access error: cannot display diagram
+widthIntOrFixed=Width must be a valid integer or of value 'fixed'
+dupDisabledPgLyrSlct=Diagram duplication is disabled when page and layers are selected

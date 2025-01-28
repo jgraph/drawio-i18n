@@ -1298,3 +1298,5 @@ remove=Retirer
 selectPgLyr=Sélectionner la page et les couches
 errGenPreview=Erreur lors de la génération de l''aperçu du diagramme Veuillez consulter le soutien technique.
 attAccessErr=Erreur d'accès au diagramme joint: impossible d'afficher le diagramme
+widthIntOrFixed=La largeur doit être un entier valide ou une valeur 'fixed'
+dupDisabledPgLyrSlct=La reproduction d'un diagramme est désactivée lorsqu'une page et des couches sont sélectionnées.
