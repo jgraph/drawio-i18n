@@ -1294,3 +1294,7 @@ otherUsersEditing=Altres usuaris estan editant aquest diagrama
 firstTimeGD=Primer cop que accediu a aquest fitxer?
 drawioGDAppNotInstalled=L'aplicació draw.io de Google Drive no està instal·lada, primer instal·leu-la
 ConfDC415Error=Desar esborranys està bloquejat. Si teniu l'aplicació "Attachment Checker for Confluence", actualitzeu-la a la darrera versió.
+remove=Remove
+selectPgLyr=Select Page and Layers
+errGenPreview=There was an error generating a diagram preview. Please consult technical support.
+attAccessErr=Diagram attachment access error: cannot display diagram

@@ -1294,3 +1294,7 @@ otherUsersEditing=Pengguna lain sedang mengedit diagram ini
 firstTimeGD=Pertama kali mengakses berkas ini?
 drawioGDAppNotInstalled=Aplikasi Google Drive draw.io tidak terpasang, harap pasang terlebih dahulu
 ConfDC415Error=Menyimpan draf diblokir. Bila Anda punya aplikasi "Pemeriksa Lampiran bagi Confluence", harap perbarui ke versi terakhir.
+remove=Remove
+selectPgLyr=Select Page and Layers
+errGenPreview=There was an error generating a diagram preview. Please consult technical support.
+attAccessErr=Diagram attachment access error: cannot display diagram

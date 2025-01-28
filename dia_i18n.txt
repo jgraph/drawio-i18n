@@ -1294,3 +1294,7 @@ otherUsersEditing=otherUsersEditing
 firstTimeGD=firstTimeGD
 drawioGDAppNotInstalled=drawioGDAppNotInstalled
 ConfDC415Error=ConfDC415Error
+remove=remove
+selectPgLyr=selectPgLyr
+errGenPreview=errGenPreview
+attAccessErr=attAccessErr

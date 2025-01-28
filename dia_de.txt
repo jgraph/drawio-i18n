@@ -1294,3 +1294,7 @@ otherUsersEditing=Andere Benutzer bearbeiten dieses Diagramm.
 firstTimeGD=First time to access this file?
 drawioGDAppNotInstalled=draw.io Google Drive app is not installed, please install it first
 ConfDC415Error=Saving drafts is blocked. If you have "Attachment Checker for Confluence" app, please update to the latest version.
+remove=Entfernen
+selectPgLyr=Seite und Ebenen auswählen
+errGenPreview=Beim Generieren eines Diagrammaspekts ist ein Fehler aufgetreten. Bitte wenden Sie sich an den technischen Support.
+attAccessErr=Diagramm-Anhang Zugriffsfehler: Diagramm kann nicht dargestellt werden
