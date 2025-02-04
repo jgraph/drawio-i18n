@@ -1307,3 +1307,4 @@ cantEditLnkd=Bearbeiten des verknüpften Diagramms nicht möglich
 diagEditOwnPgOnlyOpen=Das verknüpfte Diagramm kann nur auf der Original-Seite bearbeitet werden. Möchten Sie die Original-Seite zum Bearbeiten des Diagramms öffnen?
 diagInTemps=draw.io Diagramme in Vorlagen
 diagInTempsCantEdit=Diagramme in Seitenvorlagen können nicht bearbeitet werden. Sie können nur auf Seiten und Blog-Posts bearbeitet werden.
+confDirectEditDraftLost=This Confluence page has unpublished changes. Editing the diagram from page view may cause data loss. Please edit the Confluence page first and then edit the diagram.

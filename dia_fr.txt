@@ -1307,3 +1307,4 @@ cantEditLnkd=Impossible de modifier le diagramme lié
 diagEditOwnPgOnlyOpen=Le diagramme peut seulement être modifié à partir de la page hôte. Aimeriez-vous ouvrir la page hôte pour modifier le diagramme?
 diagInTemps=Diagrammes draw.io dans les modèles
 diagInTempsCantEdit=Les diagrammes ne peuvent pas être modifiés dans un modèle de page. Ils peuvent seulement être modifiés dans les pages et les billets de blogue.
+confDirectEditDraftLost=This Confluence page has unpublished changes. Editing the diagram from page view may cause data loss. Please edit the Confluence page first and then edit the diagram.
