@@ -1014,7 +1014,6 @@ character=Letterteken
 confAConfPageDesc=Deze pagina bevat het draw.io-configuratiebestand (configuration.json) als bijlage
 confALibPageDesc=Deze pagina bevat aangepaste draw.io-bibliotheken als bijlagen
 confATempPageDesc=Deze pagina bevat aangepaste draw.io-sjablonen als bijlagen
-working=Bezig
 confAConfSpaceDesc=Deze ruimte wordt gebruikt om draw.io-configuratiebestanden en aangepaste bibliotheken/sjablonen op te slaan
 confANoCustLib=Geen aangepaste bibliotheken
 delFailed=Verwijderen mislukt!

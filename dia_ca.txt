@@ -1014,7 +1014,6 @@ character=Caràcter
 confAConfPageDesc=Aquesta pàgina conté el fitxer de configuració draw.io (configuration.json) com a fitxer adjunt
 confALibPageDesc=Aquesta pàgina conté biblioteques personalitzades de draw.io com a fitxers adjunts
 confATempPageDesc=Aquesta pàgina conté plantilles personalitzades de draw.io com a fitxers adjunts
-working=S'està treballant
 confAConfSpaceDesc=Aquest espai s'utilitza per emmagatzemar fitxers de configuració de draw.io i biblioteques/plantilles personalitzades
 confANoCustLib=No hi ha biblioteques personalitzades
 delFailed=Ha fallat l'esborrat

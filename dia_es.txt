@@ -1014,7 +1014,6 @@ character=Caractér
 confAConfPageDesc=Ésta página contiene un archivo de configuración draw.io (configuration.json) adjunto
 confALibPageDesc=Ésta página contiene librerias personalizadas adjuntas
 confATempPageDesc=Ésta página contiene plantillas personalizadas adjuntas
-working=Trabajando
 confAConfSpaceDesc=Este espacio es usado para almacenar archivos de configuración y librerías/plantillas personalizadas de draw.io
 confANoCustLib=Sin Librerias Personalizadas
 delFailed=¡La eliminiación falló!
