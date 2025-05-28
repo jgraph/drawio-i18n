@@ -1311,4 +1311,4 @@ confDirectEditDraftLost=இந்த சங்கம பக்கத்தில
 confConfigSpacePerm=குறிப்பு: நீங்கள் அண்மைக் காலத்தில் டிசி பயன்பாட்டிலிருந்து குடியேறியிருந்தால், தயவுசெய்து வரை.உவெ உள்ளமைவு விண்வெளி அனுமதிகளைச் சரிபார்க்கவும், எல்லா பயனர்களும் படிக்க முடியும் மற்றும் நிர்வாகிகள் மட்டுமே எழுத முடியும். கூடுதலாக, "உள்ளமைவு" மற்றும் "நூலகங்கள்" பக்கங்களில் பக்க கட்டுப்பாடுகளை அகற்று. அவற்றை அணுக உங்களுக்கு நிர்வாக விசைகள் தேவைப்படலாம். மேலும், "உள்ளமைவு" பக்கத்தில் "உள்ளமைவு.json" கோப்பை பதிவிறக்க முடியும் என்பதை சரிபார்க்கவும்.
 tryCurPageOnErr=Try finding the diagram attachment on the macro page when the linked page fails
 confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not supported.
-gliffyVersionPinning=Import Gliffy pinned version instead of the latest version
+gliffyVersionPinning=Gliffy இன் பின் செய்யப்பட்ட பதிப்பை சமீபத்திய பதிப்புக்கு பதிலாக இறக்குமதி செய்க

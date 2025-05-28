@@ -1311,4 +1311,4 @@ confDirectEditDraftLost=Aquesta pàgina de Confluence té canvis no publicats. E
 confConfigSpacePerm=Nota: si recentment heu migrat des de l'aplicació DC, comproveu els permisos de l'espai de Configuració de draw.io de manera que tots els usuaris puguin llegir i només els administradors puguin escriure. A més, elimineu les restriccions de pàgina a les pàgines "Configuració" i "Biblioteques". És possible que necessiteu claus d'administració per accedir-hi. A més, comproveu que el fitxer "configuration.json" a la pàgina "Configuració" es pot descarregar.
 tryCurPageOnErr=Try finding the diagram attachment on the macro page when the linked page fails
 confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not supported.
-gliffyVersionPinning=Import Gliffy pinned version instead of the latest version
+gliffyVersionPinning=Importa la versió fixada de Gliffy en lloc de la versió més recent

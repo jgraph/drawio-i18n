@@ -1311,4 +1311,4 @@ confDirectEditDraftLost=This Confluence page has unpublished changes. Editing th
 confConfigSpacePerm=Note: If you recently migrated from DC app, please check draw.io Configuration space permissions such that all users can read and only admins can write. In addition, remove the page restrictions on "Configuration" and "Libraries" pages. You may need admin keys to access them. Also, please check the file "configuration.json" in the "Configuration" page is downloadable.
 tryCurPageOnErr=Try finding the diagram attachment on the macro page when the linked page fails
 confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not supported.
-gliffyVersionPinning=Import Gliffy pinned version instead of the latest version
+gliffyVersionPinning=Importovať pripnutú verziu Gliffy namiesto najnovšej verzie
