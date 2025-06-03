@@ -1312,3 +1312,4 @@ confConfigSpacePerm=confConfigSpacePerm
 tryCurPageOnErr=tryCurPageOnErr
 confAExtSrvcNoSupported=confAExtSrvcNoSupported
 gliffyVersionPinning=gliffyVersionPinning
+confEmbedUpload=confEmbedUpload

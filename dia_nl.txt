@@ -1312,3 +1312,4 @@ confConfigSpacePerm=Opmerking: Als je onlangs vanuit de DC-app bent gemigreerd, 
 tryCurPageOnErr=Probeer de diagrambijlage op de macro-pagina te vinden wanneer de gelinkte pagina faalt.
 confAExtSrvcNoSupported=Ingesloten diagrammen van externe diensten of URL's worden niet ondersteund.
 gliffyVersionPinning=Importeer de vastgezette versie van Gliffy in plaats van de nieuwste versie
+confEmbedUpload=For a better editing experience, please use the regular draw.io macro to insert a blank diagram, then from (File menu → Import From → Device...) select the file you want to upload and embed.
