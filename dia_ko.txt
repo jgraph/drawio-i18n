@@ -1312,4 +1312,4 @@ confConfigSpacePerm=Note: If you recently migrated from DC app, please check dra
 tryCurPageOnErr=Try finding the diagram attachment on the macro page when the linked page fails
 confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not supported.
 gliffyVersionPinning=최신 버전 대신 Gliffy 고정 버전을 가져오기
-confEmbedUpload=For a better editing experience, please use the regular draw.io macro to insert a blank diagram, then from (File menu → Import From → Device...) select the file you want to upload and embed.
+confEmbedUpload=더 나은 편집 경험을 위해 일반 draw.io 매크로를 사용하여 빈 다이어그램을 삽입한 다음 (파일 메뉴 → 가져오기 → 장치...)에서 업로드하고 삽입할 파일을 선택하세요.

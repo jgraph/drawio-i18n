@@ -1312,4 +1312,4 @@ confConfigSpacePerm=Note: If you recently migrated from DC app, please check dra
 tryCurPageOnErr=Try finding the diagram attachment on the macro page when the linked page fails
 confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not supported.
 gliffyVersionPinning=Importer den fastlåste versjonen av Gliffy i stedet for den nyeste versjonen
-confEmbedUpload=For a better editing experience, please use the regular draw.io macro to insert a blank diagram, then from (File menu → Import From → Device...) select the file you want to upload and embed.
+confEmbedUpload=Bruk den vanlige draw.io-makroen for å sette inn et tomt diagram for en bedre redigeringsopplevelse, og velg deretter filen du vil laste opp og bygge inn fra (Fil-meny → Importer fra → Enhet...).
