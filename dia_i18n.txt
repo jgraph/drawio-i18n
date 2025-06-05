@@ -1313,3 +1313,4 @@ tryCurPageOnErr=tryCurPageOnErr
 confAExtSrvcNoSupported=confAExtSrvcNoSupported
 gliffyVersionPinning=gliffyVersionPinning
 confEmbedUpload=confEmbedUpload
+confPublishErr=confPublishErr

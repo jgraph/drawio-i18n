@@ -1313,3 +1313,4 @@ tryCurPageOnErr=Try finding the diagram attachment on the macro page when the li
 confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not supported.
 gliffyVersionPinning=Gliffy හි අලුත්ම අනුවාදය වෙනුවට ස්ථිර කළ අනුවාදය ආයාත කරන්න
 confEmbedUpload=වැඩි හොඳ සකස් කිරීමේ අත්දැකීමක් සඳහා, කරුණාකර හිස් රේඛා ආකෘතියක් ඇතුළත් කිරීමට සාමාන්‍ය draw.io මැක්‍රෝව භාවිතා කරන්න, පසුව (ගොනු මෙනුව → ආනයනය කිරීම → උපාංගය...) වෙතින් ඔබ උඩුගත කර සහ ආශ්‍රිත කිරීම කැමති ගොනුව තෝරන්න.
+confPublishErr=Another update conflicted with your publish, please try the operation again
