@@ -1313,4 +1313,4 @@ tryCurPageOnErr=Try finding the diagram attachment on the macro page when the li
 confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not supported.
 gliffyVersionPinning=గ్లిఫీ యొక్క పిన్ చేసిన వెర్షన్‌ను తాజా వెర్షన్‌కు బదులుగా దిగుమతి చేయండి
 confEmbedUpload=మెరుగైన ఎడిటింగ్ అనుభవం కోసం, దయచేసి ఖాళీ డయాగ్రామ్‌ని చేర్చడానికి draw.io యొక్క రెగ్యులర్ మ్యాక్రోని ఉపయోగించండి, ఆపై (ఫైల్ మెనూ → దిగుమతి → పరికరం...) నుండి మీరు అప్లోడ్ చేయాలనుకుంటున్న ఫైల్‌ని ఎంచుకొని ఎంబెడ్ చేయండి.
-confPublishErr=Another update conflicted with your publish, please try the operation again
+confPublishErr=మీ ప్రచురణతో మరొక నవీకరణ విభేదించింది, దయచేసి ఆపరేషన్‌ను మళ్లీ ప్రయత్నించండి

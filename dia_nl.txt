@@ -1313,4 +1313,4 @@ tryCurPageOnErr=Probeer de diagrambijlage op de macro-pagina te vinden wanneer d
 confAExtSrvcNoSupported=Ingesloten diagrammen van externe diensten of URL's worden niet ondersteund.
 gliffyVersionPinning=Importeer de vastgezette versie van Gliffy in plaats van de nieuwste versie
 confEmbedUpload=Gebruik de reguliere draw.io-macro om een leeg diagram in te voegen voor een betere bewerkingservaring en selecteer vervolgens via (Bestand → Importeren uit → Apparaat...) het bestand dat je wilt uploaden en insluiten.
-confPublishErr=Another update conflicted with your publish, please try the operation again
+confPublishErr=Een andere update conflicteerde met uw publicatie, probeer de bewerking opnieuw

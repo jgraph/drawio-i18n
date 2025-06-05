@@ -1313,4 +1313,4 @@ tryCurPageOnErr=Try finding the diagram attachment on the macro page when the li
 confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not supported.
 gliffyVersionPinning=Impor versi Gliffy yang dipin daripada versi terbaru
 confEmbedUpload=Untuk pengalaman pengeditan yang lebih baik, silakan gunakan makro draw.io biasa untuk menyisipkan diagram kosong, lalu dari (Menu File → Impor Dari → Perangkat...) pilih file yang ingin Anda unggah dan sematkan.
-confPublishErr=Another update conflicted with your publish, please try the operation again
+confPublishErr=Terjadi konflik dengan pembaruan lain saat Anda mempublikasikan, silakan coba lagi
