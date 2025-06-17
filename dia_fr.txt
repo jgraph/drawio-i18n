@@ -1086,6 +1086,7 @@ siblingSpacing=Espacement frère-sœur
 confNoPermErr=Désolé, vous n'avez pas les permissions nécessaires pour afficher ce diagramme intégré depuis la page {1}
 copyAsImage=Copier en tant qu'image
 copyAsText=Copier en tant que texte
+copyAsSvg=Copier en SVG
 lucidImport=Importation Lucidchart
 lucidImportInst1=Cliquez sur le bouton "Démarrer l'import" pour importer tous les diagrammes Lucidchart.
 installFirst=Veuillez installer {1} d'abord

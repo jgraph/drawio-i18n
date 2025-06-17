@@ -1086,6 +1086,7 @@ siblingSpacing=Spaziatura fratelli
 confNoPermErr=Spiacenti, non disponi di permessi sufficienti per visualizzare questo diagramma incorporato dalla pagina {1}
 copyAsImage=Copia come immagine
 copyAsText=Copy as Text
+copyAsSvg=Copia come SVG
 lucidImport=Importazione Luchidchart
 lucidImportInst1=Fai clic sul pulsante "Avvia importazione" per importare tutti i diagrammi di Lucidchart.
 installFirst=Installa prima {1}

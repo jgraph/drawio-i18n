@@ -1086,6 +1086,7 @@ siblingSpacing=Anaien arteko tartea
 confNoPermErr=Barkatu, ez daukazu {1} orrian kapsulatutako diagrama ikusteko baimen nahikorik
 copyAsImage=Kopiatu irudi gisa
 copyAsText=Kopiatu testu gisa
+copyAsSvg=Kopiatu SVG bezala
 lucidImport=Lucidchart inportazioa
 lucidImportInst1=Egin klik "Hasi inportazioa" botoian Lucidchart diagramak inportatzeko.
 installFirst=Aurretik {1} instalatu

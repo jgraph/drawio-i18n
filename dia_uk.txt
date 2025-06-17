@@ -1086,6 +1086,7 @@ siblingSpacing=Інтервал між спорідненими класами
 confNoPermErr=Вибачте, ви не маєте дозволу дивитися цю вбудовану діаграму зі сторінки {1}
 copyAsImage=Копіювати як зображення
 copyAsText=Copy as Text
+copyAsSvg=Копіювати як SVG
 lucidImport=Імпортування Lucidchart
 lucidImportInst1=Натисніть кнопку 'Почати імпортування', щоб імпортувати усі діаграми Lucidchart.
 installFirst=Будь ласка, спочатку встановіть {1}

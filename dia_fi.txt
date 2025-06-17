@@ -1086,6 +1086,7 @@ siblingSpacing=Sisaruksen välit
 confNoPermErr=Valitettavasti sinulla ei ole tarpeeksi oikeuksia tarkastella tätä upotettua kaaviota sivulta {1}
 copyAsImage=Kopioi kuvana
 copyAsText=Copy as Text
+copyAsSvg=Kopioi SVG:nä
 lucidImport=Lucidchart-tuonti
 lucidImportInst1=Napsauta "Aloita tuonti" -painiketta tuodaksesi kaikki Lucidchart-kaaviot.
 installFirst=Asenna ensin {1}

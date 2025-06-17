@@ -1086,6 +1086,7 @@ siblingSpacing=Odstępy między rodzeństwem
 confNoPermErr=Przepraszamy, nie masz wystarczających uprawnień, aby wyświetlić ten osadzony diagram ze strony {1}.
 copyAsImage=Kopiuj jako obraz
 copyAsText=Kopiuj jako tekst
+copyAsSvg=Kopiuj jako SVG
 lucidImport=Import Lucidchart
 lucidImportInst1=Kliknij przycisk "Rozpocznij import", aby zaimportować wszystkie diagramy Lucidchart.
 installFirst=Proszę najpierw zainstalować {1}.
