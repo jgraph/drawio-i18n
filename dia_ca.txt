@@ -794,6 +794,7 @@ tryAgain=Torna a provar-ho
 tryOpeningViaThisPage=Prova d'obrir-lo via aquesta pàgina
 turn=Rota 90°
 type=Escriu
+typeSlashToSearch=Escriu / per cercar
 twitter=Twitter
 uml=UML
 unassigned=No assignat

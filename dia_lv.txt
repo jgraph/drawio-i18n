@@ -794,6 +794,7 @@ tryAgain=Mēģini vēlreiz
 tryOpeningViaThisPage=Mēģini atvērt, izmantojot šo lapu
 turn=Pagriezt formu tikai par 90°
 type=Tips
+typeSlashToSearch=Ierakstiet / lai meklētu
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

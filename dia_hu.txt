@@ -794,6 +794,7 @@ tryAgain=Újra próbál
 tryOpeningViaThisPage=Próbálja ezen az oldalon nyitni
 turn=Fordít
 type=Típus
+typeSlashToSearch=Írja be a / a kereséshez
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

@@ -794,6 +794,7 @@ tryAgain=Pokušajte ponovo
 tryOpeningViaThisPage=Try opening via this page
 turn=Okreni
 type=Type
+typeSlashToSearch=Укуцајте / за претрагу
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

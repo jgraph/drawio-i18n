@@ -794,6 +794,7 @@ tryAgain=Prova di nuovo
 tryOpeningViaThisPage=Prova ad aprire attraverso questa pagina
 turn=Ruota la forma di 90°
 type=Tipo
+typeSlashToSearch=Digita / per cercare
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

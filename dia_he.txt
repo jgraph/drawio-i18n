@@ -794,6 +794,7 @@ tryAgain=‫נסה שוב‬
 tryOpeningViaThisPage=‫נסה לפתוח דרך דף זה‬
 turn=‫סובב ב 90°‬
 type=‫סוג‬
+typeSlashToSearch=‫הקלד / כדי לחפש‬
 twitter=‫טוויטר‬
 uml=UML
 unassigned=Unassigned

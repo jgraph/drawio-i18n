@@ -794,6 +794,7 @@ tryAgain=다시 시도하세요.
 tryOpeningViaThisPage=이 페이지를 통해 열어주세요.
 turn=90도 회전
 type=유형
+typeSlashToSearch=/를 입력하여 검색
 twitter=트위터
 uml=UML
 unassigned=할당되지 않음

@@ -794,6 +794,7 @@ tryAgain=Försök igen
 tryOpeningViaThisPage=Försök att öpna via denna sida
 turn=Rotera 90°
 type=Typ
+typeSlashToSearch=Skriv / för att söka
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

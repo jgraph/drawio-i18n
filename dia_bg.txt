@@ -794,6 +794,7 @@ tryAgain=Опитайте отново
 tryOpeningViaThisPage=Опитайте да отворите чрез тази страница
 turn=Завъртане на 90°
 type=Тип
+typeSlashToSearch=Въведете / за търсене
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

@@ -794,6 +794,7 @@ tryAgain=Proovi uuesti
 tryOpeningViaThisPage=Proovi selle lehe kaudu avamist
 turn=Pööra 90º
 type=Tüüp
+typeSlashToSearch=Tippige / otsimiseks
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

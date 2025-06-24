@@ -794,6 +794,7 @@ tryAgain=Tentar novamente
 tryOpeningViaThisPage=Tente abrir através desta página
 turn=Girar 90°
 type=Tipo
+typeSlashToSearch=Digite / para pesquisar
 twitter=Twitter
 uml=UML
 unassigned=Não atribuído

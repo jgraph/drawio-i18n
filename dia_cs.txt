@@ -794,6 +794,7 @@ tryAgain=Zkusit znovu
 tryOpeningViaThisPage=Zkuste otevřít přes tuto stránku
 turn=Pootočit tvar pouze o 90°
 type=Text
+typeSlashToSearch=Zadejte / pro hledání
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

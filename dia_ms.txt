@@ -794,6 +794,7 @@ tryAgain=Cuba lagi
 tryOpeningViaThisPage=Cuba buka melalui halaman ini
 turn=Putar 90°
 type=Jenis
+typeSlashToSearch=Ketik / untuk mencari
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

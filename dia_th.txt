@@ -794,6 +794,7 @@ tryAgain=ลองอีกครั้ง
 tryOpeningViaThisPage=ลองอีกครั้้งผ่านหน้านี้
 turn=หมุน 90 องศา
 type=ประเภท
+typeSlashToSearch=พิมพ์ / เพื่อค้นหา
 twitter=ทวิตเตอร์
 uml=UML
 unassigned=Unassigned

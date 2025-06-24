@@ -794,6 +794,7 @@ tryAgain=‫دوباره سعی کنید‬
 tryOpeningViaThisPage=‫سعی کنید از این صفحه باز کنید‬
 turn=‫چرخش 90 درجه‬
 type=‫نوع‬
+typeSlashToSearch=‫برای جستجو / را تایپ کنید‬
 twitter=‫توئیتر‬
 uml=UML
 unassigned=Unassigned

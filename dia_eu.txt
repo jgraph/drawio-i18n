@@ -794,6 +794,7 @@ tryAgain=Saiatu berriro
 tryOpeningViaThisPage=Saiatu irekitzen orri honen bidez
 turn=Biratu 90º
 type=Mota
+typeSlashToSearch=Idatzi / bilatzeko
 twitter=Twitter
 uml=UML
 unassigned=Esleitu gabe

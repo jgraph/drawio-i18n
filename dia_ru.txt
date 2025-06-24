@@ -794,6 +794,7 @@ tryAgain=Попробуйте ещё раз
 tryOpeningViaThisPage=Попробуйте открыть через эту страницу
 turn=Повернуть на 90° градусов
 type=Тип
+typeSlashToSearch=Введите / для поиска
 twitter=Twitter
 uml=UML
 unassigned=Неназначенный

@@ -794,6 +794,7 @@ tryAgain=Coba lagi
 tryOpeningViaThisPage=Coba buka melalui halaman ini
 turn=Putar bentuk saja 90°
 type=Tipe
+typeSlashToSearch=Ketik / untuk mencari
 twitter=Twitter
 uml=UML
 unassigned=Tidak ditugaskan

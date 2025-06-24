@@ -794,6 +794,7 @@ tryAgain=重试
 tryOpeningViaThisPage=尝试通过此页面开启
 turn=旋转90°
 type=类型
+typeSlashToSearch=键入 / 进行搜索
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

@@ -794,6 +794,7 @@ tryAgain=Tekrar deneyin
 tryOpeningViaThisPage=Bu sayfa üstünden açmayı deneyiniz
 turn=Döndür
 type=Yaz
+typeSlashToSearch=Arama yapmak için / yazın
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

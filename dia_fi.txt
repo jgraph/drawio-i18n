@@ -794,6 +794,7 @@ tryAgain=Yritä uudelleen
 tryOpeningViaThisPage=Yritä avata tämän sivun kautta
 turn=Kierrä muotoa vain 90°
 type=Tyyppi
+typeSlashToSearch=Kirjoita / hakeaksesi
 twitter=Twitter
 uml=UML
 unassigned=Määrittämätön

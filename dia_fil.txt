@@ -794,6 +794,7 @@ tryAgain=Subukan muli
 tryOpeningViaThisPage=Subukang buksan mula sa pahinang ito
 turn=Iikot ng 90°
 type=Tipo
+typeSlashToSearch=Mag-type ng / para maghanap
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

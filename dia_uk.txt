@@ -794,6 +794,7 @@ tryAgain=Спробуйте ще раз
 tryOpeningViaThisPage=Спробуйте відкрити за допомогою цієї сторінці
 turn=Повернути фігуру на 90°
 type=Друкування
+typeSlashToSearch=Введіть / для пошуку
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

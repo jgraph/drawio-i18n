@@ -794,6 +794,7 @@ tryAgain=Δοκιμάστε ξανά
 tryOpeningViaThisPage=Προσπαθήστε να το ανοίξετε μέσω αυτής της σελίδας
 turn=Στροφή
 type=Τύπος
+typeSlashToSearch=Πληκτρολογήστε / για αναζήτηση
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

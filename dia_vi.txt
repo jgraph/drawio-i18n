@@ -794,6 +794,7 @@ tryAgain=Thử lại
 tryOpeningViaThisPage=Thử mở bằng trang này
 turn=Xoay 90°
 type=Loại
+typeSlashToSearch=Nhập / để tìm kiếm
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

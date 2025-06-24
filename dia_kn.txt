@@ -794,6 +794,7 @@ tryAgain=Try again
 tryOpeningViaThisPage=Try opening via this page
 turn=Rotate Shape Only by 90°
 type=Type
+typeSlashToSearch=ಶೋಧಿಸಲು / ಟೈಪ್ ಮಾಡಿ
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

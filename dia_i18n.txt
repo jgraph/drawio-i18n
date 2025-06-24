@@ -794,6 +794,7 @@ tryAgain=tryAgain
 tryOpeningViaThisPage=tryOpeningViaThisPage
 turn=turn
 type=type
+typeSlashToSearch=typeSlashToSearch
 twitter=twitter
 uml=uml
 unassigned=unassigned

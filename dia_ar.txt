@@ -794,6 +794,7 @@ tryAgain=‫إعادة المحاولة‬
 tryOpeningViaThisPage=Try opening via this page
 turn=‫تدوير‬
 type=Type
+typeSlashToSearch=‫اكتب / للبحث‬
 twitter=Twitter
 uml=UML
 unassigned=Unassigned

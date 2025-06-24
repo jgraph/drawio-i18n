@@ -794,6 +794,7 @@ tryAgain=もう一度お試しください
 tryOpeningViaThisPage=このページから開始してみてください
 turn=90°回転
 type=タイプ
+typeSlashToSearch=/ を入力して検索
 twitter=Twitter
 uml=UML
 unassigned=Unassigned
