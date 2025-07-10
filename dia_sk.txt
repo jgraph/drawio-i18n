@@ -1317,3 +1317,4 @@ confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not
 gliffyVersionPinning=Importovať pripnutú verziu Gliffy namiesto najnovšej verzie
 confEmbedUpload=Pre lepšiu skúsenosť s úpravou použite bežné makro draw.io na vloženie prázdneho diagramu, potom z (ponuky Súbor → Importovať z → Zariadenie...) vyberte súbor, ktorý chcete nahrať a vložiť.
 confPublishErr=Ďalšia aktualizácia bola v konflikte s vaším publikovaním, skúste operáciu znova
+drives=Drives

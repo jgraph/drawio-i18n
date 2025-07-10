@@ -1317,3 +1317,4 @@ confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not
 gliffyVersionPinning=I-import ang naka-pin na bersyon ng Gliffy sa halip na ang pinakabagong bersyon
 confEmbedUpload=Para sa mas mahusay na karanasan sa pag-edit, mangyaring gamitin ang regular na draw.io macro upang magpasok ng blangkong diagram, pagkatapos mula sa (File menu → Import From → Device...) piliin ang file na nais mong i-upload at i-embed.
 confPublishErr=May ibang update na nagka-conflict sa iyong publish, pakisubukang muli l'operazione
+drives=Drives

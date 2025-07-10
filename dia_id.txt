@@ -1317,3 +1317,4 @@ confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not
 gliffyVersionPinning=Impor versi Gliffy yang dipin daripada versi terbaru
 confEmbedUpload=Untuk pengalaman pengeditan yang lebih baik, silakan gunakan makro draw.io biasa untuk menyisipkan diagram kosong, lalu dari (Menu File → Impor Dari → Perangkat...) pilih file yang ingin Anda unggah dan sematkan.
 confPublishErr=Terjadi konflik dengan pembaruan lain saat Anda mempublikasikan, silakan coba lagi
+drives=Drives

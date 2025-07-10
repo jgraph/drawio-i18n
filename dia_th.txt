@@ -1317,3 +1317,4 @@ confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not
 gliffyVersionPinning=นำเข้าเวอร์ชันที่ปักหมุดของ Gliffy แทนเวอร์ชันล่าสุด
 confEmbedUpload=สำหรับประสบการณ์การแก้ไขที่ดีขึ้น โปรดใช้แมโคร draw.io ปกติในการแทรกไดอะแกรมเปล่า จากนั้นจาก (เมนูไฟล์ → นำเข้าจาก → อุปกรณ์...) เลือกไฟล์ที่คุณต้องการอัปโหลดและฝัง
 confPublishErr=การอัปเดตอื่นขัดแย้งกับการเผยแพร่ของคุณ โปรดลองดำเนินการอีกครั้ง
+drives=Drives

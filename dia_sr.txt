@@ -1317,3 +1317,4 @@ confAExtSrvcNoSupported=Embedded diagrams from extrenal services or urls are not
 gliffyVersionPinning=Uvezite zakačanu verziju Gliffy umesto najnovije verzije
 confEmbedUpload=Za bolje uređivanje, koristite uobičajeni draw.io makro za umetanje praznog dijagrama, a zatim iz (Meni Fajl → Uvezi iz → Uređaj...) izaberite datoteku koju želite da otpremite i ugradite.
 confPublishErr=Drugo ažuriranje je u sukobu sa vašim objavljivanjem, pokušajte ponovo
+drives=Drives
