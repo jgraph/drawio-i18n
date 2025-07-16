@@ -1317,4 +1317,3 @@ confAExtSrvcNoSupported=Embedded diagrams from external services or urls are not
 gliffyVersionPinning=Importējiet piesprausto Gliffy versiju, nevis jaunāko versiju
 confEmbedUpload=Lai iegūtu labāku rediģēšanas pieredzi, lūdzu, izmantojiet parasto draw.io makro, lai ievietotu tukšu diagrammu, pēc tam no (Failu izvēlne → Importēt no → Ierīces...) atlasiet failu, kuru vēlaties augšupielādēt un iegult.
 confPublishErr=Cits atjauninājums konfliktēja ar jūsu publicēšanu, lūdzu, mēģiniet vēlreiz
-drives=Drives

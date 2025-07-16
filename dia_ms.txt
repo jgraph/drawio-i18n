@@ -1317,4 +1317,3 @@ confAExtSrvcNoSupported=Embedded diagrams from external services or urls are not
 gliffyVersionPinning=Impor versi Gliffy yang dipin daripada versi terbaru
 confEmbedUpload=Untuk pengalaman penyuntingan yang lebih baik, sila gunakan makro
 confPublishErr=Terjadi konflik dengan pembaruan lain saat Anda mempublikasikan, silakan coba lagi
-drives=Drives

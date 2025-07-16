@@ -1317,4 +1317,3 @@ confAExtSrvcNoSupported=Embedded diagrams from external services or urls are not
 gliffyVersionPinning=Импортировать закрепленную версию Gliffy вместо последней версии
 confEmbedUpload=Для лучшего опыта редактирования используйте стандартную макрокоманду draw.io для вставки пустой диаграммы, затем в (меню Файл → Импорт из → Устройство...) выберите файл, который вы хотите загрузить и внедрить.
 confPublishErr=Другое обновление конфликтовало с вашей публикацией, пожалуйста, попробуйте снова
-drives=Drives

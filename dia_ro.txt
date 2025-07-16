@@ -1317,4 +1317,3 @@ confAExtSrvcNoSupported=Embedded diagrams from external services or urls are not
 gliffyVersionPinning=Importați versiunea fixată a Gliffy în locul celei mai recente versiuni
 confEmbedUpload=Pentru o experiență mai bună de editare, utilizați macro-ul regulat draw.io pentru a insera o diagramă goală, apoi din (Meniul Fișier → Importă Din → Dispozitiv...) selectați fișierul pe care doriți să-l încărcați și să-l încorporați.
 confPublishErr=O altă actualizare a intrat în conflict cu publicarea dvs., încercați din nou
-drives=Drives
