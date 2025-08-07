@@ -1317,3 +1317,5 @@ confAExtSrvcNoSupported=Embedded diagrams from external services or urls are not
 gliffyVersionPinning=En son sürüm yerine Gliffy sabitlenmiş sürümünü içe aktarın
 confEmbedUpload=Daha iyi bir düzenleme deneyimi için, lütfen boş bir diyagram eklemek için normal draw.io makrosunu kullanın ve ardından (Dosya menüsü → Şuradan içe aktar → Cihaz...) üzerinden yüklemek ve yerleştirmek istediğiniz dosyayı seçin.
 confPublishErr=Başka bir güncelleme yayınızla çakıştı, lütfen işlemi tekrar deneyin
+confACacheMapping=Cache page IDs mapping
+confARemImpSpaces=Remember imported spaces

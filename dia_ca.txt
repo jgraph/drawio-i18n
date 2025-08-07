@@ -1317,3 +1317,5 @@ confAExtSrvcNoSupported=No s'admeten diagrames incrustats de serveis o URL exter
 gliffyVersionPinning=Importa la versió fixada de Gliffy en lloc de la versió més recent
 confEmbedUpload=Per a una millor experiència d'edició, utilitzeu la macro regular de draw.io per inserir un diagrama en blanc, després des de (Menú Fitxer → Importa des de → Dispositiu...) seleccioneu el fitxer que voleu pujar i incrustar.
 confPublishErr=Una altra actualització ha entrat en conflicte amb la vostra publicació, torneu a intentar l'operació
+confACacheMapping=Cache page IDs mapping
+confARemImpSpaces=Remember imported spaces
