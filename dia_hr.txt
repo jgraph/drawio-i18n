@@ -1319,3 +1319,4 @@ confEmbedUpload=Za bolje iskustvo uređivanja, koristite redovni draw.io makro z
 confPublishErr=Drugo ažuriranje je u sukobu s vašom objavom, pokušajte ponovo
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

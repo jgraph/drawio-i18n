@@ -1319,3 +1319,4 @@ confEmbedUpload=Editatzeko esperientzia hobea izateko, erabili draw.io-ren makro
 confPublishErr=Beste eguneratze batek zure argitalpenarekin gatazka izan du, saiatu berriro
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

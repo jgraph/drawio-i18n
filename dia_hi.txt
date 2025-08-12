@@ -1319,3 +1319,4 @@ confEmbedUpload=बेहतर संपादन अनुभव के लि
 confPublishErr=आपके प्रकाशन के साथ एक और अपडेट टकरा गया, कृपया पुनः प्रयास करें
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

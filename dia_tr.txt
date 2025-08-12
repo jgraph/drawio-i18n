@@ -1319,3 +1319,4 @@ confEmbedUpload=Daha iyi bir düzenleme deneyimi için, lütfen boş bir diyagra
 confPublishErr=Başka bir güncelleme yayınızla çakıştı, lütfen işlemi tekrar deneyin
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

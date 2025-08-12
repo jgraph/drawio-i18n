@@ -1319,3 +1319,4 @@ confEmbedUpload=Aby uzyskać lepsze doświadczenia z edycji, użyj zwykłego mak
 confPublishErr=Inna aktualizacja była w konflikcie z twoją publikacją, spróbuj ponownie
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

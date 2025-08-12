@@ -1319,3 +1319,4 @@ confEmbedUpload=Por una mejor experiencia de edición, utilice el macro regular 
 confPublishErr=Alia ĝisdatigo konfliktis kun via publikigo, bonvolu provi la operacion denove
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

@@ -1319,3 +1319,4 @@ confEmbedUpload=Parhaan muokkauskokemuksen saamiseksi käytä tavallista draw.io
 confPublishErr=Toinen päivitys oli ristiriidassa julkaisusi kanssa, yritä uudelleen
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

@@ -1319,3 +1319,4 @@ confEmbedUpload=Per a una millor experiència d'edició, utilitzeu la macro regu
 confPublishErr=Una altra actualització ha entrat en conflicte amb la vostra publicació, torneu a intentar l'operació
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

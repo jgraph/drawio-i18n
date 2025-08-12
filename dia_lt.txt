@@ -1319,3 +1319,4 @@ confEmbedUpload=Geriau redagavimo patirčiai naudokite įprastą draw.io makroko
 confPublishErr=Kitas atnaujinimas konfliktavo su jūsų paskelbimu, bandykite dar kartą
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

@@ -1319,3 +1319,4 @@ confEmbedUpload=confEmbedUpload
 confPublishErr=confPublishErr
 confACacheMapping=confACacheMapping
 confARemImpPages=confARemImpPages
+delCachedData=delCachedData

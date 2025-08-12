@@ -1319,3 +1319,4 @@ confEmbedUpload=Untuk pengalaman penyuntingan yang lebih baik, sila gunakan makr
 confPublishErr=Terjadi konflik dengan pembaruan lain saat Anda mempublikasikan, silakan coba lagi
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

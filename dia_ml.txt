@@ -1319,3 +1319,4 @@ confEmbedUpload=മെച്ചപ്പെട്ട എഡിറ്റിംഗ
 confPublishErr=നിങ്ങളുടെ പ്രസിദ്ധീകരണവുമായി മറ്റൊരു അപ്‌ഡേറ്റ് തർക്കിച്ചു, ദയവായി പ്രവർത്തനം വീണ്ടും ശ്രമിക്കുക
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

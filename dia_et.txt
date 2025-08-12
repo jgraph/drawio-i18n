@@ -1319,3 +1319,4 @@ confEmbedUpload=For a better editing experience, please use the regular draw.io 
 confPublishErr=Teine värskendus oli teie avaldamisega vastuolus, proovige toimingut uuesti
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

@@ -1319,3 +1319,4 @@ confEmbedUpload=Gebruik de reguliere draw.io-macro om een leeg diagram in te voe
 confPublishErr=Een andere update conflicteerde met uw publicatie, probeer de bewerking opnieuw
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

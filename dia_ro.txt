@@ -1319,3 +1319,4 @@ confEmbedUpload=Pentru o experiență mai bună de editare, utilizați macro-ul 
 confPublishErr=O altă actualizare a intrat în conflict cu publicarea dvs., încercați din nou
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

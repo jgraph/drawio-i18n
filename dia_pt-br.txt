@@ -1319,3 +1319,4 @@ confEmbedUpload=Para uma melhor experiência de edição, use o macro regular do
 confPublishErr=Outra atualização entrou em conflito com sua publicação, tente a operação novamente
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

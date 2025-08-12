@@ -1319,3 +1319,4 @@ confEmbedUpload=වැඩි හොඳ සකස් කිරීමේ අත්
 confPublishErr=ඔබේ ප්‍රකාශනය සමඟ වෙනත් යාවත්කාලීන කිරීමක් ගැටුම් විය, කරුණාකර මෙහෙයුම නැවත උත්සාහ කරන්න
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

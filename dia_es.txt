@@ -1319,3 +1319,4 @@ confEmbedUpload=Parima redigeerimiskogemuse saamiseks kasutage palun tavalist dr
 confPublishErr=Otra actualización entró en conflicto con su publicación, por favor intente la operación nuevamente
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

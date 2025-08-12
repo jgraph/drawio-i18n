@@ -1319,3 +1319,4 @@ confEmbedUpload=ለተሻለ የማረሚያ ተሞክሮ፣ እባክዎ ባዶ
 confPublishErr=ሌላ አዘምን ከማትረፍዎ ጋር ተጣልቷል፣ እባክዎን እንደገና ይሞክሩ
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

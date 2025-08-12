@@ -1319,3 +1319,4 @@ confEmbedUpload=Bruk den vanlige draw.io-makroen for å sette inn et tomt diagra
 confPublishErr=En annen oppdatering var i konflikt med publiseringen din, vennligst prøv operasjonen på nytt
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

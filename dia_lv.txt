@@ -1319,3 +1319,4 @@ confEmbedUpload=Lai iegūtu labāku rediģēšanas pieredzi, lūdzu, izmantojiet
 confPublishErr=Cits atjauninājums konfliktēja ar jūsu publicēšanu, lūdzu, mēģiniet vēlreiz
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data

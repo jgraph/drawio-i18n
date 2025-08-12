@@ -1319,3 +1319,4 @@ confEmbedUpload=Kwa hali bora ya uhariri, tafadhali tumia makro la kawaida la dr
 confPublishErr=Pembaharuan lain bertentangan dengan penerbitan anda, sila cuba operasi semula
 confACacheMapping=Cache page IDs mapping
 confARemImpPages=Remember imported pages
+delCachedData=Delete Cached Data
