@@ -1320,3 +1320,4 @@ confPublishErr=Een andere update conflicteerde met uw publicatie, probeer de bew
 confACacheMapping=Verwijzingen van pagina-ID's opslaan
 confARemImpPages=Geïmporteerde pagina's onthouden
 delCachedData=Tijdelijke opgeslag wissen
+k15tPagesError=Error retrieving Scroll pages. Is Scroll Versions installed?
