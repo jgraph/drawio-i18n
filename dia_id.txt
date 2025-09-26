@@ -1321,3 +1321,4 @@ confACacheMapping=Pemetaan ID halaman singgahan
 confARemImpPages=Ingat halaman yang diimpor
 delCachedData=Hapus Data yang Disinggahkan
 k15tPagesError=Galat saat mengambil halaman Scroll. Apakah Scroll Versions terpasang?
+drawioUninstalled=draw.io has been uninstalled, the editor will now close
