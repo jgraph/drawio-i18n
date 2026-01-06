@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Understrek
 undo=Angre
 ungroup=Del opp gruppe
+unlockOthers=Lås Opp Andre
 unmerge=Unmerge
 unsavedChanges=Ikke lagrede endringer
 unsavedChangesClickHereToSave=Ulagrede endringer. Klikk her for å lagre.

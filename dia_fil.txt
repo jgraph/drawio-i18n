@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Salungguhitan
 undo=Bawiin ang ginawa
 ungroup=Kalasin
+unlockOthers=I-Unlock Ang Iba Pa
 unmerge=Unmerge
 unsavedChanges=Hindi nai-save ang mga pagbabago
 unsavedChangesClickHereToSave=Hindi nai-save ang mga pagbabago. Pindutin dito para i-save

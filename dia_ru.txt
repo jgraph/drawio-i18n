@@ -802,6 +802,7 @@ unassigned=Неназначенный
 underline=Подчёркнутый
 undo=Отменить
 ungroup=Разгруппировать
+unlockOthers=Разблокировать Других
 unmerge=Разъединить
 unsavedChanges=Изменения не сохранены
 unsavedChangesClickHereToSave=Изменения не сохранены. Нажмите здесь для сохранения.

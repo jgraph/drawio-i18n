@@ -802,6 +802,7 @@ unassigned=Nieprzypisane
 underline=Podkreślenie
 undo=Cofnij
 ungroup=Rozgrupuj
+unlockOthers=Odblokuj Innych
 unmerge=Odłącz
 unsavedChanges=Niezapisane zmiany
 unsavedChangesClickHereToSave=Niezapisane zmiany. Kliknij tutaj, aby zapisać.

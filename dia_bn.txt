@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Underline
 undo=Undo
 ungroup=Ungroup
+unlockOthers=অন্যদের আনলক করুন
 unmerge=Unmerge
 unsavedChanges=Unsaved changes
 unsavedChangesClickHereToSave=Unsaved changes. Click here to save.

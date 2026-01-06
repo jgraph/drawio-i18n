@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Underline
 undo=Undo
 ungroup=Ungroup
+unlockOthers=Malŝlosu Aliajn
 unmerge=Unmerge
 unsavedChanges=Unsaved changes
 unsavedChangesClickHereToSave=Unsaved changes. Click here to save.

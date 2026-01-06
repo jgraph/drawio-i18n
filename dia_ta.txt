@@ -802,6 +802,7 @@ unassigned=ஒதுக்கப்படாதது
 underline=அடிக்கோடிட்டு
 undo=செயல்தவிர்
 ungroup=பிரிகுழு
+unlockOthers=மற்றவற்றைத் திறக்கவும்
 unmerge=அவிழ்த்து விடுங்கள்
 unsavedChanges=சேமிக்கப்படாத மாற்றங்கள்
 unsavedChangesClickHereToSave=சேமிக்கப்படாத மாற்றங்கள். சேமிக்க இங்கே சொடுக்கு செய்க.

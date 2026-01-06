@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Підкреслити
 undo=Відмінити
 ungroup=Розгрупувати
+unlockOthers=Розблокувати Інших
 unmerge=Роз'єднати
 unsavedChanges=Незбережені зміни
 unsavedChangesClickHereToSave=Незбережені зміни. Натисніть тут, щоб зберегти.

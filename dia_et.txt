@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Alljoonda
 undo=Võta tagasi
 ungroup=Eemalda rühmitus
+unlockOthers=Ava Teisi
 unmerge=Eemalda ühendamine
 unsavedChanges=Salvestamata muudatused
 unsavedChangesClickHereToSave=Salvestamata muudatused. Kliki siia salvestamiseks.

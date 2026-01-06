@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Gạch dưới
 undo=Hoàn tác
 ungroup=Bỏ nhóm
+unlockOthers=Mở Khóa Các MụC Khác
 unmerge=Unmerge
 unsavedChanges=Thay đổi chưa được lưu
 unsavedChangesClickHereToSave=Thay đổi chưa được lưu. Nhấn vào đây để lưu.

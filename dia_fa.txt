@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=‫زیرخط‬
 undo=‫عدم انجام‬
 ungroup=‫از حالت گروهی خارج کردن‬
+unlockOthers=‫باز کردن قفل دیگران‬
 unmerge=Unmerge
 unsavedChanges=‫تغییرات ذخیره نشده‬
 unsavedChangesClickHereToSave=‫تغییرات ذخیره نشده اند. برای ذخیره شدن اینجا کلیک کنید.‬

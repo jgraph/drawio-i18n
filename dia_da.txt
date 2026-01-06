@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Understreget
 undo=Fortryd
 ungroup=Opdel
+unlockOthers=Lås Andre Op
 unmerge=Unmerge
 unsavedChanges=Ugemte ændringer
 unsavedChangesClickHereToSave=Ugemte ændringer. Klik her for at gemme.

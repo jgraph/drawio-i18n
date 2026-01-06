@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Υπογράμμιση
 undo=Αναίρεση
 ungroup=Απο-ομαδοποίηση
+unlockOthers=Ξεκλειδώστε Άλλους
 unmerge=Unmerge
 unsavedChanges=Μη αποθηκευμένες αλλαγές
 unsavedChangesClickHereToSave=Μη αποθηκευμένες αλλαγές. Πατήστε εδώ για αποθήκευση.

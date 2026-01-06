@@ -802,6 +802,7 @@ unassigned=Tidak ditugaskan
 underline=Garis Bawah
 undo=Batalkan
 ungroup=Lepas Grup
+unlockOthers=Buka Kunci Lainnya
 unmerge=Lepas Penggabungan
 unsavedChanges=Perubahan yang belum disimpan
 unsavedChangesClickHereToSave=Perubahan yang belum disimpan. Klik di sini untuk menyimpan.

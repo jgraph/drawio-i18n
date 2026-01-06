@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Pasvītrots
 undo=Atsaukt
 ungroup=Atgrupēt
+unlockOthers=Atbloķēt Citus
 unmerge=Atsaukt sapludināšanu
 unsavedChanges=Nesaglabātas izmaiņas
 unsavedChangesClickHereToSave=Nesaglabātas izmaiņas. Noklikšķiniet šeit, lai saglabātu.

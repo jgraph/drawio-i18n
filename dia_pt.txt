@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Sublinhar
 undo=Desfazer
 ungroup=Desagrupar
+unlockOthers=Desbloquear Outros
 unmerge=Unmerge
 unsavedChanges=Alterações não guardadas
 unsavedChangesClickHereToSave=Alterações não guardadas. Carregar aqui para guardar.

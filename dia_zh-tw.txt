@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=底線
 undo=還原
 ungroup=取消群組
+unlockOthers=解鎖其他人
 unmerge=取消合併
 unsavedChanges=未儲存的修改
 unsavedChangesClickHereToSave=修改未儲存。點此以儲存。

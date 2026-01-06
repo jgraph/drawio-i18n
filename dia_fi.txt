@@ -802,6 +802,7 @@ unassigned=Määrittämätön
 underline=Alleviivaa
 undo=Kumoa
 ungroup=Pura ryhmittely
+unlockOthers=Avaa Muita
 unmerge=Poista yhdistäminen
 unsavedChanges=Tallentamattomat muutokset
 unsavedChangesClickHereToSave=Tallentamattomia muutoksia. Napsauta tästä tallentaaksesi.

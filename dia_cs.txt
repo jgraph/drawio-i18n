@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Podtržené
 undo=Zpět
 ungroup=Rozdělit skupinu
+unlockOthers=Odemkněte Ostatní
 unmerge=Zrušit sloučení
 unsavedChanges=Neuložené změny
 unsavedChangesClickHereToSave=Neuložené změny. Uložíte kliknutím sem.

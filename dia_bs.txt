@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Podvučen
 undo=Opozovi
 ungroup=Podijeli
+unlockOthers=Otključaj Druge
 unmerge=Unmerge
 unsavedChanges=Nespašene izmjene
 unsavedChangesClickHereToSave=Nespašene izmjene. Kliknite ovdje da spasite.

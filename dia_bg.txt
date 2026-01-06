@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Подчертаване
 undo=Отмяна
 ungroup=Разгрупиране
+unlockOthers=Отключи Други
 unmerge=Unmerge
 unsavedChanges=Незапазени промени
 unsavedChangesClickHereToSave=Незапазени промени. Кликнете тук, за да запазите.

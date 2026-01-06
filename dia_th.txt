@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=ขีดเส้นใต้
 undo=ยกเลิกการทำ
 ungroup=ยกเลิกการจัดกลุ่ม
+unlockOthers=ปลดล็อกผู้อื่น
 unmerge=Unmerge
 unsavedChanges=การเปลี่ยนแปลงที่ยังไม่ได้บันทึก
 unsavedChangesClickHereToSave=เปลี่ยนแปลงที่ยังไม่ได้บันทึก คลิกที่นี่เพื่อบันทึก

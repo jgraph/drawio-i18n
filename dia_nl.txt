@@ -802,6 +802,7 @@ unassigned=Niet toegewezen
 underline=Onderstrepen
 undo=Ongedaan maken
 ungroup=Groepering opheffen
+unlockOthers=Ontgrendel Anderen
 unmerge=Samenvoeging ongedaan maken
 unsavedChanges=Niet-opgeslagen wijzigingen
 unsavedChangesClickHereToSave=Niet-opgeslagen wijzigingen. Klik hier om op te slaan.

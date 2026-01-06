@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Subliniază
 undo=Anulare acţiune anterioara
 ungroup=Degrupare
+unlockOthers=Deblocați Alte Persoane
 unmerge=Unmerge
 unsavedChanges=Modificări ce nu au fost salvate
 unsavedChangesClickHereToSave=Modificări ce nu au fost salvate. Apasă aici pentru a salva.

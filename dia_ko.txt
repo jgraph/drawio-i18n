@@ -802,6 +802,7 @@ unassigned=할당되지 않음
 underline=밑줄
 undo=실행 취소
 ungroup=그룹 해제
+unlockOthers=다른 사람의 잠금 해제
 unmerge=병합 해제
 unsavedChanges=저장되지 않은 변경사항
 unsavedChangesClickHereToSave=저장되지 않은 변경사항이 있습니다. 저장하시려면 여기를 클릭하세요.

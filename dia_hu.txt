@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Aláhúz
 undo=Visszavon
 ungroup=Szétválaszt
+unlockOthers=Mások Feloldása
 unmerge=Unmerge
 unsavedChanges=Mentetlen változtatások
 unsavedChangesClickHereToSave=Mentetlen változások. Klikk ide a mentéshez.

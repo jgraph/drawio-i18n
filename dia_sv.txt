@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Understruken
 undo=Ångra
 ungroup=Dela upp
+unlockOthers=Lås Upp Andra
 unmerge=Unmerge
 unsavedChanges=Osparade ändringar
 unsavedChangesClickHereToSave=Osparade ändringar. Klicka här för att spara

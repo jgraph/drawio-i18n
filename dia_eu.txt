@@ -802,6 +802,7 @@ unassigned=Esleitu gabe
 underline=Azpimarra
 undo=Desegin
 ungroup=Banandu
+unlockOthers=Desblokeatu Besteak
 unmerge=Zatitu
 unsavedChanges=Gorde gabeko aldaketak
 unsavedChangesClickHereToSave=Gorde gabeko aldaketak daude. Egin klik hemen gordetzeko.

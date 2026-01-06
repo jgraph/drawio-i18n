@@ -802,6 +802,7 @@ unassigned=No assignat
 underline=Subratlla
 undo=Desfés
 ungroup=Desagrupa
+unlockOthers=Desbloqueja Altres
 unmerge=Divideix
 unsavedChanges=Canvis no desats
 unsavedChangesClickHereToSave=Canvis no desats. Clica aquí per desar.

@@ -802,6 +802,7 @@ unassigned=Unassigned
 underline=Altını çiz
 undo=Geri al
 ungroup=Grubu çöz
+unlockOthers=Diğerlerinin Kilidini Aç
 unmerge=Unmerge
 unsavedChanges=Kaydedilmemiş değişiklikler
 unsavedChangesClickHereToSave=Kaydedilmemiş değişiklikler. Kaydetmek için burayı tıklayınız.
