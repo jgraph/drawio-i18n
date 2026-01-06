@@ -1328,4 +1328,4 @@ k15tPagesError=k15tPagesError
 drawioUninstalled=drawioUninstalled
 confAttachmentArchived=confAttachmentArchived
 confDiagramMacroDowngrade=confDiagramMacroDowngrade
-DCSave500Error=DCSave500Error
+DCSave500Error Another Confluence operation interrupted saving=DCSave500Error Another Confluence operation interrupted saving
