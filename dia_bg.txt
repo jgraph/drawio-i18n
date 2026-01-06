@@ -397,6 +397,7 @@ help=Помощ
 helpTranslate=Помогнете ни да преведем това приложение
 hide=Скриване
 hideIt=Скриване на {1}
+hideOthers=Скриване На Други
 hidden=Скрит
 highContrast=High Contrast
 home=Начална страница

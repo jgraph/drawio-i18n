@@ -397,6 +397,7 @@ help=Abi
 helpTranslate=Aita meil seda rakendust tõlkida
 hide=Peida
 hideIt=Peida {1}
+hideOthers=Peida Teised
 hidden=Peidetud
 highContrast=High Contrast
 home=Kodu

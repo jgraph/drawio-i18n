@@ -397,6 +397,7 @@ help=‫کمک‬
 helpTranslate=‫برای ترجمه این اپلیکیشن به ما کمک کنید‬
 hide=‫پنهان کردن‬
 hideIt=‫پنهان کردن {1}‬
+hideOthers=‫پنهان کردن دیگران‬
 hidden=‫مخفی‬
 highContrast=High Contrast
 home=‫خانه‬

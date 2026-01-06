@@ -397,6 +397,7 @@ help=Pagalba
 helpTranslate=Padėkite mums išversti šią programą
 hide=Paslėpti
 hideIt=Paslėpti {1}
+hideOthers=Slėpti Kitus
 hidden=Paslėptas
 highContrast=High Contrast
 home=Į pagrindinį

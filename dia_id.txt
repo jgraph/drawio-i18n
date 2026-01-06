@@ -397,6 +397,7 @@ help=Bantuan
 helpTranslate=Bantu kami menerjemahkan aplikasi ini
 hide=Sembunyikan
 hideIt=Sembunyikan {1}
+hideOthers=Sembunyikan Yang Lain
 hidden=Tersembunyi
 highContrast=Kontras Tinggi
 home=Beranda

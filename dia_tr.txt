@@ -397,6 +397,7 @@ help=Yardım
 helpTranslate=Bu uygulamayı tercümede bize yardım edin
 hide=Gizle
 hideIt=Gizle {1}
+hideOthers=Diğerlerini Gizle
 hidden=Gizli
 highContrast=High Contrast
 home=Anasayfa

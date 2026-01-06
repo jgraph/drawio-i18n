@@ -397,6 +397,7 @@ help=도움말
 helpTranslate=이 프로그램의 번역을 도와주세요.
 hide=숨기기
 hideIt={1} 숨기기
+hideOthers=다른 항목 숨기기
 hidden=숨겨짐
 highContrast=고대비
 home=홈

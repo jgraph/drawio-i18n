@@ -397,6 +397,7 @@ help=Pomoć
 helpTranslate=Pomozite nam u prevođenju ove aplikacije
 hide=Sakrij
 hideIt=Sakrij {1}
+hideOthers=Сакриј Остале
 hidden=Sakriven
 highContrast=High Contrast
 home=Dom

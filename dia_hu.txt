@@ -397,6 +397,7 @@ help=Súgó
 helpTranslate=Segítsen a program fordításában
 hide=Elrejt
 hideIt={1}-t elrejt
+hideOthers=Mások Elrejtése
 hidden=Elrejtett
 highContrast=High Contrast
 home=Otthon

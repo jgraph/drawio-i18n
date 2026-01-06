@@ -397,6 +397,7 @@ help=Помощь
 helpTranslate=Помогите перевести draw.io
 hide=Скрыть
 hideIt=Скрыть {1}
+hideOthers=Скрыть Других
 hidden=Скрытый
 highContrast=Высокая контрастность
 home=Домой

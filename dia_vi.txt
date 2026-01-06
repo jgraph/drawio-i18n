@@ -397,6 +397,7 @@ help=Hỗ trợ
 helpTranslate=Giúp chúng tôi dịch ứng dụng này
 hide=Ẩn
 hideIt=Ẩn {1}
+hideOthers=ẨN NhữNg NgườI Khác
 hidden=Đã ẩn
 highContrast=High Contrast
 home=Về nhóm gốc

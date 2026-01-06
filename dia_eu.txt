@@ -397,6 +397,7 @@ help=Laguntza
 helpTranslate=Laguntza eman itzultzailtzeko
 hide=Ezkutatu
 hideIt={1} ezkutatu
+hideOthers=Ezkutatu Besteak
 hidden=Ezkutuan
 highContrast=Kontraste handia
 home=Hasiera

@@ -397,6 +397,7 @@ help=Help
 helpTranslate=Helpu nin traduki ĉi tiun aplikaĵon
 hide=Kaŝi
 hideIt=Kaŝi {1}
+hideOthers=Kaŝi Aliajn
 hidden=Kaŝita
 highContrast=High Contrast
 home=Home

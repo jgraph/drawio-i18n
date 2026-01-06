@@ -397,6 +397,7 @@ help=Help
 helpTranslate=Help ons deze applicatie te vertalen
 hide=Verbergen
 hideIt={1} verbergen
+hideOthers=Anderen Verbergen
 hidden=Verborgen
 highContrast=Hoog contrast
 home=Startpagina

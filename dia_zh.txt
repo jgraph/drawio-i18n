@@ -397,6 +397,7 @@ help=帮助
 helpTranslate=帮助我们翻译此应用
 hide=隐藏
 hideIt=隐藏 {1}
+hideOthers=隐藏其他
 hidden=已隐藏
 highContrast=高对比度
 home=最顶层的组

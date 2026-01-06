@@ -397,6 +397,7 @@ help=Ayuda
 helpTranslate=Ayúdenos a traducir esta aplicación
 hide=Ocultar
 hideIt=Ocultar {1}
+hideOthers=Ocultar Otros
 hidden=Oculto
 highContrast=High Contrast
 home=Inicio

@@ -397,6 +397,7 @@ help=Help
 helpTranslate=Help us translate this application
 hide=Hide
 hideIt=Hide {1}
+hideOthers=අනෙක් ඒවා සඟවන්න
 hidden=Hidden
 highContrast=High Contrast
 home=Home

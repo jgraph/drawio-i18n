@@ -397,6 +397,7 @@ help=Hjälp
 helpTranslate=Hjälp oss att översätta denna applikation
 hide=Dölj
 hideIt=Dölj {1}
+hideOthers=Dölj Andra
 hidden=Dold
 highContrast=Hög kontrast
 home=Hem

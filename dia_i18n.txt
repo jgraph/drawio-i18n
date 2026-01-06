@@ -397,6 +397,7 @@ help=help
 helpTranslate=helpTranslate
 hide=hide
 hideIt=hideIt
+hideOthers=hideOthers
 hidden=hidden
 highContrast=highContrast
 home=home

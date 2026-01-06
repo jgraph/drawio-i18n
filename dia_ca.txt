@@ -397,6 +397,7 @@ help=Ajuda
 helpTranslate=Ajuda'ns a traduir aquesta aplicació
 hide=Amaga
 hideIt=Amaga {1}
+hideOthers=Amaga Els Altres
 hidden=Amagat
 highContrast=Alt Contrast
 home=Inici

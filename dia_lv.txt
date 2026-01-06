@@ -397,6 +397,7 @@ help=Palīdzība
 helpTranslate=Palīdziet mums iztulkot šo lietojumprogrammu
 hide=Slēpt
 hideIt=Slēpt {1}
+hideOthers=Slēpt Citus
 hidden=Paslēpts
 highContrast=High Contrast
 home=Uz sākotnējo

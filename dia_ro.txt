@@ -397,6 +397,7 @@ help=Ajutor
 helpTranslate=Ajută-ne să traducem această aplicație
 hide=Ascunde
 hideIt=Ascunde {1}
+hideOthers=Ascundeți Alte Persoane
 hidden=Ascuns
 highContrast=High Contrast
 home=Acasă

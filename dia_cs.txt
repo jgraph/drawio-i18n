@@ -397,6 +397,7 @@ help=Nápověda
 helpTranslate=Pomozte nám přeložit tuto aplikaci
 hide=Skrýt
 hideIt=Skrýt {1}
+hideOthers=Skrýt Ostatní
 hidden=Skryto
 highContrast=High Contrast
 home=Domů

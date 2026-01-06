@@ -397,6 +397,7 @@ help=Довідка
 helpTranslate=Допоможіть нам перекласти цей застосунок
 hide=Приховати
 hideIt=Приховати {1}
+hideOthers=Приховати Інших
 hidden=Приховано
 highContrast=High Contrast
 home=На верхній рівень

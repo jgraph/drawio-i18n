@@ -397,6 +397,7 @@ help=Tulong
 helpTranslate=Tulungan kami na isalin ang aplikasyon na ito
 hide=Itago
 hideIt=Itago {1}
+hideOthers=Itago Ang Iba Pa
 hidden=Nakatago
 highContrast=High Contrast
 home=Simula

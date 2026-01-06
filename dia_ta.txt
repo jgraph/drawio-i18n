@@ -397,6 +397,7 @@ help=உதவி
 helpTranslate=இந்த பயன்பாட்டை மொழிபெயர்க்க எங்களுக்கு உதவுங்கள்
 hide=மறை
 hideIt={1} மறை
+hideOthers=மற்றவற்றை மறை
 hidden=மறைக்கப்பட்டது
 highContrast=உயர் வேறுபாடு
 home=வீடு

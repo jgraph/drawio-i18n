@@ -397,6 +397,7 @@ help=Βοήθεια
 helpTranslate=Βοηθήστε μας να μεταφράσουμε αυτή την εφαρμογή
 hide=Απόκρυψη
 hideIt=Απόκρυψη {1}
+hideOthers=Απόκρυψη Άλλων
 hidden=Κρυφό
 highContrast=High Contrast
 home=Αρχική

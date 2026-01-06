@@ -397,6 +397,7 @@ help=Ohje
 helpTranslate=Auta meitä kääntämään tämä sovellus
 hide=Piilota
 hideIt=Piilota {1}
+hideOthers=Piilota Muut
 hidden=Piilotettu
 highContrast=Korkea kontrasti
 home=Koti

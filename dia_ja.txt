@@ -397,6 +397,7 @@ help=ヘルプ
 helpTranslate=このアプリケーションの翻訳お手伝いをしてください
 hide=非表示する
 hideIt={1}を隠す
+hideOthers=その他を非表示
 hidden=隠された
 highContrast=High Contrast
 home=ホーム

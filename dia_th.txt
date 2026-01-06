@@ -397,6 +397,7 @@ help=ช่วยเหลือ
 helpTranslate=ช่วยเราแปลแอพพลิเคชั่นนี้
 hide=ซ่อน
 hideIt=ซ่อน {1}
+hideOthers=ซ่อนผู้อื่น
 hidden=ถูกซ่อนไว้
 highContrast=High Contrast
 home=หน้าแรก
