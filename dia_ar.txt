@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Select File
 selectFolder=Select Folder
 selectFont=‫تحديد الخط‬
+selection=‫اختيار‬
 selectNone=Select None
 selectTemplate=Select Template
 selectVertices=‫تحديد القمم‬

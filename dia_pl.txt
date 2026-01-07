@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Wybierz plik
 selectFolder=Wybierz folder
 selectFont=Wybierz czcionkę
+selection=Wybór
 selectNone=Odznacz wszystko
 selectTemplate=Wybierz szablon
 selectVertices=Zaznacz wierzchołki

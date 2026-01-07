@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=‫בחר קובץ‬
 selectFolder=‫בחר תיקיה‬
 selectFont=‫בחר גופן‬
+selection=‫בְּחִירָה‬
 selectNone=‫בטל בחירה‬
 selectTemplate=Select Template
 selectVertices=‫בחר קודקודים‬

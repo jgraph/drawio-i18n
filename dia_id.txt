@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Pilih Berkas
 selectFolder=Pilih Folder
 selectFont=Pilih Fonta
+selection=Pilihan
 selectNone=Tidak Memilih
 selectTemplate=Pilih Templat
 selectVertices=Pilih Verteks

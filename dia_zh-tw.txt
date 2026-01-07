@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=選擇檔案
 selectFolder=選擇目錄
 selectFont=選擇字型
+selection=選拔
 selectNone=全不選
 selectTemplate=選擇樣板
 selectVertices=選擇頂點

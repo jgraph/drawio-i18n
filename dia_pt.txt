@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Seleccionar Ficheiro
 selectFolder=Seleccionar Pasta
 selectFont=Seleccionar uma fonte
+selection=Seleção
 selectNone=Seleccione nenhum
 selectTemplate=Select Template
 selectVertices=Seleccionar vértices

@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Fájlt kijelöl
 selectFolder=Betűtípust kijelöl
 selectFont=Betűkészlet választás
+selection=Kiválasztás
 selectNone=Semmit kijelöl
 selectTemplate=Select Template
 selectVertices=Csomók kijelölése

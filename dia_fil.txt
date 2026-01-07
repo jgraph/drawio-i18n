@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Pumili ang File
 selectFolder=Pumili ng folder
 selectFont=Pumili ng istilo ng teksto
+selection=Pagpili
 selectNone=Walang Pipiliin
 selectTemplate=Select Template
 selectVertices=Pumili ng mga Vertex

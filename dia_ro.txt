@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Selectează fișier
 selectFolder=Selectează director
 selectFont=Selectează font
+selection=Selecţie
 selectNone=Nu selecta nimic
 selectTemplate=Selectează șablon
 selectVertices=Selectează noduri

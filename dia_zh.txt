@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=选择文件
 selectFolder=选择文件夹
 selectFont=选择字体
+selection=选拔
 selectNone=全不选
 selectTemplate=选择模板
 selectVertices=选择顶点

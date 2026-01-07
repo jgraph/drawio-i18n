@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=ファイルを選択します
 selectFolder=フォルダーを選択します
 selectFont=フォントを選択する
+selection=選択
 selectNone=選択を解除
 selectTemplate=Select Template
 selectVertices=頂点を選択

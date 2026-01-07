@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Pilih Fail
 selectFolder=Pilih Folder
 selectFont=Pilih Fon
+selection=Pemilihan
 selectNone=Tidak Memilih
 selectTemplate=Select Template
 selectVertices=Pilih Bucu

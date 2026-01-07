@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Velg fil
 selectFolder=Velg mappe
 selectFont=Velg skrifttype
+selection=Utvalg
 selectNone=Ikke velg
 selectTemplate=Select Template
 selectVertices=Velg toppunkter

@@ -706,6 +706,7 @@ selectedPage=தேர்ந்தெடுக்கப்பட்ட பக்
 selectFile=கோப்பைத் தேர்ந்தெடு
 selectFolder=கோப்புறையைத் தேர்ந்தெடு
 selectFont=எழுத்துருவைத் தேர்ந்தெடு
+selection=தேர்வு
 selectNone=எதுவுமில்லை என்பதைத் தேர்ந்தெடு
 selectTemplate=வார்ப்புருவைத் தேர்ந்தெடு
 selectVertices=செங்குத்துகளைத் தேர்ந்தெடு

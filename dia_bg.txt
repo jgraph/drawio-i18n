@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Избор на файл
 selectFolder=Избор на папка
 selectFont=Избор на шрифт
+selection=Избор
 selectNone=Не избирай нищо
 selectTemplate=Select Template
 selectVertices=Избор на вертекси

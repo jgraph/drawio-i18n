@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Select File
 selectFolder=Select Folder
 selectFont=Select Font
+selection=തിരഞ്ഞെടുപ്പ്
 selectNone=Select None
 selectTemplate=Select Template
 selectVertices=Select Vertices

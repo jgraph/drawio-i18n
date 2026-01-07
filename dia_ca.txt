@@ -706,6 +706,7 @@ selectedPage=Pàgina Seleccionada
 selectFile=Selecciona un Fitxer
 selectFolder=Selecciona una Carpeta
 selectFont=Selecciona una Font
+selection=Selecció
 selectNone=No seleccionis res
 selectTemplate=Selecciona una plantilla
 selectVertices=Selecciona els vèrtexs

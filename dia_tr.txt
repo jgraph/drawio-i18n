@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Dosyayı seç
 selectFolder=Klasörü seç
 selectFont=Bir yazı tipi seç
+selection=Seçim
 selectNone=Hiçbirini seçme
 selectTemplate=Select Template
 selectVertices=Köşeleri seç

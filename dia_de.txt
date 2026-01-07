@@ -706,6 +706,7 @@ selectedPage=Ausgewählte Seite
 selectFile=Datei auswählen
 selectFolder=Ordner auswählen
 selectFont=Schriftart wählen
+selection=Auswahl
 selectNone=Markierung aufheben
 selectTemplate=Vorlage wählen
 selectVertices=Alle Knoten auswählen

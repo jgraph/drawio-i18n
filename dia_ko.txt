@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=파일 선택
 selectFolder=폴더 선택
 selectFont=글꼴 선택
+selection=선택
 selectNone=선택 해제
 selectTemplate=템플릿 선택
 selectVertices=도형 선택

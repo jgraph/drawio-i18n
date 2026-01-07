@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Hautatu fitxategia
 selectFolder=Hautatu karpeta
 selectFont=Letra-tipoa hautatu
+selection=Hautaketa
 selectNone=Bat ere ez hautatu
 selectTemplate=Hautatu txantiloia
 selectVertices=Hautatu erpinak

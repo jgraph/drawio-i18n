@@ -706,6 +706,7 @@ selectedPage=Page selectionnée
 selectFile=Sélectionner le fichier
 selectFolder=Sélectionner le dossier
 selectFont=Sélectionner une police
+selection=Sélection
 selectNone=Tout désélectionner
 selectTemplate=Choisir un modèle
 selectVertices=Sélectionner des sommets

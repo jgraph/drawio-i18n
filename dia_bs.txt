@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Izaberi fajl
 selectFolder=Izaberi folder
 selectFont=Izaberi font
+selection=Izbor
 selectNone=Ne biraj ništa
 selectTemplate=Select Template
 selectVertices=Izaberi čvorove

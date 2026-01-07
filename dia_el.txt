@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Επιλογή Αρχείου
 selectFolder=Επιλογή Φακέλου
 selectFont=Επιλογή Γραμματοσειράς
+selection=Επιλογή
 selectNone=Χωρίς επιλογή
 selectTemplate=Επιλογή Πρότυπου
 selectVertices=Επιλογή κορυφών

@@ -706,6 +706,7 @@ selectedPage=Pagina selecteren
 selectFile=Bestand selecteren
 selectFolder=Map selecteren
 selectFont=Lettertype selecteren
+selection=Selectie
 selectNone=Niets selecteren
 selectTemplate=Sjabloon selecteren
 selectVertices=Hoekpunten selecteren

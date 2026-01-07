@@ -706,6 +706,7 @@ selectedPage=Vald sida
 selectFile=Välj fil
 selectFolder=Välj mapp
 selectFont=Välj teckensnitt
+selection=Urval
 selectNone=Välj ingen
 selectTemplate=Välj mall
 selectVertices=Markera hörn

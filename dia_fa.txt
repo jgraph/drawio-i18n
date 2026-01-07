@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=‫انتخاب فایل‬
 selectFolder=‫انتخاب پوشه‬
 selectFont=‫انتخاب فونت‬
+selection=‫انتخاب‬
 selectNone=‫موردی را انتخاب نکنید‬
 selectTemplate=Select Template
 selectVertices=‫رگه ها را انتخاب کنید‬

@@ -706,6 +706,7 @@ selectedPage=Valittu sivu
 selectFile=Valitse tiedosto
 selectFolder=Valitse kansio
 selectFont=Valitse fontti
+selection=Valinta
 selectNone=Poista valinnat
 selectTemplate=Valitse mallipohja
 selectVertices=Valitse kärkipisteet

@@ -706,6 +706,7 @@ selectedPage=Выбранная страница
 selectFile=Выберите файл
 selectFolder=Выберите папку
 selectFont=Выберите шрифт
+selection=Выбор
 selectNone=Сбросить выделение
 selectTemplate=Выбрать шаблон
 selectVertices=Выбрать вершины

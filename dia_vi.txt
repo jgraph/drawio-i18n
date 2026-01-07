@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Chọn tập tin
 selectFolder=Chọn thư mục
 selectFont=Chọn font
+selection=LựA ChọN
 selectNone=Bỏ chọn
 selectTemplate=Select Template
 selectVertices=Chọn đỉnh

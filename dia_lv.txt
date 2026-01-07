@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Izvēlēties failu
 selectFolder=Izvēlēties mapi
 selectFont=Izvēlēties fontu
+selection=Izlase
 selectNone=Noņemt atlasi
 selectTemplate=Izvēlēties veidni
 selectVertices=Izvēlēties virsotnes

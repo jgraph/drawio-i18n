@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Vybrat soubor
 selectFolder=Vybrat složku
 selectFont=Vybrat písmo
+selection=Výběr
 selectNone=Nevybrat nic
 selectTemplate=Vybrat šablonu
 selectVertices=Vybrat vrcholy

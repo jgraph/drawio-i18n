@@ -706,6 +706,7 @@ selectedPage=Selected Page
 selectFile=Vali fail
 selectFolder=Vali kaust
 selectFont=Vali font
+selection=Valik
 selectNone=Ära vali midagi
 selectTemplate=Vali mall
 selectVertices=Vali punktid
