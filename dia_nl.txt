@@ -26,6 +26,7 @@ alignment=Uitlijning
 allChangesLost=Alle wijzigingen zullen verloren gaan!
 allPages=Alle pagina's
 allProjects=Alle projecten
+allSelectedElementsInThisLayer=Alle geselecteerde elementen bevinden zich in deze laag.
 allSpaces=Alle ruimtes
 allTags=Alle tags
 anchor=Anker

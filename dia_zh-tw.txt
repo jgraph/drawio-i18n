@@ -26,6 +26,7 @@ alignment=對齊
 allChangesLost=所有修改都將丟失！
 allPages=所有頁面
 allProjects=所有專案
+allSelectedElementsInThisLayer=所有選定的元素都位於此圖層中。
 allSpaces=所有部份
 allTags=所有標籤
 anchor=錨點

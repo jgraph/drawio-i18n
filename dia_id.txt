@@ -26,6 +26,7 @@ alignment=Perataan
 allChangesLost=Semua perubahan akan hilang!
 allPages=Semua Halaman
 allProjects=Semua Proyek
+allSelectedElementsInThisLayer=Semua elemen yang dipilih berada di lapisan ini.
 allSpaces=Semua Ruang
 allTags=Semua Tag
 anchor=Jangkar

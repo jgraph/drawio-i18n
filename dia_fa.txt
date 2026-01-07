@@ -26,6 +26,7 @@ alignment=‫هم‌ترازی‬
 allChangesLost=‫تمامی تغییرات از دست خواهند رفت!‬
 allPages=‫همه صفحه ها‬
 allProjects=‫همه پروژه ها‬
+allSelectedElementsInThisLayer=‫تمام عناصر انتخاب شده در این لایه قرار دارند‬
 allSpaces=‫تمام فاصله ها‬
 allTags=‫همه برچسبها‬
 anchor=‫لنگر‬

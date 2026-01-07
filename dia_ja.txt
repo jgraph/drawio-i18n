@@ -26,6 +26,7 @@ alignment=文字配置
 allChangesLost=すべての変更が失われます!
 allPages=すべてのページ
 allProjects=すべてのプロジェクト
+allSelectedElementsInThisLayer=選択されたすべての要素はこのレイヤーにあります
 allSpaces=すべてのスペース
 allTags=すべてのタグ
 anchor=アンカー

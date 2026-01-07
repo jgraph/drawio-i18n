@@ -26,6 +26,7 @@ alignment=‫محاذاة‬
 allChangesLost=‫سيتم فقد جميع التغييرات‬
 allPages=‫كل الصفحات‬
 allProjects=‫كل المشاريع‬
+allSelectedElementsInThisLayer=‫جميع العناصر المحددة موجودة في هذه الطبقة‬
 allSpaces=‫كل المساحات‬
 allTags=‫كل الواصفات‬
 anchor=‫مرساة‬

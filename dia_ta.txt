@@ -26,6 +26,7 @@ alignment=சீரமைப்பு
 allChangesLost=எல்லா மாற்றங்களும் இழக்கப்படும்!
 allPages=அனைத்து பக்கங்களும்
 allProjects=அனைத்து திட்டங்களும்
+allSelectedElementsInThisLayer=தேர்ந்தெடுக்கப்பட்ட அனைத்து கூறுகளும் இந்த அடுக்கில் உள்ளன.
 allSpaces=அனைத்து இடங்களும்
 allTags=அனைத்து குறிச்சொற்களும்
 anchor=நங்கூரம்

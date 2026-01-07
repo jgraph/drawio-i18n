@@ -26,6 +26,7 @@ alignment=alignment
 allChangesLost=allChangesLost
 allPages=allPages
 allProjects=allProjects
+allSelectedElementsInThisLayer=allSelectedElementsInThisLayer
 allSpaces=allSpaces
 allTags=allTags
 anchor=anchor

@@ -26,6 +26,7 @@ alignment=Alignment
 allChangesLost=All changes will be lost!
 allPages=All Pages
 allProjects=All Projects
+allSelectedElementsInThisLayer=બધા પસંદ કરેલા તત્વો આ સ્તરમાં છે.
 allSpaces=All Spaces
 allTags=All Tags
 anchor=Anchor

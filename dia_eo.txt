@@ -26,6 +26,7 @@ alignment=Alignment
 allChangesLost=All changes will be lost!
 allPages=Ĉiuj paĝoj
 allProjects=Ĉiuj projektoj
+allSelectedElementsInThisLayer=Ĉiuj elektitaj elementoj estas en ĉi tiu tavolo
 allSpaces=Ĉiuj spacoj
 allTags=Ĉiuj etikedoj
 anchor=Ankro

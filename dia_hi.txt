@@ -26,6 +26,7 @@ alignment=Alignment
 allChangesLost=All changes will be lost!
 allPages=All Pages
 allProjects=All Projects
+allSelectedElementsInThisLayer=सभी चयनित तत्व इस परत में हैं
 allSpaces=All Spaces
 allTags=All Tags
 anchor=Anchor

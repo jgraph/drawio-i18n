@@ -26,6 +26,7 @@ alignment=Alignment
 allChangesLost=All changes will be lost!
 allPages=All Pages
 allProjects=All Projects
+allSelectedElementsInThisLayer=തിരഞ്ഞെടുത്ത എല്ലാ ഘടകങ്ങളും ഈ ലെയറിലാണ്.
 allSpaces=All Spaces
 allTags=All Tags
 anchor=Anchor

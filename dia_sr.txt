@@ -26,6 +26,7 @@ alignment=Poravnanje
 allChangesLost=Sve promene će biti izgubljene!
 allPages=Sve Stranice
 allProjects=Svi Projekti
+allSelectedElementsInThisLayer=Сви Изабрани Елементи Су У Овом Слоју
 allSpaces=Svi Prostori
 allTags=Sve oznake
 anchor=Sidro

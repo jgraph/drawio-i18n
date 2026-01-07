@@ -26,6 +26,7 @@ alignment=‫יישור‬
 allChangesLost=‫כל השינויים יאבדו!‬
 allPages=‫כל הדפים‬
 allProjects=‫כל הפרויקטים‬
+allSelectedElementsInThisLayer=‫כל האלמנטים שנבחרו נמצאים בשכבה זו‬
 allSpaces=‫כל הרווחים‬
 allTags=‫כל התגיות‬
 anchor=‫עוגן‬

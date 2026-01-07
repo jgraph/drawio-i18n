@@ -26,6 +26,7 @@ alignment=การจัดเรียงแนวเดียวกัน
 allChangesLost=การเปลี่ยนแปลงทั้งหมดจะสูญหาย
 allPages=ทุกหน้า
 allProjects=แผนงานทั้งหมด
+allSelectedElementsInThisLayer=องค์ประกอบที่เลือกทั้งหมดอยู่ในเลเยอร์นี้
 allSpaces=พื้นที่ทั้งหมด
 allTags=แถบป้ายทั้งหมด
 anchor=ตัวยึด
