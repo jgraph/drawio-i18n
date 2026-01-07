@@ -113,6 +113,7 @@ configLinkWarn=This link configures draw.io. Only click OK if you trust whoever 
 configLinkConfirm=draw.io'yu yapılandırıp yeniden başlatmak için Tamam'ı tıklayınız
 container=Container
 csv=CSV
+currentLayer=Geçerli Katman
 dark=Koyu
 diagramLanguage=Diyagram Dili
 diagramType=Diagram type

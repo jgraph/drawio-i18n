@@ -113,6 +113,7 @@ configLinkWarn=Ce lien configure draw.io. Ne cliquez sur OK que si vous avez con
 configLinkConfirm=Cliquer OK pour configurer et redémarrer draw.io
 container=Conteneur
 csv=CSV
+currentLayer=Couche actuelle
 dark=Sombre
 diagramLanguage=Langue du Diagramme
 diagramType=Type de diagramme

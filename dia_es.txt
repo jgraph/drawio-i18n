@@ -113,6 +113,7 @@ configLinkWarn=Éste hipervínculo configura draw.io. Sólo presione OK si conf�
 configLinkConfirm=Presione OK para configurar y reiniciar draw.io.
 container=Container
 csv=CSV
+currentLayer=Capa actual
 dark=Oscuro
 diagramLanguage=Lengua del Diagrama
 diagramType=Diagram type

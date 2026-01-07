@@ -113,6 +113,7 @@ configLinkWarn=Ši nuoroda sukonfigūruoja draw.io. Spustelėkite Gerai tik tada
 configLinkConfirm=Spustelėkite Gerai, kad sukonfigūruotumėte ir paleistumėte draw.io iš naujo.
 container=Container
 csv=CSV
+currentLayer=Dabartinis sluoksnis
 dark=Tamsi
 diagramLanguage=Diagramos Kalba
 diagramType=Diagram type

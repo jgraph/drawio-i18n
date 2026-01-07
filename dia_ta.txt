@@ -113,6 +113,7 @@ configLinkWarn=இந்த இணைப்பு வரை.உவெ வை க
 configLinkConfirm=கட்டமைக்க சரி என்பதைக் சொடுக்கு செய்து வரை.உவெ மறுதொடக்கம் செய்க.
 container=பெட்டகம்
 csv=காபிம
+currentLayer=தற்போதைய அடுக்கு
 dark=இருண்ட
 diagramLanguage=வரைபட மொழி
 diagramType=வரைபடம் வகை

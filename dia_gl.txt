@@ -113,6 +113,7 @@ configLinkWarn=Este vencello configura draw.io. Simplemente preme OK se confías
 configLinkConfirm=Preme OK para configurar e reiniciar draw.io
 container=Container
 csv=Valores separados por vírgulas (CSV)
+currentLayer=Capa actual
 dark=Escuro
 diagramLanguage=Lingua do Diagrama
 diagramType=Diagram type

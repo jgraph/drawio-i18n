@@ -113,6 +113,7 @@ configLinkWarn=Tämä linkki määrittää draw.io:n. Napsauta OK vain, jos luot
 configLinkConfirm=Määritä ja käynnistä draw.io uudelleen napsauttamalla OK.
 container=Kontti
 csv=CSV
+currentLayer=Nykyinen taso
 dark=Tumma
 diagramLanguage=Kaavion kieli
 diagramType=Kaavion tyyppi

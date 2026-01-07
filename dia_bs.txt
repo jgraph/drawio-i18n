@@ -113,6 +113,7 @@ configLinkWarn=
 configLinkConfirm=Click OK to configure and restart draw.io.
 container=Container
 csv=CSV
+currentLayer=Trenutni sloj
 dark=Dark
 diagramLanguage=Jezik Dijagrama
 diagramType=Diagram type

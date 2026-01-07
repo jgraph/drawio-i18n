@@ -113,6 +113,7 @@ configLinkWarn=See link seadistab draw.io. Vali OK vaid juhul kui usaldad isikut
 configLinkConfirm=Vali OK et draw.io seadistada ja uuesti laadida.
 container=Konteiner
 csv=CSV
+currentLayer=Praegune kiht
 dark=Tume
 diagramLanguage=Diagrammi Keel
 diagramType=Diagram type

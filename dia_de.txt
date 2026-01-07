@@ -113,6 +113,7 @@ configLinkWarn=Dieser Link konfiguriert draw.io. Klicken Sie nur OK, wenn dieser
 configLinkConfirm=Klicken Sie OK, um draw.io zu konfigurieren und neu zu starten.
 container=Container
 csv=CSV
+currentLayer=Aktuelle Ebene
 dark=Dunkel
 diagramLanguage=Diagrammsprache
 diagramType=Art des Diagramms

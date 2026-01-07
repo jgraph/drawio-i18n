@@ -113,6 +113,7 @@ configLinkWarn=Această legătură configurează draw.io. Clic pe OK doar dacă 
 configLinkConfirm=Clic pe OK pentru a configura și reporni draw.io.
 container=Container
 csv=CSV
+currentLayer=Stratul curent
 dark=Întunecat
 diagramLanguage=Limbă diagramă
 diagramType=Tip diagramă

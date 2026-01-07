@@ -113,6 +113,7 @@ configLinkWarn=이 링크는 draw.io설정을 변경합니다. 보낸 사람을 
 configLinkConfirm=설정을 완료하고 draw.io를 재시작하려면 확인을 선택하세요.
 container=도형
 csv=CSV
+currentLayer=현재 레이어
 dark=다크
 diagramLanguage=다이어그램 언어
 diagramType=다이어그램 타입

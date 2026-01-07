@@ -113,6 +113,7 @@ configLinkWarn=Αυτός ο σύνδεσμος μεταβάλλει τις ρυ
 configLinkConfirm=Επιλέξτε το ΟΚ για να μεταβάλλετε τις ρυθμίσεις και να επανεκκινήσετε το draw.io.
 container=Container
 csv=CSV
+currentLayer=Τρέχουσα στρώση
 dark=Σκούρο
 diagramLanguage=Γλώσσα του Διαγράμματος
 diagramType=Diagram type

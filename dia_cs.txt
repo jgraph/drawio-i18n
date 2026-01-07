@@ -113,6 +113,7 @@ configLinkWarn=Tento odkaz nastaví draw.io. Na OK klikněte pouze pokud věří
 configLinkConfirm=Pokud chcete nastavit a restartovat draw.io, klikněte na OK.
 container=Kontejner
 csv=CSV
+currentLayer=Aktuální vrstva
 dark=Tmavý
 diagramLanguage=Jazyk Diagramu
 diagramType=Diagram type

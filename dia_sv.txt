@@ -113,6 +113,7 @@ configLinkWarn=Länken konfigurerar draw.io. Klicka bara OK om du litar på den 
 configLinkConfirm=Klicka OK för att konfigurera och starta om draw.io
 container=Container
 csv=CSV
+currentLayer=Nuvarande lager
 dark=Mörkt
 diagramLanguage=Diagrammets Språk
 diagramType=Diagram type

@@ -113,6 +113,7 @@ configLinkWarn=Šī saite konfigurē draw.io. Noklikšķiniet uz Labi tikai tad,
 configLinkConfirm=Noklikšķiniet uz "Labi", lai konfigurētu un restartētu draw.io.
 container=Ietvars
 csv=CSV
+currentLayer=Pašreizējais slānis
 dark=Tumšs
 diagramLanguage=Diagrammas Valoda
 diagramType=Diagram type

@@ -113,6 +113,7 @@ configLinkWarn=Deze koppeling verwijst naar de instellingen van draw.io. Klik hi
 configLinkConfirm=Klik OK om draw.io in te stellen en opnieuw te starten.
 container=Container
 csv=CSV
+currentLayer=Huidige laag
 dark=Donker
 diagramLanguage=Diagram - taal
 diagramType=Diagram - type

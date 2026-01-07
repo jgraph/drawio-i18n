@@ -113,6 +113,7 @@ configLinkWarn=This link configures draw.io. Only click OK if you trust whoever 
 configLinkConfirm=Click OK to configure and restart draw.io.
 container=Container
 csv=CSV
+currentLayer=നിലവിലെ പാളി
 dark=Dark
 diagramLanguage=രേഖാചിത്രത്തിന്റെ ഭാഷ
 diagramType=Diagram type

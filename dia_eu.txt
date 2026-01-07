@@ -113,6 +113,7 @@ configLinkWarn=Esteka honek draw.io konfuguratzen du. Egin klik bakarrik eman di
 configLinkConfirm=OK sakatu draw.io konfiguratu eta berrabiatzeko
 container=Edukiontzia
 csv=CSV
+currentLayer=Uneko geruza
 dark=Iluna
 diagramLanguage=Diagramaren Hizkuntza
 diagramType=Diagrama mota

@@ -113,6 +113,7 @@ configLinkWarn=此連結將設定 draw.io。僅在您信任提供連結給你的
 configLinkConfirm=點擊確認進行組態並重新整理 draw.io
 container=容器
 csv=CSV
+currentLayer=目前層
 dark=暗色
 diagramLanguage=圖表語言
 diagramType=圖表類型

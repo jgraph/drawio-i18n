@@ -113,6 +113,7 @@ configLinkWarn=Ez a link a draw.io-t konfigurálja. Csak akkor klikkelj az OK-ra
 configLinkConfirm=Klikkelj az OK-ra, hogy beállítsd és újraindítsd a draw.io-t
 container=Konténer
 csv=CSV
+currentLayer=Aktuális réteg
 dark=Sötét
 diagramLanguage=Diagramnyelv
 diagramType=Diagram type

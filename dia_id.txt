@@ -113,6 +113,7 @@ configLinkWarn=Tautan ini mengonfigurasi draw.io. Hanya klik OK bila Anda percay
 configLinkConfirm=Klik OK untuk mengonfigurasi dan memulai ulang draw.io.
 container=Kontainer
 csv=CSV
+currentLayer=Lapisan Saat Ini
 dark=Gelap
 diagramLanguage=Bahasa Diagram
 diagramType=Tipe diagram

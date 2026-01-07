@@ -113,6 +113,7 @@ configLinkWarn=L'enllaç configura el draw.io. Feu clic a "D'acord" només si co
 configLinkConfirm=Feu clic a "D'acord" per configurar i reiniciar el draw.io.
 container=Contenidor
 csv=CSV
+currentLayer=Capa actual
 dark=Fosc
 diagramLanguage=Idioma del diagrama
 diagramType=Tipus de diagrama
