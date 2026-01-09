@@ -1,10 +1,10 @@
 # *DO NOT DIRECTLY EDIT THIS FILE, IT IS AUTOMATICALLY GENERATED AND IT IS BASED ON:*
 # https://docs.google.com/spreadsheet/ccc?key=0AmQEO36liL4FdDJLWVNMaVV2UmRKSnpXU09MYkdGbEE
-about=About
-aboutDrawio=About draw.io
-accessDenied=Access Denied
-accounts=Accounts
-action=Action
+about=সম্পর্কে
+aboutDrawio=draw.io সম্পর্কে
+accessDenied=প্রবেশাধিকার প্রত্যাখ্যাত
+accounts=অ্যাকাউন্টসমূহ
+action=ক্রিয়া
 actualSize=Actual Size
 adaptiveColors=অভিযোজিত রং
 add=Add
