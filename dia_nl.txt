@@ -58,7 +58,6 @@ authorizing=Autoriseren
 automatic=Automatisch
 autosave=Automatisch opslaan
 autosize=Automatisch grootte bepalen
-autosizeText=Tekstvak met automatische grootte
 attachments=Bijlagen
 aws=AWS
 aws3d=AWS 3D

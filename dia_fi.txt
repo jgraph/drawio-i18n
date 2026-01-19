@@ -58,7 +58,6 @@ authorizing=Valtuutetaan
 automatic=Automaattinen
 autosave=Automaattinen tallennus
 autosize=Automaattinen koko
-autosizeText=Tekstikenttä automaattisella koolla
 attachments=Liitteet
 aws=AWS
 aws3d=AWS 3D

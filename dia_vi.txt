@@ -58,7 +58,6 @@ authorizing=Đang ủy quyền
 automatic=Tự động
 autosave=Tự động lưu
 autosize=Tự động chọn kích thước
-autosizeText=Hộp văn bản với kích thước tự động
 attachments=Đính kèm
 aws=AWS
 aws3d=AWS 3D

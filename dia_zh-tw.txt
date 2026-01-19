@@ -58,7 +58,6 @@ authorizing=授權中
 automatic=自動
 autosave=自動儲存
 autosize=自動調整
-autosizeText=自動調整大小的文字方塊
 attachments=附件
 aws=AWS
 aws3d=AWS 3D

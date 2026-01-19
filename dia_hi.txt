@@ -58,7 +58,6 @@ authorizing=Authorizing
 automatic=Automatic
 autosave=Autosave
 autosize=Autosize
-autosizeText=स्वचालित आकार वाला टेक्स्टबॉक्स
 attachments=Attachments
 aws=AWS
 aws3d=AWS 3D

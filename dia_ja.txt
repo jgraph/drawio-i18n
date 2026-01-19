@@ -58,7 +58,6 @@ authorizing=認証中...
 automatic=自動
 autosave=自動保存
 autosize=サイズを自動調整
-autosizeText=自動サイズのテキストボックス
 attachments=添付ファイル
 aws=AWS
 aws3d=AWS 3D

@@ -58,7 +58,6 @@ authorizing=‫נותן הרשאה‬
 automatic=‫אוטומטי‬
 autosave=‫שמירה אוטומטית‬
 autosize=‫גודל אוטומטי‬
-autosizeText=‫תיבת טקסט עם גודל אוטומטי‬
 attachments=‫קבצים מצורפים‬
 aws=AWS
 aws3d=AWS 3D

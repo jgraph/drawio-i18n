@@ -58,7 +58,6 @@ authorizing=Авторизация
 automatic=Автоматически
 autosave=Автосохранение
 autosize=Авто размер
-autosizeText=Текстовое поле с автоматическим размером
 attachments=Вложения
 aws=AWS
 aws3d=AWS 3D

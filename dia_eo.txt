@@ -58,7 +58,6 @@ authorizing=Rajtigante
 automatic=Aŭtomata
 autosave=Aŭtokonservado
 autosize=Aŭtograndeco
-autosizeText=Tekstujo kun aŭtomata grandeco
 attachments=Aldonaĵoj
 aws=AWS
 aws3d=AWS 3D

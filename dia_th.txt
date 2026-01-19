@@ -58,7 +58,6 @@ authorizing=การอนุญาต
 automatic=อัตโนมัติ
 autosave=บันทึกโดยอัตโนมัติ
 autosize=ขนาดอัติโนมัติ
-autosizeText=Textbox with automatic size
 attachments=สิ่งที่แนบมา
 aws=AWS
 aws3d=AWS สามมิติ

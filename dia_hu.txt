@@ -58,7 +58,6 @@ authorizing=Engedélyezés
 automatic=Automatikus
 autosave=Automatikus mentés
 autosize=Automatikus méret
-autosizeText=Automatikus méretű szövegdoboz
 attachments=Melléklet
 aws=AWS
 aws3d=AWS 3D

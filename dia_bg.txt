@@ -58,7 +58,6 @@ authorizing=Разрешаване
 automatic=Автоматично
 autosave=Автоматично запазване
 autosize=Автоматичен размер
-autosizeText=Текстово поле с автоматичен размер
 attachments=Приложения
 aws=AWS
 aws3d=AWS 3D

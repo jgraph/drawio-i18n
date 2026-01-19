@@ -58,7 +58,6 @@ authorizing=Baimentzea
 automatic=Automatikoa
 autosave=Automatikoki gorde
 autosize=Automatikoki tamaina eman
-autosizeText=Tamaina automatikoko testu-koadroa
 attachments=Eranskinak
 aws=AWS
 aws3d=AWS 3D

@@ -58,7 +58,6 @@ authorizing=Autorizace
 automatic=Automaticky
 autosave=Automatické ukládání
 autosize=Automatická velikost
-autosizeText=Textové pole s automatickou velikostí
 attachments=Přílohy
 aws=AWS
 aws3d=AWS 3D

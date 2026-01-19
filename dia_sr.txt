@@ -58,7 +58,6 @@ authorizing=Ovlašćenje
 automatic=Automatski
 autosave=Auto-snimanje
 autosize=Automatska veličina
-autosizeText=Текстуално поље са аутоматском величином
 attachments=Prilozi
 aws=AWS
 aws3d=AWS 3D

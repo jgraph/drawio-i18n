@@ -58,7 +58,6 @@ authorizing=Autorizācija
 automatic=Automātiski
 autosave=Automātiska saglabāšana
 autosize=Automātisks izmērs
-autosizeText=Tekstlodziņš ar automātisku izmēru
 attachments=Pielikumi
 aws=AWS
 aws3d=AWS 3D

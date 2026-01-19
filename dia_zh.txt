@@ -58,7 +58,6 @@ authorizing=正在授权
 automatic=自动
 autosave=自动保存
 autosize=自动调整
-autosizeText=自动调整大小的文本框
 attachments=附件
 aws=AWS
 aws3d=AWS 3D

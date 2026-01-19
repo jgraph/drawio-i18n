@@ -58,7 +58,6 @@ authorizing=Mengotorisasi
 automatic=Otomatis
 autosave=Simpan otomatis
 autosize=Ukuran otomatis
-autosizeText=Kotak teks dengan ukuran otomatis
 attachments=Lampiran
 aws=AWS
 aws3d=AWS 3D
