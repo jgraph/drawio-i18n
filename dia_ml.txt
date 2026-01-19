@@ -58,6 +58,7 @@ authorizing=Authorizing
 automatic=Automatic
 autosave=Autosave
 autosize=Autosize
+autosizeText=ടെക്സ്റ്റ് ഓട്ടോസൈസ്
 attachments=Attachments
 aws=AWS
 aws3d=AWS 3D

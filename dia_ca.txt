@@ -58,6 +58,7 @@ authorizing=S'està autoritzant
 automatic=Automàtic
 autosave=Desada automàtica
 autosize=Mida automàtica
+autosizeText=Dimensió automàtica del text
 attachments=Fitxers adjunts
 aws=AWS
 aws3d=AWS 3D

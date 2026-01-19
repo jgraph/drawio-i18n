@@ -58,6 +58,7 @@ authorizing=Εξουσιοδότηση
 automatic=Αυτόματα
 autosave=Αυτόματη αποθήκευση
 autosize=Αυτόματο μέγεθος
+autosizeText=Αυτόματο μέγεθος κειμένου
 attachments=Συνημμένα
 aws=AWS
 aws3d=AWS 3D

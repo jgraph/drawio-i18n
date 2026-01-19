@@ -58,6 +58,7 @@ authorizing=Tillader
 automatic=Automatisk
 autosave=Auto-gem
 autosize=Tilpas størrelse
+autosizeText=Automatisk tekststørrelse
 attachments=Vedhæftede
 aws=AWS
 aws3d=AWS 3D

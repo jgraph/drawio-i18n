@@ -58,6 +58,7 @@ authorizing=በማረጋገጥ ላይ
 automatic=ራስ-ሰር
 autosave=ራስ-ሰር ማስቀመጥ
 autosize=ራስ-ሰር መጠን
+autosizeText=ጽሑፍ በራስ-ሰር ማመጣጠን
 attachments=ተያያዥ ፋይሎች
 aws=AWS
 aws3d=AWS 3D

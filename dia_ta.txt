@@ -58,6 +58,7 @@ authorizing=ஏற்பு
 automatic=தானியங்கி
 autosave=தானிசேமி
 autosize=தானிஅளவு
+autosizeText=உரை தானியங்கி அளவு
 attachments=இணைப்புகள்
 aws=அவசே
 aws3d=அவசே 3ப

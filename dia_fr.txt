@@ -58,6 +58,7 @@ authorizing=Autorisation en cours
 automatic=Automatique
 autosave=Enregistrement auto
 autosize=Taille automatique
+autosizeText=Taille automatique du texte
 attachments=Pièces jointes
 aws=AWS
 aws3d=AWS 3D

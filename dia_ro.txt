@@ -58,6 +58,7 @@ authorizing=Se autorizează
 automatic=Automat
 autosave=Salvare automată
 autosize=Dimensiune automată
+autosizeText=Dimensiune automată a textului
 attachments=Atașamente
 aws=AWS
 aws3d=AWS 3D

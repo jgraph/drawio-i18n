@@ -58,6 +58,7 @@ authorizing=Leidimas
 automatic=Automatinis
 autosave=Automatinis išsaugojimas
 autosize=Automatizuoti
+autosizeText=Automatinis teksto dydis
 attachments=Priedai
 aws=AWS
 aws3d=AWS 3D

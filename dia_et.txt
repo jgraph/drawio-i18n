@@ -58,6 +58,7 @@ authorizing=Volitamine
 automatic=Automaatne
 autosave=Automaatne salvestus
 autosize=Automaatne suurus
+autosizeText=Teksti automaatne suurus
 attachments=Manused
 aws=AWS
 aws3d=AWS 3D

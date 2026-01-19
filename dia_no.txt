@@ -58,6 +58,7 @@ authorizing=Autoriserer
 automatic=Automatisk
 autosave=Automatisk lagring
 autosize=Automatisk størrelse tilpasning
+autosizeText=Automatisk tekststørrelse
 attachments=Vedlegg
 aws=AWS
 aws3d=AWS 3D

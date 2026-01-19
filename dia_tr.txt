@@ -58,6 +58,7 @@ authorizing=Yetkilendiriliyor
 automatic=Otomatik
 autosave=Otomatik kaydet
 autosize=Otomatik boyutlandır
+autosizeText=Metni Otomatik Boyutlandır
 attachments=Ekler
 aws=AWS
 aws3d=AWS 3 Boyutlu
