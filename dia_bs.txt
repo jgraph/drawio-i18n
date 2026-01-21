@@ -1333,3 +1333,4 @@ confAttachmentArchived=Dijagram pripada arhiviranoj stranici i ne može se učit
 confDiagramMacroDowngrade=Dijagram je sačuvan, ali makro stranice se ne može ažurirati jer je revizija dijagrama u makrou novija. Molimo uredite dijagram iz uređivača Confluence stranice.
 DCSave500Error=Druga Confluence operacija je prekinula spremanje, pokušajte ponovo #{1}
 confAppNotInstalled=draw.io diagrams Confluence App is not installed.
+plsInstallAppInConf=Please install/connect this App in Confluence to be able to access the diagrams (in addition to draw.io Confluen app)

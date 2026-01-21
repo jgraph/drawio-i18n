@@ -1333,3 +1333,4 @@ confAttachmentArchived=Diagramm kuulub arhiveeritud lehele ja seda ei saa laadid
 confDiagramMacroDowngrade=Diagramm on salvestatud, kuid lehe makrot ei saa värskendada, kuna makros olev diagrammi redaktsioon on uuem. Palun muutke diagrammi Confluence'i leheredaktorist.
 DCSave500Error=Teine Confluence'i toiming katkestas salvestamise, proovi uuesti #{1}
 confAppNotInstalled=draw.io diagrams Confluence App is not installed.
+plsInstallAppInConf=Please install/connect this App in Confluence to be able to access the diagrams (in addition to draw.io Confluen app)

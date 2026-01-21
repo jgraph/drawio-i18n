@@ -1333,3 +1333,4 @@ confAttachmentArchived=‫نمودار متعلق به یک صفحه آرشیو 
 confDiagramMacroDowngrade=‫نمودار ذخیره شد اما ماکرو صفحه قابل به‌روزرسانی نیست زیرا نسخه نمودار در ماکرو جدیدتر است. لطفاً نمودار را از ویرایشگر صفحه Confluence ویرایش کنید.‬
 DCSave500Error=‫عملیات دیگری در Confluence ذخیره‌سازی را قطع کرد، دوباره تلاش کنید #{1}‬
 confAppNotInstalled=draw.io diagrams Confluence App is not installed.
+plsInstallAppInConf=Please install/connect this App in Confluence to be able to access the diagrams (in addition to draw.io Confluen app)

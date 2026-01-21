@@ -1333,3 +1333,4 @@ confAttachmentArchived=Диаграмата принадлежи на архив
 confDiagramMacroDowngrade=Диаграмата е запазена, но макросът на страницата не може да бъде актуализиран, тъй като ревизията на диаграмата в макроса е по-нова. Моля, редактирайте диаграмата от редактора на страницата в Confluence.
 DCSave500Error=Друга операция в Confluence прекъсна записването, повторен опит #{1}
 confAppNotInstalled=draw.io diagrams Confluence App is not installed.
+plsInstallAppInConf=Please install/connect this App in Confluence to be able to access the diagrams (in addition to draw.io Confluen app)

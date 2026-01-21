@@ -1333,3 +1333,4 @@ confAttachmentArchived=Diagrammet tilhører en arkiveret side og kan ikke indlæ
 confDiagramMacroDowngrade=Diagrammet er gemt, men sidemakroen kan ikke opdateres, da diagramrevisionen i makroen er nyere. Rediger venligst diagrammet fra Confluence-sideeditoren.
 DCSave500Error=En anden Confluence-handling afbrød lagringen, prøv igen #{1}
 confAppNotInstalled=draw.io diagrams Confluence App is not installed.
+plsInstallAppInConf=Please install/connect this App in Confluence to be able to access the diagrams (in addition to draw.io Confluen app)

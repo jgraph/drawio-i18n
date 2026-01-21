@@ -1333,3 +1333,4 @@ confAttachmentArchived=Kaavio kuuluu arkistoidulle sivulle eikä sitä voi ladat
 confDiagramMacroDowngrade=Kaavio on tallennettu, mutta sivun makroa ei voi päivittää, koska makron kaavioversio on uudempi. Muokkaa kaaviota Confluence-sivueditorissa.
 DCSave500Error=Toinen Confluence-toiminto keskeytti tallennuksen, yritä uudelleen #{1}
 confAppNotInstalled=draw.io diagrams Confluence App is not installed.
+plsInstallAppInConf=Please install/connect this App in Confluence to be able to access the diagrams (in addition to draw.io Confluen app)

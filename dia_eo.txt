@@ -1333,3 +1333,4 @@ confAttachmentArchived=Diagramo apartenas al arkivita paĝo kaj ne povas esti ŝ
 confDiagramMacroDowngrade=La diagramo estas konservita sed la paĝa makroo ne povas esti ĝisdatigita ĉar la diagramversio en la makroo estas pli nova. Bonvolu redakti la diagramon per la Confluence-paĝa redaktilo.
 DCSave500Error=Alia Confluence-operacio interrompis la konservadon, reprovu #{1}
 confAppNotInstalled=draw.io diagrams Confluence App is not installed.
+plsInstallAppInConf=Please install/connect this App in Confluence to be able to access the diagrams (in addition to draw.io Confluen app)
