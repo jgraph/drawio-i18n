@@ -1332,3 +1332,4 @@ drawioUninstalled=draw.io telah dibongkar instalasinya, editor kini akan ditutup
 confAttachmentArchived=Diagram milik dari halaman yang diarsipkan dan tidak bisa dimuat. Pulihkan halaman (ID: {1}) untuk memuatnya.
 confDiagramMacroDowngrade=The diagram is saved but the page macro cannot be updated as the diagraam revision in the macro is newer. Please edit the diagram from Confluence page editor.
 DCSave500Error=Operasi Confluence lain mengganggu penyimpanan, coba lagi #{1}
+confAppNotInstalled=draw.io diagrams Confluence App is not installed.
