@@ -1334,3 +1334,4 @@ confDiagramMacroDowngrade=Kaavio on tallennettu, mutta sivun makroa ei voi päiv
 DCSave500Error=Toinen Confluence-toiminto keskeytti tallennuksen, yritä uudelleen #{1}
 confAppNotInstalled=draw.io diagrams Confluence -sovellusta ei ole asennettu.
 plsInstallAppInConf=Asenna/yhdistä tämä sovellus Confluencessa päästäksesi kaavioihin (draw.io Confluence -sovelluksen lisäksi)
+microsoft365=Microsoft 365

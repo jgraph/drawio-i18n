@@ -1334,3 +1334,4 @@ confDiagramMacroDowngrade=डायग्राम सहेजा गया ह
 DCSave500Error=Confluence की एक अन्य प्रक्रिया ने सहेजना बाधित किया, फिर से प्रयास करें #{1}
 confAppNotInstalled=draw.io diagrams Confluence ऐप इंस्टॉल नहीं है।
 plsInstallAppInConf=डायग्राम तक पहुँचने के लिए कृपया इस ऐप को Confluence में इंस्टॉल/कनेक्ट करें (draw.io Confluence ऐप के अतिरिक्त)
+microsoft365=Microsoft 365

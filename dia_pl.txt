@@ -1334,3 +1334,4 @@ confDiagramMacroDowngrade=Diagram został zapisany, ale makro strony nie może z
 DCSave500Error=Inna operacja Confluence przerwała zapisywanie, ponowna próba #{1}
 confAppNotInstalled=Aplikacja draw.io diagrams dla Confluence nie jest zainstalowana.
 plsInstallAppInConf=Zainstaluj/połącz tę aplikację w Confluence, aby uzyskać dostęp do diagramów (oprócz aplikacji draw.io Confluence)
+microsoft365=Microsoft 365

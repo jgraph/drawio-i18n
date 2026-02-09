@@ -1334,3 +1334,4 @@ confDiagramMacroDowngrade=Dijagram je sačuvan, ali makro stranice se ne može a
 DCSave500Error=Druga Confluence operacija je prekinula spremanje, pokušajte ponovo #{1}
 confAppNotInstalled=draw.io diagrams Confluence aplikacija nije instalirana.
 plsInstallAppInConf=Molimo instalirajte/povežite ovu aplikaciju u Confluence da biste mogli pristupiti dijagramima (pored draw.io Confluence aplikacije)
+microsoft365=Microsoft 365

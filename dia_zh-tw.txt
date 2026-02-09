@@ -1334,3 +1334,4 @@ confDiagramMacroDowngrade=The diagram is saved but the page macro cannot be upda
 DCSave500Error=另一個 Confluence 操作中斷了儲存，請重試 #{1}
 confAppNotInstalled=draw.io diagrams Confluence 應用程式未安裝。
 plsInstallAppInConf=請在Confluence中安裝/連接此應用程式以存取圖表（除draw.io Confluence應用程式外）
+microsoft365=Microsoft 365

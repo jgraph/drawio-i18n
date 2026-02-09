@@ -1334,3 +1334,4 @@ confDiagramMacroDowngrade=Het diagram wordt opgeslagen, maar de paginamacro kan 
 DCSave500Error=Een andere Confluence-bewerking onderbrak het opslaan, probeer opnieuw #{1}
 confAppNotInstalled=De draw.io diagrams Confluence-app is niet geïnstalleerd.
 plsInstallAppInConf=Installeer/verbind deze app in Confluence om toegang te krijgen tot de diagrammen (naast de draw.io Confluence-app)
+microsoft365=Microsoft 365

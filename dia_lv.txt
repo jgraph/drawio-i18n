@@ -1334,3 +1334,4 @@ confDiagramMacroDowngrade=Diagramma ir saglabāta, bet lapas makro nevar atjauni
 DCSave500Error=Cita Confluence darbība pārtrauca saglabāšanu, atkārtots mēģinājums #{1}
 confAppNotInstalled=draw.io diagrams Confluence lietotne nav instalēta.
 plsInstallAppInConf=Lūdzu, instalējiet/pievienojiet šo lietotni Confluence, lai varētu piekļūt diagrammām (papildus draw.io Confluence lietotnei)
+microsoft365=Microsoft 365
