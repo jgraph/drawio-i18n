@@ -1334,4 +1334,4 @@ confDiagramMacroDowngrade=Diagram je shranjen, vendar makra strani ni mogoče po
 DCSave500Error=Druga operacija Confluence je prekinila shranjevanje, ponovni poskus #{1}
 confAppNotInstalled=Aplikacija draw.io diagrams za Confluence ni nameščena.
 plsInstallAppInConf=Prosimo, namestite/povežite to aplikacijo v Confluence za dostop do diagramov (poleg aplikacije draw.io Confluence)
-microsoft365=Microsoft 365
+m365=Microsoft 365

@@ -1334,4 +1334,4 @@ confDiagramMacroDowngrade=Diyagram kaydedildi ancak makrodaki diyagram revizyonu
 DCSave500Error=Başka bir Confluence işlemi kaydetmeyi kesintiye uğrattı, yeniden deneyin #{1}
 confAppNotInstalled=draw.io diagrams Confluence Uygulaması yüklü değil.
 plsInstallAppInConf=Diyagramlara erişebilmek için lütfen bu Uygulamayı Confluence'da yükleyin/bağlayın (draw.io Confluence uygulamasına ek olarak)
-microsoft365=Microsoft 365
+m365=Microsoft 365

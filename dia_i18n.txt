@@ -1334,4 +1334,4 @@ confDiagramMacroDowngrade=confDiagramMacroDowngrade
 DCSave500Error=DCSave500Error
 confAppNotInstalled=confAppNotInstalled
 plsInstallAppInConf=plsInstallAppInConf
-microsoft365=microsoft365
+m365=m365

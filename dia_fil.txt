@@ -1334,4 +1334,4 @@ confDiagramMacroDowngrade=Nai-save ang dayagram pero hindi ma-update ang page ma
 DCSave500Error=May ibang operasyon sa Confluence na nakagambala sa pag-save, subukan muli #{1}
 confAppNotInstalled=Hindi naka-install ang draw.io diagrams Confluence App.
 plsInstallAppInConf=Mangyaring i-install/ikonekta ang App na ito sa Confluence para ma-access ang mga dayagram (bilang karagdagan sa draw.io Confluence app)
-microsoft365=Microsoft 365
+m365=Microsoft 365

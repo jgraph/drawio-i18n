@@ -1334,4 +1334,4 @@ confDiagramMacroDowngrade=‫نمودار ذخیره شد اما ماکرو صف
 DCSave500Error=‫عملیات دیگری در Confluence ذخیره‌سازی را قطع کرد، دوباره تلاش کنید #{1}‬
 confAppNotInstalled=‫برنامه draw.io diagrams برای Confluence نصب نشده است.‬
 plsInstallAppInConf=‫لطفاً این برنامه را در Confluence نصب/متصل کنید تا بتوانید به نمودارها دسترسی داشته باشید (علاوه بر برنامه draw.io Confluence)‬
-microsoft365=Microsoft 365
+m365=Microsoft 365

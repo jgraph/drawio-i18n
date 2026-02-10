@@ -1334,4 +1334,4 @@ confDiagramMacroDowngrade=Mchoro umehifadhiwa lakini macro ya ukurasa haiwezi ku
 DCSave500Error=Operesheni nyingine ya Confluence ilikatiza kuhifadhi, jaribu tena #{1}
 confAppNotInstalled=Programu ya draw.io diagrams Confluence haijasanikishwa.
 plsInstallAppInConf=Tafadhali sakinisha/unganisha Programu hii katika Confluence ili uweze kufikia michoro (pamoja na programu ya draw.io Confluence)
-microsoft365=Microsoft 365
+m365=Microsoft 365

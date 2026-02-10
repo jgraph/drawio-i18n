@@ -1334,4 +1334,4 @@ confDiagramMacroDowngrade=Diagramm on salvestatud, kuid lehe makrot ei saa värs
 DCSave500Error=Teine Confluence'i toiming katkestas salvestamise, proovi uuesti #{1}
 confAppNotInstalled=draw.io diagrams Confluence'i rakendus pole installitud.
 plsInstallAppInConf=Palun installige/ühendage see rakendus Confluence'is, et pääseda juurde diagrammidele (lisaks draw.io Confluence rakendusele)
-microsoft365=Microsoft 365
+m365=Microsoft 365

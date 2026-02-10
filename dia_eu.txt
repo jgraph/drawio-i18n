@@ -1334,4 +1334,4 @@ confDiagramMacroDowngrade=Diagrama gorde da baina orrialde makroa ezin da eguner
 DCSave500Error=Confluence-ren beste eragiketa batek gordetzea eten du, saiatu berriro #{1}
 confAppNotInstalled=draw.io diagrams Confluence aplikazioa ez dago instalatuta.
 plsInstallAppInConf=Mesedez, instalatu/konektatu aplikazio hau Confluence-n diagrametara sartzeko (draw.io Confluence aplikazioaz gain)
-microsoft365=Microsoft 365
+m365=Microsoft 365

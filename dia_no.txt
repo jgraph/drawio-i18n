@@ -1334,4 +1334,4 @@ confDiagramMacroDowngrade=Diagrammet er lagret, men sidemakroen kan ikke oppdate
 DCSave500Error=En annen Confluence-operasjon avbrøt lagringen, prøv på nytt #{1}
 confAppNotInstalled=draw.io diagrams Confluence-appen er ikke installert.
 plsInstallAppInConf=Vennligst installer/koble til denne appen i Confluence for å få tilgang til diagrammene (i tillegg til draw.io Confluence-appen)
-microsoft365=Microsoft 365
+m365=Microsoft 365

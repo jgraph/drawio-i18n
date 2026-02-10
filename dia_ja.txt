@@ -1334,4 +1334,4 @@ confDiagramMacroDowngrade=図は保存されましたが、マクロ内の図の
 DCSave500Error=別の Confluence 操作により保存が中断されました。再試行 #{1}
 confAppNotInstalled=draw.io diagrams Confluenceアプリがインストールされていません。
 plsInstallAppInConf=図にアクセスするには、このアプリをConfluenceにインストール/接続してください（draw.io Confluenceアプリに加えて）
-microsoft365=Microsoft 365
+m365=Microsoft 365
