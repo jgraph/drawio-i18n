@@ -138,6 +138,7 @@ clearWaypoints=Vymazat průchozí body
 clipart=Klipart
 close=Zavřít
 closingFile=Zavírání souboru
+closePath=Close Path
 realtimeCollaboration=Spolupráce v reálném čase
 collaborate=Spolupracovat
 collaborator=Spolupracovník

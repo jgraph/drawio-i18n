@@ -138,6 +138,7 @@ clearWaypoints=Notīrīt ceļa punktus
 clipart=Ilustrācijas
 close=Aizvērt
 closingFile=Aizver failu
+closePath=Close Path
 realtimeCollaboration=Reāllaika sadarbība
 collaborate=Sadarboties
 collaborator=Līdzstrādnieks

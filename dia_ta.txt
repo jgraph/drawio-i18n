@@ -138,6 +138,7 @@ clearWaypoints=வழிப்புள்ளிகளை அழி
 clipart=துண்டுப் படம்
 close=மூடு
 closingFile=கோப்பை மூடுகிறது
+closePath=Close Path
 realtimeCollaboration=நிகழ்நேர ஒத்துழைப்பு
 collaborate=ஒத்துழை
 collaborator=ஒத்துழைப்பாளர்

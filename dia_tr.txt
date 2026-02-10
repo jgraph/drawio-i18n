@@ -138,6 +138,7 @@ clearWaypoints=Ara Noktaları Sil
 clipart=Küçük resim
 close=Kapat
 closingFile=Dosya kapatılıyor
+closePath=Close Path
 realtimeCollaboration=Gerçek Zamanlı İşbirliği
 collaborate=İşbirliği Yap
 collaborator=İşbirlikçi

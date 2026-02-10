@@ -138,6 +138,7 @@ clearWaypoints=Išvalyti kelio taškus
 clipart=Iliustracijos
 close=Uždaryti
 closingFile=Uždaromas failas
+closePath=Close Path
 realtimeCollaboration=Bendradarbiavimas realiu laiku
 collaborate=Bendradarbiauti
 collaborator=Bendradarbis

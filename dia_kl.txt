@@ -138,6 +138,7 @@ clearWaypoints=Aqqutinik toqqaasivissinnerit peersigit
 clipart=Assilissat
 close=Matusuk
 closingFile=Fiili matunneqarpoq
+closePath=Close Path
 realtimeCollaboration=Piffissaq naapertorlugu Suleqatigiinneq
 collaborate=Suleqatigiinneq
 collaborator=Suleqatit

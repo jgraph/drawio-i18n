@@ -138,6 +138,7 @@ clearWaypoints=Очистить опорные точки
 clipart=Клипарт
 close=Закрыть
 closingFile=Закрытие файла
+closePath=Close Path
 realtimeCollaboration=Совместная работа в режиме реального времени
 collaborate=Совместный режим
 collaborator=Участник

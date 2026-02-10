@@ -138,6 +138,7 @@ clearWaypoints=വേപോയിന്റുകൾ മായ്ക്കുക
 clipart=ക്ലിപ്പാർട്ട്
 close=അടയ്ക്കുക
 closingFile=ഫയൽ അടയ്ക്കുന്നു
+closePath=Close Path
 realtimeCollaboration=തത്സമയ സഹകരണം
 collaborate=സഹകരിക്കുക
 collaborator=സഹകാരി

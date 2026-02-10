@@ -138,6 +138,7 @@ clearWaypoints=Slett støttepunkter
 clipart=Clipart
 close=Lukk
 closingFile=Lukker fil
+closePath=Close Path
 realtimeCollaboration=Sanntidssamarbeid
 collaborate=Samarbeid
 collaborator=Bidragsyter

@@ -138,6 +138,7 @@ clearWaypoints=Počisti vmesne točke
 clipart=Izrezki
 close=Zapri
 closingFile=Zapiranje datoteke
+closePath=Close Path
 realtimeCollaboration=Sodelovanje v realnem času
 collaborate=Sodeluj
 collaborator=Sodelavec

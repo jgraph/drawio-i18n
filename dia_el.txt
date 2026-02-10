@@ -138,6 +138,7 @@ clearWaypoints=Καθαρισμός σημείων αναφοράς
 clipart=Συλλογή εικόνων
 close=Κλείσιμο
 closingFile=Κλείσιμο αρχείου
+closePath=Close Path
 realtimeCollaboration=Συνεργασία σε πραγματικό χρόνο
 collaborate=Συνεργασία
 collaborator=Συνεργάτης

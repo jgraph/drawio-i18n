@@ -138,6 +138,7 @@ clearWaypoints=የመንገድ ነጥቦችን አጽዳ
 clipart=ክሊፕአርት
 close=ዝጋ
 closingFile=ፋይል በመዝጋት ላይ
+closePath=Close Path
 realtimeCollaboration=በእውነተኛ ጊዜ ተባባሪነት
 collaborate=ተባበር
 collaborator=ተባባሪ

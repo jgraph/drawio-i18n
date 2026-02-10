@@ -138,6 +138,7 @@ clearWaypoints=Forigi vojpunktojn
 clipart=Bildeto
 close=Fermi
 closingFile=Fermante dosieron
+closePath=Close Path
 realtimeCollaboration=Realtempo kunlaboro
 collaborate=Kunlabori
 collaborator=Kunlaboranto

@@ -138,6 +138,7 @@ clearWaypoints=Șterge reperele
 clipart=Clipart
 close=Închide
 closingFile=Închidere fișier
+closePath=Close Path
 realtimeCollaboration=Colaborare în timp real
 collaborate=Colaborează
 collaborator=Colaborator

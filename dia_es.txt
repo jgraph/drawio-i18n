@@ -138,6 +138,7 @@ clearWaypoints=Quitar puntos de referencia
 clipart=Clipart
 close=Cerrar
 closingFile=Cerrando archivo
+closePath=Close Path
 realtimeCollaboration=Colaboración en tiempo real
 collaborate=Colaborar
 collaborator=Colaborador

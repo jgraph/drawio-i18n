@@ -138,6 +138,7 @@ clearWaypoints=వేపాయింట్లను క్లియర్ చే
 clipart=క్లిప్‌ఆర్ట్
 close=మూసివేయి
 closingFile=ఫైల్ మూసివేస్తోంది
+closePath=Close Path
 realtimeCollaboration=రియల్-టైమ్ సహకారం
 collaborate=సహకరించు
 collaborator=సహకారి

@@ -138,6 +138,7 @@ clearWaypoints=Rensa brytpunkter
 clipart=Clipart
 close=Stäng
 closingFile=Stänger fil
+closePath=Close Path
 realtimeCollaboration=Realtidssamarbete
 collaborate=Samarbeta
 collaborator=Medarbetare

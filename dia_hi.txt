@@ -138,6 +138,7 @@ clearWaypoints=वेपॉइंट साफ़ करें
 clipart=क्लिपआर्ट
 close=बंद करें
 closingFile=फ़ाइल बंद हो रही है
+closePath=Close Path
 realtimeCollaboration=रीयल-टाइम सहयोग
 collaborate=सहयोग करें
 collaborator=सहयोगी

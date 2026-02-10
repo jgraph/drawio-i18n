@@ -138,6 +138,7 @@ clearWaypoints=Alisin ang mga Waypoint
 clipart=Clipart
 close=Isara
 closingFile=Isinasara ang file
+closePath=Close Path
 realtimeCollaboration=Real-Time na Kolaborasyon
 collaborate=Makipagtulungan
 collaborator=Kolaborador

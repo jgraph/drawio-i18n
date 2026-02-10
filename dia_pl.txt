@@ -138,6 +138,7 @@ clearWaypoints=Wyczyść punkty trasy
 clipart=Clipart
 close=Zamknij
 closingFile=Zamykanie pliku
+closePath=Close Path
 realtimeCollaboration=Współpraca na żywo
 collaborate=Współpracuj
 collaborator=Współpracownik

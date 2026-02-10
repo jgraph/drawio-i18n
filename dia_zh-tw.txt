@@ -138,6 +138,7 @@ clearWaypoints=清除路徑點
 clipart=剪貼畫
 close=關閉
 closingFile=關閉檔案中
+closePath=Close Path
 realtimeCollaboration=即時協作
 collaborate=協作
 collaborator=協作者

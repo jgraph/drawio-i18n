@@ -138,6 +138,7 @@ clearWaypoints=Tühjenda teepunktid
 clipart=Clipart
 close=Sulge
 closingFile=Sulgeb faili
+closePath=Close Path
 realtimeCollaboration=Reaalajas koostöö
 collaborate=Koostöö
 collaborator=Osaleja

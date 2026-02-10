@@ -138,6 +138,7 @@ clearWaypoints=Kosongkan Titik Arah
 clipart=Seni klip
 close=Tutup
 closingFile=Menutup fail
+closePath=Close Path
 realtimeCollaboration=Kolaborasi Masa Nyata
 collaborate=Berkolaborasi
 collaborator=Kolaborator

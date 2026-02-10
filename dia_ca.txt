@@ -138,6 +138,7 @@ clearWaypoints=Esborra les coordenades
 clipart=Imatges predissenyades
 close=Tanca
 closingFile=S'està tancant el fitxer
+closePath=Close Path
 realtimeCollaboration=Col·laboració en temps real
 collaborate=Col·laborar
 collaborator=Col·laborador

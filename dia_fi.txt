@@ -138,6 +138,7 @@ clearWaypoints=Poista reittipisteet
 clipart=Clipart
 close=Sulje
 closingFile=Tiedostoa suljetaan
+closePath=Close Path
 realtimeCollaboration=Reaaliaikainen yhteistyö
 collaborate=Tee yhteistyötä
 collaborator=Yhteiskäyttäjä

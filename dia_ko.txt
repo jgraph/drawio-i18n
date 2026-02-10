@@ -138,6 +138,7 @@ clearWaypoints=중간점 모두 제거
 clipart=클립아트
 close=닫기
 closingFile=파일을 닫고 있습니다.
+closePath=Close Path
 realtimeCollaboration=실시간 공동 작업
 collaborate=공동 작업
 collaborator=공동 작업자

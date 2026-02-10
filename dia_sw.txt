@@ -138,6 +138,7 @@ clearWaypoints=Futa Vituo vya Njia
 clipart=Picha za Sanaa
 close=Funga
 closingFile=Inafunga faili
+closePath=Close Path
 realtimeCollaboration=Ushirikiano wa Wakati Halisi
 collaborate=Shirikiana
 collaborator=Mshiriki

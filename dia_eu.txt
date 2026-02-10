@@ -138,6 +138,7 @@ clearWaypoints=Bide-puntuak garbitu
 clipart=Cliparta
 close=Itxi
 closingFile=Fitxategia ixten
+closePath=Close Path
 realtimeCollaboration=Denbora errealeko lankidetza
 collaborate=Elkarlanean aritu
 collaborator=Partaidea

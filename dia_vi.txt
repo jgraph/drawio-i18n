@@ -138,6 +138,7 @@ clearWaypoints=Xóa điểm tham chiếu
 clipart=Ảnh nghệ thuật
 close=Đóng
 closingFile=Đang đóng tệp
+closePath=Close Path
 realtimeCollaboration=Cộng tác thời gian thực
 collaborate=Cộng tác
 collaborator=Người cộng tác

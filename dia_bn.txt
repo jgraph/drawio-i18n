@@ -138,6 +138,7 @@ clearWaypoints=ওয়েপয়েন্ট মুছুন
 clipart=ক্লিপআর্ট
 close=বন্ধ করুন
 closingFile=ফাইল বন্ধ হচ্ছে
+closePath=Close Path
 realtimeCollaboration=রিয়েল-টাইম সহযোগিতা
 collaborate=সহযোগিতা করুন
 collaborator=সহযোগী

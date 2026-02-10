@@ -138,6 +138,7 @@ clearWaypoints=途中点をクリア
 clipart=クリップアート
 close=閉じる
 closingFile=ファイルを閉じています
+closePath=Close Path
 realtimeCollaboration=リアルタイムコラボレーション
 collaborate=共同編集
 collaborator=共同編集者

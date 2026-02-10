@@ -138,6 +138,7 @@ clearWaypoints=‫پاک‌ کردن نقطه مسیر‬
 clipart=Clipart
 close=‫بستن‬
 closingFile=‫در حال بستن فایل‬
+closePath=Close Path
 realtimeCollaboration=‫همکاری بلادرنگ‬
 collaborate=‫همکاری‬
 collaborator=‫همکار‬

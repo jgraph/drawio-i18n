@@ -138,6 +138,7 @@ clearWaypoints=මාර්ග ලක්ෂ්‍ය මකන්න
 clipart=ක්ලිප් කලාව
 close=වසන්න
 closingFile=ගොනුව වසමින්
+closePath=Close Path
 realtimeCollaboration=තත්‍ය කාලීන සහයෝගීතාව
 collaborate=සහයෝගයෙන් කරන්න
 collaborator=සහයෝගිතාකරු

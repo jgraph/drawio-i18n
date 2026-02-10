@@ -138,6 +138,7 @@ clearWaypoints=Hapus Waypoint
 clipart=Clipart
 close=Tutup
 closingFile=Menutup berkas
+closePath=Close Path
 realtimeCollaboration=Kolaborasi Real-Time
 collaborate=Berkolaborasi
 collaborator=Kolaborator
