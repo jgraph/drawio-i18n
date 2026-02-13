@@ -1338,3 +1338,5 @@ DCSave500Error=Alia Confluence-operacio interrompis la konservadon, reprovu #{1}
 confAppNotInstalled=draw.io diagrams Confluence-aplikaĵo ne estas instalita.
 plsInstallAppInConf=Bonvolu instali/konekti ĉi tiun aplikaĵon en Confluence por povi aliri la diagramojn (krom la draw.io Confluence-aplikaĵo)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

@@ -1338,3 +1338,5 @@ DCSave500Error=การดำเนินการอื่นใน Confluence
 confAppNotInstalled=ไม่ได้ติดตั้งแอป draw.io diagrams Confluence
 plsInstallAppInConf=กรุณาติดตั้ง/เชื่อมต่อแอปนี้ใน Confluence เพื่อให้สามารถเข้าถึงไดอะแกรมได้ (นอกเหนือจากแอป draw.io Confluence)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

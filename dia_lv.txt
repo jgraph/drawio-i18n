@@ -1338,3 +1338,5 @@ DCSave500Error=Cita Confluence darbība pārtrauca saglabāšanu, atkārtots mē
 confAppNotInstalled=draw.io diagrams Confluence lietotne nav instalēta.
 plsInstallAppInConf=Lūdzu, instalējiet/pievienojiet šo lietotni Confluence, lai varētu piekļūt diagrammām (papildus draw.io Confluence lietotnei)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

@@ -1338,3 +1338,5 @@ DCSave500Error=Operesheni nyingine ya Confluence ilikatiza kuhifadhi, jaribu ten
 confAppNotInstalled=Programu ya draw.io diagrams Confluence haijasanikishwa.
 plsInstallAppInConf=Tafadhali sakinisha/unganisha Programu hii katika Confluence ili uweze kufikia michoro (pamoja na programu ya draw.io Confluence)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

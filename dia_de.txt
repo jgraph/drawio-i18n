@@ -1338,3 +1338,5 @@ DCSave500Error=Ein anderer Confluence-Vorgang hat das Speichern unterbrochen, er
 confAppNotInstalled=Die draw.io diagrams Confluence-App ist nicht installiert.
 plsInstallAppInConf=Bitte installieren/verbinden Sie diese App in Confluence, um auf die Diagramme zugreifen zu können (zusätzlich zur draw.io Confluence-App)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

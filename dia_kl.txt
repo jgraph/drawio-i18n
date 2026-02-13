@@ -1338,3 +1338,5 @@ DCSave500Error=Confluence suliassaq alla toqqorsinermi unitsinniutigivoq, misile
 confAppNotInstalled=draw.io diagrams Confluence App atorneqanngilaq.
 plsInstallAppInConf=Diagramminut tunngasunut pissarsiarunnaarniarlugit app-i una Confluence-imi ikiuutiguk/attaveqarfiguk (draw.io Confluence app-imut illaneqarluni)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

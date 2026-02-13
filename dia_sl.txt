@@ -1338,3 +1338,5 @@ DCSave500Error=Druga operacija Confluence je prekinila shranjevanje, ponovni pos
 confAppNotInstalled=Aplikacija draw.io diagrams za Confluence ni nameščena.
 plsInstallAppInConf=Prosimo, namestite/povežite to aplikacijo v Confluence za dostop do diagramov (poleg aplikacije draw.io Confluence)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

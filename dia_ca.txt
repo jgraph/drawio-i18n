@@ -1338,3 +1338,5 @@ DCSave500Error=Una altra operació de Confluence ha interromput el desament, tor
 confAppNotInstalled=L'aplicació draw.io diagrams per a Confluence no està instal·lada.
 plsInstallAppInConf=Si us plau, instal·leu/connecteu aquesta aplicació a Confluence per poder accedir als diagrames (a més de l'aplicació draw.io Confluence)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

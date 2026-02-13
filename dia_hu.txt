@@ -1338,3 +1338,5 @@ DCSave500Error=Egy másik Confluence-művelet megszakította a mentést, újrapr
 confAppNotInstalled=A draw.io diagrams Confluence alkalmazás nincs telepítve.
 plsInstallAppInConf=Kérjük, telepítse/csatlakoztassa ezt az alkalmazást a Confluence-ben a diagramok eléréséhez (a draw.io Confluence alkalmazás mellett)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

@@ -1338,3 +1338,5 @@ DCSave500Error=En annen Confluence-operasjon avbrøt lagringen, prøv på nytt #
 confAppNotInstalled=draw.io diagrams Confluence-appen er ikke installert.
 plsInstallAppInConf=Vennligst installer/koble til denne appen i Confluence for å få tilgang til diagrammene (i tillegg til draw.io Confluence-appen)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

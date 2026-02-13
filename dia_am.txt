@@ -1338,3 +1338,5 @@ DCSave500Error=ሌላ የConfluence ክዋኔ ማስቀመጥን አቋርጧል
 confAppNotInstalled=draw.io diagrams Confluence መተግበሪያ አልተጫነም።
 plsInstallAppInConf=ስዕሎቹን ለመድረስ እባክዎ ይህን መተግበሪያ በ Confluence ውስጥ ይጫኑ/ያገናኙ (ከ draw.io Confluence መተግበሪያ በተጨማሪ)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

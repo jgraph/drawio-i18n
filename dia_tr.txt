@@ -1338,3 +1338,5 @@ DCSave500Error=Başka bir Confluence işlemi kaydetmeyi kesintiye uğrattı, yen
 confAppNotInstalled=draw.io diagrams Confluence Uygulaması yüklü değil.
 plsInstallAppInConf=Diyagramlara erişebilmek için lütfen bu Uygulamayı Confluence'da yükleyin/bağlayın (draw.io Confluence uygulamasına ek olarak)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

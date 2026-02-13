@@ -1338,3 +1338,5 @@ DCSave500Error=Toinen Confluence-toiminto keskeytti tallennuksen, yritä uudelle
 confAppNotInstalled=draw.io diagrams Confluence -sovellusta ei ole asennettu.
 plsInstallAppInConf=Asenna/yhdistä tämä sovellus Confluencessa päästäksesi kaavioihin (draw.io Confluence -sovelluksen lisäksi)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

@@ -1338,3 +1338,5 @@ DCSave500Error=Μια άλλη λειτουργία του Confluence διέκο
 confAppNotInstalled=Η εφαρμογή draw.io diagrams για Confluence δεν είναι εγκατεστημένη.
 plsInstallAppInConf=Παρακαλώ εγκαταστήστε/συνδέστε αυτήν την εφαρμογή στο Confluence για να έχετε πρόσβαση στα διαγράμματα (εκτός από την εφαρμογή draw.io Confluence)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

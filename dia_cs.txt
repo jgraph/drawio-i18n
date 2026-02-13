@@ -1338,3 +1338,5 @@ DCSave500Error=Ukládání přerušila jiná operace Confluence, pokus #{1}
 confAppNotInstalled=Aplikace draw.io diagrams pro Confluence není nainstalována.
 plsInstallAppInConf=Pro přístup k diagramům prosím nainstalujte/připojte tuto aplikaci v Confluence (kromě aplikace draw.io Confluence)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

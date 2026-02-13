@@ -1338,3 +1338,5 @@ DCSave500Error=‫عملیات دیگری در Confluence ذخیره‌سازی 
 confAppNotInstalled=‫برنامه draw.io diagrams برای Confluence نصب نشده است.‬
 plsInstallAppInConf=‫لطفاً این برنامه را در Confluence نصب/متصل کنید تا بتوانید به نمودارها دسترسی داشته باشید (علاوه بر برنامه draw.io Confluence)‬
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

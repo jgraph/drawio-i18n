@@ -1338,3 +1338,5 @@ DCSave500Error=Confluence-ren beste eragiketa batek gordetzea eten du, saiatu be
 confAppNotInstalled=draw.io diagrams Confluence aplikazioa ez dago instalatuta.
 plsInstallAppInConf=Mesedez, instalatu/konektatu aplikazio hau Confluence-n diagrametara sartzeko (draw.io Confluence aplikazioaz gain)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

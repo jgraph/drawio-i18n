@@ -1338,3 +1338,5 @@ DCSave500Error=O altă operațiune Confluence a întrerupt salvarea, încercați
 confAppNotInstalled=Aplicația draw.io diagrams pentru Confluence nu este instalată.
 plsInstallAppInConf=Vă rugăm să instalați/conectați această aplicație în Confluence pentru a putea accesa diagramele (pe lângă aplicația draw.io Confluence)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

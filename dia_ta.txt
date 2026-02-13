@@ -1338,3 +1338,5 @@ DCSave500Error=Confluence இன் மற்றொரு செயல் சே
 confAppNotInstalled=draw.io diagrams Confluence செயலி நிறுவப்படவில்லை.
 plsInstallAppInConf=வரைபடங்களை அணுக Confluence இல் இந்த செயலியை நிறுவ/இணைக்கவும் (draw.io Confluence செயலிக்கு கூடுதலாக)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

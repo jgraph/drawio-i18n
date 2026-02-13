@@ -1338,3 +1338,5 @@ DCSave500Error=Kita Confluence operacija nutraukė išsaugojimą, bandymas #{1}
 confAppNotInstalled=draw.io diagrams Confluence programa neįdiegta.
 plsInstallAppInConf=Prašome įdiegti/prijungti šią programėlę Confluence, kad galėtumėte pasiekti diagramas (papildomai prie draw.io Confluence programėlės)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

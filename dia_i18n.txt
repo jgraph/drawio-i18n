@@ -1338,3 +1338,5 @@ DCSave500Error=DCSave500Error
 confAppNotInstalled=confAppNotInstalled
 plsInstallAppInConf=plsInstallAppInConf
 m365=m365
+pleaseEnterAPrompt=pleaseEnterAPrompt
+creatingDiagram=creatingDiagram

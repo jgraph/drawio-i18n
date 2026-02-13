@@ -1338,3 +1338,5 @@ DCSave500Error=Confluence ની બીજી પ્રક્રિયાએ સ
 confAppNotInstalled=draw.io diagrams Confluence App ઇન્સ્ટોલ નથી.
 plsInstallAppInConf=ડાયાગ્રામ્સ ઍક્સેસ કરવા માટે કૃપા કરીને Confluence માં આ App ઇન્સ્ટોલ/કનેક્ટ કરો (draw.io Confluence app ઉપરાંત)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram

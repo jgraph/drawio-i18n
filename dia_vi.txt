@@ -1338,3 +1338,5 @@ DCSave500Error=Một thao tác Confluence khác đã làm gián đoạn việc l
 confAppNotInstalled=Ứng dụng draw.io diagrams Confluence chưa được cài đặt.
 plsInstallAppInConf=Vui lòng cài đặt/kết nối Ứng dụng này trong Confluence để có thể truy cập các sơ đồ (ngoài ứng dụng draw.io Confluence)
 m365=Microsoft 365
+pleaseEnterAPrompt=Please enter your diagram description
+creatingDiagram=Creating your diagram
