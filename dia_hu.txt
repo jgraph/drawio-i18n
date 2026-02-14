@@ -1337,3 +1337,5 @@ plsInstallAppInConf=Kérjük, telepítse/csatlakoztassa ezt az alkalmazást a Co
 m365=Microsoft 365
 pleaseEnterAPrompt=Kérjük, adja meg a diagram leírását
 creatingDiagram=Diagram létrehozása
+editPrompt=Edit Prompt
+regenerate=Regenerate

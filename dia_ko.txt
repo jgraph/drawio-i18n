@@ -1337,3 +1337,5 @@ plsInstallAppInConf=다이어그램에 액세스하려면 Confluence에서 이 �
 m365=Microsoft 365
 pleaseEnterAPrompt=Please enter your diagram description
 creatingDiagram=Creating your diagram
+editPrompt=Edit Prompt
+regenerate=Regenerate

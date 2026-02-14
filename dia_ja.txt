@@ -1337,3 +1337,5 @@ plsInstallAppInConf=図にアクセスするには、このアプリをConfluenc
 m365=Microsoft 365
 pleaseEnterAPrompt=Please enter your diagram description
 creatingDiagram=Creating your diagram
+editPrompt=Edit Prompt
+regenerate=Regenerate

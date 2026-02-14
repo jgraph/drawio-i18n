@@ -1337,3 +1337,5 @@ plsInstallAppInConf=plsInstallAppInConf
 m365=m365
 pleaseEnterAPrompt=pleaseEnterAPrompt
 creatingDiagram=creatingDiagram
+editPrompt=editPrompt
+regenerate=regenerate

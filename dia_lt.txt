@@ -1337,3 +1337,5 @@ plsInstallAppInConf=Prašome įdiegti/prijungti šią programėlę Confluence, k
 m365=Microsoft 365
 pleaseEnterAPrompt=Įveskite diagramos aprašymą
 creatingDiagram=Kuriama jūsų diagrama
+editPrompt=Edit Prompt
+regenerate=Regenerate

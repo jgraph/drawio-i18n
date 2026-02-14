@@ -1337,3 +1337,5 @@ plsInstallAppInConf=Instala/conecta esta aplicación en Confluence para poder ac
 m365=Microsoft 365
 pleaseEnterAPrompt=Please enter your diagram description
 creatingDiagram=Creating your diagram
+editPrompt=Edit Prompt
+regenerate=Regenerate
