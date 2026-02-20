@@ -1042,6 +1042,7 @@ pickGDriveFile=Google Drive Dosyası Seç
 createGDriveFile=Google Drive Dosyası Oluştur
 pickDeviceFile=Cihaz Dosyası Seç
 vsdNoConfig="vsdurl" yapılandırılmamış
+tryVssDraw=Try importing the file at {1}
 ruler=Cetvel
 units=Birimler
 points=Punto

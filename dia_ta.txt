@@ -1042,6 +1042,7 @@ pickGDriveFile=Google Drive கோப்பைத் தேர்ந்தெட
 createGDriveFile=Google Drive கோப்பை உருவாக்கு
 pickDeviceFile=சாதனக் கோப்பைத் தேர்ந்தெடு
 vsdNoConfig="vsdurl" கட்டமைக்கப்படவில்லை
+tryVssDraw=Try importing the file at {1}
 ruler=அளவுகோல்
 units=அலகுகள்
 points=புள்ளிகள்

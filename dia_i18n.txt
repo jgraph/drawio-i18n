@@ -1042,6 +1042,7 @@ pickGDriveFile=pickGDriveFile
 createGDriveFile=createGDriveFile
 pickDeviceFile=pickDeviceFile
 vsdNoConfig=vsdNoConfig
+tryVssDraw=tryVssDraw
 ruler=ruler
 units=units
 points=points

@@ -1042,6 +1042,7 @@ pickGDriveFile=‫انتخاب فایل از Google Drive‬
 createGDriveFile=‫ایجاد فایل در Google Drive‬
 pickDeviceFile=‫انتخاب فایل از دستگاه‬
 vsdNoConfig=‫"vsdurl" پیکربندی نشده است‬
+tryVssDraw=Try importing the file at {1}
 ruler=‫خط‌کش‬
 units=‫واحدها‬
 points=‫پوینت‬

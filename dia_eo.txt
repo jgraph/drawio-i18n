@@ -1042,6 +1042,7 @@ pickGDriveFile=Elekti Google Drive-dosieron
 createGDriveFile=Krei Google Drive-dosieron
 pickDeviceFile=Elekti aparatan dosieron
 vsdNoConfig="vsdurl" ne estas agordita
+tryVssDraw=Try importing the file at {1}
 ruler=Mezurilo
 units=Unuoj
 points=Punktoj

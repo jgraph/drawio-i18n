@@ -1042,6 +1042,7 @@ pickGDriveFile=Kies bestand op Google Drive
 createGDriveFile=Google Drive-bestand aanmaken
 pickDeviceFile=Kies bestand op apparaat
 vsdNoConfig="vsdurl" is niet geconfigureerd
+tryVssDraw=Try importing the file at {1}
 ruler=Lineaal
 units=Eenheid
 points=Punt

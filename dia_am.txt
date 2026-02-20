@@ -1042,6 +1042,7 @@ pickGDriveFile=Google Drive ፋይል ይምረጡ
 createGDriveFile=Google Drive ፋይል ይፍጠሩ
 pickDeviceFile=መሣሪያ ፋይል ይምረጡ
 vsdNoConfig="vsdurl" አልተዋቀረም
+tryVssDraw=Try importing the file at {1}
 ruler=መስመሪያ
 units=አሃዶች
 points=ነጥቦች

@@ -1042,6 +1042,7 @@ pickGDriveFile=Google-Drive-Datei auswählen
 createGDriveFile=Google-Drive-Datei erstellen
 pickDeviceFile=Gerätedatei auswählen
 vsdNoConfig="vsdurl" nicht konfiguriert
+tryVssDraw=Try importing the file at {1}
 ruler=Lineal
 units=Einheiten
 points=Punkte

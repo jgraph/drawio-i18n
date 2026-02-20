@@ -1042,6 +1042,7 @@ pickGDriveFile=Google Drive ಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ
 createGDriveFile=Google Drive ಫೈಲ್ ರಚಿಸಿ
 pickDeviceFile=ಸಾಧನ ಫೈಲ್ ಆಯ್ಕೆಮಾಡಿ
 vsdNoConfig="vsdurl" ಕಾನ್ಫಿಗರ್ ಆಗಿಲ್ಲ
+tryVssDraw=Try importing the file at {1}
 ruler=ರೂಲರ್
 units=ಘಟಕಗಳು
 points=ಪಾಯಿಂಟ್‌ಗಳು

@@ -1042,6 +1042,7 @@ pickGDriveFile=Google Drive ફાઇલ પસંદ કરો
 createGDriveFile=Google Drive ફાઇલ બનાવો
 pickDeviceFile=ઉપકરણ ફાઇલ પસંદ કરો
 vsdNoConfig="vsdurl" રૂપરેખાંકિત નથી
+tryVssDraw=Try importing the file at {1}
 ruler=રૂલર
 units=એકમો
 points=પોઈન્ટ્સ

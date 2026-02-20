@@ -1042,6 +1042,7 @@ pickGDriveFile=Google Drive ഫയൽ തിരഞ്ഞെടുക്കുക
 createGDriveFile=Google Drive ഫയൽ സൃഷ്ടിക്കുക
 pickDeviceFile=ഉപകരണ ഫയൽ തിരഞ്ഞെടുക്കുക
 vsdNoConfig="vsdurl" കോൺഫിഗർ ചെയ്തിട്ടില്ല
+tryVssDraw=Try importing the file at {1}
 ruler=റൂളർ
 units=യൂണിറ്റുകൾ
 points=പോയിന്റുകൾ
