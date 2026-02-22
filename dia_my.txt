@@ -539,6 +539,7 @@ noAttachments=ပူးတွဲဖိုင်များမတွေ့ပါ
 noColor=အရောင်မရှိ
 noFiles=ဖိုင်များမရှိပါ
 noFileSelected=ဖိုင်မရွေးချယ်ရသေးပါ
+noFlowAnimations=ပုံကြမ်းတွင် flow animation များ မတွေ့ပါ
 noLibraries=စာကြည့်တိုက်များမတွေ့ပါ
 noMoreResults=ရလဒ်များမရှိတော့ပါ
 none=မရှိ

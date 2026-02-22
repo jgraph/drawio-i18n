@@ -539,6 +539,7 @@ noAttachments=noAttachments
 noColor=noColor
 noFiles=noFiles
 noFileSelected=noFileSelected
+noFlowAnimations=noFlowAnimations
 noLibraries=noLibraries
 noMoreResults=noMoreResults
 none=none

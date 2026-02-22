@@ -539,6 +539,7 @@ noAttachments=Hiç eklenti bulunmadı
 noColor=Renk yok
 noFiles=Dosya yok
 noFileSelected=Hiç dosya seçilmedi
+noFlowAnimations=Diyagramda akış animasyonu bulunamadı
 noLibraries=Hiç kitaplık bulunamadı
 noMoreResults=Daha fazla sonuç yok
 none=Hiçbiri

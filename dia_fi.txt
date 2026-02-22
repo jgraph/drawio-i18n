@@ -539,6 +539,7 @@ noAttachments=Liitteitä ei löytynyt
 noColor=Ei väriä
 noFiles=Ei tiedostoja
 noFileSelected=Tiedostoa ei valittu
+noFlowAnimations=Kaaviosta ei löytynyt vuoanimaatioita
 noLibraries=Kokoelmia ei löytynyt
 noMoreResults=Ei enempää tuloksia
 none=Ei yhtään

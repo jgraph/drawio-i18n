@@ -539,6 +539,7 @@ noAttachments=Nenhum anexo encontrado
 noColor=Sem cor
 noFiles=Nenhum ficheiro
 noFileSelected=Nenhum ficheiro selecionado
+noFlowAnimations=Não foram encontradas animações de fluxo no diagrama
 noLibraries=Nenhuma biblioteca encontrada
 noMoreResults=Sem mais resultados
 none=Nada

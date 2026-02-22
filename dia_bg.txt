@@ -539,6 +539,7 @@ noAttachments=Не са намерени прикачени файлове
 noColor=Без цвят
 noFiles=Без файлове
 noFileSelected=Не е избран файл
+noFlowAnimations=Не са намерени анимации на потока в диаграмата
 noLibraries=Не са намерени библиотеки
 noMoreResults=Няма повече резултати
 none=Няма

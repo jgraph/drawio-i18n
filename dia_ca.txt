@@ -539,6 +539,7 @@ noAttachments=No s'han trobat arxius adjunts
 noColor=Sense color
 noFiles=No hi ha fitxers
 noFileSelected=No s'ha seleccionat cap fitxer
+noFlowAnimations=No s'han trobat animacions de flux al diagrama
 noLibraries=No s'han trobat biblioteques
 noMoreResults=No hi ha més resultats
 none=Cap

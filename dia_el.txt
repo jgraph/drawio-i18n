@@ -539,6 +539,7 @@ noAttachments=Δεν βρέθηκαν συνημμένα αρχεία
 noColor=Χωρίς χρώμα
 noFiles=Δεν υπάρχουν αρχεία
 noFileSelected=Δεν επιλέχθηκε αρχείο
+noFlowAnimations=Δεν βρέθηκαν κινούμενα σχέδια ροής στο διάγραμμα
 noLibraries=Δεν βρέθηκαν βιβλιοθήκες
 noMoreResults=Δεν υπάρχουν άλλα αποτελέσματα
 none=Κανένα

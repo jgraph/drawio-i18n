@@ -539,6 +539,7 @@ noAttachments=Keine Anhänge gefunden
 noColor=Keine Farbe
 noFiles=Keine Dateien
 noFileSelected=Keine Datei ausgewählt
+noFlowAnimations=Keine Flussanimationen im Diagramm gefunden
 noLibraries=Keine Bibliotheken gefunden
 noMoreResults=Keine weiteren Resultate
 none=Ohne

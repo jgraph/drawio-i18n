@@ -539,6 +539,7 @@ noAttachments=Nu au fost găsite atașamente.
 noColor=Fără culoare
 noFiles=Fără fișiere
 noFileSelected=Nu a fost selectat niciun fișier
+noFlowAnimations=Nu s-au găsit animații de flux în diagramă
 noLibraries=Nu a fost găsită nicio bibliotecă.
 noMoreResults=Nu mai există rezultate
 none=Niciunul

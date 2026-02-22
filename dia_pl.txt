@@ -539,6 +539,7 @@ noAttachments=Nie znaleziono załączników
 noColor=Brak koloru
 noFiles=Brak plików
 noFileSelected=Nie wybrano żadnego pliku
+noFlowAnimations=Nie znaleziono animacji przepływu na diagramie
 noLibraries=Nie znaleziono bibliotek
 noMoreResults=Nie ma więcej wyników
 none=Żaden

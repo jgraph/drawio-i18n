@@ -539,6 +539,7 @@ noAttachments=Geen bijlagen gevonden
 noColor=Geen kleur
 noFiles=Geen bestanden
 noFileSelected=Geen bestand geselecteerd
+noFlowAnimations=Geen stroomanimaties gevonden in het diagram
 noLibraries=Geen bibliotheken gevonden
 noMoreResults=Geen verdere resultaten
 none=Geen

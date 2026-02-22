@@ -539,6 +539,7 @@ noAttachments=Nerasta jokių priedų
 noColor=Be spalvos
 noFiles=Nėra failų
 noFileSelected=Nepasirinktas failas
+noFlowAnimations=Diagramoje nerasta srauto animacijų
 noLibraries=Nerasta bibliotekų
 noMoreResults=Nėra kitų rezultatų
 none=Nieko

@@ -539,6 +539,7 @@ noAttachments=Hakuna viambatisho vilivyopatikana
 noColor=Hakuna Rangi
 noFiles=Hakuna Faili
 noFileSelected=Hakuna faili iliyochaguliwa
+noFlowAnimations=Hakuna michoro ya mtiririko iliyopatikana kwenye mchoro
 noLibraries=Hakuna maktaba zilizopatikana
 noMoreResults=Hakuna matokeo zaidi
 none=Hakuna

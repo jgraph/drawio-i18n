@@ -539,6 +539,7 @@ noAttachments=Manuseid ei leitud
 noColor=Ilma värvita
 noFiles=Faile pole
 noFileSelected=Ühtki faili pole valitud
+noFlowAnimations=Diagrammist ei leitud voo animatsioone
 noLibraries=Kogumikke ei leitud
 noMoreResults=Rohkem tulemusi pole
 none=Mitte ühtki

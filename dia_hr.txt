@@ -539,6 +539,7 @@ noAttachments=Nisu pronađeni privici
 noColor=Bez boje
 noFiles=Nema datoteka
 noFileSelected=Nije odabrana datoteka
+noFlowAnimations=Nisu pronađene animacije toka u dijagramu
 noLibraries=Nisu pronađene biblioteke
 noMoreResults=Nema više rezultata
 none=Ništa

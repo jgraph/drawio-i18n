@@ -539,6 +539,7 @@ noAttachments=未找到附件
 noColor=無顏色
 noFiles=無檔案
 noFileSelected=未選擇檔案
+noFlowAnimations=圖表中未找到流程動畫
 noLibraries=未找到圖庫
 noMoreResults=無更多結果
 none=無

@@ -539,6 +539,7 @@ noAttachments=Nav atrastu pielikumu
 noColor=Bez krāsas
 noFiles=Nav failu
 noFileSelected=Nav atlasīts neviens fails
+noFlowAnimations=Diagrammā nav atrasta neviena plūsmas animācija
 noLibraries=Nav atrasta neviena bibliotēka
 noMoreResults=Nav citu rezultātu
 none=Nekas

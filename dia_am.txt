@@ -539,6 +539,7 @@ noAttachments=አንድ ተያያዥ አልተገኘም
 noColor=ቀለም የለም
 noFiles=ፋይሎች የለም
 noFileSelected=ፋይል የተመረጠ የለም
+noFlowAnimations=በንድፉ ውስጥ የፍሰት አኒሜሽኖች አልተገኙም
 noLibraries=ቤተ-መጽሐፍቶች አልተገኙም
 noMoreResults=ተጨማሪ ውጤቶች የለም
 none=ምንም

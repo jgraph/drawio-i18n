@@ -539,6 +539,7 @@ noAttachments=添付ファイルが見つかりません
 noColor=色なし
 noFiles=ファイルなし
 noFileSelected=ファイルが選ばれていません。
+noFlowAnimations=ダイアグラムにフローアニメーションが見つかりません
 noLibraries=ライブラリが見つかりません
 noMoreResults=これ以上の結果はありません
 none=なし

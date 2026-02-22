@@ -539,6 +539,7 @@ noAttachments=কোনো সংযুক্তি পাওয়া যায
 noColor=কোনো রঙ নেই
 noFiles=কোনো ফাইল নেই
 noFileSelected=কোনো ফাইল নির্বাচিত হয়নি
+noFlowAnimations=ডায়াগ্রামে কোনো ফ্লো অ্যানিমেশন পাওয়া যায়নি
 noLibraries=কোনো লাইব্রেরি পাওয়া যায়নি
 noMoreResults=আর কোনো ফলাফল নেই
 none=কিছুই না

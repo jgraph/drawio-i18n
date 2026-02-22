@@ -539,6 +539,7 @@ noAttachments=‫پیوستی یافت نشد‬
 noColor=‫بدون رنگ‬
 noFiles=‫فایلی وجود ندارد‬
 noFileSelected=‫فایلی انتخاب نشد‬
+noFlowAnimations=‫هیچ انیمیشن جریانی در نمودار یافت نشد‬
 noLibraries=‫کتابخانه ای یافت نشد‬
 noMoreResults=‫جواب دیگری وجود ندارد‬
 none=‫هیچ‬

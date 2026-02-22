@@ -539,6 +539,7 @@ noAttachments=Không tìm thấy phần đính kèm
 noColor=Không có màu
 noFiles=Không có tập tin
 noFileSelected=Không có tập tin được chọn
+noFlowAnimations=Không tìm thấy hoạt ảnh luồng trong sơ đồ
 noLibraries=Không tìm thấy thư viện
 noMoreResults=Không còn kết quả khác
 none=Không

@@ -539,6 +539,7 @@ noAttachments=Tidak ada lampiran yang ditemukan
 noColor=Tanpa Warna
 noFiles=Tidak Ada Berkas
 noFileSelected=Tidak ada berkas yang dipilih
+noFlowAnimations=Tidak ditemukan animasi alur dalam diagram
 noLibraries=Tidak ada pustaka yang ditemukan
 noMoreResults=Tidak ada hasil lainnya
 none=Tidak ada

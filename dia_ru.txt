@@ -539,6 +539,7 @@ noAttachments=Вложения не найдены
 noColor=Нет цвета
 noFiles=Нет файлов
 noFileSelected=Файл не выбран
+noFlowAnimations=В диаграмме не найдены анимации потока
 noLibraries=Библиотеки не найдены
 noMoreResults=Больше нет результатов
 none=Нет

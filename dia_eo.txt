@@ -539,6 +539,7 @@ noAttachments=Neniuj aldonaĵoj trovitaj
 noColor=Neniu koloro
 noFiles=Neniuj dosieroj
 noFileSelected=Neniu dosiero elektita
+noFlowAnimations=Neniuj fluanimcioj trovitaj en la diagramo
 noLibraries=Neniuj bibliotekoj trovitaj
 noMoreResults=Neniuj pliaj rezultoj
 none=Nenio
