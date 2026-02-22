@@ -346,6 +346,7 @@ fontFamily=Tiparfamilio
 fontSize=Tipargrandeco
 forbidden=Vi ne rajtas aliri ĉi tiun dosieron
 format=Formato
+formatAnimatedGif=Vigla GIF
 formatPanel=Formatpanelo
 formatted=Formatita
 formattedText=Formatita teksto

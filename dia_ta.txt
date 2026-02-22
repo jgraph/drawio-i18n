@@ -346,6 +346,7 @@ fontFamily=எழுத்துரு குடும்பம்
 fontSize=எழுத்துரு அளவு
 forbidden=இந்த கோப்பை அணுக உங்களுக்கு அனுமதி இல்லை
 format=வடிவம்
+formatAnimatedGif=அனிமேட்டட் GIF
 formatPanel=வடிவமைப்பு பலகம்
 formatted=வடிவமைக்கப்பட்டுள்ளது
 formattedText=வடிவமைக்கப்பட்ட உரை

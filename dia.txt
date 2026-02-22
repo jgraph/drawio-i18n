@@ -346,6 +346,7 @@ fontFamily=Font Family
 fontSize=Font Size
 forbidden=You are not authorized to access this file
 format=Format
+formatAnimatedGif=Animated GIF
 formatPanel=Format Panel
 formatted=Formatted
 formattedText=Formatted Text

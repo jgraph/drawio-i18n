@@ -346,6 +346,7 @@ fontFamily=フォント種類
 fontSize=フォントサイズ
 forbidden=このファイルへのアクセスが許されていません。
 format=フォーマット
+formatAnimatedGif=アニメーションGIF
 formatPanel=フォーマットパネル
 formatted=書式付き
 formattedText=フォーマットされたテキスト

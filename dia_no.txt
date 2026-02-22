@@ -346,6 +346,7 @@ fontFamily=Skriftfamilie
 fontSize=Skriftstørrelse
 forbidden=Du har ikke tilgang til denne filen
 format=Format
+formatAnimatedGif=Animert GIF
 formatPanel=Formatpanel
 formatted=Formatert
 formattedText=Formatert tekst

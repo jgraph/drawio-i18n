@@ -346,6 +346,7 @@ fontFamily=Letra-tipo familia
 fontSize=Letra-tipoaren tamaina
 forbidden=Ez daukazu baimenik fitxategi honetan sartzeko
 format=Formatua
+formatAnimatedGif=GIF animatua
 formatPanel=Formatu panela
 formatted=Formatuduna
 formattedText=Formatudun testua

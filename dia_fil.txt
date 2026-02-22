@@ -346,6 +346,7 @@ fontFamily=Pamilya ng Font
 fontSize=Sukat ng Font
 forbidden=Hindi ka pinahihintulutan para i-akses ang file na ito.
 format=Format
+formatAnimatedGif=Animated na GIF
 formatPanel=Panel ng Format
 formatted=Naisaayos
 formattedText=Naisaayos na teksto

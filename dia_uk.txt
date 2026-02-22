@@ -346,6 +346,7 @@ fontFamily=Сімейство шрифтів
 fontSize=Розмір шрифту
 forbidden=У вас немає прав доступу до цього файлу
 format=Формат
+formatAnimatedGif=Анімований GIF
 formatPanel=Панель форматування
 formatted=Форматований
 formattedText=Форматований текст

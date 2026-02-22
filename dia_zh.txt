@@ -346,6 +346,7 @@ fontFamily=字体
 fontSize=字体大小
 forbidden=您没有该文件的访问权限
 format=格式
+formatAnimatedGif=动画 GIF
 formatPanel=格式面板
 formatted=格式化
 formattedText=格式化文本

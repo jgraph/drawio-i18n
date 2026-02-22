@@ -346,6 +346,7 @@ fontFamily=Οικογένεια γραμματοσειράς
 fontSize=Μέγεθος γραμματοσειράς
 forbidden=Δεν έχετε εξουσιοδότηση για να αποκτήσετε πρόσβαση στο αρχείο
 format=Μορφοποίηση
+formatAnimatedGif=Κινούμενο GIF
 formatPanel=Πίνακας μορφοποίησης
 formatted=Μορφοποιημένο
 formattedText=Μορφοποιημένο κείμενο

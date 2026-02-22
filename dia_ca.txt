@@ -346,6 +346,7 @@ fontFamily=Família de la font
 fontSize=Mida de la font
 forbidden=No esteu autoritzats a accedir a aquest fitxer
 format=Format
+formatAnimatedGif=GIF animat
 formatPanel=Tauler de format
 formatted=Formatat
 formattedText=Text formatat

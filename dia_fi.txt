@@ -346,6 +346,7 @@ fontFamily=Fonttiperhe
 fontSize=Fontin koko
 forbidden=Sinulla ei ole käyttöoikeuksia tähän tiedostoon
 format=Muoto
+formatAnimatedGif=Animoitu GIF
 formatPanel=Muotoilupaneeli
 formatted=Muotoiltu
 formattedText=Muotoiltu teksti

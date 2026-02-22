@@ -346,6 +346,7 @@ fontFamily=फॉन्ट फॅमिली
 fontSize=फॉन्ट आकार
 forbidden=या फाइलमध्ये प्रवेश करण्यास तुम्हाला अधिकृत नाही
 format=फॉरमॅट
+formatAnimatedGif=अॅनिमेटेड GIF
 formatPanel=फॉरमॅट पॅनेल
 formatted=फॉरमॅट केलेले
 formattedText=फॉरमॅट केलेला मजकूर

@@ -346,6 +346,7 @@ fontFamily=Titartat ilagiit
 fontSize=Titartat annertuutaat
 forbidden=Una fiili akuersissuteqanngilatit pissarsiuk
 format=Iluseq
+formatAnimatedGif=Animated GIF
 formatPanel=Ilusip panelia
 formatted=Ilusersorneqarsimasoq
 formattedText=Allagaq ilusersorneqarsimasoq

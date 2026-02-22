@@ -346,6 +346,7 @@ fontFamily=รูปแบบอักษร
 fontSize=ขนาดอักษร
 forbidden=คุณไม่ได้รับอนุญาตให้เข้าใช้ไฟล์นี้
 format=รูปแบบ
+formatAnimatedGif=GIF แบบเคลื่อนไหว
 formatPanel=แผงรูปแบบ
 formatted=ได้จัดรูปแบบแล้ว
 formattedText=ข้อความที่จัดรูปแบบแล้ว

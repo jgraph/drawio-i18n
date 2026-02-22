@@ -346,6 +346,7 @@ fontFamily=Familie fonturi
 fontSize=Dimensiune font
 forbidden=Nu ai permisiunea de a accesa acest fișier
 format=Format
+formatAnimatedGif=GIF animat
 formatPanel=Panou de formatare
 formatted=Formatat
 formattedText=Text formatat

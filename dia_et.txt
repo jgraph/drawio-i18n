@@ -346,6 +346,7 @@ fontFamily=Fondipere
 fontSize=Fondi suurus
 forbidden=Sul puudub õigus sellele failile juurde pääseda
 format=Formaat
+formatAnimatedGif=Animeeritud GIF
 formatPanel=Formaadipaneel
 formatted=Formaaditud
 formattedText=Formaaditud tekst

@@ -346,6 +346,7 @@ fontFamily=Phông chữ
 fontSize=Kích thước Font
 forbidden=Bạn không được ủy quyền để truy cập tập tin này
 format=Định dạng
+formatAnimatedGif=GIF động
 formatPanel=Bảng định dạng
 formatted=Đã định dạng
 formattedText=Văn bản đã định dạng

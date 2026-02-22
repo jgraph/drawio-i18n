@@ -346,6 +346,7 @@ fontFamily=‫خانواده فونت‬
 fontSize=‫اندازه فونت‬
 forbidden=‫شما مجوز دسترسی به این فایل را ندارید‬
 format=‫فرمت‬
+formatAnimatedGif=‫GIF متحرک‬
 formatPanel=‫پنل قالب‌بندی‬
 formatted=‫قالب بندی شده‬
 formattedText=‫متن قالب‌بندی شده‬

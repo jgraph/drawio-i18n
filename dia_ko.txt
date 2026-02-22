@@ -346,6 +346,7 @@ fontFamily=글꼴 종류
 fontSize=글꼴 크기
 forbidden=이 파일에 대한 접근 권한이 없습니다.
 format=서식
+formatAnimatedGif=애니메이션 GIF
 formatPanel=서식 패널
 formatted=서식 적용됨
 formattedText=서식이 적용된 텍스트

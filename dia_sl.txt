@@ -346,6 +346,7 @@ fontFamily=Družina pisav
 fontSize=Velikost pisave
 forbidden=Nimate dovoljenja za dostop do te datoteke
 format=Oblika
+formatAnimatedGif=Animiran GIF
 formatPanel=Plošča za oblikovanje
 formatted=Oblikovano
 formattedText=Oblikovano besedilo

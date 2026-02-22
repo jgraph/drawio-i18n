@@ -346,6 +346,7 @@ fontFamily=Betűcsalád
 fontSize=Betűméret
 forbidden=Nincs jogosultsága a fájl eléréséhez.
 format=Formátum
+formatAnimatedGif=Animált GIF
 formatPanel=Formátozási panel
 formatted=Formázott
 formattedText=Formázott szöveg

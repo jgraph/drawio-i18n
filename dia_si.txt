@@ -346,6 +346,7 @@ fontFamily=අකුරු පවුල
 fontSize=අකුරු ප්‍රමාණය
 forbidden=මෙම ගොනුවට ප්‍රවේශ වීමට ඔබට අවසර නැත
 format=හැඩතල කරන්න
+formatAnimatedGif=සජීවිකරණ GIF
 formatPanel=හැඩතල පුවරුව
 formatted=හැඩතල කළ
 formattedText=හැඩතල කළ පෙළ

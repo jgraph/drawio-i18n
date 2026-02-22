@@ -346,6 +346,7 @@ fontFamily=ఫాంట్ కుటుంబం
 fontSize=ఫాంట్ పరిమాణం
 forbidden=ఈ ఫైల్‌ను యాక్సెస్ చేయడానికి మీకు అధికారం లేదు
 format=ఫార్మాట్
+formatAnimatedGif=యానిమేటెడ్ GIF
 formatPanel=ఫార్మాట్ ప్యానెల్
 formatted=ఫార్మాట్ చేయబడింది
 formattedText=ఫార్మాట్ చేసిన టెక్స్ట్

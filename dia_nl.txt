@@ -346,6 +346,7 @@ fontFamily=Lettertypefamilie
 fontSize=Tekstgrootte
 forbidden=U bent niet geautoriseerd om dit bestand te openen
 format=Opmaken
+formatAnimatedGif=Geanimeerde GIF
 formatPanel=Opmaakpaneel
 formatted=Opgemaakt
 formattedText=Opgemaakte tekst

@@ -346,6 +346,7 @@ fontFamily=Keluarga Fon
 fontSize=Saiz Fon
 forbidden=Anda tidak dibenarkan untuk mengakses fail ini
 format=Format
+formatAnimatedGif=GIF Animasi
 formatPanel=Panel Format
 formatted=Berformat
 formattedText=Teks Berformat

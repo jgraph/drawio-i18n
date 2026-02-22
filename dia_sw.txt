@@ -346,6 +346,7 @@ fontFamily=Familia ya Fonti
 fontSize=Ukubwa wa Fonti
 forbidden=Hauruhusiwi kufikia faili hii
 format=Umbizo
+formatAnimatedGif=GIF yenye Uhuishaji
 formatPanel=Paneli ya Umbizo
 formatted=Imeumbizwa
 formattedText=Maandishi Yaliyoumbizwa

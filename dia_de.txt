@@ -346,6 +346,7 @@ fontFamily=Schriftart
 fontSize=Schriftgröße
 forbidden=Zugriff verweigert
 format=Format
+formatAnimatedGif=Animiertes GIF
 formatPanel=Bereich "Formatieren"
 formatted=Formatiert
 formattedText=Formatierter Text

@@ -346,6 +346,7 @@ fontFamily=Rodina písma
 fontSize=Veľkosť písma
 forbidden=Nemáte oprávnenie na prístup k tomuto súboru
 format=Formát
+formatAnimatedGif=Animovaný GIF
 formatPanel=Panel formátu
 formatted=Formátované
 formattedText=Formátovaný text

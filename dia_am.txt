@@ -346,6 +346,7 @@ fontFamily=የፎንት ቤተሰብ
 fontSize=የፎንት መጠን
 forbidden=ይህን ፋይል ለመድረስ ፈቃድ የለዎትም
 format=ቅንብር
+formatAnimatedGif=አኒሜትድ GIF
 formatPanel=የቅንብር ፓነል
 formatted=የተቀረጸ
 formattedText=የተቀረጸ ጽሁፍ

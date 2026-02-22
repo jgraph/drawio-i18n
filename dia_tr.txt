@@ -346,6 +346,7 @@ fontFamily=Yazı tipi ailesi
 fontSize=Yazı boyutu
 forbidden=Bu dosyaya erişme hakkınız yok
 format=Biçim
+formatAnimatedGif=Animasyonlu GIF
 formatPanel=Biçimleme paneli
 formatted=Biçimlendirilmiş
 formattedText=Biçimlendirilmiş Metin

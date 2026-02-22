@@ -346,6 +346,7 @@ fontFamily=fontFamily
 fontSize=fontSize
 forbidden=forbidden
 format=format
+formatAnimatedGif=formatAnimatedGif
 formatPanel=formatPanel
 formatted=formatted
 formattedText=formattedText

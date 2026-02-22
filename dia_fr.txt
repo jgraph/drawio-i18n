@@ -346,6 +346,7 @@ fontFamily=Police
 fontSize=Taille de la police
 forbidden=Vous n'avez pas le droit d'accéder à ce fichier
 format=Format
+formatAnimatedGif=GIF animé
 formatPanel=Panneau de mise en forme
 formatted=Mis en forme
 formattedText=Texte mis en forme

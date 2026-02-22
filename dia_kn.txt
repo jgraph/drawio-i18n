@@ -346,6 +346,7 @@ fontFamily=ಫಾಂಟ್ ಕುಟುಂಬ
 fontSize=ಫಾಂಟ್ ಗಾತ್ರ
 forbidden=ಈ ಫೈಲ್ ಅನ್ನು ಪ್ರವೇಶಿಸಲು ನಿಮಗೆ ಅಧಿಕಾರವಿಲ್ಲ
 format=ಫಾರ್ಮ್ಯಾಟ್
+formatAnimatedGif=ಅನಿಮೇಟೆಡ್ GIF
 formatPanel=ಫಾರ್ಮ್ಯಾಟ್ ಪ್ಯಾನೆಲ್
 formatted=ಫಾರ್ಮ್ಯಾಟ್ ಮಾಡಲಾಗಿದೆ
 formattedText=ಫಾರ್ಮ್ಯಾಟ್ ಮಾಡಿದ ಪಠ್ಯ

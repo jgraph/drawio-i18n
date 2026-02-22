@@ -346,6 +346,7 @@ fontFamily=Famili Fonta
 fontSize=Ukuran Fonta
 forbidden=Anda tidak berwenang untuk mengakses berkas ini
 format=Format
+formatAnimatedGif=GIF Animasi
 formatPanel=Panel Format
 formatted=Terformat
 formattedText=Teks Terformat

@@ -346,6 +346,7 @@ fontFamily=Fonta kopa
 fontSize=Fonta izmērs
 forbidden=Jums nav tiesību piekļūt šim failam
 format=Formāts
+formatAnimatedGif=Animēts GIF
 formatPanel=Formata panelis
 formatted=Formatēts
 formattedText=Formatēts teksts

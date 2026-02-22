@@ -346,6 +346,7 @@ fontFamily=Šriftų šeima
 fontSize=Šrifto dydis
 forbidden=Jums nėra suteikta prieiga prie šio failo
 format=Formatas
+formatAnimatedGif=Animuotas GIF
 formatPanel=Formatavimo skydelis
 formatted=Suformatuota
 formattedText=Suformatuotas tekstas

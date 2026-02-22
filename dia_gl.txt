@@ -346,6 +346,7 @@ fontFamily=Familia da fonte
 fontSize=Tamaño da fonte
 forbidden=Non tes permisos para accederes a este arquivo
 format=Formato
+formatAnimatedGif=GIF animado
 formatPanel=Panel de formato
 formatted=Formatado
 formattedText=Texto formatado

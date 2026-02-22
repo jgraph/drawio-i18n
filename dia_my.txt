@@ -346,6 +346,7 @@ fontFamily=ဖောင့်မျိုးစု
 fontSize=ဖောင့်အရွယ်အစား
 forbidden=ဤဖိုင်ကို ဝင်ရောက်ကြည့်ရှုခွင့် မရှိပါ
 format=ဖော်မက်
+formatAnimatedGif=အန်နီမေးရှင် GIF
 formatPanel=ဖော်မက် ပန်နယ်
 formatted=ဖော်မက်ချထားသော
 formattedText=ဖော်မက်ချထားသော စာသား

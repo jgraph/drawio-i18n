@@ -346,6 +346,7 @@ fontFamily=ഫോണ്ട് ഫാമിലി
 fontSize=ഫോണ്ട് വലുപ്പം
 forbidden=ഈ ഫയൽ ആക്സസ് ചെയ്യാൻ നിങ്ങൾക്ക് അനുമതിയില്ല
 format=ഫോർമാറ്റ്
+formatAnimatedGif=ആനിമേറ്റഡ് GIF
 formatPanel=ഫോർമാറ്റ് പാനൽ
 formatted=ഫോർമാറ്റ് ചെയ്തത്
 formattedText=ഫോർമാറ്റ് ചെയ്ത ടെക്സ്റ്റ്
