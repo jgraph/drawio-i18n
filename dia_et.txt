@@ -620,6 +620,7 @@ plugins=Pluginad
 pluginUrl=Plugini URL
 pluginWarning=Leht on palunud järgneva(te) plugini/pluginate laadimist:\n \n {1}\n \n Kas soovid seda/neid pluginit/pluginaid laadida kohe?\n \n TÄHELEPANU: Luba pluginate jooksutamist ainult juhul, kui mõistad täielikult sellega kaasnevaid turvariske.\n
 plusTooltip=Kliki, et ühendada ja kloonida (ctrl+klikk kloonimiseks, shift+klikk ühendamiseks). Lohista ühendamiseks (ctrl+lohista kloonimiseks).
+polygon=Hulknurk
 portrait=Püstpaigutus
 position=Positsioon
 posterPrint=Postritrükk

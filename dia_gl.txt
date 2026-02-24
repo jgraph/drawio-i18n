@@ -620,6 +620,7 @@ plugins=Complementos
 pluginUrl=URL do Complemento
 pluginWarning=A páxina solicitou cargar o(s) seguinte(s) complemento(s):\n \n {1}\n \n Desexa cargar este(s) complemento(s) agora?\n \n NOTA: Soamente active os complementos se comprende perfectamente as implicacións de seguranza que supón a súa execución.
 plusTooltip=Preme para conectares e clonares (ctrl+click para clonar, shift+click para conectar). Arrastra para conectares (ctrl+drag para clonar).
+polygon=Polígono
 portrait=Vertical
 position=Posición
 posterPrint=Impresión en póster

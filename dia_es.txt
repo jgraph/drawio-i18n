@@ -620,6 +620,7 @@ plugins=Plugins
 pluginUrl=URL del plugin
 pluginWarning=La página ha solicitado cargar los siguientes plugins:\n\n{1}\n\n¿Desea cargar estos plugins ahora?\n\nNOTA: Permita que los plugins se ejecuten solamente si comprende completamente las implicaciones de seguridad que esto conlleva.\n
 plusTooltip=Haga clic para conectar y clonar (ctrl+clic para clonar, shift+clic para conectar). Arrastre para conectar (ctrl+arrastrar para clonar).
+polygon=Polígono
 portrait=Orientación vertical
 position=Posición
 posterPrint=Impresión de póster

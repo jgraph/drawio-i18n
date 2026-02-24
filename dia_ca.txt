@@ -620,6 +620,7 @@ plugins=Connectors
 pluginUrl=URL del connector
 pluginWarning=La pàgina sol·licita carregar els següents connectors:\n \n {1}\n \n Voleu carregar aquests connectors?\n \n Atenció: Només permeteu l'execució dels connectors si coneixeu les implicacions de seguretat.\n
 plusTooltip=Feu clic per connectar i clonar (Ctrl+clic per clonar, Maj.+clic per connectar). Arrossegueu per connectar (Ctrl+arrossegar per clonar).
+polygon=Polígon
 portrait=Vertical
 position=Posició
 posterPrint=Imprimeix cartell

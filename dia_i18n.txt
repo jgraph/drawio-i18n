@@ -620,6 +620,7 @@ plugins=plugins
 pluginUrl=pluginUrl
 pluginWarning=pluginWarning
 plusTooltip=plusTooltip
+polygon=polygon
 portrait=portrait
 position=position
 posterPrint=posterPrint

@@ -620,6 +620,7 @@ plugins=Plugin
 pluginUrl=URL plugin
 pluginWarning=Halaman ini telah diminta untuk memuatkan plugin yang berikut:\n\n {1}\n\n Adakah anda mahu memuatkan plugin ini sekarang?\n\n NOTA : Hanya benarkan plugin untuk dijalankan jika anda memahami sepenuhnya tentang implikasi keselamatan dengan berbuat demikian.\n
 plusTooltip=Klik untuk menyambung dan mengklon (ctrl+klik untuk mengklon, shift+klik untuk menyambung). Seret untuk menyambung (ctrl+seret untuk mengklon).
+polygon=Poligon
 portrait=Potret
 position=Posisi
 posterPrint=Cetakan Poster

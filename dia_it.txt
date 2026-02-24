@@ -620,6 +620,7 @@ plugins=Estensioni
 pluginUrl=URL dell'estensione
 pluginWarning=La pagina ha richiesto di caricare le seguenti estensioni:\n{1}\n\nVuoi caricare queste estensioni adesso?\n\nNOTA: permetti l'apertura delle estensioni solo se hai compreso pienamente le implicazioni di sicurezza.
 plusTooltip=Fai clic per connettere e clonare (Ctrl+clic per clonare, Maiusc+clic per connettere). Trascina per connettere (Ctrl+trascina per clonare).
+polygon=Poligono
 portrait=Verticale
 position=Posizione
 posterPrint=Stampa poster

@@ -620,6 +620,7 @@ plugins=Extensões
 pluginUrl=URL da extensão
 pluginWarning=A página solicitou o carregamento da(s) seguinte(s) extensão(ões):\n \n {1}\n \n Você gostaria de carregar a(s) extensão(ões) agora?\n \n NOTA: Somente permita a execução de extensões se você entende completamente as implicações de segurança desse consentimento.\n
 plusTooltip=Clique para conectar e clonar (ctrl+clique para clonar, shift+clique para conectar). Arraste para conectar (ctrl+arraste para clonar).
+polygon=Polígono
 portrait=Retrato
 position=Posição
 posterPrint=Imprimir cartaz

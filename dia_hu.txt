@@ -620,6 +620,7 @@ plugins=Bővítmények
 pluginUrl=Bővítmény URL
 pluginWarning=Az oldal a következő bővítményeket kérte tölteni:\n\n{1}\n Szeretné-e most tölteni ezeket a bővítményeket?\n\n MEGJEGYZÉS: Csak akkor engedélyezze a bővítmények futtatását, ha teljesen érti a biztonsági következményeket.\n
 plusTooltip=Kattintson a csatlakoztatáshoz és klónozáshoz (ctrl+kattintás klónozáshoz, shift+kattintás csatlakoztatáshoz). Húzza a csatlakoztatáshoz (ctrl+húzás klónozáshoz).
+polygon=Sokszög
 portrait=Álló
 position=Pozíció
 posterPrint=Poszter nyomtatás

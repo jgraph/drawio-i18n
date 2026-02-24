@@ -620,6 +620,7 @@ plugins=Zásuvné moduly
 pluginUrl=URL adresa zásuvného modulu
 pluginWarning=Stránka požádala o načtení následujících zásuvných modulů:\n\n{1}\n\nChcete tyto zásuvné moduly nyní načíst?\n\nPOZNÁMKA: Povolte spuštění zásuvných modulů pouze v případě, že plně rozumíte bezpečnostním důsledkům.
 plusTooltip=Kliknutím připojíte a naklonujete (Ctrl+klik - klonování, Shift+klik - připojení). Přetažením připojíte (Ctrl+přetažení - klonování).
+polygon=Mnohoúhelník
 portrait=Na výšku
 position=Pozice
 posterPrint=Tisk plakátu

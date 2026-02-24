@@ -620,6 +620,7 @@ plugins=Pluginak
 pluginUrl=Pluginaren URLa
 pluginWarning=Orriak eskatu du hurrengo plugina(k) kargatzeko:\n\n{1}\n\nNahi al duzu plugin horiek orain kargatzea?\n\nOHARRA: Baimendu pluginak exekutatzen bakarrik ulertzen baduzu horrek zer suposatzen duen segurtasunerako.\n
 plusTooltip=Egin klik konektatzeko eta klonatzeko (ktrl+klik klonatzeko, may+klik konektatzeko). Arrastatu konektatzeko (ktrl+arrastatu klonatzeko).
+polygon=Poligonoa
 portrait=Bertikala
 position=Kokalekua
 posterPrint=Kartelaren inprimaketa

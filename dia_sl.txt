@@ -620,6 +620,7 @@ plugins=Vtičniki
 pluginUrl=URL vtičnika
 pluginWarning=Stran je zahtevala nalaganje naslednjih vtičnikov:\n \n {1}\n \n Ali želite zdaj naložiti te vtičnike?\n \n OPOMBA: Vtičnike dovolite le, če popolnoma razumete varnostne posledice tega.\n
 plusTooltip=Kliknite za povezavo in kloniranje (ctrl+klik za kloniranje, shift+klik za povezavo). Povlecite za povezavo (ctrl+povleci za kloniranje).
+polygon=Poligon
 portrait=Pokončno
 position=Položaj
 posterPrint=Tiskanje plakata

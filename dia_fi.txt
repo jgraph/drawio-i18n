@@ -620,6 +620,7 @@ plugins=Lisäosat
 pluginUrl=Lisäosan URL
 pluginWarning=Sivu pyytää lataamaan seuraavan lisäosan/seuraavia lisäosia:\n \n {1}\n \n Haluatko ladata nämä lisäosat nyt?\n \n HUOMAA: Lataa lisäosat ainoastaan, jos ymmärrät latauksen täydet turvallisuusseuraukset.\n
 plusTooltip=Napsauta yhdistääksesi ja kloonaa (ctrl+napsauta kloonataksesi, vaihto+napsauta yhdistääksesi). Yhdistä vetämällä (ctrl+vedä kloonataksesi).
+polygon=Monikulmio
 portrait=Pystysuunta
 position=Sijainti
 posterPrint=Julistetulostus

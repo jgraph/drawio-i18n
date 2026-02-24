@@ -620,6 +620,7 @@ plugins=Mga Plugin
 pluginUrl=URL ng Plugin
 pluginWarning=Ang pahina ay humihiling na i-load ang sumusunod na (mga) plugin:\n \n {1}\n \n Nais mo bang i-load ang (mga) plugin na ito?\n \n PAALALA : Pahintulutan lamang ang mga plugin na gumana kung lubos mong nauunawaan ang implikasyon sa seguridad ng pagpapahintulot sa mga ito.\n
 plusTooltip=Pindutin para kumonekta at gayahin (ctrl+pindot para gayahin, shift+pindot para kumonekta). Hilahin para kumonekta (ctrl+hila para gayahin).
+polygon=Polygon
 portrait=Patayo
 position=Posisyon
 posterPrint=Printang poster

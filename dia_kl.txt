@@ -620,6 +620,7 @@ plugins=Plugin-it
 pluginUrl=Plugin URL
 pluginWarning=Qupperneq plugin makkua aaleriarniarlugit pisoortitsivoq:\n\n{1}\n\nPlugin makkua maanna aaleriaqqissavigit?\n\nPAASSISUT: Plugin-it aallartikkit kisiat taamaalioqatigiinnerup atugarissaarneqarnera paasigukku.\n
 plusTooltip=Attaveqarniarlu kopiieriarlutillu tooruk (ctrl+tooruk kopiieriarlutit, shift+tooruk attaveqarniarlutit). Nuissiarlugu attaveqarniarlukit (ctrl+nuissiarlugu kopiierillugu).
+polygon=Polygon
 portrait=Portræt
 position=Inissaq
 posterPrint=Plakat nakkit

@@ -620,6 +620,7 @@ plugins=Pluginy
 pluginUrl=URL pluginu
 pluginWarning=Stránka požiadala o načítanie nasledujúcich pluginov:\n\n{1}\n\nChcete teraz načítať tieto pluginy?\n\nPOZNÁMKA: Povoľte spúšťanie pluginov iba vtedy, ak plne rozumiete bezpečnostným dôsledkom.\n
 plusTooltip=Kliknutím pripojíte a naklonujete (ctrl+klik na klonovanie, shift+klik na pripojenie). Ťahaním pripojíte (ctrl+ťahanie na klonovanie).
+polygon=Mnohouholník
 portrait=Na výšku
 position=Pozícia
 posterPrint=Plagátová tlač

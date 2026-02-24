@@ -620,6 +620,7 @@ plugins=Plugins
 pluginUrl=Plugin-URL
 pluginWarning=Die Seite hat das Laden folgender Plugins angefordert:\n \n {1}\n \n Möchten Sie diese Plugins jetzt laden?\n \n HINWEIS: Erlauben Sie das Ausführen der Plugins nur, wenn Sie die Sicherheitsimplikationen verstehen.
 plusTooltip=Klicken zum Verbinden und Klonen (Ctrl-Taste gedrückt halten zum Klonen, Shift+Klick zum Verbinden). Ziehen zum Verbinden (Ctrl-Taste gedrückt halten zum Klonen).
+polygon=Polygon
 portrait=Hochformat
 position=Position
 posterPrint=Posterdruck

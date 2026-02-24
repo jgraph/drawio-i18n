@@ -620,6 +620,7 @@ plugins=Plugins
 pluginUrl=Plugin URL
 pluginWarning=Siden vil gerne indlæse følgende plugin(s):\n \n {1}\n \n Vil du indlæse disse plugins nu?\n \n Vigtigt: Tillad kun plugins, som du kender sikkerhedskonsekvenserne for.\n
 plusTooltip=Klik for at forbinde og duplikere (ctrl+klik for at duplikere, shift+klik for at forbinde). Træk for at forbinde (ctrl+træk for at duplikere)
+polygon=Polygon
 portrait=Portræt
 position=Position
 posterPrint=Plakatudskrift

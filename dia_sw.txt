@@ -620,6 +620,7 @@ plugins=Programu-jalizi
 pluginUrl=URL ya Programu-jalizi
 pluginWarning=Ukurasa umeomba kupakia programu-jalizi zifuatazo:\n \n {1}\n \n Je, ungependa kupakia programu-jalizi hizi sasa?\n \n KUMBUKA: Ruhusu tu programu-jalizi kuendesha ikiwa unaelewa kikamilifu athari za usalama za kufanya hivyo.\n
 plusTooltip=Bofya kuunganisha na kunakili (ctrl+bofya kunakili, shift+bofya kuunganisha). Buruta kuunganisha (ctrl+buruta kunakili).
+polygon=Poligoni
 portrait=Wima
 position=Nafasi
 posterPrint=Chapisha Bango

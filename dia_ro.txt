@@ -620,6 +620,7 @@ plugins=Module
 pluginUrl=URL modul
 pluginWarning=Pagina a solicitat încărcarea următoarelor module:\n \n {1}\n \n Vrei să încarci aceste module acum?\n \n NOTĂ: permite rularea modulelor doar dacă înțelegi pe deplin implicațiile de securitate ale acestui lucru.\n
 plusTooltip=Clic pentru conectare și clonare (ctrl+clic pentru clonare, shift+clic pentru conectare). Trage pentru conectare (ctrl+trage pentru clonare).
+polygon=Poligon
 portrait=Portret
 position=Poziție
 posterPrint=Imprimare poster

@@ -620,6 +620,7 @@ plugins=Dodaci
 pluginUrl=URL dodatka
 pluginWarning=Stranica traži da učita sljedeće dodatke:\n \n {1}\n \n Želite li učitati ove dodatke sada?\n \n NAPOMENA: Odobrite pokretanje dodataka samo ukoliko u potpunosti razumijete sigurnosne implikacije.\n
 plusTooltip=Kliknite da se povežete i klonirate (ctrl+klik za kloniranje, shift+klik za povezivanje). Povucite da se povežete (ctrl+povlačenje za kloniranje).
+polygon=Poligon
 portrait=Uspravno
 position=Pozicija
 posterPrint=Štampa postera

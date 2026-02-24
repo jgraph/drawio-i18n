@@ -620,6 +620,7 @@ plugins=Plugins
 pluginUrl=Plugin-URL
 pluginWarning=Denne siden har bedt om å laste inn følgende plugin(s):\n\n{1}\nØnsker du å laste inn disse plugins nå?\n\nMERK: Tillat plugins kun dersom du kjenner til sikkerhetskonsekvensene.\n
 plusTooltip=Klikk for å koble til og klone (ctrl+klikk for å klone, shift+klikk for å koble til). Dra for å koble til (ctrl+dra for å klone).
+polygon=Polygon
 portrait=Portrett
 position=Posisjon
 posterPrint=Plakatutskrift

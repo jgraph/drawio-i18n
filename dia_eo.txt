@@ -620,6 +620,7 @@ plugins=Kromprogramoj
 pluginUrl=Kromprograma URL
 pluginWarning=La paĝo petis ŝargi la sekvajn kromprogramojn:\n \n {1}\n \n Ĉu vi volas ŝargi ĉi tiujn kromprogramojn nun?\n \n NOTO: Nur permesu kromprogramojn funkcii se vi plene komprenas la sekurecajn implicojn.\n
 plusTooltip=Klaku por konekti kaj kloni (ctrl+klako por kloni, shift+klako por konekti). Trenu por konekti (ctrl+treno por kloni).
+polygon=Poligono
 portrait=Vertikala
 position=Pozicio
 posterPrint=Afiŝa presado

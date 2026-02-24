@@ -620,6 +620,7 @@ plugins=Tillägg
 pluginUrl=Tilläggs-URL
 pluginWarning=Denna sida vill ladda följande tillägg:\n \n {1}\n \n Vill du ladda in dessa tillägg nu?\n \n OBS : Tillåt enbart tillägg om du förstår säkerhetsriskerna.\n
 plusTooltip=Klicka för att ansluta och klona (ctrl+klick för att klona, shift+klick för att ansluta). Dra för att ansluta (ctrl+dra för att klona)
+polygon=Polygon
 portrait=Porträtt
 position=Position
 posterPrint=Posterutskrift

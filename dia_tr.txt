@@ -620,6 +620,7 @@ plugins=Eklentiler
 pluginUrl=Eklenti URL'si
 pluginWarning=Sayfa aşağıdaki eklenti(ler)i yüklemeyi talep etti:\n \n {1}\n \n Bu eklenti(ler)i şimdi yüklemek ister misiniz? \n \n NOT : Sadece yüklenmesi durumundak oluşacak güvenlik sonuçlarını tamamen anladığınız eklentilerin çalışmasına izin verin.\n
 plusTooltip=Bağlanmak ve klonlamak için tıklayın (ctrl+tıklayarak klonlayın, shift+tıklayarak bağlayın). Bağlamak için sürükleyin (ctrl+sürükleyerek klonlayın).
+polygon=Çokgen
 portrait=Dikey
 position=Pozisyon
 posterPrint=Poster baskısı
