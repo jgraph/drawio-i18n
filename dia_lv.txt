@@ -57,6 +57,7 @@ authorize=Autorizēt
 authorizing=Autorizācija
 automatic=Automātiski
 autosave=Automātiska saglabāšana
+autosizeText=Automātisks fonta lielums
 autosize=Automātisks izmērs
 attachments=Pielikumi
 aws=AWS

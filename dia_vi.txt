@@ -57,6 +57,7 @@ authorize=Ủy quyền
 authorizing=Đang ủy quyền
 automatic=Tự động
 autosave=Tự động lưu
+autosizeText=Cỡ phông tự động
 autosize=Tự động chọn kích thước
 attachments=Đính kèm
 aws=AWS

@@ -57,6 +57,7 @@ authorize=ፈቃድ ይስጡ
 authorizing=በማረጋገጥ ላይ
 automatic=ራስ-ሰር
 autosave=ራስ-ሰር ማስቀመጥ
+autosizeText=ራስ-ሰር የፊደል መጠን
 autosize=ራስ-ሰር መጠን
 attachments=ተያያዥ ፋይሎች
 aws=AWS

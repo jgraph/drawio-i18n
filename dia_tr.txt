@@ -57,6 +57,7 @@ authorize=Yetkilendir
 authorizing=Yetkilendiriliyor
 automatic=Otomatik
 autosave=Otomatik kaydet
+autosizeText=Otomatik Yazı Tipi Boyutu
 autosize=Otomatik boyutlandır
 attachments=Ekler
 aws=AWS

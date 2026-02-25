@@ -57,6 +57,7 @@ authorize=‫اجازه دادن‬
 authorizing=‫در حال اجازه دادن‬
 automatic=‫خودکار‬
 autosave=‫ذخیره خودکار‬
+autosizeText=‫اندازه خودکار فونت‬
 autosize=‫اندازه خودکار‬
 attachments=‫پیوست‌ها‬
 aws=AWS

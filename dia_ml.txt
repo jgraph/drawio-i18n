@@ -57,6 +57,7 @@ authorize=അംഗീകരിക്കുക
 authorizing=അംഗീകരിക്കുന്നു
 automatic=സ്വയമേവ
 autosave=സ്വയം സേവ്
+autosizeText=സ്വയമേവ ഫോണ്ട് വലുപ്പം
 autosize=സ്വയം വലുപ്പം
 attachments=അറ്റാച്ച്മെന്റുകൾ
 aws=AWS

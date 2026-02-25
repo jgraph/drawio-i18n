@@ -57,6 +57,7 @@ authorize=授權
 authorizing=授權中
 automatic=自動
 autosave=自動儲存
+autosizeText=自動字型大小
 autosize=自動調整
 attachments=附件
 aws=AWS

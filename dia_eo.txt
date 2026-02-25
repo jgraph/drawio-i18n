@@ -57,6 +57,7 @@ authorize=Rajtigi
 authorizing=Rajtigante
 automatic=Aŭtomata
 autosave=Aŭtokonservado
+autosizeText=Aŭtomata tipargrandeco
 autosize=Aŭtograndeco
 attachments=Aldonaĵoj
 aws=AWS

@@ -57,6 +57,7 @@ authorize=Tillad
 authorizing=Tillader
 automatic=Automatisk
 autosave=Auto-gem
+autosizeText=Automatisk skriftstørrelse
 autosize=Tilpas størrelse
 attachments=Vedhæftede
 aws=AWS

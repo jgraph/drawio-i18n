@@ -57,6 +57,7 @@ authorize=Baimendu
 authorizing=Baimentzen
 automatic=Automatikoa
 autosave=Automatikoki gorde
+autosizeText=Letra-tamaina automatikoa
 autosize=Automatikoki tamaina eman
 attachments=Eranskinak
 aws=AWS

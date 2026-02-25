@@ -57,6 +57,7 @@ authorize=Odobri
 authorizing=Odobravanje
 automatic=Automatsko
 autosave=Automatsko spremanje
+autosizeText=Automatska veličina fonta
 autosize=Automatska veličina
 attachments=Prilozi
 aws=AWS

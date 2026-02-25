@@ -57,6 +57,7 @@ authorize=Volita
 authorizing=Volitamine
 automatic=Automaatne
 autosave=Automaatne salvestus
+autosizeText=Automaatne fondisuurus
 autosize=Automaatne suurus
 attachments=Manused
 aws=AWS

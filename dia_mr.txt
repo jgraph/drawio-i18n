@@ -57,6 +57,7 @@ authorize=अधिकृत करा
 authorizing=अधिकृत करत आहे
 automatic=स्वयंचलित
 autosave=स्वयं-सेव्ह
+autosizeText=स्वयंचलित फॉन्ट आकार
 autosize=स्वयं-आकार
 attachments=संलग्नके
 aws=AWS

@@ -57,6 +57,7 @@ authorize=Idhinisha
 authorizing=Inaidhinisha
 automatic=Kiotomatiki
 autosave=Hifadhi otomatiki
+autosizeText=Ukubwa wa Fonti Otomatiki
 autosize=Ukubwa otomatiki
 attachments=Viambatisho
 aws=AWS

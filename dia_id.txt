@@ -57,6 +57,7 @@ authorize=Otorisasikan
 authorizing=Mengotorisasi
 automatic=Otomatis
 autosave=Simpan otomatis
+autosizeText=Ukuran Font Otomatis
 autosize=Ukuran otomatis
 attachments=Lampiran
 aws=AWS

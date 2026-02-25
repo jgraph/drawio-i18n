@@ -57,6 +57,7 @@ authorize=Akuerissiuk
 authorizing=Akuerineqarpoq
 automatic=Nammineq
 autosave=Nammineq toqqorneq
+autosizeText=Automatisk skriftstørrelse
 autosize=Nammineq angissuseq
 attachments=Ikkussutit
 aws=AWS

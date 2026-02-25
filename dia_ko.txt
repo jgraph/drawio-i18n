@@ -57,6 +57,7 @@ authorize=승인
 authorizing=승인중
 automatic=자동
 autosave=자동 저장
+autosizeText=자동 글꼴 크기
 autosize=크기 자동조정
 attachments=첨부파일
 aws=AWS

@@ -57,6 +57,7 @@ authorize=Εξουσιοδοτήστε
 authorizing=Εξουσιοδότηση
 automatic=Αυτόματα
 autosave=Αυτόματη αποθήκευση
+autosizeText=Αυτόματο μέγεθος γραμματοσειράς
 autosize=Αυτόματο μέγεθος
 attachments=Συνημμένα
 aws=AWS

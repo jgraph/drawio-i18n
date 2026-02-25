@@ -57,6 +57,7 @@ authorize=Leisti
 authorizing=Leidžiama
 automatic=Automatinis
 autosave=Automatinis išsaugojimas
+autosizeText=Automatinis šrifto dydis
 autosize=Automatinis dydis
 attachments=Priedai
 aws=AWS

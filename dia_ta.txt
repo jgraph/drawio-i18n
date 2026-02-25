@@ -57,6 +57,7 @@ authorize=ஏற்றுக்கொள்
 authorizing=ஏற்புறுகிறது
 automatic=தானியங்கி
 autosave=தானியங்கு சேமிப்பு
+autosizeText=தானியங்கு எழுத்துரு அளவு
 autosize=தானியங்கு அளவு
 attachments=இணைப்புகள்
 aws=AWS

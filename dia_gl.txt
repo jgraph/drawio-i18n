@@ -57,6 +57,7 @@ authorize=Autorizar
 authorizing=Autorizando
 automatic=Automático
 autosave=Autogardado
+autosizeText=Tamaño de fonte automático
 autosize=Tamaño automático
 attachments=Adxuntos
 aws=AWS

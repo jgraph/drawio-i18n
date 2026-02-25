@@ -57,6 +57,7 @@ authorize=ခွင့်ပြုပါ
 authorizing=ခွင့်ပြုနေသည်
 automatic=အလိုအလျောက်
 autosave=အလိုအလျောက်သိမ်းဆည်းခြင်း
+autosizeText=အလိုအလျောက် ဖောင့်အရွယ်အစား
 autosize=အလိုအလျောက်အရွယ်အစား
 attachments=ပူးတွဲဖိုင်များ
 aws=AWS

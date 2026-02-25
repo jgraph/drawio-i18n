@@ -57,6 +57,7 @@ authorize=Engedélyezés
 authorizing=Engedélyezés folyamatban
 automatic=Automatikus
 autosave=Automatikus mentés
+autosizeText=Automatikus betűméret
 autosize=Automatikus méret
 attachments=Mellékletek
 aws=AWS

@@ -57,6 +57,7 @@ authorize=Valtuuta
 authorizing=Valtuutetaan
 automatic=Automaattinen
 autosave=Automaattinen tallennus
+autosizeText=Automaattinen fonttikoko
 autosize=Automaattinen koko
 attachments=Liitteet
 aws=AWS

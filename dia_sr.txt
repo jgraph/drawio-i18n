@@ -57,6 +57,7 @@ authorize=Ovlasti
 authorizing=Ovlašćivanje
 automatic=Automatski
 autosave=Auto-snimanje
+autosizeText=Аутоматска величина фонта
 autosize=Automatska veličina
 attachments=Prilozi
 aws=AWS

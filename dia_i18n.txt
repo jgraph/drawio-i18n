@@ -57,6 +57,7 @@ authorize=authorize
 authorizing=authorizing
 automatic=automatic
 autosave=autosave
+autosizeText=autosizeText
 autosize=autosize
 attachments=attachments
 aws=aws

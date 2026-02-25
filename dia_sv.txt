@@ -57,6 +57,7 @@ authorize=Auktorisera
 authorizing=Auktoriserar
 automatic=Automatisk
 autosave=Spara automatiskt
+autosizeText=Automatisk teckenstorlek
 autosize=Storleksändra automatiskt
 attachments=Bilagor
 aws=AWS

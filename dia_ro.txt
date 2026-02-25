@@ -57,6 +57,7 @@ authorize=Autorizează
 authorizing=Se autorizează
 automatic=Automat
 autosave=Salvare automată
+autosizeText=Dimensiune font automată
 autosize=Dimensiune automată
 attachments=Atașamente
 aws=AWS

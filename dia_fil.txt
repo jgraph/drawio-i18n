@@ -57,6 +57,7 @@ authorize=Pahintulutan
 authorizing=Pinahihintulutan
 automatic=Kusa
 autosave=Kusang pag-save
+autosizeText=Awtomatikong Laki ng Font
 autosize=Kusang laki
 attachments=Mga kalakip
 aws=AWS

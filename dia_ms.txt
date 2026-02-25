@@ -57,6 +57,7 @@ authorize=Izinkan
 authorizing=Mengizinkan
 automatic=Automatik
 autosave=Autosimpan
+autosizeText=Saiz Fon Automatik
 autosize=Autosaiz
 attachments=Lampiran
 aws=AWS

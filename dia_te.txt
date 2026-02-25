@@ -57,6 +57,7 @@ authorize=అధికారం ఇవ్వు
 authorizing=అధికారం ఇస్తోంది
 automatic=స్వయంచాలక
 autosave=స్వయంచాలక సేవ్
+autosizeText=స్వయంచాలక ఫాంట్ పరిమాణం
 autosize=స్వయంచాలక పరిమాణం
 attachments=జోడింపులు
 aws=AWS

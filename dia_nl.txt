@@ -57,6 +57,7 @@ authorize=Autoriseren
 authorizing=Autoriseren
 automatic=Automatisch
 autosave=Automatisch opslaan
+autosizeText=Automatische tekengrootte
 autosize=Automatisch grootte bepalen
 attachments=Bijlagen
 aws=AWS

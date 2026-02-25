@@ -57,6 +57,7 @@ authorize=Avtoriziraj
 authorizing=Avtorizacija
 automatic=Samodejno
 autosave=Samodejno shranjevanje
+autosizeText=Samodejna velikost pisave
 autosize=Samodejna velikost
 attachments=Priloge
 aws=AWS

@@ -57,6 +57,7 @@ authorize=Разреши
 authorizing=Разрешаване
 automatic=Автоматично
 autosave=Автоматично запазване
+autosizeText=Автоматичен размер на шрифта
 autosize=Автоматичен размер
 attachments=Приложения
 aws=AWS

@@ -57,6 +57,7 @@ authorize=Autoritza
 authorizing=S'està autoritzant
 automatic=Automàtic
 autosave=Desada automàtica
+autosizeText=Mida de lletra automàtica
 autosize=Mida automàtica
 attachments=Fitxers adjunts
 aws=AWS

@@ -57,6 +57,7 @@ authorize=ಅಧಿಕೃತಗೊಳಿಸಿ
 authorizing=ಅಧಿಕೃತಗೊಳಿಸಲಾಗುತ್ತಿದೆ
 automatic=ಸ್ವಯಂಚಾಲಿತ
 autosave=ಸ್ವಯಂ ಉಳಿಸು
+autosizeText=ಸ್ವಯಂಚಾಲಿತ ಫಾಂಟ್ ಗಾತ್ರ
 autosize=ಸ್ವಯಂ ಗಾತ್ರ
 attachments=ಲಗತ್ತುಗಳು
 aws=AWS

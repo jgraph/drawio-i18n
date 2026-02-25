@@ -57,6 +57,7 @@ authorize=Autoriser
 authorizing=Autoriserer
 automatic=Automatisk
 autosave=Automatisk lagring
+autosizeText=Automatisk skriftstørrelse
 autosize=Autostørrelse
 attachments=Vedlegg
 aws=AWS

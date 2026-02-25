@@ -57,6 +57,7 @@ authorize=Autorizovat
 authorizing=Autorizuji
 automatic=Automaticky
 autosave=Automatické ukládání
+autosizeText=Automatická velikost písma
 autosize=Automatická velikost
 attachments=Přílohy
 aws=AWS

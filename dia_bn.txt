@@ -57,6 +57,7 @@ authorize=অনুমোদন করুন
 authorizing=অনুমোদন করা হচ্ছে
 automatic=স্বয়ংক্রিয়
 autosave=স্বয়ংক্রিয় সংরক্ষণ
+autosizeText=স্বয়ংক্রিয় ফন্ট সাইজ
 autosize=স্বয়ংক্রিয় আকার
 attachments=সংযুক্তি
 aws=AWS

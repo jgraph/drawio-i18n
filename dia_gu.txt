@@ -57,6 +57,7 @@ authorize=અધિકૃત કરો
 authorizing=અધિકૃત કરી રહ્યા છે
 automatic=સ્વચાલિત
 autosave=ઓટોસેવ
+autosizeText=આપોઆપ ફોન્ટ કદ
 autosize=ઓટોસાઇઝ
 attachments=જોડાણો
 aws=AWS

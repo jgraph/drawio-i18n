@@ -57,6 +57,7 @@ authorize=අවසර දෙන්න
 authorizing=අවසර දෙමින්
 automatic=ස්වයංක්‍රීය
 autosave=ස්වයං සුරැකීම
+autosizeText=ස්වයංක්‍රීය අකුරු ප්‍රමාණය
 autosize=ස්වයං ප්‍රමාණය
 attachments=ඇමුණුම්
 aws=AWS
