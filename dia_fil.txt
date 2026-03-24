@@ -432,6 +432,7 @@ decreaseIndent=Bawasan ang indensyon
 insert=Isingit
 insertColumnBefore=Magsingit ng Hanay sa Kaliwa
 insertColumnAfter=Magsingit ng Hanay sa Kanan
+insertDiagramFromClipboard=Isingit ang diagram mula sa clipboard
 insertEllipse=Magsingit ng ellipse
 insertImage=Magsingit ng imahe
 insertHorizontalRule=Magsingit ng pahalang na linyang gabay

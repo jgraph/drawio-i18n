@@ -432,6 +432,7 @@ decreaseIndent=Vähennä sisennystä
 insert=Lisää
 insertColumnBefore=Lisää sarake vasemmalle
 insertColumnAfter=Lisää sarake oikealle
+insertDiagramFromClipboard=Lisää kaavio leikepöydältä
 insertEllipse=Lisää soikio
 insertImage=Lisää kuva
 insertHorizontalRule=Lisää vaakaviiva

@@ -432,6 +432,7 @@ decreaseIndent=Einzug verringern
 insert=Einfügen
 insertColumnBefore=Spalte links einfügen
 insertColumnAfter=Spalte rechts einfügen
+insertDiagramFromClipboard=Diagramm aus Zwischenablage einfügen
 insertEllipse=Ellipse einfügen
 insertImage=Bild einfügen
 insertHorizontalRule=Horizontale Linie einfügen

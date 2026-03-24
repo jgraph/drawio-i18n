@@ -432,6 +432,7 @@ decreaseIndent=इंडेंट कमी करा
 insert=घाला
 insertColumnBefore=डावीकडे स्तंभ घाला
 insertColumnAfter=उजवीकडे स्तंभ घाला
+insertDiagramFromClipboard=क्लिपबोर्डवरून डायग्राम घाला
 insertEllipse=लंबवर्तुळ घाला
 insertImage=प्रतिमा घाला
 insertHorizontalRule=आडवी रेषा घाला

@@ -432,6 +432,7 @@ decreaseIndent=ഇൻഡന്റ് കുറയ്ക്കുക
 insert=ഉൾപ്പെടുത്തുക
 insertColumnBefore=ഇടത്തേക്ക് കോളം ചേർക്കുക
 insertColumnAfter=വലത്തേക്ക് കോളം ചേർക്കുക
+insertDiagramFromClipboard=ക്ലിപ്പ്ബോർഡിൽ നിന്ന് ഡയഗ്രം ഉൾപ്പെടുത്തുക
 insertEllipse=ദീർഘവൃത്തം ചേർക്കുക
 insertImage=ചിത്രം ചേർക്കുക
 insertHorizontalRule=തിരശ്ചീന രേഖ ചേർക്കുക

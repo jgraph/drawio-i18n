@@ -432,6 +432,7 @@ decreaseIndent=Kurangi Indentasi
 insert=Sisipkan
 insertColumnBefore=Sisipkan Kolom Kiri
 insertColumnAfter=Sisipkan Kolom Kanan
+insertDiagramFromClipboard=Sisipkan diagram dari papan klip
 insertEllipse=Sisipkan Elips
 insertImage=Sisipkan Gambar
 insertHorizontalRule=Sisipkan Garis Horizontal

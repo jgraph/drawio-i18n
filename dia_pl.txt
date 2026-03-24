@@ -432,6 +432,7 @@ decreaseIndent=Zmniejsz wcięcie
 insert=Wstaw
 insertColumnBefore=Wstaw kolumnę z lewej
 insertColumnAfter=Wstaw kolumnę z prawej
+insertDiagramFromClipboard=Wstaw diagram ze schowka
 insertEllipse=Wstaw elipsę
 insertImage=Wstaw obraz
 insertHorizontalRule=Wstaw poziomą linię

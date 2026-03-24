@@ -432,6 +432,7 @@ decreaseIndent=Micșorează indentare
 insert=Inserează
 insertColumnBefore=Inserează o coloană la stânga
 insertColumnAfter=Inserează o coloană la dreapta
+insertDiagramFromClipboard=Inserează diagrama din clipboard
 insertEllipse=Inserează elipsă
 insertImage=Inserează imagine
 insertHorizontalRule=Inserează linie orizontală

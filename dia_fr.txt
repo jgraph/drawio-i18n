@@ -432,6 +432,7 @@ decreaseIndent=Diminuer l'indentation
 insert=Insérer
 insertColumnBefore=Insérer une colonne à gauche
 insertColumnAfter=Insérer une colonne à droite
+insertDiagramFromClipboard=Insérer le diagramme depuis le presse-papiers
 insertEllipse=Insérer une ellipse
 insertImage=Insérer une image
 insertHorizontalRule=Insérer une ligne horizontale

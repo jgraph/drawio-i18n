@@ -432,6 +432,7 @@ decreaseIndent=Reduser innrykk
 insert=Sett inn
 insertColumnBefore=Legg til kolonne til venstre
 insertColumnAfter=Legg til kolonne til høyre
+insertDiagramFromClipboard=Sett inn diagram fra utklippstavle
 insertEllipse=Legg til ellipse
 insertImage=Legg til bilde
 insertHorizontalRule=Legg til horisontal linje

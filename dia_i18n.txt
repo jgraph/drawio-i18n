@@ -431,6 +431,7 @@ decreaseIndent=decreaseIndent
 insert=insert
 insertColumnBefore=insertColumnBefore
 insertColumnAfter=insertColumnAfter
+insertDiagramFromClipboard=insertDiagramFromClipboard
 insertEllipse=insertEllipse
 insertImage=insertImage
 insertHorizontalRule=insertHorizontalRule

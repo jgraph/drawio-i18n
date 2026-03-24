@@ -432,6 +432,7 @@ decreaseIndent=Zmenšiť odsadenie
 insert=Vložiť
 insertColumnBefore=Vložiť stĺpec vľavo
 insertColumnAfter=Vložiť stĺpec vpravo
+insertDiagramFromClipboard=Vložiť diagram zo schránky
 insertEllipse=Vložiť elipsu
 insertImage=Vložiť obrázok
 insertHorizontalRule=Vložiť vodorovnú čiaru

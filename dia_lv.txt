@@ -432,6 +432,7 @@ decreaseIndent=Samazināt atkāpi
 insert=Ievietot
 insertColumnBefore=Ievietot kolonu pa kreisi
 insertColumnAfter=Ievietot kolonu pa labi
+insertDiagramFromClipboard=Ievietot diagrammu no starpliktuves
 insertEllipse=Ievietot elipsi
 insertImage=Ievietot attēlu
 insertHorizontalRule=Ievietot horizontālu līniju

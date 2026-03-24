@@ -432,6 +432,7 @@ decreaseIndent=အစားထိုးမှု လျှော့ချ
 insert=ထည့်သွင်း
 insertColumnBefore=ဘယ်ဘက်တွင် ကော်လံထည့်ရန်
 insertColumnAfter=ညာဘက်တွင် ကော်လံထည့်ရန်
+insertDiagramFromClipboard=ကလစ်ဘုတ်မှ ပုံကို ထည့်သွင်းပါ
 insertEllipse=ဘဲဥပုံထည့်ရန်
 insertImage=ပုံထည့်ရန်
 insertHorizontalRule=အလျားလိုက်မျဉ်းထည့်ရန်

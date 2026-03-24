@@ -432,6 +432,7 @@ decreaseIndent=ইনডেন্ট কমান
 insert=সন্নিবেশ
 insertColumnBefore=বামে কলাম সন্নিবেশ করুন
 insertColumnAfter=ডানে কলাম সন্নিবেশ করুন
+insertDiagramFromClipboard=ক্লিপবোর্ড থেকে ডায়াগ্রাম সন্নিবেশ করুন
 insertEllipse=উপবৃত্ত সন্নিবেশ করুন
 insertImage=ছবি সন্নিবেশ করুন
 insertHorizontalRule=অনুভূমিক রেখা সন্নিবেশ করুন

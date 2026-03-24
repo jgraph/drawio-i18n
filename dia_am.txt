@@ -432,6 +432,7 @@ decreaseIndent=ገደብ ቀንስ
 insert=አስገባ
 insertColumnBefore=ዓምድ በግራ አስገባ
 insertColumnAfter=ዓምድ በቀኝ አስገባ
+insertDiagramFromClipboard=ዲያግራሙን ከቅንጥብ ሰሌዳ አስገባ
 insertEllipse=ኤሊፕስ አስገባ
 insertImage=ምስል አስገባ
 insertHorizontalRule=አግድም መስመር አስገባ

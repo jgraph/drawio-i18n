@@ -432,6 +432,7 @@ decreaseIndent=Reducér indrykning
 insert=Indsæt
 insertColumnBefore=Indsæt kolonne til venstre
 insertColumnAfter=Indsæt kolonne til højre
+insertDiagramFromClipboard=Indsæt diagram fra udklipsholder
 insertEllipse=Indsæt ellipse
 insertImage=Indsæt billede
 insertHorizontalRule=Indsæt vandret streg

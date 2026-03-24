@@ -432,6 +432,7 @@ decreaseIndent=ఇండెంట్ తగ్గించు
 insert=చొప్పించు
 insertColumnBefore=ఎడమవైపు నిలువు వరుస చేర్చు
 insertColumnAfter=కుడివైపు నిలువు వరుస చేర్చు
+insertDiagramFromClipboard=క్లిప్‌బోర్డ్ నుండి డయాగ్రామ్‌ను చొప్పించండి
 insertEllipse=దీర్ఘవృత్తం చేర్చు
 insertImage=చిత్రం చేర్చు
 insertHorizontalRule=క్షితిజ సమాంతర రేఖ చేర్చు

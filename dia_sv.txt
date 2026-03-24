@@ -432,6 +432,7 @@ decreaseIndent=Minska indrag
 insert=Infoga
 insertColumnBefore=Infoga kolumn till vänster
 insertColumnAfter=Infoga kolumn till höger
+insertDiagramFromClipboard=Infoga diagram från urklipp
 insertEllipse=Infoga ellips
 insertImage=Infoga bild
 insertHorizontalRule=Infoga horisontell linje

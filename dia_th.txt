@@ -432,6 +432,7 @@ decreaseIndent=ลดย่อหน้า
 insert=แทรก
 insertColumnBefore=แทรกคอลัมน์ทางซ้าย
 insertColumnAfter=แทรกคอลัมน์ทางขวา
+insertDiagramFromClipboard=แทรกไดอะแกรมจากคลิปบอร์ด
 insertEllipse=แทรกรูปทรงวงรี
 insertImage=แทรกรูปภาพ
 insertHorizontalRule=แทรกเส้นแนวนอน

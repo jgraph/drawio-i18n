@@ -432,6 +432,7 @@ decreaseIndent=Malpliigi Krommarĝenon
 insert=Enmeti
 insertColumnBefore=Enmeti Kolumnon Maldekstre
 insertColumnAfter=Enmeti Kolumnon Dekstre
+insertDiagramFromClipboard=Enmeti diagramon el tondujo
 insertEllipse=Enmeti Elipson
 insertImage=Enmeti Bildon
 insertHorizontalRule=Enmeti Horizontalan Linion

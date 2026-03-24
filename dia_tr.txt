@@ -432,6 +432,7 @@ decreaseIndent=Girintiyi azalt
 insert=Ekle
 insertColumnBefore=Sola sütun ekle
 insertColumnAfter=Sağa sütun ekle
+insertDiagramFromClipboard=Diyagramı panodan ekle
 insertEllipse=Elips ekle
 insertImage=Resim ekle
 insertHorizontalRule=Yatay çizgi ekle

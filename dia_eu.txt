@@ -432,6 +432,7 @@ decreaseIndent=Koska txikitu
 insert=Txertatu
 insertColumnBefore=Txertatu zutabea ezkerraldean
 insertColumnAfter=Txertatu zutabea eskuinaldean
+insertDiagramFromClipboard=Txertatu diagrama arbeletik
 insertEllipse=Txertatu elipsea
 insertImage=Txertatu irudia
 insertHorizontalRule=Txertatu marra horizontala

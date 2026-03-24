@@ -432,6 +432,7 @@ decreaseIndent=Zmanjšaj zamik
 insert=Vstavi
 insertColumnBefore=Vstavi stolpec levo
 insertColumnAfter=Vstavi stolpec desno
+insertDiagramFromClipboard=Vstavi diagram iz odložišča
 insertEllipse=Vstavi elipso
 insertImage=Vstavi sliko
 insertHorizontalRule=Vstavi vodoravno črto

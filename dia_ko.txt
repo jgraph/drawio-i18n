@@ -432,6 +432,7 @@ decreaseIndent=내어쓰기
 insert=삽입
 insertColumnBefore=왼쪽에 열 삽입
 insertColumnAfter=오른쪽에 열 삽입
+insertDiagramFromClipboard=클립보드에서 다이어그램 삽입
 insertEllipse=타원 삽입
 insertImage=이미지 삽입
 insertHorizontalRule=수평선 삽입

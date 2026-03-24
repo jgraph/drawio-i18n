@@ -432,6 +432,7 @@ decreaseIndent=Smanji uvlaku
 insert=Umetni
 insertColumnBefore=Umetni stupac lijevo
 insertColumnAfter=Umetni stupac desno
+insertDiagramFromClipboard=Umetni dijagram iz međuspremnika
 insertEllipse=Umetni elipsu
 insertImage=Umetni sliku
 insertHorizontalRule=Umetni vodoravnu liniju

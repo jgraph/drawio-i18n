@@ -432,6 +432,7 @@ decreaseIndent=Diminuír a sangría
 insert=Inserir
 insertColumnBefore=Inserir Columna á Esquerda
 insertColumnAfter=Inserir Columna á Dereita
+insertDiagramFromClipboard=Inserir diagrama desde o portapapeis
 insertEllipse=Inserir Elipse
 insertImage=Inserir Imaxe
 insertHorizontalRule=Inserir Regra Horizontal

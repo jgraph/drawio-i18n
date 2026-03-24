@@ -432,6 +432,7 @@ decreaseIndent=‫کاهش فاصله‌ی سرسطر‬
 insert=‫درج‬
 insertColumnBefore=‫وارد کردن ستون در سمت چپ‬
 insertColumnAfter=‫وارد کردن ستون در سمت راست‬
+insertDiagramFromClipboard=درج نمودار از کلیپ‌بورد
 insertEllipse=‫وارد کردن بیضی‬
 insertImage=‫وارد کردن تصویر‬
 insertHorizontalRule=‫درج خط افقی‬

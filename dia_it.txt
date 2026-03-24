@@ -432,6 +432,7 @@ decreaseIndent=Riduci rientro
 insert=Inserisci
 insertColumnBefore=Inserisci colonna a sinistra
 insertColumnAfter=Inserisci colonna a destra
+insertDiagramFromClipboard=Inserisci diagramma dagli appunti
 insertEllipse=Inserisci ellisse
 insertImage=Inserisci immagine
 insertHorizontalRule=Inserisci linea orizzontale

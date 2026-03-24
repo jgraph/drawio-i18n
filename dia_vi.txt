@@ -432,6 +432,7 @@ decreaseIndent=Giảm thụt lề
 insert=Chèn
 insertColumnBefore=Chèn cột vào bên trái
 insertColumnAfter=Chèn cột vào bên phải
+insertDiagramFromClipboard=Chèn sơ đồ từ bảng tạm
 insertEllipse=Chèn hình elip
 insertImage=Chèn ảnh
 insertHorizontalRule=Chèn đường kẻ ngang

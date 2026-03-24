@@ -432,6 +432,7 @@ decreaseIndent=ಇಂಡೆಂಟ್ ಕಡಿಮೆ ಮಾಡಿ
 insert=ಸೇರಿಸಿ
 insertColumnBefore=ಎಡಕ್ಕೆ ಕಾಲಮ್ ಸೇರಿಸಿ
 insertColumnAfter=ಬಲಕ್ಕೆ ಕಾಲಮ್ ಸೇರಿಸಿ
+insertDiagramFromClipboard=ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ನಿಂದ ಡಯಾಗ್ರಾಮ್ ಸೇರಿಸಿ
 insertEllipse=ದೀರ್ಘವೃತ್ತ ಸೇರಿಸಿ
 insertImage=ಚಿತ್ರ ಸೇರಿಸಿ
 insertHorizontalRule=ಅಡ್ಡ ರೇಖೆ ಸೇರಿಸಿ

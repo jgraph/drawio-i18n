@@ -432,6 +432,7 @@ decreaseIndent=Sinerissat Mikisorillugit
 insert=Ikkullugu
 insertColumnBefore=Ikkua saamunga ilissiguk
 insertColumnAfter=Ikkua talerpianut ilissiguk
+insertDiagramFromClipboard=Indsæt diagram fra udklipsholder
 insertEllipse=Ellipseq ilissiguk
 insertImage=Assilisaq ilissiguk
 insertHorizontalRule=Nalliuttaq simittaq ilissiguk

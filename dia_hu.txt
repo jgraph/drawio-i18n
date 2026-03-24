@@ -432,6 +432,7 @@ decreaseIndent=Behúzás csökkentése
 insert=Beszúrás
 insertColumnBefore=Oszlop beszúrása balra
 insertColumnAfter=Oszlop beszúrása jobbra
+insertDiagramFromClipboard=Diagram beszúrása vágólapról
 insertEllipse=Ellipszis beszúrása
 insertImage=Kép beszúrása
 insertHorizontalRule=Vízszintes vonal beszúrása

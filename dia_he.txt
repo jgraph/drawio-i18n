@@ -427,6 +427,7 @@ decreaseIndent=‫הקטן מרחק מהשוליים‬
 insert=‫הוספה‬
 insertColumnBefore=‫הוספת עמודה משמאל‬
 insertColumnAfter=‫הוספת עמודה מימין‬
+insertDiagramFromClipboard=הוספת דיאגרמה מהלוח
 insertEllipse=‫הוספת אליפסה‬
 insertImage=‫הוספת תמונה‬
 insertHorizontalRule=‫הוספת חוק אופקי‬

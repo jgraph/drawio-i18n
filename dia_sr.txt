@@ -432,6 +432,7 @@ decreaseIndent=Smanji urez
 insert=Umetni
 insertColumnBefore=Umetni kolumnu levo
 insertColumnAfter=Umetni kolumnu desno
+insertDiagramFromClipboard=Уметни дијаграм из оставе
 insertEllipse=Umetni elipsu
 insertImage=Umetni sliku
 insertHorizontalRule=Umetni vodoravnu liniju

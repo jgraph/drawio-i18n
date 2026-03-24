@@ -432,6 +432,7 @@ decreaseIndent=Kurangkan Inden
 insert=Masukkan
 insertColumnBefore=Masukkan Lajur di Kiri
 insertColumnAfter=Masukkan Lajur di Kanan
+insertDiagramFromClipboard=Masukkan rajah dari papan keratan
 insertEllipse=Masukkan Elips
 insertImage=Masukkan Imej
 insertHorizontalRule=Masukkan Garis Melintang

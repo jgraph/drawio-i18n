@@ -432,6 +432,7 @@ decreaseIndent=Μείωση εσοχής
 insert=Εισαγωγή
 insertColumnBefore=Εισαγωγή Στήλης Αριστερά
 insertColumnAfter=Εισαγωγή Στήλης Δεξιά
+insertDiagramFromClipboard=Εισαγωγή διαγράμματος από το πρόχειρο
 insertEllipse=Εισαγωγή Έλλειψης
 insertImage=Εισαγωγή Εικόνας
 insertHorizontalRule=Εισαγωγή Οριζόντιας Γραμμής

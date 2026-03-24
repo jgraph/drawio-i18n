@@ -432,6 +432,7 @@ decreaseIndent=Diminuir recuo
 insert=Inserir
 insertColumnBefore=Inserir coluna à esquerda
 insertColumnAfter=Inserir coluna à direita
+insertDiagramFromClipboard=Inserir diagrama a partir da área de transferência
 insertEllipse=Inserir elipse
 insertImage=Inserir imagem
 insertHorizontalRule=Inserir linha horizontal

@@ -432,6 +432,7 @@ decreaseIndent=Alanda taanet
 insert=Sisesta
 insertColumnBefore=Sisesta tulp vasakule
 insertColumnAfter=Sisesta tulp paremale
+insertDiagramFromClipboard=Sisesta diagramm lõikelaualt
 insertEllipse=Sisesta ellips
 insertImage=Sisesta kujutis
 insertHorizontalRule=Sisesta horisontaalliin

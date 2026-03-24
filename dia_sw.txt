@@ -432,6 +432,7 @@ decreaseIndent=Punguza Uingizaji Ndani
 insert=Ingiza
 insertColumnBefore=Ingiza Safu Wima Kushoto
 insertColumnAfter=Ingiza Safu Wima Kulia
+insertDiagramFromClipboard=Ingiza mchoro kutoka ubao wa kunakili
 insertEllipse=Ingiza Duaradufu
 insertImage=Ingiza Picha
 insertHorizontalRule=Ingiza Mstari Mlalo

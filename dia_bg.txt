@@ -432,6 +432,7 @@ decreaseIndent=Намаляване на отстъпа
 insert=Вмъкване
 insertColumnBefore=Вмъкване на колона отляво
 insertColumnAfter=Вмъкване на колона отдясно
+insertDiagramFromClipboard=Вмъкване на диаграмата от клипборда
 insertEllipse=Вмъкване на елипса
 insertImage=Вмъкване на изображение
 insertHorizontalRule=Вмъкване на хоризонтална линия

@@ -432,6 +432,7 @@ decreaseIndent=உள்தள்ளலைக் குறை
 insert=செருகு
 insertColumnBefore=இடது நெடுவரிசையைச் செருகு
 insertColumnAfter=வலது நெடுவரிசையைச் செருகு
+insertDiagramFromClipboard=கிளிப்போர்டிலிருந்து வரைபடத்தைச் செருகு
 insertEllipse=நீள்வட்டத்தை செருகு
 insertImage=படத்தைச் செருகு
 insertHorizontalRule=கிடைமட்டக் கோட்டைச் செருகு

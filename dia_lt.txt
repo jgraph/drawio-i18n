@@ -432,6 +432,7 @@ decreaseIndent=Sumažinti įtrauką
 insert=Įterpti
 insertColumnBefore=Įterpti stulpelį kairėje
 insertColumnAfter=Įterpti stulpelį dešinėje
+insertDiagramFromClipboard=Įterpti diagramą iš iškarpinės
 insertEllipse=Įterpti elipsę
 insertImage=Įterpti paveikslėlį
 insertHorizontalRule=Įterpti horizontalią liniją

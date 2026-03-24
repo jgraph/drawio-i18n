@@ -432,6 +432,7 @@ decreaseIndent=ඉන්ඩෙන්ට් අඩු කරන්න
 insert=ඇතුළු කරන්න
 insertColumnBefore=වම් පැත්තට තීරුවක් ඇතුළු කරන්න
 insertColumnAfter=දකුණු පැත්තට තීරුවක් ඇතුළු කරන්න
+insertDiagramFromClipboard=පසුරු පුවරුවෙන් රූප සටහන ඇතුළු කරන්න
 insertEllipse=ඉලිප්සය ඇතුළු කරන්න
 insertImage=රූපය ඇතුළු කරන්න
 insertHorizontalRule=තිරස් රේඛාව ඇතුළු කරන්න

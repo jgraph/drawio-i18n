@@ -432,6 +432,7 @@ decreaseIndent=ઇન્ડેન્ટ ઘટાડો
 insert=દાખલ કરો
 insertColumnBefore=ડાબે કૉલમ દાખલ કરો
 insertColumnAfter=જમણે કૉલમ દાખલ કરો
+insertDiagramFromClipboard=ક્લિપબોર્ડ પરથી ડાયાગ્રામ દાખલ કરો
 insertEllipse=લંબગોળ દાખલ કરો
 insertImage=છબી દાખલ કરો
 insertHorizontalRule=આડી રેખા દાખલ કરો

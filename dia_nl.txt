@@ -432,6 +432,7 @@ decreaseIndent=Inspringing verkleinen
 insert=Invoegen
 insertColumnBefore=Kolom links invoegen
 insertColumnAfter=Kolom rechts invoegen
+insertDiagramFromClipboard=Diagram invoegen vanuit klembord
 insertEllipse=Ellips invoegen
 insertImage=Afbeelding invoegen
 insertHorizontalRule=Horizontale lijn invoegen

@@ -432,6 +432,7 @@ decreaseIndent=减少缩进
 insert=插入
 insertColumnBefore=左边插入列
 insertColumnAfter=右边插入列
+insertDiagramFromClipboard=从剪贴板插入图表
 insertEllipse=插入椭圆
 insertImage=插入图片
 insertHorizontalRule=插入水平线

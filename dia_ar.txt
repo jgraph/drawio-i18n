@@ -427,6 +427,7 @@ decreaseIndent=‫تخفيض المسافة القبلية‬
 insert=‫إضافة‬
 insertColumnBefore=‫إضافة عمود على اليسار‬
 insertColumnAfter=‫إضافة عمود على اليمين‬
+insertDiagramFromClipboard=إدراج الرسم التخطيطي من الحافظة
 insertEllipse=‫إضافة شكل اهليلجي‬
 insertImage=‫إضافة صورة‬
 insertHorizontalRule=‫إضافة مسطرة أفقية‬

@@ -432,6 +432,7 @@ decreaseIndent=इंडेंट घटाएँ
 insert=डालें
 insertColumnBefore=बाईं ओर कॉलम डालें
 insertColumnAfter=दाईं ओर कॉलम डालें
+insertDiagramFromClipboard=क्लिपबोर्ड से डायग्राम डालें
 insertEllipse=दीर्घवृत्त डालें
 insertImage=छवि डालें
 insertHorizontalRule=क्षैतिज रेखा डालें

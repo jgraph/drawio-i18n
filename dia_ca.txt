@@ -432,6 +432,7 @@ decreaseIndent=Disminueix el sagnat
 insert=Insereix
 insertColumnBefore=Insereix una columna a l'esquerra
 insertColumnAfter=Insereix una columna a la dreta
+insertDiagramFromClipboard=Insereix el diagrama des del porta-retalls
 insertEllipse=Insereix una el·lipse
 insertImage=Insereix una imatge
 insertHorizontalRule=Insereix una regla horitzontal

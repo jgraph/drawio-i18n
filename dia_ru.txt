@@ -432,6 +432,7 @@ decreaseIndent=Уменьшить отступ
 insert=Вставить
 insertColumnBefore=Добавить столбец слева
 insertColumnAfter=Добавить столбец справа
+insertDiagramFromClipboard=Вставить диаграмму из буфера обмена
 insertEllipse=Добавить эллипс
 insertImage=Добавить изображение
 insertHorizontalRule=Вставить горизонтальную линию
