@@ -713,6 +713,7 @@ scratchpad=Rascunho
 scrollbars=Barras de rolagem
 search=Pesquisar
 searchShapes=Procurar Formas
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Selecionar Tudo
 selectionOnly=Apenas Seleção
 selectCard=Selecionar Cartão

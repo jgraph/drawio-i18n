@@ -713,6 +713,7 @@ scratchpad=Scratchpad
 scrollbars=Thanh cuộn
 search=Tìm kiếm
 searchShapes=Tìm hình khối
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Chọn tất cả
 selectionOnly=Chỉ những mục đã chọn
 selectCard=Chọn thẻ

@@ -713,6 +713,7 @@ scratchpad=Skicēšanas bloks
 scrollbars=Ritjoslas
 search=Meklēt
 searchShapes=Meklēt formas
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Izvēlēties visu
 selectionOnly=Tikai atlasītais
 selectCard=Izvēlēties karti

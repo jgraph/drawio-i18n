@@ -713,6 +713,7 @@ scratchpad=স্ক্র্যাচপ্যাড
 scrollbars=স্ক্রলবার
 search=অনুসন্ধান
 searchShapes=আকৃতি অনুসন্ধান করুন
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=সব নির্বাচন করুন
 selectionOnly=শুধুমাত্র নির্বাচিত
 selectCard=কার্ড নির্বাচন করুন

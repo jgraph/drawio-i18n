@@ -713,6 +713,7 @@ scratchpad=Zirriborroa
 scrollbars=Korritze-barrak
 search=Bilatu
 searchShapes=Bilatu formak
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Hautatu guztia
 selectionOnly=Hautatutakoa bakarrik
 selectCard=Hautatu txartela

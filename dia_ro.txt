@@ -713,6 +713,7 @@ scratchpad=Scratchpad
 scrollbars=Bare de rulare
 search=Căutare
 searchShapes=Caută forme
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Selectează tot
 selectionOnly=Doar selecția
 selectCard=Selectează card

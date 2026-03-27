@@ -713,6 +713,7 @@ scratchpad=Zápisník
 scrollbars=Posuvníky
 search=Hľadať
 searchShapes=Hľadať tvary
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Vybrať všetko
 selectionOnly=Len výber
 selectCard=Vybrať kartu

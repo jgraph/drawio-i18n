@@ -713,6 +713,7 @@ scratchpad=Scratchpad
 scrollbars=Bilah gulir
 search=Cari
 searchShapes=Cari Bentuk
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Pilih Semua
 selectionOnly=Pilihan Saja
 selectCard=Pilih Kartu

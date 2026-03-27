@@ -713,6 +713,7 @@ scratchpad=Notizblock
 scrollbars=Scrollbars
 search=Suchen
 searchShapes=Formen suchen
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Alles auswählen
 selectionOnly=Nur Markierung
 selectCard=Select Card

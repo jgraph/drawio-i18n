@@ -713,6 +713,7 @@ scratchpad=Notesblok
 scrollbars=Rullebjælker
 search=Søg
 searchShapes=Søg former
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Vælg Alt
 selectionOnly=Kun valgte
 selectCard=Vælg kort

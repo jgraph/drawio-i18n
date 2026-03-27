@@ -713,6 +713,7 @@ scratchpad=Allaserinnillivik
 scrollbars=Scrollbarit
 search=Ujarlerit
 searchShapes=Figuurit ujarlerit
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Tamakkerlugit toqqaruk
 selectionOnly=Toqqakkat kisimik
 selectCard=Kort toqqaruk

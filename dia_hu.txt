@@ -713,6 +713,7 @@ scratchpad=Jegyzetblokk
 scrollbars=Gördítősávok
 search=Keresés
 searchShapes=Alakzatok keresése
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Mindent kijelöl
 selectionOnly=Csak a kijelölt
 selectCard=Kártya kiválasztása

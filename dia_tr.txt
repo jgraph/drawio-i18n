@@ -713,6 +713,7 @@ scratchpad=Bloknot
 scrollbars=Kaydırma çubukları
 search=Ara
 searchShapes=Şekilleri ara
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Tümünü seç
 selectionOnly=Sadece seçim
 selectCard=Kart Seç

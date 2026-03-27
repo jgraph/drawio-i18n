@@ -713,6 +713,7 @@ scratchpad=Muistilehtiö
 scrollbars=Vierityspalkit
 search=Hae
 searchShapes=Hae kuvioita
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Valitse kaikki
 selectionOnly=Vain valinta
 selectCard=Valitse kortti

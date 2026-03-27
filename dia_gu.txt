@@ -713,6 +713,7 @@ scratchpad=સ્ક્રેચપેડ
 scrollbars=સ્ક્રોલબાર
 search=શોધો
 searchShapes=આકારો શોધો
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=બધું પસંદ કરો
 selectionOnly=માત્ર પસંદગી
 selectCard=કાર્ડ પસંદ કરો

@@ -712,6 +712,7 @@ scratchpad=scratchpad
 scrollbars=scrollbars
 search=search
 searchShapes=searchShapes
+searchShapesInOpenLibraries=searchShapesInOpenLibraries
 selectAll=selectAll
 selectionOnly=selectionOnly
 selectCard=selectCard

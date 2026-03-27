@@ -713,6 +713,7 @@ scratchpad=မှတ်စုခွက်
 scrollbars=လှိမ့်ဘားများ
 search=ရှာဖွေရန်
 searchShapes=ပုံသဏ္ဍာန်များရှာဖွေရန်
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=အားလုံးရွေးရန်
 selectionOnly=ရွေးချယ်ထားသည်များသာ
 selectCard=ကတ်ရွေးရန်

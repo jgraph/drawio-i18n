@@ -713,6 +713,7 @@ scratchpad=Σημειωματάριο
 scrollbars=Μπάρες κύλισης
 search=Αναζήτηση
 searchShapes=Αναζήτηση Σχημάτων
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Επιλογή Όλων
 selectionOnly=Μόνο Επιλογή
 selectCard=Επιλογή Κάρτας

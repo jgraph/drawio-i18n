@@ -713,6 +713,7 @@ scratchpad=Märkmik
 scrollbars=Kerimisribad
 search=Otsi
 searchShapes=Otsi kujundeid
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Vali kõik
 selectionOnly=Ainult valik
 selectCard=Vali kaart

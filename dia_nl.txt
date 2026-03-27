@@ -713,6 +713,7 @@ scratchpad=Palet
 scrollbars=Schuifbalken
 search=Zoeken
 searchShapes=Vormen zoeken
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Alles selecteren
 selectionOnly=Alleen selectie
 selectCard=Kaart selecteren

@@ -713,6 +713,7 @@ scratchpad=Бележник
 scrollbars=Скролиращи ленти
 search=Търсене
 searchShapes=Търсене на форми
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Маркиране на всичко
 selectionOnly=Само маркираното
 selectCard=Изберете Карта

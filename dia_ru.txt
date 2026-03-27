@@ -713,6 +713,7 @@ scratchpad=Избранное
 scrollbars=Полосы прокрутки
 search=Поиск
 searchShapes=Поиск фигур
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Выбрать всё
 selectionOnly=Только выделение
 selectCard=Выбрать карточку

@@ -713,6 +713,7 @@ scratchpad=Brudnopis
 scrollbars=Paski przewijania
 search=Szukaj
 searchShapes=Szukaj kształtów
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Zaznacz wszystko
 selectionOnly=Tylko wybrane
 selectCard=Wybierz kartę

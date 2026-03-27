@@ -713,6 +713,7 @@ scratchpad=Skrapbloko
 scrollbars=Rulumstangoj
 search=Serĉi
 searchShapes=Serĉi Formojn
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Elekti Ĉion
 selectionOnly=Nur Selektaĵo
 selectCard=Elekti Karton

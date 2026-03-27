@@ -713,6 +713,7 @@ scratchpad=Чернетка
 scrollbars=Смуги прокрутки
 search=Пошук
 searchShapes=Шукати фігури
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Вибрати все
 selectionOnly=Тільки обране
 selectCard=Вибрати карту

@@ -713,6 +713,7 @@ scratchpad=Bloc de notes
 scrollbars=Barres de desplaçament
 search=Cerca
 searchShapes=Cerca formes
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Selecciona-ho tot
 selectionOnly=Només la selecció
 selectCard=Selecciona una targeta

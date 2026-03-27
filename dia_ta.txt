@@ -713,6 +713,7 @@ scratchpad=கீறல் திண்டு
 scrollbars=சுருள்பட்டிகள்
 search=தேடு
 searchShapes=வடிவங்களைத் தேடு
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=அனைத்தையும் தெரிவுசெய்
 selectionOnly=தேர்வு மட்டும்
 selectCard=அட்டையைத் தேர்ந்தெடு

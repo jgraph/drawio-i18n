@@ -713,6 +713,7 @@ scratchpad=Beležnica
 scrollbars=Drsniki
 search=Iskanje
 searchShapes=Išči oblike
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Izberi vse
 selectionOnly=Samo izbor
 selectCard=Izberi kartico

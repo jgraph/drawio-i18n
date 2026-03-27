@@ -713,6 +713,7 @@ scratchpad=スクラッチパッド
 scrollbars=スクロールバー
 search=検索
 searchShapes=図形を検索
+searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=すべて選択
 selectionOnly=選択範囲のみ
 selectCard=カードを選択
