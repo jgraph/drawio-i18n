@@ -426,7 +426,6 @@ imageTooBig=Assit angissusilik
 imgur=Imgur
 import=Importunerit
 importFrom=Importunerit uunga
-improveContrast=Assersuut Pitsanngorsaruk
 includeCopyOfMyDiagram=Titarnissami kopi ilanngullugu
 increaseIndent=Sinerissat Annertillugit
 decreaseIndent=Sinerissat Mikisorillugit

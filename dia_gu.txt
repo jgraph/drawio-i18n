@@ -426,7 +426,6 @@ imageTooBig=છબી ખૂબ મોટી છે
 imgur=Imgur
 import=આયાત કરો
 importFrom=આમાંથી આયાત કરો
-improveContrast=કોન્ટ્રાસ્ટ સુધારો
 includeCopyOfMyDiagram=મારા ડાયાગ્રામની નકલ સામેલ કરો
 increaseIndent=ઇન્ડેન્ટ વધારો
 decreaseIndent=ઇન્ડેન્ટ ઘટાડો

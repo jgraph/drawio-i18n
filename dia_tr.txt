@@ -426,7 +426,6 @@ imageTooBig=Resim çok büyük
 imgur=Imgur
 import=İçe aktar
 importFrom=Şundan içe aktar
-improveContrast=Kontrastı İyileştir
 includeCopyOfMyDiagram=Diyagramımın bir kopyasını da içer
 increaseIndent=Girintiyi arttır
 decreaseIndent=Girintiyi azalt

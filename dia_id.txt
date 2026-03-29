@@ -426,7 +426,6 @@ imageTooBig=Gambar terlalu besar
 imgur=Imgur
 import=Impor
 importFrom=Impor dari
-improveContrast=Perbaiki Kontras
 includeCopyOfMyDiagram=Cantumkan salinan diagram saya
 increaseIndent=Tambahkan Indentasi
 decreaseIndent=Kurangi Indentasi

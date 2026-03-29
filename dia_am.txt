@@ -426,7 +426,6 @@ imageTooBig=ምስል በጣም ትልቅ ነው
 imgur=Imgur
 import=አስገባ
 importFrom=ከ...አስገባ
-improveContrast=ንጽጽር አሻሽል
 includeCopyOfMyDiagram=የእኔን ዳያግራም ቅጂ ያካትቱ
 increaseIndent=ገደብ ጨምር
 decreaseIndent=ገደብ ቀንስ

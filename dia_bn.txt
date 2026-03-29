@@ -426,7 +426,6 @@ imageTooBig=ছবি খুব বড়
 imgur=Imgur
 import=ইম্পোর্ট
 importFrom=থেকে ইম্পোর্ট করুন
-improveContrast=কনট্রাস্ট উন্নত করুন
 includeCopyOfMyDiagram=আমার ডায়াগ্রামের একটি কপি অন্তর্ভুক্ত করুন
 increaseIndent=ইনডেন্ট বাড়ান
 decreaseIndent=ইনডেন্ট কমান

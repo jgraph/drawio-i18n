@@ -426,7 +426,6 @@ imageTooBig=Hình ảnh quá lớn
 imgur=Imgur
 import=Nhập
 importFrom=Nhập từ
-improveContrast=Cải thiện độ tương phản
 includeCopyOfMyDiagram=Bao gồm một bản sao biểu đồ của tôi
 increaseIndent=Tăng thụt lề
 decreaseIndent=Giảm thụt lề

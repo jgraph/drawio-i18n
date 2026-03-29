@@ -426,7 +426,6 @@ imageTooBig=รูปภาพมีขนาดใหญ่เกินไป
 imgur=Imgur
 import=นำเข้า
 importFrom=นำเข้าจาก
-improveContrast=ปรับปรุงคอนทราสต์
 includeCopyOfMyDiagram=รวมแผนภาพฉบับคัดลอกของฉัน
 increaseIndent=เพิ่มย่อหน้า
 decreaseIndent=ลดย่อหน้า

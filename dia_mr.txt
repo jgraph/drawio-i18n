@@ -426,7 +426,6 @@ imageTooBig=प्रतिमा खूप मोठी आहे
 imgur=Imgur
 import=आयात करा
 importFrom=येथून आयात करा
-improveContrast=कॉन्ट्रास्ट सुधारा
 includeCopyOfMyDiagram=माझ्या आकृतीची प्रत समाविष्ट करा
 increaseIndent=इंडेंट वाढवा
 decreaseIndent=इंडेंट कमी करा

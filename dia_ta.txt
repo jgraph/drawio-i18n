@@ -426,7 +426,6 @@ imageTooBig=படம் மிகப் பெரியது
 imgur=Imgur
 import=இறக்குமதி
 importFrom=இருந்து இறக்குமதி
-improveContrast=மாறுபாட்டை மேம்படுத்தவும்
 includeCopyOfMyDiagram=எனது வரைபடத்தின் நகலைச் சேர்
 increaseIndent=உள்தள்ளலை அதிகரி
 decreaseIndent=உள்தள்ளலைக் குறை

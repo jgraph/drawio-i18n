@@ -426,7 +426,6 @@ imageTooBig=Immagine troppo grande
 imgur=Imgur
 import=Importa
 importFrom=Importa da
-improveContrast=Migliora contrasto
 includeCopyOfMyDiagram=Includi una copia del mio diagramma
 increaseIndent=Aumenta rientro
 decreaseIndent=Riduci rientro

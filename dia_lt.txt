@@ -426,7 +426,6 @@ imageTooBig=Paveikslėlis per didelis
 imgur=Imgur
 import=Importuoti
 importFrom=Importuoti iš
-improveContrast=Pagerinti kontrastą
 includeCopyOfMyDiagram=Įtraukti mano diagramos kopiją
 increaseIndent=Padidinti įtrauką
 decreaseIndent=Sumažinti įtrauką

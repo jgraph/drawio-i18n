@@ -426,7 +426,6 @@ imageTooBig=‫تصویر خیلی بزرگ است‬
 imgur=Imgur
 import=‫وارد نمودن‬
 importFrom=‫وارد نمودن از‬
-improveContrast=‫بهبود کنتراست‬
 includeCopyOfMyDiagram=‫یک کپی از نمودار من را اضافه کن‬
 increaseIndent=‫افزایش فاصله‌ی سرسطر‬
 decreaseIndent=‫کاهش فاصله‌ی سرسطر‬

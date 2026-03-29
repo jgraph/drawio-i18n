@@ -425,7 +425,6 @@ imageTooBig=imageTooBig
 imgur=imgur
 import=import
 importFrom=importFrom
-improveContrast=improveContrast
 includeCopyOfMyDiagram=includeCopyOfMyDiagram
 increaseIndent=increaseIndent
 decreaseIndent=decreaseIndent

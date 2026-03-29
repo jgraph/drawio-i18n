@@ -426,7 +426,6 @@ imageTooBig=ചിത്രം വളരെ വലുതാണ്
 imgur=Imgur
 import=ഇറക്കുമതി
 importFrom=ഇതിൽ നിന്ന് ഇറക്കുമതി
-improveContrast=കോൺട്രാസ്റ്റ് മെച്ചപ്പെടുത്തുക
 includeCopyOfMyDiagram=എന്റെ ഡയഗ്രാമിന്റെ ഒരു പകർപ്പ് ഉൾപ്പെടുത്തുക
 increaseIndent=ഇൻഡന്റ് വർദ്ധിപ്പിക്കുക
 decreaseIndent=ഇൻഡന്റ് കുറയ്ക്കുക

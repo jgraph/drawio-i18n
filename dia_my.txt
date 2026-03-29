@@ -426,7 +426,6 @@ imageTooBig=ပုံ အရမ်းကြီးသည်
 imgur=Imgur
 import=တင်သွင်း
 importFrom=မှ တင်သွင်း
-improveContrast=ကွန်ထရက်စ် တိုးတက်စေ
 includeCopyOfMyDiagram=ကျွန်ုပ်၏ ပုံကြမ်း မိတ္တူတစ်ခု ထည့်သွင်း
 increaseIndent=အစားထိုးမှု တိုးမြှင့်
 decreaseIndent=အစားထိုးမှု လျှော့ချ

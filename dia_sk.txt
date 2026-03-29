@@ -426,7 +426,6 @@ imageTooBig=Obrázok je príliš veľký
 imgur=Imgur
 import=Importovať
 importFrom=Importovať z
-improveContrast=Zlepšiť kontrast
 includeCopyOfMyDiagram=Zahrnúť kópiu môjho diagramu
 increaseIndent=Zväčšiť odsadenie
 decreaseIndent=Zmenšiť odsadenie

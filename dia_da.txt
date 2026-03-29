@@ -426,7 +426,6 @@ imageTooBig=Billede for stort
 imgur=Imgur
 import=Importér
 importFrom=Importér fra
-improveContrast=Forbedr kontrast
 includeCopyOfMyDiagram=Medtag en kopi af mit diagram
 increaseIndent=Forøg indrykning
 decreaseIndent=Reducér indrykning

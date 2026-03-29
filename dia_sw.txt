@@ -426,7 +426,6 @@ imageTooBig=Picha kubwa mno
 imgur=Imgur
 import=Ingiza
 importFrom=Ingiza kutoka
-improveContrast=Boresha Utofautishaji
 includeCopyOfMyDiagram=Jumuisha nakala ya mchoro wangu
 increaseIndent=Ongeza Uingizaji Ndani
 decreaseIndent=Punguza Uingizaji Ndani

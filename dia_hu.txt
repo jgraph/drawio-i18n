@@ -426,7 +426,6 @@ imageTooBig=A kép túl nagy
 imgur=Imgur
 import=Importálás
 importFrom=Importálás innen:
-improveContrast=Kontraszt javítása
 includeCopyOfMyDiagram=Diagram másolatának csatolása
 increaseIndent=Behúzás növelése
 decreaseIndent=Behúzás csökkentése

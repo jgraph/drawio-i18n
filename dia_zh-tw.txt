@@ -426,7 +426,6 @@ imageTooBig=圖片太大
 imgur=Imgur
 import=匯入
 importFrom=從...匯入
-improveContrast=改善對比度
 includeCopyOfMyDiagram=包含我的圖表的副本
 increaseIndent=增加內縮
 decreaseIndent=減少內縮

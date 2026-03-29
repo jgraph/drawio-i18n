@@ -421,7 +421,6 @@ imageTooBig=‫الصورة كبيرة جدًا‬
 imgur=‫إيمجر‬
 import=‫جلب‬
 importFrom=‫جلب من‬
-improveContrast=‫تحسين التباين‬
 includeCopyOfMyDiagram=‫تضمين نسخة من المخطط‬
 increaseIndent=‫زيادة المسافة القبلية‬
 decreaseIndent=‫تخفيض المسافة القبلية‬

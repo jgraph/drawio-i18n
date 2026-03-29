@@ -426,7 +426,6 @@ imageTooBig=ಚಿತ್ರ ತುಂಬಾ ದೊಡ್ಡದು
 imgur=Imgur
 import=ಆಮದು
 importFrom=ಇಲ್ಲಿಂದ ಆಮದು
-improveContrast=ಕಾಂಟ್ರಾಸ್ಟ್ ಸುಧಾರಿಸಿ
 includeCopyOfMyDiagram=ನನ್ನ ರೇಖಾಚಿತ್ರದ ಪ್ರತಿಯನ್ನು ಸೇರಿಸಿ
 increaseIndent=ಇಂಡೆಂಟ್ ಹೆಚ್ಚಿಸಿ
 decreaseIndent=ಇಂಡೆಂಟ್ ಕಡಿಮೆ ಮಾಡಿ

@@ -426,7 +426,6 @@ imageTooBig=Η εικόνα είναι πολύ μεγάλη
 imgur=Imgur
 import=Εισαγωγή
 importFrom=Εισαγωγή από
-improveContrast=Βελτίωση Αντίθεσης
 includeCopyOfMyDiagram=Να περιληφθεί ένα αντίγραφο του διαγράμματός μου
 increaseIndent=Αύξηση εσοχής
 decreaseIndent=Μείωση εσοχής
