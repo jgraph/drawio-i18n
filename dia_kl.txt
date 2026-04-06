@@ -404,6 +404,7 @@ helpTranslate=Ikiutigut una application-i nutseriarlugu
 hide=Tarrisaruk
 hideIt={1} tarrisaruk
 hidden=Tarrisaq
+shiftClickShowOnly=Shift+click: {1} kisimi takutissiuk
 highContrast=Assersuut Pissartoq
 home=Saqqaa
 horizontal=Saviminermut Tunngasut

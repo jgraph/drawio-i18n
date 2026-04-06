@@ -404,6 +404,7 @@ helpTranslate=මෙම යෙදුම පරිවර්තනය කිරී
 hide=සඟවන්න
 hideIt={1} සඟවන්න
 hidden=සැඟවුණු
+shiftClickShowOnly=Shift+ක්ලික්: {1} පමණක් පෙන්වන්න
 highContrast=ඉහළ වෙනස
 home=මුල් පිටුව
 horizontal=තිරස්

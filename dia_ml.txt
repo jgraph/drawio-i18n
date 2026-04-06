@@ -404,6 +404,7 @@ helpTranslate=ഈ ആപ്ലിക്കേഷൻ വിവർത്തനം 
 hide=മറയ്ക്കുക
 hideIt={1} മറയ്ക്കുക
 hidden=മറച്ചത്
+shiftClickShowOnly=Shift+ക്ലിക്ക്: {1} മാത്രം കാണിക്കുക
 highContrast=ഉയർന്ന കോൺട്രാസ്റ്റ്
 home=ഹോം
 horizontal=തിരശ്ചീനം

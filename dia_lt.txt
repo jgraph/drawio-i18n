@@ -404,6 +404,7 @@ helpTranslate=Padėkite mums išversti šią programą
 hide=Paslėpti
 hideIt=Paslėpti {1}
 hidden=Paslėptas
+shiftClickShowOnly=Shift+spustelėjimas: rodyti tik {1}
 highContrast=Didelis kontrastas
 home=Į pagrindinį
 horizontal=Horizontalus

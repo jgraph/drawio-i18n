@@ -404,6 +404,7 @@ helpTranslate=Axúdanos a traducir a aplicación
 hide=Agochar
 hideIt=Agochar {1}
 hidden=Agochado
+shiftClickShowOnly=Shift+clic: amosar só {1}
 highContrast=Alto contraste
 home=Inicio
 horizontal=Horizontal

@@ -404,6 +404,7 @@ helpTranslate=Hjelp oss med å oversette denne appen
 hide=Skjul
 hideIt=Skjul {1}
 hidden=Skjult
+shiftClickShowOnly=Shift+klikk: vis bare {1}
 highContrast=Høy kontrast
 home=Hjem
 horizontal=Horisontal

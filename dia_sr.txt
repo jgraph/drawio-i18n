@@ -404,6 +404,7 @@ helpTranslate=Pomozite nam u prevođenju ove aplikacije
 hide=Sakrij
 hideIt=Sakrij {1}
 hidden=Sakriven
+shiftClickShowOnly=Shift+клик: прикажи само {1}
 highContrast=Visoki kontrast
 home=Početna
 horizontal=Vodoravan

@@ -404,6 +404,7 @@ helpTranslate=Допоможіть нам перекласти цей засто
 hide=Приховати
 hideIt=Приховати {1}
 hidden=Приховано
+shiftClickShowOnly=Shift+клік: показати тільки {1}
 highContrast=Високий контраст
 home=На верхній рівень
 horizontal=Горизонтально

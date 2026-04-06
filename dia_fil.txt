@@ -404,6 +404,7 @@ helpTranslate=Tulungan kami na isalin ang aplikasyon na ito
 hide=Itago
 hideIt=Itago {1}
 hidden=Nakatago
+shiftClickShowOnly=Shift+click: ipakita lang ang {1}
 highContrast=Mataas na Kontrast
 home=Simula
 horizontal=Pahalang

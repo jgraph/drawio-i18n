@@ -404,6 +404,7 @@ helpTranslate=Hilf uns, diese Anwendung zu übersetzen
 hide=Verstecken
 hideIt={1} verstecken
 hidden=Versteckt
+shiftClickShowOnly=Shift+Klick: nur {1} anzeigen
 highContrast=Hoher Kontrast
 home=Ursprung
 horizontal=Horizontal

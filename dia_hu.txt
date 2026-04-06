@@ -404,6 +404,7 @@ helpTranslate=Segítsen a program fordításában
 hide=Elrejt
 hideIt={1} elrejtése
 hidden=Elrejtett
+shiftClickShowOnly=Shift+kattintás: csak {1} megjelenítése
 highContrast=Nagy kontraszt
 home=Kezdőlap
 horizontal=Vízszintes

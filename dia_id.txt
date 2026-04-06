@@ -404,6 +404,7 @@ helpTranslate=Bantu kami menerjemahkan aplikasi ini
 hide=Sembunyikan
 hideIt=Sembunyikan {1}
 hidden=Tersembunyi
+shiftClickShowOnly=Shift+klik: tampilkan hanya {1}
 highContrast=Kontras Tinggi
 home=Beranda
 horizontal=Horizontal

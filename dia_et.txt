@@ -404,6 +404,7 @@ helpTranslate=Aita meil seda rakendust tõlkida
 hide=Peida
 hideIt=Peida {1}
 hidden=Peidetud
+shiftClickShowOnly=Shift+klõps: näita ainult {1}
 highContrast=Kõrge kontrastsus
 home=Kodu
 horizontal=Horisontaalne

@@ -404,6 +404,7 @@ helpTranslate=Hjælp os med at oversætte denne applikation
 hide=Skjul
 hideIt=Skjul {1}
 hidden=Skjult
+shiftClickShowOnly=Shift+klik: vis kun {1}
 highContrast=Høj kontrast
 home=Hjem
 horizontal=Vandret

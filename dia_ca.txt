@@ -404,6 +404,7 @@ helpTranslate=Ajuda'ns a traduir aquesta aplicació
 hide=Amaga
 hideIt=Amaga {1}
 hidden=Amagat
+shiftClickShowOnly=Shift+clic: mostra només {1}
 highContrast=Alt Contrast
 home=Inici
 horizontal=Horitzontal

@@ -404,6 +404,7 @@ helpTranslate=Aiutaci a tradurre questa applicazione
 hide=Nascondi
 hideIt=Nascondi {1}
 hidden=Nascosto
+shiftClickShowOnly=Shift+clic: mostra solo {1}
 highContrast=Contrasto elevato
 home=Pagina iniziale
 horizontal=Orizzontale

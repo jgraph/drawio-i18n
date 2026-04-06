@@ -404,6 +404,7 @@ helpTranslate=Pomôžte nám preložiť túto aplikáciu
 hide=Skryť
 hideIt=Skryť {1}
 hidden=Skryté
+shiftClickShowOnly=Shift+klik: zobraziť iba {1}
 highContrast=Vysoký kontrast
 home=Domov
 horizontal=Horizontálne

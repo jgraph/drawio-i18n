@@ -404,6 +404,7 @@ helpTranslate=Hjälp oss att översätta denna applikation
 hide=Dölj
 hideIt=Dölj {1}
 hidden=Dold
+shiftClickShowOnly=Shift+klick: visa bara {1}
 highContrast=Hög kontrast
 home=Hem
 horizontal=Horisontell

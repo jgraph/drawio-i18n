@@ -404,6 +404,7 @@ helpTranslate=帮助我们翻译此应用
 hide=隐藏
 hideIt=隐藏 {1}
 hidden=已隐藏
+shiftClickShowOnly=Shift+点击：仅显示 {1}
 highContrast=高对比度
 home=主页
 horizontal=水平

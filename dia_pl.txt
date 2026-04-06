@@ -404,6 +404,7 @@ helpTranslate=Pomóż nam przetłumaczyć tę aplikację
 hide=Ukryj
 hideIt=Ukryj {1}
 hidden=Ukryte
+shiftClickShowOnly=Shift+kliknięcie: pokaż tylko {1}
 highContrast=Wysoki kontrast
 home=Początek
 horizontal=Poziomo

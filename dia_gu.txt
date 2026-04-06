@@ -404,6 +404,7 @@ helpTranslate=આ એપ્લિકેશનનું ભાષાંતર ક
 hide=છુપાવો
 hideIt={1} છુપાવો
 hidden=છુપાયેલ
+shiftClickShowOnly=Shift+ક્લિક: ફક્ત {1} બતાવો
 highContrast=ઉચ્ચ કોન્ટ્રાસ્ટ
 home=હોમ
 horizontal=આડું

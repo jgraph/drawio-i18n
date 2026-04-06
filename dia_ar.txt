@@ -399,6 +399,7 @@ helpTranslate=‫ساعدنا في ترجمة هذا التطبيق‬
 hide=‫إخفاء‬
 hideIt=‫إخفاء {1}‬
 hidden=‫مخفي‬
+shiftClickShowOnly=‫Shift+نقر: إظهار {1} فقط‬
 highContrast=‫تباين عالي‬
 home=‫الرئيسية‬
 horizontal=‫أفقي‬

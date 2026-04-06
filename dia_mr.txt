@@ -404,6 +404,7 @@ helpTranslate=हे अॅप्लिकेशन अनुवादित क
 hide=लपवा
 hideIt={1} लपवा
 hidden=लपवलेले
+shiftClickShowOnly=Shift+क्लिक: फक्त {1} दाखवा
 highContrast=उच्च कॉन्ट्रास्ट
 home=होम
 horizontal=क्षैतिज

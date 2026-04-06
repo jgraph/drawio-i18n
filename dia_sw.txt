@@ -404,6 +404,7 @@ helpTranslate=Tusaidie kutafsiri programu hii
 hide=Ficha
 hideIt=Ficha {1}
 hidden=Imefichwa
+shiftClickShowOnly=Shift+bofya: onyesha {1} pekee
 highContrast=Utofautishaji Mkubwa
 home=Nyumbani
 horizontal=Mlalo

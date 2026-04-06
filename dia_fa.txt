@@ -404,6 +404,7 @@ helpTranslate=‫برای ترجمه این اپلیکیشن به ما کمک ک
 hide=‫پنهان کردن‬
 hideIt=‫پنهان کردن {1}‬
 hidden=‫مخفی‬
+shiftClickShowOnly=‫Shift+کلیک: نمایش فقط {1}‬
 highContrast=‫کنتراست بالا‬
 home=‫خانه‬
 horizontal=‫افقی‬

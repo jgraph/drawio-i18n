@@ -404,6 +404,7 @@ helpTranslate=Ajută-ne să traducem această aplicație
 hide=Ascunde
 hideIt=Ascunde {1}
 hidden=Ascuns
+shiftClickShowOnly=Shift+clic: arată doar {1}
 highContrast=Contrast ridicat
 home=Acasă
 horizontal=Orizontal

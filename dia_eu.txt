@@ -404,6 +404,7 @@ helpTranslate=Lagundu aplikazio hau itzultzen
 hide=Ezkutatu
 hideIt={1} ezkutatu
 hidden=Ezkutuan
+shiftClickShowOnly=Shift+klik: erakutsi {1} bakarrik
 highContrast=Kontraste handia
 home=Hasiera
 horizontal=Horizontala

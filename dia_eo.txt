@@ -404,6 +404,7 @@ helpTranslate=Helpu nin traduki ĉi tiun aplikaĵon
 hide=Kaŝi
 hideIt=Kaŝi {1}
 hidden=Kaŝita
+shiftClickShowOnly=Shift+klako: montri nur {1}
 highContrast=Alta Kontrasto
 home=Hejmo
 horizontal=Horizontala

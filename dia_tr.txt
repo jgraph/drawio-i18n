@@ -404,6 +404,7 @@ helpTranslate=Bu uygulamayı çevirmemize yardım edin
 hide=Gizle
 hideIt={1} Gizle
 hidden=Gizli
+shiftClickShowOnly=Shift+tıklama: sadece {1} göster
 highContrast=Yüksek Kontrast
 home=Anasayfa
 horizontal=Yatay

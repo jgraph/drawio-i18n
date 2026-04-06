@@ -404,6 +404,7 @@ helpTranslate=ಈ ಅಪ್ಲಿಕೇಶನ್ ಅನುವಾದಿಸಲು 
 hide=ಮರೆಮಾಡು
 hideIt={1} ಮರೆಮಾಡು
 hidden=ಮರೆಮಾಡಲಾಗಿದೆ
+shiftClickShowOnly=Shift+ಕ್ಲಿಕ್: {1} ಮಾತ್ರ ತೋರಿಸು
 highContrast=ಹೆಚ್ಚಿನ ಕಾಂಟ್ರಾಸ್ಟ್
 home=ಮುಖಪುಟ
 horizontal=ಅಡ್ಡ

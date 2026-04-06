@@ -404,6 +404,7 @@ helpTranslate=এই অ্যাপ্লিকেশন অনুবাদে 
 hide=লুকান
 hideIt={1} লুকান
 hidden=লুকানো
+shiftClickShowOnly=Shift+ক্লিক: শুধুমাত্র {1} দেখান
 highContrast=উচ্চ কনট্রাস্ট
 home=হোম
 horizontal=অনুভূমিক

@@ -404,6 +404,7 @@ helpTranslate=Palīdziet mums iztulkot šo lietojumprogrammu
 hide=Slēpt
 hideIt=Slēpt {1}
 hidden=Paslēpts
+shiftClickShowOnly=Shift+klikšķis: rādīt tikai {1}
 highContrast=Augsts kontrasts
 home=Uz sākotnējo
 horizontal=Horizontāli

@@ -404,6 +404,7 @@ helpTranslate=ይህን መተግበሪያ ለመተርጎም ይረዳን
 hide=ደብቅ
 hideIt=ደብቅ {1}
 hidden=የተደበቀ
+shiftClickShowOnly=Shift+ጠቅ: {1} ብቻ አሳይ
 highContrast=ከፍተኛ ንጽጽር
 home=መነሻ
 horizontal=አግድም

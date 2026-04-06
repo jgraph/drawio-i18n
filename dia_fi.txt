@@ -404,6 +404,7 @@ helpTranslate=Auta meitä kääntämään tämä sovellus
 hide=Piilota
 hideIt=Piilota {1}
 hidden=Piilotettu
+shiftClickShowOnly=Shift+napsautus: näytä vain {1}
 highContrast=Korkea kontrasti
 home=Aloitus
 horizontal=Vaakasuora

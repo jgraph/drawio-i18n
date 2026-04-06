@@ -404,6 +404,7 @@ helpTranslate=Помогите перевести draw.io
 hide=Скрыть
 hideIt=Скрыть {1}
 hidden=Скрытый
+shiftClickShowOnly=Shift+клик: показать только {1}
 highContrast=Высокая контрастность
 home=Домой
 horizontal=Горизонтально
