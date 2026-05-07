@@ -1370,3 +1370,4 @@ repulsivePower=反発力
 resizeNodes=ノードのサイズを変更
 useSelectionAsRoot=選択をルートとして使用
 useSelectionAsRoots=選択をルートとして使用
+openLucidSite=別のタブでLucidchartサイトを開いてアカウントにログインし、このタブに戻って「インポート開始」ボタンを再度クリックしてください。

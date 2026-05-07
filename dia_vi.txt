@@ -1370,3 +1370,4 @@ repulsivePower=Lực đẩy
 resizeNodes=Thay đổi kích thước nút
 useSelectionAsRoot=Dùng vùng chọn làm gốc
 useSelectionAsRoots=Dùng vùng chọn làm các gốc
+openLucidSite=Mở trang web Lucidchart trong tab khác và đăng nhập vào tài khoản của bạn, sau đó quay lại tab này và nhấp lại vào nút "Bắt đầu nhập".

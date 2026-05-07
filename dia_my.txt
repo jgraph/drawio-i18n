@@ -1370,3 +1370,4 @@ repulsivePower=Repulsive Power
 resizeNodes=Resize Nodes
 useSelectionAsRoot=Use Selection as Root
 useSelectionAsRoots=Use Selection as Roots
+openLucidSite=နောက်ထပ် tab တစ်ခုတွင် Lucidchart ဆိုဒ်ကိုဖွင့်ပြီး သင်၏ အကောင့်သို့ လော့ဂ်အင်ဝင်ပါ၊ ထို့နောက် ဤ tab သို့ ပြန်လာ၍ "တင်သွင်းမှုစတင်ရန်" ခလုတ်ကို ထပ်မံနှိပ်ပါ။

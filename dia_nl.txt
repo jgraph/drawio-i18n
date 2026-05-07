@@ -1370,3 +1370,4 @@ repulsivePower=Afstotende kracht
 resizeNodes=Knooppunten aanpassen
 useSelectionAsRoot=Selectie als wortel gebruiken
 useSelectionAsRoots=Selectie als wortels gebruiken
+openLucidSite=Open de Lucidchart-website in een ander tabblad en log in op uw account, kom dan terug naar dit tabblad en klik opnieuw op de knop "Start importeren".

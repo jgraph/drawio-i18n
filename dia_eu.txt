@@ -1370,3 +1370,4 @@ repulsivePower=Indar aldarazlea
 resizeNodes=Aldatu nodoen tamaina
 useSelectionAsRoot=Erabili hautapena erro gisa
 useSelectionAsRoots=Erabili hautapena erroak gisa
+openLucidSite=Ireki Lucidchart webgunea beste fitxa batean eta hasi saioa zure kontuan, ondoren itzuli fitxa honetara eta klikatu berriro "Hasi inportatzen" botoian.

@@ -1370,3 +1370,4 @@ repulsivePower=Repulsiv kraft
 resizeNodes=Ändra storlek på noder
 useSelectionAsRoot=Använd urval som rot
 useSelectionAsRoots=Använd urval som rötter
+openLucidSite=Öppna Lucidchart-webbplatsen i en annan flik och logga in på ditt konto, gå sedan tillbaka till den här fliken och klicka på knappen "Starta import" igen.

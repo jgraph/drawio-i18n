@@ -1370,3 +1370,4 @@ repulsivePower=Frastøtende kraft
 resizeNodes=Endre størrelse på noder
 useSelectionAsRoot=Bruk valg som rot
 useSelectionAsRoots=Bruk valg som røtter
+openLucidSite=Åpne Lucidchart-nettstedet i en annen fane og logg inn på kontoen din, gå deretter tilbake til denne fanen og klikk på knappen "Start import" igjen.

@@ -1370,3 +1370,4 @@ repulsivePower=Gaya tolak
 resizeNodes=Ubah ukuran simpul
 useSelectionAsRoot=Gunakan pilihan sebagai akar
 useSelectionAsRoots=Gunakan pilihan sebagai akar-akar
+openLucidSite=Buka situs Lucidchart di tab lain dan masuk ke akun Anda, lalu kembali ke tab ini dan klik tombol "Mulai Impor" lagi.

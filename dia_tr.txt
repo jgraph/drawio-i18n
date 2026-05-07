@@ -1370,3 +1370,4 @@ repulsivePower=İtici kuvvet
 resizeNodes=Düğümleri yeniden boyutlandır
 useSelectionAsRoot=Seçimi kök olarak kullan
 useSelectionAsRoots=Seçimi kökler olarak kullan
+openLucidSite=Lucidchart sitesini başka bir sekmede açın ve hesabınıza giriş yapın, ardından bu sekmeye geri dönün ve "İçe Aktarmayı Başlat" düğmesine tekrar tıklayın.

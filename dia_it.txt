@@ -1370,3 +1370,4 @@ repulsivePower=Forza repulsiva
 resizeNodes=Ridimensiona nodi
 useSelectionAsRoot=Usa selezione come radice
 useSelectionAsRoots=Usa selezione come radici
+openLucidSite=Apri il sito di Lucidchart in un'altra scheda e accedi al tuo account, poi torna a questa scheda e fai nuovamente clic sul pulsante "Avvia importazione".

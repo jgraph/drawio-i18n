@@ -1370,3 +1370,4 @@ repulsivePower=排斥力
 resizeNodes=調整節點大小
 useSelectionAsRoot=將選取作為根
 useSelectionAsRoots=將選取作為根
+openLucidSite=在另一個分頁中開啟 Lucidchart 網站並登入您的帳戶，然後返回此分頁並再次點擊「開始匯入」按鈕。

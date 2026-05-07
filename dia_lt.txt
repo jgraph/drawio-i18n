@@ -1370,3 +1370,4 @@ repulsivePower=Atstumianti jėga
 resizeNodes=Keisti mazgų dydį
 useSelectionAsRoot=Naudoti pasirinkimą kaip šaknį
 useSelectionAsRoots=Naudoti pasirinkimą kaip šaknis
+openLucidSite=Kitame skirtuke atidarykite Lucidchart svetainę ir prisijunkite prie savo paskyros, tada grįžkite į šį skirtuką ir dar kartą spustelėkite mygtuką "Start Import".

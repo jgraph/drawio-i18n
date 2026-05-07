@@ -1370,3 +1370,4 @@ repulsivePower=Taszítóerő
 resizeNodes=Csomópontok átméretezése
 useSelectionAsRoot=Kijelölés gyökérként
 useSelectionAsRoots=Kijelölés gyökerekként
+openLucidSite=Nyissa meg a Lucidchart webhelyet egy másik lapon, és jelentkezzen be fiókjába, majd térjen vissza erre a lapra, és kattintson ismét az „Importálás indítása" gombra.

@@ -1370,3 +1370,4 @@ repulsivePower=Nguvu ya kukataa
 resizeNodes=Badilisha ukubwa wa nodi
 useSelectionAsRoot=Tumia uteuzi kama mzizi
 useSelectionAsRoots=Tumia uteuzi kama mizizi
+openLucidSite=Fungua tovuti ya Lucidchart katika kichupo kingine na ingia kwenye akaunti yako, kisha rudi kwenye kichupo hiki na ubonyeze tena kitufe cha "Anza Kuleta".

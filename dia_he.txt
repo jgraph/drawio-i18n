@@ -1370,3 +1370,4 @@ repulsivePower=‫כוח דחייה‬
 resizeNodes=‫שינוי גודל צמתים‬
 useSelectionAsRoot=‫השתמש בבחירה כשורש‬
 useSelectionAsRoots=‫השתמש בבחירה כשורשים‬
+openLucidSite=פתח את אתר Lucidchart בכרטיסייה אחרת והתחבר לחשבונך, ולאחר מכן חזור לכרטיסייה זו ולחץ שוב על הכפתור "Start Import".

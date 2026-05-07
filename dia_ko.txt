@@ -1370,3 +1370,4 @@ repulsivePower=척력
 resizeNodes=노드 크기 조정
 useSelectionAsRoot=선택을 루트로 사용
 useSelectionAsRoots=선택을 루트로 사용
+openLucidSite=다른 탭에서 Lucidchart 사이트를 열고 계정에 로그인한 후, 이 탭으로 돌아와 "불러오기 시작" 버튼을 다시 클릭하세요.

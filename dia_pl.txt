@@ -1370,3 +1370,4 @@ repulsivePower=Siła odpychania
 resizeNodes=Zmień rozmiar węzłów
 useSelectionAsRoot=Użyj zaznaczenia jako korzenia
 useSelectionAsRoots=Użyj zaznaczenia jako korzeni
+openLucidSite=Otwórz stronę Lucidchart w innej karcie i zaloguj się na swoje konto, a następnie wróć do tej karty i kliknij ponownie przycisk „Rozpocznij import".

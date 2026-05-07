@@ -1370,3 +1370,4 @@ repulsivePower=Tõukejõud
 resizeNodes=Muuda tippude suurust
 useSelectionAsRoot=Kasuta valikut juurena
 useSelectionAsRoots=Kasuta valikut juurtena
+openLucidSite=Avage Lucidchart'i sait teises vahekaardis ja logige oma kontole sisse, seejärel tulge selle vahekaardi juurde tagasi ja klõpsake uuesti nuppu „Alusta importi".

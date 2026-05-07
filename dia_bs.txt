@@ -1370,3 +1370,4 @@ repulsivePower=Odbojna sila
 resizeNodes=Promijeni veličinu čvorova
 useSelectionAsRoot=Koristi izbor kao korijen
 useSelectionAsRoots=Koristi izbor kao korijene
+openLucidSite=Otvorite Lucidchart stranicu u drugoj kartici i prijavite se na svoj račun, zatim se vratite na ovu karticu i ponovo kliknite na gumb „Započni uvoz".

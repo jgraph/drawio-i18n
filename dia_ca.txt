@@ -1370,3 +1370,4 @@ repulsivePower=Força repulsiva
 resizeNodes=Redimensiona nodes
 useSelectionAsRoot=Usa la selecció com a arrel
 useSelectionAsRoots=Usa la selecció com a arrels
+openLucidSite=Obriu el lloc web de Lucidchart en una altra pestanya i inicieu sessió al vostre compte, després torneu a aquesta pestanya i feu clic de nou al botó "Inicia la importació".

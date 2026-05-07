@@ -1370,3 +1370,4 @@ repulsivePower=Odpudivá sila
 resizeNodes=Zmeniť veľkosť uzlov
 useSelectionAsRoot=Použiť výber ako koreň
 useSelectionAsRoots=Použiť výber ako korene
+openLucidSite=Otvorte stránku Lucidchart v inej karte a prihláste sa do svojho účtu, potom sa vráťte na túto kartu a znovu kliknite na tlačidlo „Spustiť import".

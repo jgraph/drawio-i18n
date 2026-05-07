@@ -1370,3 +1370,4 @@ repulsivePower=Forpuŝa povo
 resizeNodes=Aligrandigi nodojn
 useSelectionAsRoot=Uzi elekton kiel radikon
 useSelectionAsRoots=Uzi elekton kiel radikojn
+openLucidSite=Malfermu la Lucidchart-retejon en alia langeto kaj ensalutu al via konto, poste revenu al ĉi tiu langeto kaj alklaku denove la butonon "Komenci importon".

@@ -1370,3 +1370,4 @@ repulsivePower=Abstoßungskraft
 resizeNodes=Knotengröße ändern
 useSelectionAsRoot=Auswahl als Wurzel verwenden
 useSelectionAsRoots=Auswahl als Wurzeln verwenden
+openLucidSite=Öffnen Sie die Lucidchart-Website in einem anderen Tab und melden Sie sich in Ihrem Konto an, kommen Sie dann zu diesem Tab zurück und klicken Sie erneut auf die Schaltfläche „Import starten".

@@ -1370,3 +1370,4 @@ repulsivePower=Atgrūdošais spēks
 resizeNodes=Mainīt mezglu izmēru
 useSelectionAsRoot=Izmantot atlasi kā sakni
 useSelectionAsRoots=Izmantot atlasi kā saknes
+openLucidSite=Atveriet Lucidchart vietni citā cilnē un piesakieties savā kontā, pēc tam atgriezieties šajā cilnē un vēlreiz noklikšķiniet uz pogas „Sākt importēšanu".

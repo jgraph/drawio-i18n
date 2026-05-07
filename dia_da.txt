@@ -1370,3 +1370,4 @@ repulsivePower=Frastødende kraft
 resizeNodes=Ændr størrelse på knuder
 useSelectionAsRoot=Brug valg som rod
 useSelectionAsRoots=Brug valg som rødder
+openLucidSite=Åbn Lucidchart-webstedet i en anden fane og log ind på din konto, vend derefter tilbage til denne fane og klik på knappen "Start import" igen.

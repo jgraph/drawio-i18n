@@ -1370,3 +1370,4 @@ repulsivePower=‫قوة التنافر‬
 resizeNodes=‫تغيير حجم العقد‬
 useSelectionAsRoot=‫استخدام التحديد كجذر‬
 useSelectionAsRoots=‫استخدام التحديد كجذور‬
+openLucidSite=افتح موقع Lucidchart في علامة تبويب أخرى وقم بتسجيل الدخول إلى حسابك، ثم عد إلى هذه العلامة وانقر على زر "بدء الاستيراد" مرة أخرى.
