@@ -1371,3 +1371,4 @@ resizeNodes=Ændr størrelse på knuder
 useSelectionAsRoot=Brug valg som rod
 useSelectionAsRoots=Brug valg som rødder
 openLucidSite=Åbn Lucidchart-webstedet i en anden fane og log ind på din konto, vend derefter tilbage til denne fane og klik på knappen "Start import" igen.
+previewSaveNoPermission=Du har ikke tilladelse til at gemme forhåndsvisningsbilledet. Kildesiden er muligvis begrænset, eller du har muligvis ikke redigeringstilladelse på siden. Dette påvirker kun eksporten af denne side til PDF/Word.

@@ -1371,3 +1371,4 @@ resizeNodes=Baguhin ang laki ng mga node
 useSelectionAsRoot=Gamitin ang seleksyon bilang ugat
 useSelectionAsRoots=Gamitin ang seleksyon bilang mga ugat
 openLucidSite=Buksan ang Lucidchart na site sa isa pang tab at mag-login sa iyong account, pagkatapos ay bumalik sa tab na ito at i-click muli ang pindutang "Simulan ang Import".
+previewSaveNoPermission=Wala kang pahintulot na i-save ang preview image. Maaaring pinaghigpitan ang pinagmulang pahina o maaaring wala kang pahintulot na mag-edit sa pahina. Nakakaapekto lamang ito sa pag-export ng pahinang ito sa PDF/Word.

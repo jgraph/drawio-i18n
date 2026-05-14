@@ -1371,3 +1371,4 @@ resizeNodes=Keisti mazgų dydį
 useSelectionAsRoot=Naudoti pasirinkimą kaip šaknį
 useSelectionAsRoots=Naudoti pasirinkimą kaip šaknis
 openLucidSite=Kitame skirtuke atidarykite Lucidchart svetainę ir prisijunkite prie savo paskyros, tada grįžkite į šį skirtuką ir dar kartą spustelėkite mygtuką "Start Import".
+previewSaveNoPermission=Neturite leidimo išsaugoti peržiūros vaizdą. Šaltinio puslapis gali būti apribotas arba jūs galite neturėti redagavimo leidimo puslapyje. Tai turi įtakos tik šio puslapio eksportavimui į PDF/Word.

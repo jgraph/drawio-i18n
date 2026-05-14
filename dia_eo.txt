@@ -1371,3 +1371,4 @@ resizeNodes=Aligrandigi nodojn
 useSelectionAsRoot=Uzi elekton kiel radikon
 useSelectionAsRoots=Uzi elekton kiel radikojn
 openLucidSite=Malfermu la Lucidchart-retejon en alia langeto kaj ensalutu al via konto, poste revenu al ĉi tiu langeto kaj alklaku denove la butonon "Komenci importon".
+previewSaveNoPermission=Vi ne havas permeson konservi la antaŭrigardan bildon. La fonta paĝo eble estas limigita aŭ vi eble ne havas redaktan permeson sur la paĝo. Ĉi tio nur efikas la eksporton de ĉi tiu paĝo al PDF/Word.

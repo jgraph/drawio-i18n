@@ -1371,3 +1371,4 @@ resizeNodes=Csomópontok átméretezése
 useSelectionAsRoot=Kijelölés gyökérként
 useSelectionAsRoots=Kijelölés gyökerekként
 openLucidSite=Nyissa meg a Lucidchart webhelyet egy másik lapon, és jelentkezzen be fiókjába, majd térjen vissza erre a lapra, és kattintson ismét az „Importálás indítása" gombra.
+previewSaveNoPermission=Nincs jogosultsága az előnézeti kép mentésére. A forrásoldal korlátozott lehet, vagy nem rendelkezhet szerkesztési jogosultsággal az oldalon. Ez csak ennek az oldalnak a PDF/Word formátumba történő exportálását érinti.

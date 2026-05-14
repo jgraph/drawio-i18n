@@ -1371,3 +1371,4 @@ resizeNodes=Resize Nodes
 useSelectionAsRoot=Use Selection as Root
 useSelectionAsRoots=Use Selection as Roots
 openLucidSite=ಮತ್ತೊಂದು ಟ್ಯಾಬ್‌ನಲ್ಲಿ Lucidchart ಸೈಟ್ ತೆರೆಯಿರಿ ಮತ್ತು ನಿಮ್ಮ ಖಾತೆಗೆ ಲಾಗಿನ್ ಆಗಿ, ನಂತರ ಈ ಟ್ಯಾಬ್‌ಗೆ ಹಿಂತಿರುಗಿ ಮತ್ತು "ಆಮದು ಪ್ರಾರಂಭಿಸಿ" ಬಟನ್ ಅನ್ನು ಮತ್ತೆ ಕ್ಲಿಕ್ ಮಾಡಿ.
+previewSaveNoPermission=ಪೂರ್ವವೀಕ್ಷಣಾ ಚಿತ್ರವನ್ನು ಉಳಿಸಲು ನಿಮಗೆ ಅನುಮತಿ ಇಲ್ಲ. ಮೂಲ ಪುಟವನ್ನು ನಿರ್ಬಂಧಿಸಿರಬಹುದು ಅಥವಾ ಪುಟದಲ್ಲಿ ನಿಮಗೆ ಸಂಪಾದನೆ ಅನುಮತಿ ಇಲ್ಲದಿರಬಹುದು. ಇದು ಈ ಪುಟವನ್ನು PDF/Word ಗೆ ರಫ್ತು ಮಾಡುವುದನ್ನು ಮಾತ್ರ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ.

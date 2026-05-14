@@ -1371,3 +1371,4 @@ resizeNodes=Badilisha ukubwa wa nodi
 useSelectionAsRoot=Tumia uteuzi kama mzizi
 useSelectionAsRoots=Tumia uteuzi kama mizizi
 openLucidSite=Fungua tovuti ya Lucidchart katika kichupo kingine na ingia kwenye akaunti yako, kisha rudi kwenye kichupo hiki na ubonyeze tena kitufe cha "Anza Kuleta".
+previewSaveNoPermission=Huna ruhusa ya kuhifadhi picha ya hakikisho. Ukurasa wa chanzo unaweza kuwa umewekewa vizuizi au huenda usiwe na ruhusa ya kuhariri ukurasa. Hii inaathiri tu kuhamisha ukurasa huu kwenda PDF/Word.

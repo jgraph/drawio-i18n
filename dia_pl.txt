@@ -1371,3 +1371,4 @@ resizeNodes=Zmień rozmiar węzłów
 useSelectionAsRoot=Użyj zaznaczenia jako korzenia
 useSelectionAsRoots=Użyj zaznaczenia jako korzeni
 openLucidSite=Otwórz stronę Lucidchart w innej karcie i zaloguj się na swoje konto, a następnie wróć do tej karty i kliknij ponownie przycisk „Rozpocznij import".
+previewSaveNoPermission=Nie masz uprawnień do zapisania obrazu podglądu. Strona źródłowa może być ograniczona lub możesz nie mieć uprawnień do edycji strony. Dotyczy to tylko eksportu tej strony do PDF/Word.

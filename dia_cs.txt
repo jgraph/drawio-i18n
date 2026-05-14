@@ -1371,3 +1371,4 @@ resizeNodes=Změnit velikost uzlů
 useSelectionAsRoot=Použít výběr jako kořen
 useSelectionAsRoots=Použít výběr jako kořeny
 openLucidSite=Otevřete stránku Lucidchart v jiné kartě a přihlaste se ke svému účtu, poté se vraťte na tuto kartu a znovu klikněte na tlačítko „Spustit import".
+previewSaveNoPermission=Nemáte oprávnění uložit obrázek náhledu. Zdrojová stránka může být omezena nebo nemusíte mít oprávnění k úpravám stránky. Toto ovlivňuje pouze export této stránky do PDF/Word.

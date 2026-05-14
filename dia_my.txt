@@ -1371,3 +1371,4 @@ resizeNodes=Resize Nodes
 useSelectionAsRoot=Use Selection as Root
 useSelectionAsRoots=Use Selection as Roots
 openLucidSite=နောက်ထပ် tab တစ်ခုတွင် Lucidchart ဆိုဒ်ကိုဖွင့်ပြီး သင်၏ အကောင့်သို့ လော့ဂ်အင်ဝင်ပါ၊ ထို့နောက် ဤ tab သို့ ပြန်လာ၍ "တင်သွင်းမှုစတင်ရန်" ခလုတ်ကို ထပ်မံနှိပ်ပါ။
+previewSaveNoPermission=အစမ်းကြည့်ပုံကို သိမ်းဆည်းရန် သင့်တွင် ခွင့်ပြုချက်မရှိပါ။ ရင်းမြစ်စာမျက်နှာသည် ကန့်သတ်ထားနိုင်သည် သို့မဟုတ် စာမျက်နှာအား ပြင်ဆင်ရန် ခွင့်ပြုချက်မရှိနိုင်ပါ။ ၎င်းသည် ဤစာမျက်နှာကို PDF/Word သို့ ထုတ်ယူခြင်းအပေါ်တွင်သာ သက်ရောက်ပါသည်။

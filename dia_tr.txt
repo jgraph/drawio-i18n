@@ -1371,3 +1371,4 @@ resizeNodes=Düğümleri yeniden boyutlandır
 useSelectionAsRoot=Seçimi kök olarak kullan
 useSelectionAsRoots=Seçimi kökler olarak kullan
 openLucidSite=Lucidchart sitesini başka bir sekmede açın ve hesabınıza giriş yapın, ardından bu sekmeye geri dönün ve "İçe Aktarmayı Başlat" düğmesine tekrar tıklayın.
+previewSaveNoPermission=Önizleme görüntüsünü kaydetme izniniz yok. Kaynak sayfa kısıtlanmış olabilir veya sayfada düzenleme izniniz olmayabilir. Bu yalnızca bu sayfanın PDF/Word olarak dışa aktarılmasını etkiler.

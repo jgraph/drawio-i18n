@@ -1371,3 +1371,4 @@ resizeNodes=ノードのサイズを変更
 useSelectionAsRoot=選択をルートとして使用
 useSelectionAsRoots=選択をルートとして使用
 openLucidSite=別のタブでLucidchartサイトを開いてアカウントにログインし、このタブに戻って「インポート開始」ボタンを再度クリックしてください。
+previewSaveNoPermission=プレビュー画像を保存する権限がありません。ソースページが制限されているか、ページの編集権限がない可能性があります。これはこのページのPDF/Wordへのエクスポートのみに影響します。

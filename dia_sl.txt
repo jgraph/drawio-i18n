@@ -1371,3 +1371,4 @@ resizeNodes=Spremeni velikost vozlišč
 useSelectionAsRoot=Uporabi izbor kot koren
 useSelectionAsRoots=Uporabi izbor kot korene
 openLucidSite=Odprite spletno mesto Lucidchart v drugem zavihku in se prijavite v svoj račun, nato se vrnite na ta zavihek in znova kliknite gumb „Začni uvoz".
+previewSaveNoPermission=Nimate dovoljenja za shranjevanje slike predogleda. Izvorna stran je morda omejena ali pa nimate dovoljenja za urejanje strani. To vpliva samo na izvoz te strani v PDF/Word.

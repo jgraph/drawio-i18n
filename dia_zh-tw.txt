@@ -1371,3 +1371,4 @@ resizeNodes=調整節點大小
 useSelectionAsRoot=將選取作為根
 useSelectionAsRoots=將選取作為根
 openLucidSite=在另一個分頁中開啟 Lucidchart 網站並登入您的帳戶，然後返回此分頁並再次點擊「開始匯入」按鈕。
+previewSaveNoPermission=您沒有權限儲存預覽圖片。來源頁面可能受到限制，或您可能沒有頁面的編輯權限。這只會影響此頁面匯出為 PDF/Word。

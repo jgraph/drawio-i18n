@@ -1371,3 +1371,4 @@ resizeNodes=Redimensionar nodos
 useSelectionAsRoot=Usar selección como raíz
 useSelectionAsRoots=Usar selección como raíces
 openLucidSite=Abra el sitio de Lucidchart en otra pestaña e inicie sesión en su cuenta, luego regrese a esta pestaña y haga clic nuevamente en el botón "Comenzar importación".
+previewSaveNoPermission=No tiene permiso para guardar la imagen de vista previa. La página de origen puede estar restringida o es posible que no tenga permiso de edición en la página. Esto solo afecta a la exportación de esta página a PDF/Word.

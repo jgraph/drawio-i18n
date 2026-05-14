@@ -1371,3 +1371,4 @@ resizeNodes=Resize Nodes
 useSelectionAsRoot=Use Selection as Root
 useSelectionAsRoots=Use Selection as Roots
 openLucidSite=Lucidchart-ip internetimminni allat tabimi atugarissaaruk atorlugilu nalunaarsorpallasimavaa, tassanngaannaq tabi una nutaap atorlugit "Aatsisarineq aallartippoq" tigummissaguk.
+previewSaveNoPermission=Assit takutitsisartup toqqorniarnissaa pisinnaatitaaffigingilat. Quppernerup imminut killiliivaa imaluunniit quppernermi allanngortitsisinnaajunnaarpat. Tamanna kisiat suliffigineqartut PDF/Word-imut nuussinermut sunniuteqarpoq.

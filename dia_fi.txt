@@ -1371,3 +1371,4 @@ resizeNodes=Muuta solmujen kokoa
 useSelectionAsRoot=Käytä valintaa juurena
 useSelectionAsRoots=Käytä valintaa juurina
 openLucidSite=Avaa Lucidchart-sivusto toisessa välilehdessä ja kirjaudu sisään tilillesi, palaa sitten tähän välilehteen ja napsauta uudelleen "Aloita tuonti" -painiketta.
+previewSaveNoPermission=Sinulla ei ole lupaa tallentaa esikatselukuvaa. Lähdesivua on saatettu rajoittaa tai sinulla ei välttämättä ole muokkausoikeutta sivulla. Tämä vaikuttaa vain tämän sivun vientiin PDF/Word-muotoon.
