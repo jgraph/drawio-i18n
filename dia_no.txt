@@ -1371,6 +1371,7 @@ useSelectionAsRoot=Bruk valg som rot
 useSelectionAsRoots=Bruk valg som røtter
 openLucidSite=Åpne Lucidchart-nettstedet i en annen fane og logg inn på kontoen din, gå deretter tilbake til denne fanen og klikk på knappen "Start import" igjen.
 previewSaveNoPermission=Du har ikke tillatelse til å lagre forhåndsvisningsbildet. Kildesiden kan være begrenset, eller du har kanskje ikke redigeringstillatelse på siden. Dette påvirker bare eksporten av denne siden til PDF/Word.
+preserveOrigin=Behold opprinnelse
 edgeStyle=Kantstil
 corners=Hjørner
 keepStyle=Behold stil

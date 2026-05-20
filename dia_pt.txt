@@ -1371,6 +1371,7 @@ useSelectionAsRoot=Usar seleção como raiz
 useSelectionAsRoots=Usar seleção como raízes
 openLucidSite=Abra o site do Lucidchart noutra aba e inicie sessão na sua conta, depois volte para esta aba e clique novamente no botão "Start Import".
 previewSaveNoPermission=Não tem permissão para guardar a imagem de pré-visualização. A página de origem pode estar restrita ou pode não ter permissão de edição na página. Isto afeta apenas a exportação desta página para PDF/Word.
+preserveOrigin=Preservar origem
 edgeStyle=Estilo da aresta
 corners=Cantos
 keepStyle=Manter estilo

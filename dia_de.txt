@@ -1371,6 +1371,7 @@ useSelectionAsRoot=Auswahl als Wurzel verwenden
 useSelectionAsRoots=Auswahl als Wurzeln verwenden
 openLucidSite=Öffnen Sie die Lucidchart-Website in einem anderen Tab und melden Sie sich in Ihrem Konto an, kommen Sie dann zu diesem Tab zurück und klicken Sie erneut auf die Schaltfläche „Import starten".
 previewSaveNoPermission=Sie haben keine Berechtigung, das Vorschaubild zu speichern. Die Quellseite ist möglicherweise eingeschränkt oder Sie haben keine Bearbeitungsberechtigung für die Seite. Dies betrifft nur den Export dieser Seite nach PDF/Word.
+preserveOrigin=Ursprung beibehalten
 edgeStyle=Kantenstil
 corners=Ecken
 keepStyle=Stil beibehalten

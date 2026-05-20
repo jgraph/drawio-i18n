@@ -1371,6 +1371,7 @@ useSelectionAsRoot=Utiliser la sélection comme racine
 useSelectionAsRoots=Utiliser la sélection comme racines
 openLucidSite=Ouvrez le site Lucidchart dans un autre onglet et connectez-vous à votre compte, puis revenez à cet onglet et cliquez à nouveau sur le bouton "Démarrer l'importation".
 previewSaveNoPermission=Vous n'avez pas l'autorisation de sauvegarder l'image d'aperçu. La page source peut être restreinte ou vous pouvez ne pas avoir l'autorisation de modification sur la page. Cela n'affecte que l'exportation de cette page vers PDF/Word.
+preserveOrigin=Préserver l'origine
 edgeStyle=Style d'arête
 corners=Coins
 keepStyle=Conserver le style

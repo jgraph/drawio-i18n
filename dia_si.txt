@@ -1371,6 +1371,7 @@ useSelectionAsRoot=Use Selection as Root
 useSelectionAsRoots=Use Selection as Roots
 openLucidSite=වෙනත් ටැබ් එකක Lucidchart වෙබ් අඩවිය විවෘත කර ඔබගේ ගිණුමට ලොග් වන්න, ඉන්පසු මෙම ටැබ් එකට ආපසු පැමිණ "ආයාතය අරඹන්න" බොත්තම නැවත ක්ලික් කරන්න.
 previewSaveNoPermission=පෙරදසුන් රූපය සුරැකීමට ඔබට අවසරයක් නැත. මූලාශ්‍ර පිටුව සීමා කර ඇති විය හැකිය හෝ පිටුවේ සංස්කරණ අවසරයක් ඔබට නොතිබිය හැකිය. මෙය මෙම පිටුව PDF/Word වෙත අපනයනය කිරීමට පමණක් බලපානු ඇත.
+preserveOrigin=Preserve Origin
 edgeStyle=දාර ශෛලිය
 corners=කොන්
 keepStyle=ශෛලිය තබන්න

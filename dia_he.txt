@@ -1371,6 +1371,7 @@ useSelectionAsRoot=‫השתמש בבחירה כשורש‬
 useSelectionAsRoots=‫השתמש בבחירה כשורשים‬
 openLucidSite=פתח את אתר Lucidchart בכרטיסייה אחרת והתחבר לחשבונך, ולאחר מכן חזור לכרטיסייה זו ולחץ שוב על הכפתור "Start Import".
 previewSaveNoPermission=אין לך הרשאה לשמור את תמונת התצוגה המקדימה. ייתכן שדף המקור מוגבל או שאין לך הרשאת עריכה בדף. דבר זה משפיע רק על ייצוא דף זה ל-PDF/Word.
+preserveOrigin=‫שמירת נקודת המוצא‬
 edgeStyle=סגנון קצה
 corners=פינות
 keepStyle=שמור סגנון

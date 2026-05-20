@@ -1371,6 +1371,7 @@ useSelectionAsRoot=Koristi izbor kao koren
 useSelectionAsRoots=Koristi izbor kao korene
 openLucidSite=Отворите Lucidchart сајт у другој картици и пријавите се у свој налог, затим се вратите на ову картицу и поново кликните на дугме „Start Import".
 previewSaveNoPermission=Немате дозволу да сачувате слику прегледа. Изворна страница може бити ограничена или можда немате дозволу за уређивање странице. Ово утиче само на извоз ове странице у PDF/Word.
+preserveOrigin=Sačuvaj koordinatni početak
 edgeStyle=Стил ивице
 corners=Углови
 keepStyle=Задржи стил

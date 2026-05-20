@@ -1371,6 +1371,7 @@ useSelectionAsRoot=선택을 루트로 사용
 useSelectionAsRoots=선택을 루트로 사용
 openLucidSite=다른 탭에서 Lucidchart 사이트를 열고 계정에 로그인한 후, 이 탭으로 돌아와 "불러오기 시작" 버튼을 다시 클릭하세요.
 previewSaveNoPermission=미리보기 이미지를 저장할 권한이 없습니다. 원본 페이지가 제한되었거나 페이지에 대한 편집 권한이 없을 수 있습니다. 이는 이 페이지를 PDF/Word로 내보내는 데에만 영향을 미칩니다.
+preserveOrigin=원점 유지
 edgeStyle=가장자리 스타일
 corners=모서리
 keepStyle=스타일 유지

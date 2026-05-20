@@ -1371,6 +1371,7 @@ useSelectionAsRoot=Use Selection as Root
 useSelectionAsRoots=Use Selection as Roots
 openLucidSite=openLucidSite
 previewSaveNoPermission=previewSaveNoPermission
+preserveOrigin=Preserve Origin
 edgeStyle=edgeStyle
 corners=corners
 keepStyle=keepStyle

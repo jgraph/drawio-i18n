@@ -1373,5 +1373,9 @@ repulsivePower=Repulsive Power
 resizeNodes=Resize Nodes
 useSelectionAsRoot=Use Selection as Root
 useSelectionAsRoots=Use Selection as Roots
+<<<<<<< HEAD
 openLucidSite=Open Lucidchart Site in another tab and login to your account, then come back to this tab and click the "Start Import" button again.
 previewSaveNoPermission=You do not have permission to save the preview image. The source page may be restricted or you may not have edit permission on the page. This only affects this page export to PDF/Word.
+=======
+preserveOrigin=Preserve Origin
+>>>>>>> 3d698ed (Add preserveOrigin resource key for ELK layout dialog)

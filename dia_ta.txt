@@ -1371,6 +1371,7 @@ useSelectionAsRoot=Use Selection as Root
 useSelectionAsRoots=Use Selection as Roots
 openLucidSite=மற்றொரு தாவலில் Lucidchart தளத்தைத் திறந்து உங்கள் கணக்கில் உள்நுழைந்து, பின்னர் இந்த தாவலுக்குத் திரும்பி "இறக்குமதியைத் தொடங்கு" பொத்தானை மீண்டும் கிளிக் செய்யவும்.
 previewSaveNoPermission=முன்னோட்ட படத்தைச் சேமிக்க உங்களுக்கு அனுமதி இல்லை. மூலப் பக்கம் கட்டுப்படுத்தப்பட்டிருக்கலாம் அல்லது பக்கத்தில் உங்களுக்கு திருத்த அனுமதி இல்லாமல் இருக்கலாம். இது இந்த பக்கத்தை PDF/Word க்கு ஏற்றுமதி செய்வதை மட்டுமே பாதிக்கிறது.
+preserveOrigin=Preserve Origin
 edgeStyle=விளிம்பு பாணி
 corners=மூலைகள்
 keepStyle=பாணியைத் தக்கவை

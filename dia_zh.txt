@@ -1371,6 +1371,7 @@ useSelectionAsRoot=将选定作为根
 useSelectionAsRoots=将选定作为根
 openLucidSite=在另一个标签页中打开 Lucidchart 网站并登录您的账户，然后返回此标签页并再次点击「开始导入」按钮。
 previewSaveNoPermission=您没有权限保存预览图片。源页面可能受到限制，或您可能没有页面的编辑权限。这只会影响此页面导出为 PDF/Word。
+preserveOrigin=保留原点
 edgeStyle=边样式
 corners=圆角
 keepStyle=保留样式
