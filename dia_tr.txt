@@ -432,6 +432,7 @@ images=Resimler
 imagePreviewError=Bu resim önizleme için yüklenemiyor. Lütfen URL'yi kontrol ediniz.
 imageTooBig=Resim çok büyük
 imgur=Imgur
+immediate=Anında
 import=İçe aktar
 importFrom=Şundan içe aktar
 includeCopyOfMyDiagram=Diyagramımın bir kopyasını da içer

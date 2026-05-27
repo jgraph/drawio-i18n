@@ -432,6 +432,7 @@ images=Képek
 imagePreviewError=A kép nem tölthető be az előnézethez. Kérjük, ellenőrizze az URL-t.
 imageTooBig=A kép túl nagy
 imgur=Imgur
+immediate=Azonnali
 import=Importálás
 importFrom=Importálás innen:
 includeCopyOfMyDiagram=Diagram másolatának csatolása

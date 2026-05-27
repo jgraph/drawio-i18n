@@ -432,6 +432,7 @@ images=Assit
 imagePreviewError=Assit una takutitsiviginngisaannarpoq. URL misissoruk.
 imageTooBig=Assit angissusilik
 imgur=Imgur
+immediate=Erniinnaq
 import=Importunerit
 importFrom=Importunerit uunga
 includeCopyOfMyDiagram=Titarnissami kopi ilanngullugu

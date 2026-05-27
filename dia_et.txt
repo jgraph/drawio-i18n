@@ -432,6 +432,7 @@ images=Kujutised
 imagePreviewError=Seda kujutist ei saanud eelvaateks laadida. Palun kontrolli URLi.
 imageTooBig=Kujutis on liiga suur
 imgur=Imgur
+immediate=Kohe
 import=Impordi
 importFrom=Impordi asukohast
 includeCopyOfMyDiagram=Lisa koopia minu diagrammist

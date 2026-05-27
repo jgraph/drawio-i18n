@@ -427,6 +427,7 @@ images=‫תמונות‬
 imagePreviewError=‫התמונה לא נטענה לתצוגה מקדימה. אנא בדוק את כתובת ה URL.‬
 imageTooBig=‫התמונה גדולה מידי‬
 imgur=Imgur
+immediate=מיידי
 import=‫ייבא‬
 importFrom=‫ייבא מתוך‬
 includeCopyOfMyDiagram=‫כלול עותק של הדיאגרמה שלי‬

@@ -432,6 +432,7 @@ images=Kuvat
 imagePreviewError=Tämän kuvan esikatselua ei voitu ladata. Tarkista URL.
 imageTooBig=Liian suuri kuva
 imgur=Imgur
+immediate=Välitön
 import=Tuo
 importFrom=Tuo lähteestä
 includeCopyOfMyDiagram=Liitä kopio kaaviostani

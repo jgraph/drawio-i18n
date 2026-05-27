@@ -432,6 +432,7 @@ images=‫تصاویر‬
 imagePreviewError=‫این تصویر برای پیش‌نمایش قابل بارگذاری نیست. لطفاً URL را بررسی کنید.‬
 imageTooBig=‫تصویر خیلی بزرگ است‬
 imgur=Imgur
+immediate=فوری
 import=‫وارد نمودن‬
 importFrom=‫وارد نمودن از‬
 includeCopyOfMyDiagram=‫یک کپی از نمودار من را اضافه کن‬

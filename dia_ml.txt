@@ -432,6 +432,7 @@ images=ചിത്രങ്ങൾ
 imagePreviewError=ഈ ചിത്രം പ്രിവ്യൂവിനായി ലോഡ് ചെയ്യാൻ കഴിഞ്ഞില്ല. ദയവായി URL പരിശോധിക്കുക.
 imageTooBig=ചിത്രം വളരെ വലുതാണ്
 imgur=Imgur
+immediate=ഉടനടി
 import=ഇറക്കുമതി
 importFrom=ഇതിൽ നിന്ന് ഇറക്കുമതി
 includeCopyOfMyDiagram=എന്റെ ഡയഗ്രാമിന്റെ ഒരു പകർപ്പ് ഉൾപ്പെടുത്തുക

@@ -432,6 +432,7 @@ images=प्रतिमा
 imagePreviewError=ही प्रतिमा पूर्वावलोकनासाठी लोड करता आली नाही. कृपया URL तपासा.
 imageTooBig=प्रतिमा खूप मोठी आहे
 imgur=Imgur
+immediate=त्वरित
 import=आयात करा
 importFrom=येथून आयात करा
 includeCopyOfMyDiagram=माझ्या आकृतीची प्रत समाविष्ट करा

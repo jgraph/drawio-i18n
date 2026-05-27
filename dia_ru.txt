@@ -432,6 +432,7 @@ images=Изображения
 imagePreviewError=Это изображение не удалось загрузить для предварительного просмотра. Пожалуйста, проверьте URL-адрес.
 imageTooBig=Изображение слишком большое
 imgur=Imgur
+immediate=Немедленно
 import=Импорт
 importFrom=Импортировать из
 includeCopyOfMyDiagram=Вложить копию моей диаграммы

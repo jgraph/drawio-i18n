@@ -432,6 +432,7 @@ images=Imagini
 imagePreviewError=Această imagine nu a putut fi încărcată pentru previzualizare. Te rugăm să verifici adresa URL.
 imageTooBig=Imaginea este prea mare
 imgur=Imgur
+immediate=Imediat
 import=Importă
 importFrom=Importă din
 includeCopyOfMyDiagram=Include o copie a diagramei mele

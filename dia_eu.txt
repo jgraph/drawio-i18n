@@ -432,6 +432,7 @@ images=Irudiak
 imagePreviewError=Irudi hau ezin izan da bistaratzeko kargatu. Egiaztatu URLa.
 imageTooBig=Irudia handiegia da
 imgur=Imgur
+immediate=Berehala
 import=Inportatu
 importFrom=Inportatu hemendik
 includeCopyOfMyDiagram=Diagramaren kopia bat barne

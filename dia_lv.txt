@@ -432,6 +432,7 @@ images=Attēli
 imagePreviewError=Šo attēlu nevarēja ielādēt priekšskatīšanai. Lūdzu, pārbaudiet URL.
 imageTooBig=Attēls ir pārāk liels
 imgur=Imgur
+immediate=Tūlīt
 import=Importēt
 importFrom=Importēt no
 includeCopyOfMyDiagram=Iekļaujiet manas diagrammas kopiju

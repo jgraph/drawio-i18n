@@ -431,6 +431,7 @@ images=images
 imagePreviewError=imagePreviewError
 imageTooBig=imageTooBig
 imgur=imgur
+immediate=Immediate
 import=import
 importFrom=importFrom
 includeCopyOfMyDiagram=includeCopyOfMyDiagram

@@ -432,6 +432,7 @@ images=Paveikslėliai
 imagePreviewError=Nepavyko įkelti šio vaizdo peržiūrai. Patikrinkite nuorodą.
 imageTooBig=Paveikslėlis per didelis
 imgur=Imgur
+immediate=Iš karto
 import=Importuoti
 importFrom=Importuoti iš
 includeCopyOfMyDiagram=Įtraukti mano diagramos kopiją

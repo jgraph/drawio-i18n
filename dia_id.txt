@@ -432,6 +432,7 @@ images=Gambar
 imagePreviewError=Gambar ini tidak dapat dimuat untuk pratinjau. Harap periksa URL.
 imageTooBig=Gambar terlalu besar
 imgur=Imgur
+immediate=Segera
 import=Impor
 importFrom=Impor dari
 includeCopyOfMyDiagram=Cantumkan salinan diagram saya

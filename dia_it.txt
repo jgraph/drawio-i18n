@@ -432,6 +432,7 @@ images=Immagini
 imagePreviewError=Impossibile caricare l'immagine d'anteprima. Controlla l'URL
 imageTooBig=Immagine troppo grande
 imgur=Imgur
+immediate=Immediato
 import=Importa
 importFrom=Importa da
 includeCopyOfMyDiagram=Includi una copia del mio diagramma

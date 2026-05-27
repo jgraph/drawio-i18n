@@ -432,6 +432,7 @@ images=Picha
 imagePreviewError=Picha hii haikuweza kupakiwa kwa onyesho la awali. Tafadhali angalia URL.
 imageTooBig=Picha kubwa mno
 imgur=Imgur
+immediate=Mara moja
 import=Ingiza
 importFrom=Ingiza kutoka
 includeCopyOfMyDiagram=Jumuisha nakala ya mchoro wangu

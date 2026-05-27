@@ -432,6 +432,7 @@ images=ಚಿತ್ರಗಳು
 imagePreviewError=ಈ ಚಿತ್ರವನ್ನು ಪೂರ್ವವೀಕ್ಷಣೆಗಾಗಿ ಲೋಡ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು URL ಪರಿಶೀಲಿಸಿ.
 imageTooBig=ಚಿತ್ರ ತುಂಬಾ ದೊಡ್ಡದು
 imgur=Imgur
+immediate=ತಕ್ಷಣ
 import=ಆಮದು
 importFrom=ಇಲ್ಲಿಂದ ಆಮದು
 includeCopyOfMyDiagram=ನನ್ನ ರೇಖಾಚಿತ್ರದ ಪ್ರತಿಯನ್ನು ಸೇರಿಸಿ

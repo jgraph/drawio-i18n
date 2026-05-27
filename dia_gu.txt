@@ -432,6 +432,7 @@ images=છબીઓ
 imagePreviewError=આ છબી પૂર્વાવલોકન માટે લોડ કરી શકાઈ નથી. કૃપા કરીને URL તપાસો.
 imageTooBig=છબી ખૂબ મોટી છે
 imgur=Imgur
+immediate=તાત્કાલિક
 import=આયાત કરો
 importFrom=આમાંથી આયાત કરો
 includeCopyOfMyDiagram=મારા ડાયાગ્રામની નકલ સામેલ કરો

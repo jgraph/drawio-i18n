@@ -432,6 +432,7 @@ images=Bildoj
 imagePreviewError=Ĉi tiu bildo ne povis esti ŝargita por antaŭrigardo. Bonvolu kontroli la URL-on.
 imageTooBig=Bildo tro granda
 imgur=Imgur
+immediate=Tuja
 import=Importi
 importFrom=Importi el
 includeCopyOfMyDiagram=Inkluzivi kopion de mia diagramo

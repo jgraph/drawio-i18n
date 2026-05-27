@@ -432,6 +432,7 @@ images=చిత్రాలు
 imagePreviewError=ఈ చిత్రాన్ని ప్రివ్యూ కోసం లోడ్ చేయడం సాధ్యం కాలేదు. దయచేసి URLని తనిఖీ చేయండి.
 imageTooBig=చిత్రం చాలా పెద్దది
 imgur=Imgur
+immediate=తక్షణ
 import=దిగుమతి
 importFrom=నుండి దిగుమతి
 includeCopyOfMyDiagram=నా రేఖాచిత్రం కాపీని చేర్చు

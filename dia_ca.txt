@@ -432,6 +432,7 @@ images=Imatges
 imagePreviewError=No s'ha pogut carregar la imatge per a la vista prèvia. Comprova l'URL.
 imageTooBig=La imatge és massa grossa
 imgur=Imgur
+immediate=Immediat
 import=Importa
 importFrom=Importa des de
 includeCopyOfMyDiagram=Inclou una còpia del meu diagrama

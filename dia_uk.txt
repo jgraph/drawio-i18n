@@ -432,6 +432,7 @@ images=Зображення
 imagePreviewError=Це зображення неможливо завантажити для попереднього перегляду. Будь ласка, перевірте посилання.
 imageTooBig=Зображення завелике
 imgur=Imgur
+immediate=Негайно
 import=Імпортувати
 importFrom=Імпортувати з
 includeCopyOfMyDiagram=Включити копію моєї діаграми

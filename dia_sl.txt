@@ -432,6 +432,7 @@ images=Slike
 imagePreviewError=Te slike ni bilo mogoče naložiti za predogled. Preverite URL.
 imageTooBig=Slika je prevelika
 imgur=Imgur
+immediate=Takoj
 import=Uvozi
 importFrom=Uvozi iz
 includeCopyOfMyDiagram=Vključi kopijo mojega diagrama

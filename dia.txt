@@ -461,6 +461,7 @@ images=Images
 imagePreviewError=This image couldn't be loaded for preview. Please check the URL.
 imageTooBig=Image too big
 imgur=Imgur
+immediate=Immediate
 import=Import
 importFrom=Import from
 includeCopyOfMyDiagram=Include a copy of my diagram

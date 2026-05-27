@@ -432,6 +432,7 @@ images=රූප
 imagePreviewError=මෙම රූපය පෙරදසුන සඳහා පූරණය කළ නොහැකි විය. කරුණාකර URL එක පරීක්ෂා කරන්න.
 imageTooBig=රූපය ඉතා විශාලයි
 imgur=Imgur
+immediate=වහාම
 import=ආයාත කරන්න
 importFrom=වෙතින් ආයාත කරන්න
 includeCopyOfMyDiagram=මගේ රූප සටහනේ පිටපතක් ඇතුළත් කරන්න

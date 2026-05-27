@@ -432,6 +432,7 @@ images=छवियाँ
 imagePreviewError=यह छवि पूर्वावलोकन के लिए लोड नहीं हो सकी। कृपया URL जाँचें।
 imageTooBig=छवि बहुत बड़ी है
 imgur=Imgur
+immediate=तत्काल
 import=आयात करें
 importFrom=से आयात करें
 includeCopyOfMyDiagram=मेरे आरेख की एक प्रति शामिल करें

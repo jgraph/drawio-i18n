@@ -432,6 +432,7 @@ images=Imej-imej
 imagePreviewError=Imej ini tidak dapat dimuat untuk pratonton. Sila semak URL.
 imageTooBig=Imej terlalu besar
 imgur=Imgur
+immediate=Segera
 import=Import
 importFrom=Import dari
 includeCopyOfMyDiagram=Masukkan satu salinan gambarajah saya

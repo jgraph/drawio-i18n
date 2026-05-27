@@ -432,6 +432,7 @@ images=画像
 imagePreviewError=このイメージは、プレビューのために読み込めませんでした。URL を確認してください。
 imageTooBig=画像が大きすぎます
 imgur=Imgur
+immediate=即時
 import=インポート
 importFrom=次の場所からインポート
 includeCopyOfMyDiagram=ダイアグラムのコピーを含める

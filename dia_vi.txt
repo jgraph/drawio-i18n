@@ -432,6 +432,7 @@ images=Hình ảnh
 imagePreviewError=Hình ảnh này không thể tải để xem trước. Vui lòng kiểm tra lại đường dẫn.
 imageTooBig=Hình ảnh quá lớn
 imgur=Imgur
+immediate=Ngay lập tức
 import=Nhập
 importFrom=Nhập từ
 includeCopyOfMyDiagram=Bao gồm một bản sao biểu đồ của tôi

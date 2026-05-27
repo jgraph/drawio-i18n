@@ -432,6 +432,7 @@ images=Obrázky
 imagePreviewError=Nedaří se načíst náhled tohoto obrázku. Zkontrolujte prosím URL.
 imageTooBig=Obrázek je příliš velký
 imgur=Imgur
+immediate=Okamžitě
 import=Importovat
 importFrom=Importovat z
 includeCopyOfMyDiagram=Zahrnout kopii diagramu

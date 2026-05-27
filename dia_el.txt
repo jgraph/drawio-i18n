@@ -432,6 +432,7 @@ images=Εικόνες
 imagePreviewError=Αυτή η εικόνα δεν μπόρεσε να φορτωθεί για προεπισκόπηση. Παρακαλώ ελέγξτε το URL.
 imageTooBig=Η εικόνα είναι πολύ μεγάλη
 imgur=Imgur
+immediate=Άμεσο
 import=Εισαγωγή
 importFrom=Εισαγωγή από
 includeCopyOfMyDiagram=Να περιληφθεί ένα αντίγραφο του διαγράμματός μου

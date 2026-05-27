@@ -432,6 +432,7 @@ images=ምስሎች
 imagePreviewError=ይህ ምስል ለእይታ አልተጫነም። እባክዎን የURL ይመልከቱ።
 imageTooBig=ምስል በጣም ትልቅ ነው
 imgur=Imgur
+immediate=ወዲያውኑ
 import=አስገባ
 importFrom=ከ...አስገባ
 includeCopyOfMyDiagram=የእኔን ዳያግራም ቅጂ ያካትቱ

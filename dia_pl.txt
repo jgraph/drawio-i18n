@@ -432,6 +432,7 @@ images=Obrazy
 imagePreviewError=Podgląd tego obrazu nie mógł być załadowany. Sprawdź adres URL.
 imageTooBig=Obraz zbyt duży
 imgur=Imgur
+immediate=Natychmiastowe
 import=Importuj
 importFrom=Importuj z
 includeCopyOfMyDiagram=Dołącz kopię mojego diagramu

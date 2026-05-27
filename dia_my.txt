@@ -432,6 +432,7 @@ images=ပုံများ
 imagePreviewError=ဤပုံကို အကြိုကြည့်ရှုရန် တင်၍မရပါ။ URL ကို စစ်ဆေးပါ။
 imageTooBig=ပုံ အရမ်းကြီးသည်
 imgur=Imgur
+immediate=ချက်ချင်း
 import=တင်သွင်း
 importFrom=မှ တင်သွင်း
 includeCopyOfMyDiagram=ကျွန်ုပ်၏ ပုံကြမ်း မိတ္တူတစ်ခု ထည့်သွင်း

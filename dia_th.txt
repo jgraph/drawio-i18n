@@ -432,6 +432,7 @@ images=รูปภาพ
 imagePreviewError=รูปภาพนี้ไม่สามารถโหลดเพื่อแสดงตัวอย่างได้ กรุณาตรวจสอบ URL
 imageTooBig=รูปภาพมีขนาดใหญ่เกินไป
 imgur=Imgur
+immediate=ทันที
 import=นำเข้า
 importFrom=นำเข้าจาก
 includeCopyOfMyDiagram=รวมแผนภาพฉบับคัดลอกของฉัน

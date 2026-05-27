@@ -432,6 +432,7 @@ images=Billeder
 imagePreviewError=Dette billede kunne ikke indlæses til forhåndsvisning. Tjek venligst URL'en.
 imageTooBig=Billede for stort
 imgur=Imgur
+immediate=Øjeblikkelig
 import=Importér
 importFrom=Importér fra
 includeCopyOfMyDiagram=Medtag en kopi af mit diagram

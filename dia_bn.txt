@@ -432,6 +432,7 @@ images=ছবিসমূহ
 imagePreviewError=এই ছবিটি প্রিভিউয়ের জন্য লোড করা যায়নি। অনুগ্রহ করে URL পরীক্ষা করুন।
 imageTooBig=ছবি খুব বড়
 imgur=Imgur
+immediate=তাৎক্ষণিক
 import=ইম্পোর্ট
 importFrom=থেকে ইম্পোর্ট করুন
 includeCopyOfMyDiagram=আমার ডায়াগ্রামের একটি কপি অন্তর্ভুক্ত করুন

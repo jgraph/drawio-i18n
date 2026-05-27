@@ -432,6 +432,7 @@ images=圖片
 imagePreviewError=無法載入此圖片進行預覽。請核對URL。
 imageTooBig=圖片太大
 imgur=Imgur
+immediate=立即
 import=匯入
 importFrom=從...匯入
 includeCopyOfMyDiagram=包含我的圖表的副本

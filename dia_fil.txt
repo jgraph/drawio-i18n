@@ -432,6 +432,7 @@ images=Mga imahe
 imagePreviewError=Ang imaheng ito ay hindi mai-load para sa paunang tingin. Pakisuri ang URL.
 imageTooBig=Sobrang laki ng imahe
 imgur=Imgur
+immediate=Agad
 import=I-angkat
 importFrom=I-angkat mula sa
 includeCopyOfMyDiagram=Magsama ng kopya ng aking dayagram

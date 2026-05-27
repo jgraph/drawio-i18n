@@ -427,6 +427,7 @@ images=‫صور‬
 imagePreviewError=‫لم يتم تحميل هذه الصورة للمعاينة. يرجى التحقق من الرابط.‬
 imageTooBig=‫الصورة كبيرة جدًا‬
 imgur=‫إيمجر‬
+immediate=فوري
 import=‫جلب‬
 importFrom=‫جلب من‬
 includeCopyOfMyDiagram=‫تضمين نسخة من المخطط‬

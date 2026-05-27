@@ -432,6 +432,7 @@ images=Imaxes
 imagePreviewError=Non se puido carregar a imaxe para previsualizala. Por favor comproba a URL.
 imageTooBig=A imaxe é demasiado grande
 imgur=Imgur
+immediate=Inmediato
 import=Importar
 importFrom=Importar dende
 includeCopyOfMyDiagram=Incluír unha copia do meu diagrama

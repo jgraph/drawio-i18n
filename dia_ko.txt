@@ -432,6 +432,7 @@ images=이미지
 imagePreviewError=이미지가 로딩되지 않아 미리보기가 불가능합니다. URL을 확인하세요.
 imageTooBig=이미지 크기가 너무 큽니다.
 imgur=Imgur
+immediate=즉시
 import=가져오기
 importFrom=다음에서 가져오기
 includeCopyOfMyDiagram=내 다이어그램 복사본 포함
