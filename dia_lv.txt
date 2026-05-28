@@ -264,6 +264,7 @@ imageSearch=Attēlu meklēšana
 eip=EIP
 effects=Efekti
 embed=Ievietot
+embedCellMetadata=Šūnu metadati
 embedFonts=Ievietot fontus
 embedImages=Ievietot attēlus
 mainEmbedNotice=Ielikt šo lapā

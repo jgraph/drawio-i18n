@@ -264,6 +264,7 @@ imageSearch=ค้นหารูปภาพ
 eip=EIP
 effects=เอฟเฟกต์
 embed=ฝังตัว
+embedCellMetadata=ข้อมูลเมตาของเซลล์
 embedFonts=ฝังแบบอักษร
 embedImages=ฝังรูปภาพ
 mainEmbedNotice=วางสิ่งนี้ลงในหน้ากระดาษ

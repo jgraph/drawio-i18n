@@ -264,6 +264,7 @@ imageSearch=Αναζήτηση Εικόνας
 eip=EIP
 effects=Εφέ
 embed=Ενσωμάτωση
+embedCellMetadata=Μεταδεδομένα κελιών
 embedFonts=Ενσωμάτωση Γραμματοσειρών
 embedImages=Ενσωμάτωση Εικόνων
 mainEmbedNotice=Επικολλήστε αυτό στη σελίδα

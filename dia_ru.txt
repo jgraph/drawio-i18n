@@ -264,6 +264,7 @@ imageSearch=Поиск изображений
 eip=EIP
 effects=Эффекты
 embed=Встроить
+embedCellMetadata=Метаданные ячеек
 embedFonts=Встроить шрифты
 embedImages=Встроить изображения
 mainEmbedNotice=Вставьте это на страницу

@@ -264,6 +264,7 @@ imageSearch=Képkeresés
 eip=EIP
 effects=Effektusok
 embed=Beágyaz
+embedCellMetadata=Cella metaadatok
 embedFonts=Betűkészletek beágyazása
 embedImages=Képek beágyazása
 mainEmbedNotice=Illessze be ezt az oldalba

@@ -264,6 +264,7 @@ imageSearch=Pencarian Gambar
 eip=EIP
 effects=Efek
 embed=Tanamkan
+embedCellMetadata=Metadata sel
 embedFonts=Tanamkan Fonta
 embedImages=Tanamkan Gambar
 mainEmbedNotice=Tempelkan ke halaman ini

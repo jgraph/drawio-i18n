@@ -264,6 +264,7 @@ imageSearch=Bildsökning
 eip=EIP
 effects=Effekter
 embed=Bädda in
+embedCellMetadata=Cellmetadata
 embedFonts=Bädda in typsnitt
 embedImages=Bädda in bilder
 mainEmbedNotice=Klistra in detta på sidan

@@ -264,6 +264,7 @@ imageSearch=Tafuta Picha
 eip=EIP
 effects=Athari
 embed=Pachika
+embedCellMetadata=Metadata ya seli
 embedFonts=Pachika Fonti
 embedImages=Pachika Picha
 mainEmbedNotice=Bandika hii kwenye ukurasa

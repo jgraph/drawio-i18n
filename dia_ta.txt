@@ -264,6 +264,7 @@ imageSearch=பட தேடல்
 eip=EIP
 effects=விளைவுகள்
 embed=உட்பொதி
+embedCellMetadata=செல் மெட்டாடேட்டா
 embedFonts=எழுத்துருக்களை உட்பொதி
 embedImages=படங்களை உட்பொதிக்கவும்
 mainEmbedNotice=இதை பக்கத்தில் ஒட்டு

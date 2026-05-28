@@ -264,6 +264,7 @@ imageSearch=Bildoserĉo
 eip=EIP
 effects=Efektoj
 embed=Enkorpigi
+embedCellMetadata=Ĉel-metadatumoj
 embedFonts=Enkorpigi tiparojn
 embedImages=Enkorpigi bildojn
 mainEmbedNotice=Algluu ĉi tion en la paĝon

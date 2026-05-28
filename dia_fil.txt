@@ -264,6 +264,7 @@ imageSearch=Paghanap ng Imahe
 eip=EIP
 effects=Mga epekto
 embed=Ilangkap
+embedCellMetadata=Metadata ng cell
 embedFonts=Ilangkap ang mga Font
 embedImages=Ilangkap ang mga imahe
 mainEmbedNotice=Idikit ito sa loob ng pahina

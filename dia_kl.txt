@@ -264,6 +264,7 @@ imageSearch=Assiit ujarleqqineq
 eip=EIP
 effects=Sunniutit
 embed=Ilanngullugu
+embedCellMetadata=Cellemetadata
 embedFonts=Fontit ilanngukkit
 embedImages=Assiit ilanngukkit
 mainEmbedNotice=Una qupperni ilivitiluk

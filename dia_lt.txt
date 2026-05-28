@@ -264,6 +264,7 @@ imageSearch=Paveikslėlių paieška
 eip=EIP
 effects=Efektai
 embed=Įterpti
+embedCellMetadata=Langelių metaduomenys
 embedFonts=Įterpti šriftus
 embedImages=Įterpti paveikslėlius
 mainEmbedNotice=Įklijuokite tai į puslapį

@@ -264,6 +264,7 @@ imageSearch=Recherche d'image
 eip=EIP
 effects=Effets
 embed=Intégrer
+embedCellMetadata=Métadonnées des cellules
 embedFonts=Intégrer les polices
 embedImages=Intégrer les images
 mainEmbedNotice=Coller cet élément dans la page

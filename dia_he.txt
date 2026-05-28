@@ -260,6 +260,7 @@ imageSearch=‫חיפוש תמונה‬
 eip=EIP
 effects=‫אפקטים‬
 embed=‫שבץ‬
+embedCellMetadata=נתוני-על של תאים
 embedFonts=‫הטמע גופנים‬
 embedImages=‫שבץ תמונות‬
 mainEmbedNotice=‫הדבק בתוך העמוד‬

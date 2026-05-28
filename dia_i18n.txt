@@ -263,6 +263,7 @@ imageSearch=imageSearch
 eip=eip
 effects=effects
 embed=embed
+embedCellMetadata=Cell Metadata
 embedFonts=embedFonts
 embedImages=embedImages
 mainEmbedNotice=mainEmbedNotice

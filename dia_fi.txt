@@ -264,6 +264,7 @@ imageSearch=Kuvahaku
 eip=EIP
 effects=Tehosteet
 embed=Upota
+embedCellMetadata=Solujen metatiedot
 embedFonts=Upota fontteja
 embedImages=Upota kuvia
 mainEmbedNotice=Liitä tämä sivulle

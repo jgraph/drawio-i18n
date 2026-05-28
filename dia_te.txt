@@ -264,6 +264,7 @@ imageSearch=చిత్ర శోధన
 eip=EIP
 effects=ప్రభావాలు
 embed=పొందుపరచు
+embedCellMetadata=సెల్ మెటాడేటా
 embedFonts=ఫాంట్‌లను పొందుపరచు
 embedImages=చిత్రాలను పొందుపరచు
 mainEmbedNotice=పేజీలో దీన్ని అతికించండి

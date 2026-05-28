@@ -264,6 +264,7 @@ imageSearch=ምስል ፈልግ
 eip=EIP
 effects=ውጤቶች
 embed=አካት
+embedCellMetadata=የሕዋስ ሜታዳታ
 embedFonts=ፎንቶችን አካት
 embedImages=ምስሎችን አካት
 mainEmbedNotice=ይህን ወደ ገፁ ይለጥፉ

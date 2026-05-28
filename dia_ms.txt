@@ -264,6 +264,7 @@ imageSearch=Carian Imej
 eip=EIP
 effects=Kesan
 embed=Terbenam
+embedCellMetadata=Metadata sel
 embedFonts=Benamkan Fon
 embedImages=Imej Benam
 mainEmbedNotice=Tampal ini pada halaman

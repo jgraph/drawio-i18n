@@ -264,6 +264,7 @@ imageSearch=Cerca d'imatges
 eip=EIP
 effects=Efectes
 embed=Incrusta
+embedCellMetadata=Metadades de cel·les
 embedFonts=Incrusta fonts
 embedImages=Incrusta imatges
 mainEmbedNotice=Enganxa-ho a la pàgina

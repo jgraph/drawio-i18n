@@ -260,6 +260,7 @@ imageSearch=‫بحث Google‬
 eip=‫إي آي بي‬
 effects=‫تأثيرات‬
 embed=‫تضمين‬
+embedCellMetadata=البيانات الوصفية للخلايا
 embedFonts=‫تضمين الخطوط‬
 embedImages=‫تضمين الصور‬
 mainEmbedNotice=‫أضف هذا داخل الصفحة‬

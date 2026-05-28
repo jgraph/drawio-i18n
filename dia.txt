@@ -300,6 +300,7 @@ imageSearch=Image Search
 eip=EIP
 effects=Effects
 embed=Embed
+embedCellMetadata=Cell Metadata
 embedFonts=Embed Fonts
 embedImages=Embed Images
 mainEmbedNotice=Paste this into the page

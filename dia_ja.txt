@@ -264,6 +264,7 @@ imageSearch=画像検索
 eip=EIP
 effects=効果
 embed=埋め込み
+embedCellMetadata=セルメタデータ
 embedFonts=フォントを埋め込む
 embedImages=画像を埋め込む
 mainEmbedNotice=ページにペーストする

@@ -264,6 +264,7 @@ imageSearch=ചിത്ര തിരയൽ
 eip=EIP
 effects=ഇഫക്റ്റുകൾ
 embed=ഉൾച്ചേർക്കുക
+embedCellMetadata=സെൽ മെറ്റാഡാറ്റ
 embedFonts=ഫോണ്ടുകൾ ഉൾച്ചേർക്കുക
 embedImages=ചിത്രങ്ങൾ ഉൾച്ചേർക്കുക
 mainEmbedNotice=ഇത് പേജിൽ പേസ്റ്റ് ചെയ്യുക

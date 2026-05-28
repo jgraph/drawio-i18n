@@ -264,6 +264,7 @@ imageSearch=Căutare imagini
 eip=EIP
 effects=Efecte
 embed=Încorporează
+embedCellMetadata=Metadate celule
 embedFonts=Fonturi încorporate
 embedImages=Încorporează imagini
 mainEmbedNotice=Lipește asta în pagină

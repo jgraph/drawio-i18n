@@ -264,6 +264,7 @@ imageSearch=圖片搜尋
 eip=EIP
 effects=效果
 embed=嵌入
+embedCellMetadata=單元中繼資料
 embedFonts=嵌入字型
 embedImages=嵌入圖片
 mainEmbedNotice=將此貼入頁面

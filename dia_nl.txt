@@ -263,6 +263,7 @@ imageSearch=Afbeelding zoeken
 eip=EIP
 effects=Effecten
 embed=Insluiten
+embedCellMetadata=Celmetadata
 embedFonts=Lettertypen insluiten
 embedImages=Afbeeldingen Insluiten
 mainEmbedNotice=Dit op de pagina plakken

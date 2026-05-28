@@ -264,6 +264,7 @@ imageSearch=Ricerca immagine
 eip=EIP
 effects=Effetti
 embed=Integra
+embedCellMetadata=Metadati celle
 embedFonts=Integra caratteri
 embedImages=Integra immagini
 mainEmbedNotice=Incolla nella pagina

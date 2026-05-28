@@ -264,6 +264,7 @@ imageSearch=이미지 검색
 eip=EIP
 effects=효과
 embed=임베드
+embedCellMetadata=셀 메타데이터
 embedFonts=글꼴 포함
 embedImages=이미지 포함
 mainEmbedNotice=아래 내용을 페이지에 붙여넣기합니다.

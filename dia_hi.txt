@@ -264,6 +264,7 @@ imageSearch=छवि खोज
 eip=EIP
 effects=प्रभाव
 embed=एम्बेड करें
+embedCellMetadata=सेल मेटाडेटा
 embedFonts=फ़ॉन्ट एम्बेड करें
 embedImages=छवियाँ एम्बेड करें
 mainEmbedNotice=इसे पेज में पेस्ट करें

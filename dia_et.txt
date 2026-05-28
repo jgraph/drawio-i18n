@@ -264,6 +264,7 @@ imageSearch=Pildiotsing
 eip=EIP
 effects=Efektid
 embed=Manusta
+embedCellMetadata=Lahtrite metaandmed
 embedFonts=Manusta fondid
 embedImages=Manusta pildid
 mainEmbedNotice=Kleebi sellele lehele

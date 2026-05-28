@@ -264,6 +264,7 @@ imageSearch=Billedsøgning
 eip=EIP
 effects=Effekter
 embed=Integrer
+embedCellMetadata=Cellemetadata
 embedFonts=Integrer skrifttyper
 embedImages=Integrer billeder
 mainEmbedNotice=Indsæt dette på siden

@@ -264,6 +264,7 @@ imageSearch=Vyhledávání obrázků
 eip=EIP
 effects=Efekty
 embed=Vložit
+embedCellMetadata=Metadata buněk
 embedFonts=Vložit písma
 embedImages=Vložit obrázky
 mainEmbedNotice=Vložte toto na stránku

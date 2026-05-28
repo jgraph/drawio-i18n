@@ -264,6 +264,7 @@ imageSearch=Tìm kiếm hình ảnh
 eip=EIP
 effects=Hiệu ứng
 embed=Nhúng
+embedCellMetadata=Siêu dữ liệu ô
 embedFonts=Nhúng phông chữ
 embedImages=Nhúng hình ảnh
 mainEmbedNotice=Dán cái này vào trong trang

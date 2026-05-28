@@ -264,6 +264,7 @@ imageSearch=Irudi bilaketa
 eip=EIP
 effects=Efektuak
 embed=Txertatu
+embedCellMetadata=Gelaxken metadatuak
 embedFonts=Txertatu letra motak
 embedImages=Txertatu irudiak
 mainEmbedNotice=Itsatsi hau orrian

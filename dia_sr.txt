@@ -264,6 +264,7 @@ imageSearch=Pretraživač slika
 eip=EIP
 effects=Efekti
 embed=Ugradi
+embedCellMetadata=Метаподаци ћелија
 embedFonts=Ugradi fontove
 embedImages=Ugradi slike
 mainEmbedNotice=Zalepi ovo na stranicu

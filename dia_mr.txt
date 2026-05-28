@@ -264,6 +264,7 @@ imageSearch=प्रतिमा शोध
 eip=EIP
 effects=प्रभाव
 embed=एम्बेड करा
+embedCellMetadata=सेल मेटाडेटा
 embedFonts=फॉन्ट एम्बेड करा
 embedImages=प्रतिमा एम्बेड करा
 mainEmbedNotice=हे पृष्ठावर पेस्ट करा

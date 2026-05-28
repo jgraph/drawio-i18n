@@ -264,6 +264,7 @@ imageSearch=‫جستجوی تصویر‬
 eip=EIP
 effects=‫جلوه‌ها‬
 embed=‫جاسازی‬
+embedCellMetadata=فراداده سلول
 embedFonts=‫جاسازی فونت‌ها‬
 embedImages=‫جاسازی تصاویر‬
 mainEmbedNotice=‫این را در صفحه جایگذاری کنید‬

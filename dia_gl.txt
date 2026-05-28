@@ -264,6 +264,7 @@ imageSearch=Procurar imaxes
 eip=EIP
 effects=Efectos
 embed=Integrar
+embedCellMetadata=Metadatos das celas
 embedFonts=Integrar tipos de letra
 embedImages=Integrar imaxes
 mainEmbedNotice=Pegar isto na páxina

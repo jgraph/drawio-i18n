@@ -264,6 +264,7 @@ imageSearch=Resim Arama
 eip=EIP
 effects=Efektler
 embed=Dahil et
+embedCellMetadata=Hücre meta verisi
 embedFonts=Fontları Dahil Et
 embedImages=Görselleri dahil et
 mainEmbedNotice=Bunu sayfaya yapıştırın
