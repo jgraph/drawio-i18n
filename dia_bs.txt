@@ -1424,3 +1424,5 @@ edgeStyle=Stil ivice
 corners=Uglovi
 keepStyle=Zadrži stil
 legacyLayouts=Naslijeđeni rasporedi
+linkIcons=Ikone linkova
+tooltipIcons=Ikone opisa

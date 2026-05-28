@@ -1424,3 +1424,5 @@ edgeStyle=Malas stils
 corners=Stūri
 keepStyle=Saglabāt stilu
 legacyLayouts=Mantotie izkārtojumi
+linkIcons=Saišu ikonas
+tooltipIcons=Rīka padomu ikonas

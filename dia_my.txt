@@ -1424,3 +1424,5 @@ edgeStyle=အစွန်းပုံစံ
 corners=ထောင့်များ
 keepStyle=ပုံစံကိုထိန်းသိမ်း
 legacyLayouts=အရင်ထားသော အပြင်အဆင်များ
+linkIcons=လင့်ခ်အိုင်ကွန်များ
+tooltipIcons=အကြံပြုချက်အိုင်ကွန်များ

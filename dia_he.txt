@@ -1424,3 +1424,5 @@ edgeStyle=סגנון קצה
 corners=פינות
 keepStyle=שמור סגנון
 legacyLayouts=פריסות ישנות
+linkIcons=‫סמלי קישור‬
+tooltipIcons=‫סמלי טיפים‬

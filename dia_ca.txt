@@ -1424,3 +1424,5 @@ edgeStyle=Estil de vora
 corners=Cantonades
 keepStyle=Mantenir estil
 legacyLayouts=Disposicions heretades
+linkIcons=Icones d'enllaç
+tooltipIcons=Icones de consells d'eines

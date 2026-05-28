@@ -1424,3 +1424,5 @@ edgeStyle=Mtindo wa ukingo
 corners=Pembe
 keepStyle=Hifadhi mtindo
 legacyLayouts=Mipangilio ya zamani
+linkIcons=Aikoni za kiungo
+tooltipIcons=Aikoni za vidokezo

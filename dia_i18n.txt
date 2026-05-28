@@ -1424,3 +1424,5 @@ edgeStyle=edgeStyle
 corners=corners
 keepStyle=keepStyle
 legacyLayouts=legacyLayouts
+linkIcons=linkIcons
+tooltipIcons=tooltipIcons

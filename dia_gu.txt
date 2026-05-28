@@ -1424,3 +1424,5 @@ edgeStyle=કિનારા શૈલી
 corners=ખૂણાઓ
 keepStyle=શૈલી રાખો
 legacyLayouts=જૂના લેઆઉટ
+linkIcons=લિંક ચિહ્નો
+tooltipIcons=ટૂલટિપ ચિહ્નો

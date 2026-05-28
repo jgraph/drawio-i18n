@@ -1424,3 +1424,5 @@ edgeStyle=Krašto stilius
 corners=Kampai
 keepStyle=Išlaikyti stilių
 legacyLayouts=Senieji išdėstymai
+linkIcons=Nuorodų piktogramos
+tooltipIcons=Užuominų piktogramos

@@ -1424,3 +1424,5 @@ edgeStyle=ಎಡ್ಜ್ ಶೈಲಿ
 corners=ಮೂಲೆಗಳು
 keepStyle=ಶೈಲಿಯನ್ನು ಇರಿಸಿ
 legacyLayouts=ಹಳೆಯ ಲೇಔಟ್‌ಗಳು
+linkIcons=ಲಿಂಕ್ ಐಕಾನ್‌ಗಳು
+tooltipIcons=ಟೂಲ್‌ಟಿಪ್ ಐಕಾನ್‌ಗಳು

@@ -1424,3 +1424,5 @@ edgeStyle=Стил на ръба
 corners=Ъгли
 keepStyle=Запазване на стила
 legacyLayouts=Стари оформления
+linkIcons=Икони на връзки
+tooltipIcons=Икони на подсказки

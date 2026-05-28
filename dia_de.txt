@@ -1424,3 +1424,5 @@ edgeStyle=Kantenstil
 corners=Ecken
 keepStyle=Stil beibehalten
 legacyLayouts=Veraltete Layouts
+linkIcons=Verknüpfungssymbole
+tooltipIcons=Tooltipsymbole

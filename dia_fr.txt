@@ -1424,3 +1424,5 @@ edgeStyle=Style d'arête
 corners=Coins
 keepStyle=Conserver le style
 legacyLayouts=Mises en page héritées
+linkIcons=Icônes de lien
+tooltipIcons=Icônes d'info-bulle

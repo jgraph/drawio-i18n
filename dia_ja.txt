@@ -1424,3 +1424,5 @@ edgeStyle=エッジスタイル
 corners=コーナー
 keepStyle=スタイルを維持
 legacyLayouts=レガシーレイアウト
+linkIcons=リンクアイコン
+tooltipIcons=ツールチップアイコン

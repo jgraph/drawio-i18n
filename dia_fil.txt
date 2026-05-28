@@ -1424,3 +1424,5 @@ edgeStyle=Estilo ng gilid
 corners=Mga sulok
 keepStyle=Panatilihin ang estilo
 legacyLayouts=Mga lumang layout
+linkIcons=Mga icon ng link
+tooltipIcons=Mga icon ng tooltip

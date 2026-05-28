@@ -1424,3 +1424,5 @@ edgeStyle=প্রান্তের শৈলী
 corners=কোণ
 keepStyle=শৈলী রাখুন
 legacyLayouts=পুরোনো লেআউট
+linkIcons=লিঙ্ক আইকন
+tooltipIcons=টুলটিপ আইকন

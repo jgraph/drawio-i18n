@@ -1424,3 +1424,5 @@ edgeStyle=Slog roba
 corners=Vogali
 keepStyle=Ohrani slog
 legacyLayouts=Stare postavitve
+linkIcons=Ikone povezav
+tooltipIcons=Ikone opisov orodij

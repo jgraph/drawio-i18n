@@ -1424,3 +1424,5 @@ edgeStyle=Gaya tepi
 corners=Sudut
 keepStyle=Pertahankan gaya
 legacyLayouts=Tata letak lama
+linkIcons=Ikon tautan
+tooltipIcons=Ikon tooltip

@@ -1424,3 +1424,5 @@ edgeStyle=അരികു ശൈലി
 corners=കോണുകൾ
 keepStyle=ശൈലി നിലനിർത്തുക
 legacyLayouts=പഴയ ലേഔട്ടുകൾ
+linkIcons=ലിങ്ക് ഐക്കണുകൾ
+tooltipIcons=ടൂൾട്ടിപ്പ് ഐക്കണുകൾ

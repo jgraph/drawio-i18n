@@ -1424,3 +1424,5 @@ edgeStyle=边样式
 corners=圆角
 keepStyle=保留样式
 legacyLayouts=旧版布局
+linkIcons=链接图标
+tooltipIcons=工具提示图标

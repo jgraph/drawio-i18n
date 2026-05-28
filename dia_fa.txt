@@ -1424,3 +1424,5 @@ edgeStyle=سبک یال
 corners=گوشه‌ها
 keepStyle=حفظ سبک
 legacyLayouts=چیدمان‌های قدیمی
+linkIcons=‫نمادهای پیوند‬
+tooltipIcons=‫نمادهای راهنمای ابزار‬

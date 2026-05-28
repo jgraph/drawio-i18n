@@ -1424,3 +1424,5 @@ edgeStyle=የጠርዝ ቅጥ
 corners=ማዕዘኖች
 keepStyle=ቅጥን አስቀምጥ
 legacyLayouts=የቆዩ አቀማመጦች
+linkIcons=የአገናኝ አዶዎች
+tooltipIcons=የመሣሪያ ጠቃሚ ምክር አዶዎች

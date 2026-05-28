@@ -1424,3 +1424,5 @@ edgeStyle=Kantstil
 corners=Hjørner
 keepStyle=Behold stil
 legacyLayouts=Ældre layouts
+linkIcons=Linkikoner
+tooltipIcons=Tooltip-ikoner

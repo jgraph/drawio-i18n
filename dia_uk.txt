@@ -1424,3 +1424,5 @@ edgeStyle=Стиль ребра
 corners=Кути
 keepStyle=Зберегти стиль
 legacyLayouts=Застарілі макети
+linkIcons=Іконки посилань
+tooltipIcons=Іконки підказок

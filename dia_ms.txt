@@ -1424,3 +1424,5 @@ edgeStyle=Gaya tepi
 corners=Sudut
 keepStyle=Kekalkan gaya
 legacyLayouts=Susun atur warisan
+linkIcons=Ikon pautan
+tooltipIcons=Ikon petua alat

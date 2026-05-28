@@ -1424,3 +1424,5 @@ edgeStyle=விளிம்பு பாணி
 corners=மூலைகள்
 keepStyle=பாணியைத் தக்கவை
 legacyLayouts=பழைய தளவமைப்புகள்
+linkIcons=இணைப்பு ஐகான்கள்
+tooltipIcons=உதவிக்குறிப்பு ஐகான்கள்

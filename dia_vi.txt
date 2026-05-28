@@ -1424,3 +1424,5 @@ edgeStyle=Kiểu cạnh
 corners=Góc
 keepStyle=Giữ kiểu
 legacyLayouts=Bố cục cũ
+linkIcons=Biểu tượng liên kết
+tooltipIcons=Biểu tượng chú giải

@@ -1424,3 +1424,5 @@ edgeStyle=Στυλ ακμής
 corners=Γωνίες
 keepStyle=Διατήρηση στυλ
 legacyLayouts=Παλαιές διατάξεις
+linkIcons=Εικονίδια συνδέσμων
+tooltipIcons=Εικονίδια βοηθημάτων

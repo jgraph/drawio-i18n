@@ -1424,3 +1424,5 @@ edgeStyle=धार शैली
 corners=कोपरे
 keepStyle=शैली ठेवा
 legacyLayouts=जुने लेआउट
+linkIcons=दुवा चिन्हे
+tooltipIcons=टूलटिप चिन्हे

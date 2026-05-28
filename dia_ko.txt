@@ -1424,3 +1424,5 @@ edgeStyle=가장자리 스타일
 corners=모서리
 keepStyle=스타일 유지
 legacyLayouts=레거시 레이아웃
+linkIcons=링크 아이콘
+tooltipIcons=툴팁 아이콘

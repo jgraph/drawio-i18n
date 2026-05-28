@@ -1424,3 +1424,5 @@ edgeStyle=Stil margine
 corners=Colțuri
 keepStyle=Păstrează stilul
 legacyLayouts=Aspecte vechi
+linkIcons=Pictograme legături
+tooltipIcons=Pictograme indicații

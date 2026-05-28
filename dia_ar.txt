@@ -1424,3 +1424,5 @@ edgeStyle=نمط الحافة
 corners=الزوايا
 keepStyle=الاحتفاظ بالنمط
 legacyLayouts=تخطيطات قديمة
+linkIcons=‫أيقونات الروابط‬
+tooltipIcons=‫أيقونات التلميحات‬

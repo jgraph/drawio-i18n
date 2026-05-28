@@ -1424,3 +1424,5 @@ edgeStyle=Styl krawędzi
 corners=Narożniki
 keepStyle=Zachowaj styl
 legacyLayouts=Stare układy
+linkIcons=Ikony hiperłączy
+tooltipIcons=Ikony dymków

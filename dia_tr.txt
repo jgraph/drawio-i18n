@@ -1424,3 +1424,5 @@ edgeStyle=Kenar stili
 corners=Köşeler
 keepStyle=Stili koru
 legacyLayouts=Eski düzenler
+linkIcons=Bağlantı simgeleri
+tooltipIcons=Araç ipucu simgeleri

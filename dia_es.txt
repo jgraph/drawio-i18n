@@ -1424,3 +1424,5 @@ edgeStyle=Estilo de borde
 corners=Esquinas
 keepStyle=Conservar estilo
 legacyLayouts=Diseños antiguos
+linkIcons=Iconos de enlace
+tooltipIcons=Iconos de descripción emergente

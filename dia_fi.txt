@@ -1424,3 +1424,5 @@ edgeStyle=Reunatyyli
 corners=Kulmat
 keepStyle=Säilytä tyyli
 legacyLayouts=Vanhat asettelut
+linkIcons=Linkkikuvakkeet
+tooltipIcons=Työkaluvihjekuvakkeet

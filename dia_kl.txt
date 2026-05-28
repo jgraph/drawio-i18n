@@ -1424,3 +1424,5 @@ edgeStyle=Sineriup ilusia
 corners=Iggiat
 keepStyle=Ilusia attatigit
 legacyLayouts=Pisut taasinersortut ilusii
+linkIcons=Link Icons
+tooltipIcons=Tooltip Icons

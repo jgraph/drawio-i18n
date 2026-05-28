@@ -1424,3 +1424,5 @@ edgeStyle=Lijnstijl
 corners=Hoeken
 keepStyle=Stijl behouden
 legacyLayouts=Oude lay-outs
+linkIcons=Linkpictogrammen
+tooltipIcons=Tooltip-pictogrammen

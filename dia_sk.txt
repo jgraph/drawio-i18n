@@ -1424,3 +1424,5 @@ edgeStyle=Štýl hrany
 corners=Rohy
 keepStyle=Zachovať štýl
 legacyLayouts=Staršie rozloženia
+linkIcons=Ikony odkazov
+tooltipIcons=Ikony tipov

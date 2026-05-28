@@ -1424,3 +1424,5 @@ edgeStyle=Stil ruba
 corners=Kutovi
 keepStyle=Zadrži stil
 legacyLayouts=Naslijeđeni rasporedi
+linkIcons=Ikone poveznica
+tooltipIcons=Ikone opisa alata

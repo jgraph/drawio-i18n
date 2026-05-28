@@ -1424,3 +1424,5 @@ edgeStyle=สไตล์เส้น
 corners=มุม
 keepStyle=คงสไตล์ไว้
 legacyLayouts=เลย์เอาต์เดิม
+linkIcons=ไอคอนลิงก์
+tooltipIcons=ไอคอนคำแนะนำเครื่องมือ

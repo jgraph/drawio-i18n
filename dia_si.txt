@@ -1424,3 +1424,5 @@ edgeStyle=දාර ශෛලිය
 corners=කොන්
 keepStyle=ශෛලිය තබන්න
 legacyLayouts=පැරණි පිරිසැලසුම්
+linkIcons=සබැඳි අයිකන
+tooltipIcons=මෙවලම් ඉඟි අයිකන

@@ -1424,3 +1424,5 @@ edgeStyle=Stile bordo
 corners=Angoli
 keepStyle=Mantieni stile
 legacyLayouts=Layout legacy
+linkIcons=Icone di collegamento
+tooltipIcons=Icone suggerimento

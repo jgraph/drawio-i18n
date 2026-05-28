@@ -1424,3 +1424,5 @@ edgeStyle=Servastiil
 corners=Nurgad
 keepStyle=Säilita stiil
 legacyLayouts=Pärandi paigutused
+linkIcons=Lingiikoonid
+tooltipIcons=Kohtspikrite ikoonid
