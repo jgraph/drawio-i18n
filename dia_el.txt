@@ -1431,3 +1431,5 @@ keepStyle=Διατήρηση στυλ
 legacyLayouts=Παλαιές διατάξεις
 linkIcons=Εικονίδια συνδέσμων
 tooltipIcons=Εικονίδια βοηθημάτων
+formatJson=JSON
+editor=Επεξεργαστής

@@ -1431,3 +1431,5 @@ keepStyle=Kekalkan gaya
 legacyLayouts=Susun atur warisan
 linkIcons=Ikon pautan
 tooltipIcons=Ikon petua alat
+formatJson=JSON
+editor=Editor

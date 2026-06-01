@@ -1431,3 +1431,5 @@ keepStyle=שמור סגנון
 legacyLayouts=פריסות ישנות
 linkIcons=‫סמלי קישור‬
 tooltipIcons=‫סמלי טיפים‬
+formatJson=JSON
+editor=עורך

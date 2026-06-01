@@ -1431,3 +1431,5 @@ keepStyle=保留样式
 legacyLayouts=旧版布局
 linkIcons=链接图标
 tooltipIcons=工具提示图标
+formatJson=JSON
+editor=编辑器

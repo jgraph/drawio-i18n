@@ -1431,3 +1431,5 @@ keepStyle=Stili koru
 legacyLayouts=Eski düzenler
 linkIcons=Bağlantı simgeleri
 tooltipIcons=Araç ipucu simgeleri
+formatJson=JSON
+editor=Düzenleyici

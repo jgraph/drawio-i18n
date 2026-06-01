@@ -1431,3 +1431,5 @@ keepStyle=Säilytä tyyli
 legacyLayouts=Vanhat asettelut
 linkIcons=Linkkikuvakkeet
 tooltipIcons=Työkaluvihjekuvakkeet
+formatJson=JSON
+editor=Muokkain

@@ -1431,3 +1431,5 @@ keepStyle=Mantendu estiloa
 legacyLayouts=Antzinako diseinuak
 linkIcons=Esteken ikonoak
 tooltipIcons=Argibideen ikonoak
+formatJson=JSON
+editor=Editorea

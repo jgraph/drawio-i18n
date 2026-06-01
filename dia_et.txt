@@ -1431,3 +1431,5 @@ keepStyle=Säilita stiil
 legacyLayouts=Pärandi paigutused
 linkIcons=Lingiikoonid
 tooltipIcons=Kohtspikrite ikoonid
+formatJson=JSON
+editor=Redaktor

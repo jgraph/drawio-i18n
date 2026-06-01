@@ -1431,3 +1431,5 @@ keepStyle=Manter estilo
 legacyLayouts=Layouts antigos
 linkIcons=Ícones de ligação
 tooltipIcons=Ícones de dica de ferramenta
+formatJson=JSON
+editor=Editor

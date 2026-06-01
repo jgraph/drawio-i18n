@@ -1431,3 +1431,5 @@ keepStyle=Zachowaj styl
 legacyLayouts=Stare układy
 linkIcons=Ikony hiperłączy
 tooltipIcons=Ikony dymków
+formatJson=JSON
+editor=Edytor

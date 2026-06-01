@@ -1431,3 +1431,5 @@ keepStyle=Behold stil
 legacyLayouts=Ældre layouts
 linkIcons=Linkikoner
 tooltipIcons=Tooltip-ikoner
+formatJson=JSON
+editor=Editor

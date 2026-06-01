@@ -1431,3 +1431,5 @@ keepStyle=Saglabāt stilu
 legacyLayouts=Mantotie izkārtojumi
 linkIcons=Saišu ikonas
 tooltipIcons=Rīka padomu ikonas
+formatJson=JSON
+editor=Redaktors

@@ -1431,3 +1431,5 @@ keepStyle=الاحتفاظ بالنمط
 legacyLayouts=تخطيطات قديمة
 linkIcons=‫أيقونات الروابط‬
 tooltipIcons=‫أيقونات التلميحات‬
+formatJson=JSON
+editor=محرر

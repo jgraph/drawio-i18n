@@ -1431,3 +1431,5 @@ keepStyle=スタイルを維持
 legacyLayouts=レガシーレイアウト
 linkIcons=リンクアイコン
 tooltipIcons=ツールチップアイコン
+formatJson=JSON
+editor=エディター

@@ -1431,3 +1431,5 @@ keepStyle=Задржи стил
 legacyLayouts=Стари распореди
 linkIcons=Ikone veza
 tooltipIcons=Ikone opisa alatki
+formatJson=JSON
+editor=Уређивач

@@ -1431,3 +1431,5 @@ keepStyle=ಶೈಲಿಯನ್ನು ಇರಿಸಿ
 legacyLayouts=ಹಳೆಯ ಲೇಔಟ್‌ಗಳು
 linkIcons=ಲಿಂಕ್ ಐಕಾನ್‌ಗಳು
 tooltipIcons=ಟೂಲ್‌ಟಿಪ್ ಐಕಾನ್‌ಗಳು
+formatJson=JSON
+editor=Editor

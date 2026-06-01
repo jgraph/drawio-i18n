@@ -1431,3 +1431,5 @@ keepStyle=Panatilihin ang estilo
 legacyLayouts=Mga lumang layout
 linkIcons=Mga icon ng link
 tooltipIcons=Mga icon ng tooltip
+formatJson=JSON
+editor=Editor

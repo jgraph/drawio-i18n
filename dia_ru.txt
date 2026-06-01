@@ -1431,3 +1431,5 @@ keepStyle=Сохранить стиль
 legacyLayouts=Устаревшие макеты
 linkIcons=Значки ссылок
 tooltipIcons=Значки подсказок
+formatJson=JSON
+editor=Редактор

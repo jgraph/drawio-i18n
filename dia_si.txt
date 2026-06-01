@@ -1431,3 +1431,5 @@ keepStyle=ශෛලිය තබන්න
 legacyLayouts=පැරණි පිරිසැලසුම්
 linkIcons=සබැඳි අයිකන
 tooltipIcons=මෙවලම් ඉඟි අයිකන
+formatJson=JSON
+editor=Editor
