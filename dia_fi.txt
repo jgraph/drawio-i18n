@@ -443,6 +443,7 @@ importFrom=Tuo lähteestä
 includeCopyOfMyDiagram=Liitä kopio kaaviostani
 increaseIndent=Lisää sisennystä
 decreaseIndent=Vähennä sisennystä
+initialView=Aloitusnäkymä
 insert=Lisää
 insertColumnBefore=Lisää sarake vasemmalle
 insertColumnAfter=Lisää sarake oikealle

@@ -443,6 +443,7 @@ importFrom=Uvozi iz
 includeCopyOfMyDiagram=Vključi kopijo mojega diagrama
 increaseIndent=Povečaj zamik
 decreaseIndent=Zmanjšaj zamik
+initialView=Začetni pogled
 insert=Vstavi
 insertColumnBefore=Vstavi stolpec levo
 insertColumnAfter=Vstavi stolpec desno

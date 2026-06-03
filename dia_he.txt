@@ -438,6 +438,7 @@ importFrom=‫ייבא מתוך‬
 includeCopyOfMyDiagram=‫כלול עותק של הדיאגרמה שלי‬
 increaseIndent=‫הגדל מרחק מהשוליים‬
 decreaseIndent=‫הקטן מרחק מהשוליים‬
+initialView=‫תצוגה התחלתית‬
 insert=‫הוספה‬
 insertColumnBefore=‫הוספת עמודה משמאל‬
 insertColumnAfter=‫הוספת עמודה מימין‬

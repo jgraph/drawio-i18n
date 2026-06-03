@@ -443,6 +443,7 @@ importFrom=Impordi asukohast
 includeCopyOfMyDiagram=Lisa koopia minu diagrammist
 increaseIndent=Tõsta taanet
 decreaseIndent=Alanda taanet
+initialView=Algvaade
 insert=Sisesta
 insertColumnBefore=Sisesta tulp vasakule
 insertColumnAfter=Sisesta tulp paremale

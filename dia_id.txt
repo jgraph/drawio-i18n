@@ -443,6 +443,7 @@ importFrom=Impor dari
 includeCopyOfMyDiagram=Cantumkan salinan diagram saya
 increaseIndent=Tambahkan Indentasi
 decreaseIndent=Kurangi Indentasi
+initialView=Tampilan awal
 insert=Sisipkan
 insertColumnBefore=Sisipkan Kolom Kiri
 insertColumnAfter=Sisipkan Kolom Kanan

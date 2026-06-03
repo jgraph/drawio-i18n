@@ -443,6 +443,7 @@ importFrom=Importēt no
 includeCopyOfMyDiagram=Iekļaujiet manas diagrammas kopiju
 increaseIndent=Palielināt atkāpi
 decreaseIndent=Samazināt atkāpi
+initialView=Sākotnējais skats
 insert=Ievietot
 insertColumnBefore=Ievietot kolonu pa kreisi
 insertColumnAfter=Ievietot kolonu pa labi

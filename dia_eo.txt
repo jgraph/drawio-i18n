@@ -443,6 +443,7 @@ importFrom=Importi el
 includeCopyOfMyDiagram=Inkluzivi kopion de mia diagramo
 increaseIndent=Pliigi Krommarĝenon
 decreaseIndent=Malpliigi Krommarĝenon
+initialView=Komenca vido
 insert=Enmeti
 insertColumnBefore=Enmeti Kolumnon Maldekstre
 insertColumnAfter=Enmeti Kolumnon Dekstre

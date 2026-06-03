@@ -443,6 +443,7 @@ importFrom=Импортиране от
 includeCopyOfMyDiagram=Включи копие от моята диаграма
 increaseIndent=Увеличаване на отстъпа
 decreaseIndent=Намаляване на отстъпа
+initialView=Първоначален изглед
 insert=Вмъкване
 insertColumnBefore=Вмъкване на колона отляво
 insertColumnAfter=Вмъкване на колона отдясно

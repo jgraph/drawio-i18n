@@ -443,6 +443,7 @@ importFrom=Importuoti iš
 includeCopyOfMyDiagram=Įtraukti mano diagramos kopiją
 increaseIndent=Padidinti įtrauką
 decreaseIndent=Sumažinti įtrauką
+initialView=Pradinis vaizdas
 insert=Įterpti
 insertColumnBefore=Įterpti stulpelį kairėje
 insertColumnAfter=Įterpti stulpelį dešinėje

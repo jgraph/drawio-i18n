@@ -443,6 +443,7 @@ importFrom=Importa da
 includeCopyOfMyDiagram=Includi una copia del mio diagramma
 increaseIndent=Aumenta rientro
 decreaseIndent=Riduci rientro
+initialView=Vista iniziale
 insert=Inserisci
 insertColumnBefore=Inserisci colonna a sinistra
 insertColumnAfter=Inserisci colonna a destra

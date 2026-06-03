@@ -443,6 +443,7 @@ importFrom=Import dari
 includeCopyOfMyDiagram=Masukkan satu salinan gambarajah saya
 increaseIndent=Tambah Inden
 decreaseIndent=Kurangkan Inden
+initialView=Paparan awal
 insert=Masukkan
 insertColumnBefore=Masukkan Lajur di Kiri
 insertColumnAfter=Masukkan Lajur di Kanan

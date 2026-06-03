@@ -443,6 +443,7 @@ importFrom=Importar desde
 includeCopyOfMyDiagram=Incluir una copia de mi diagrama
 increaseIndent=Incrementar sangría
 decreaseIndent=Reducir sangría
+initialView=Vista inicial
 insert=Insertar
 insertColumnBefore=Insertar columna a la izquierda
 insertColumnAfter=Insertar columna a la derecha

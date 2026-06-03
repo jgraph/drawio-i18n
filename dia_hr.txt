@@ -443,6 +443,7 @@ importFrom=Uvezi iz
 includeCopyOfMyDiagram=Uključi kopiju mog dijagrama
 increaseIndent=Povećaj uvlaku
 decreaseIndent=Smanji uvlaku
+initialView=Početni prikaz
 insert=Umetni
 insertColumnBefore=Umetni stupac lijevo
 insertColumnAfter=Umetni stupac desno

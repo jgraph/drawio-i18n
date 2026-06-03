@@ -443,6 +443,7 @@ importFrom=Inportatu hemendik
 includeCopyOfMyDiagram=Diagramaren kopia bat barne
 increaseIndent=Koska handitu
 decreaseIndent=Koska txikitu
+initialView=Hasierako ikuspegia
 insert=Txertatu
 insertColumnBefore=Txertatu zutabea ezkerraldean
 insertColumnAfter=Txertatu zutabea eskuinaldean
