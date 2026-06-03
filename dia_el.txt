@@ -43,6 +43,7 @@ allowRelativeUrl=Να επιτρέπονται σχετικές διευθύνσ
 alreadyConnected=Οι κόμβοι είναι ήδη συνδεδεμένοι
 appearance=Εμφάνιση
 apply=Εφαρμογή
+appUpdateAvailable=Διατίθεται νέα έκδοση. Πατήστε εδώ για ενημέρωση.
 archiMate21=ArchiMate 2.1
 arrange=Οργάνωση
 arrow=Βέλος

@@ -43,6 +43,7 @@ allowRelativeUrl=Разрешаване на относителен URL адре
 alreadyConnected=Възлите вече са свързани
 appearance=Външен вид
 apply=Прилагане
+appUpdateAvailable=Налична е нова версия. Кликнете тук, за да актуализирате.
 archiMate21=ArchiMate 2.1
 arrange=Подреждане
 arrow=Стрелка

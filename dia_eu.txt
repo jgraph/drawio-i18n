@@ -43,6 +43,7 @@ allowRelativeUrl=URL erlatiboa baimendu
 alreadyConnected=Nodoak dagoeneko lotuta daude
 appearance=Itxura
 apply=Ezarri
+appUpdateAvailable=Bertsio berri bat dago erabilgarri. Egin klik hemen eguneratzeko.
 archiMate21=ArchiMate 2.1
 arrange=Antolatu
 arrow=Gezia

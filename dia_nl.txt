@@ -41,6 +41,7 @@ allowRelativeUrl=Relatieve URL toestaan
 alreadyConnected=Knooppunten reeds verbonden
 appearance=Uiterlijk
 apply=Toepassen
+appUpdateAvailable=Er is een nieuwe versie beschikbaar. Klik hier om bij te werken.
 archiMate21=ArchiMate 2.1
 arrange=Ordenen
 arrow=Pijl

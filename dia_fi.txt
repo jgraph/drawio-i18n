@@ -43,6 +43,7 @@ allowRelativeUrl=Salli suhteellinen URL
 alreadyConnected=Kohdat on jo yhdistetty
 appearance=Ulkoasu
 apply=Käytä
+appUpdateAvailable=Uusi versio on saatavilla. Napsauta tästä päivittääksesi.
 archiMate21=ArchiMate 2.1
 arrange=Järjestä
 arrow=Nuoli

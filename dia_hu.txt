@@ -43,6 +43,7 @@ allowRelativeUrl=Relatív URL engedélyezése
 alreadyConnected=A csomópontok már össze vannak kapcsolva
 appearance=Megjelenés
 apply=Alkalmaz
+appUpdateAvailable=Új verzió érhető el. Klikk ide a frissítéshez.
 archiMate21=ArchiMate 2.1
 arrange=Elrendezés
 arrow=Nyíl

@@ -43,6 +43,7 @@ allowRelativeUrl=상대 URL 허용
 alreadyConnected=노드가 이미 연결되었습니다.
 appearance=모양
 apply=적용
+appUpdateAvailable=새 버전이 있습니다. 업데이트하려면 여기를 클릭하세요.
 archiMate21=ArchiMate 2.1
 arrange=배치
 arrow=화살표

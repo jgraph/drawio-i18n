@@ -43,6 +43,7 @@ allowRelativeUrl=Relative URL zulassen
 alreadyConnected=Knoten schon verbunden
 appearance=Darstellung
 apply=Anwenden
+appUpdateAvailable=Eine neue Version ist verfügbar. Hier klicken, um zu aktualisieren.
 archiMate21=ArchiMate 2.1
 arrange=Anordnen
 arrow=Pfeil

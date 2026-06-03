@@ -43,6 +43,7 @@ allowRelativeUrl=อนุญาต URL แบบสัมพัทธ์
 alreadyConnected=โหนดเชื่อมต่อกันอยู่แล้ว
 appearance=รูปลักษณ์
 apply=นำไปใช้งาน
+appUpdateAvailable=มีเวอร์ชันใหม่พร้อมใช้งาน คลิกที่นี่เพื่ออัพเดท
 archiMate21=ArchiMate 2.1
 arrange=จัดเรียง
 arrow=ลูกศร

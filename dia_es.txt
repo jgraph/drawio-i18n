@@ -43,6 +43,7 @@ allowRelativeUrl=Permitir URL relativa
 alreadyConnected=Los nodos ya están conectados
 appearance=Apariencia
 apply=Aplicar
+appUpdateAvailable=Hay una nueva versión disponible. Haga clic aquí para actualizar.
 archiMate21=ArchiMate 2.1
 arrange=Organizar
 arrow=Flecha

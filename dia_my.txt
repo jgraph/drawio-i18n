@@ -43,6 +43,7 @@ allowRelativeUrl=ဆက်စပ် URL ကို ခွင့်ပြုပါ
 alreadyConnected=ချိတ်ဆက်ထားပြီးသော ဆုံမှတ်များ
 appearance=အသွင်အပြင်
 apply=အသုံးပြုပါ
+appUpdateAvailable=ဗားရှင်းအသစ် ရရှိနိုင်ပါပြီ။ အပ်ဒိတ်လုပ်ရန် ဤနေရာကို နှိပ်ပါ။
 archiMate21=ArchiMate 2.1
 arrange=စီစဉ်ပါ
 arrow=မြှား

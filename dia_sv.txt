@@ -43,6 +43,7 @@ allowRelativeUrl=Tillåt relativ URL
 alreadyConnected=Noderna är redan sammankopplade
 appearance=Utseende
 apply=Använd
+appUpdateAvailable=En ny version är tillgänglig. Klicka här för att uppdatera.
 archiMate21=ArchiMate 2.1
 arrange=Ordna
 arrow=Pil

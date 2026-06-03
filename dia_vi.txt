@@ -43,6 +43,7 @@ allowRelativeUrl=Cho phép URL tương đối
 alreadyConnected=Các nút đã được kết nối
 appearance=Giao diện
 apply=Áp dụng
+appUpdateAvailable=Đã có phiên bản mới. Nhấn vào đây để cập nhật.
 archiMate21=ArchiMate 2.1
 arrange=Sắp xếp
 arrow=Mũi tên

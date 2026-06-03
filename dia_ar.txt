@@ -43,6 +43,7 @@ allowRelativeUrl=‫اسمح بالوصلات النسبية‬
 alreadyConnected=‫العقد متصلة مسبقا‬
 appearance=‫المظهر‬
 apply=‫نفذ‬
+appUpdateAvailable=‫يتوفر إصدار جديد. انقر هنا للتحديث.‬
 archiMate21=‫أركي ميت 2.1‬
 arrange=‫رتب‬
 arrow=‫سهم‬

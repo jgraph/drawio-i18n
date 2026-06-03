@@ -43,6 +43,7 @@ allowRelativeUrl=আপেক্ষিক URL অনুমতি দিন
 alreadyConnected=নোডগুলি ইতিমধ্যে সংযুক্ত
 appearance=চেহারা
 apply=প্রয়োগ করুন
+appUpdateAvailable=একটি নতুন সংস্করণ উপলব্ধ। আপডেট করতে এখানে ক্লিক করুন।
 archiMate21=ArchiMate 2.1
 arrange=সাজান
 arrow=তীর

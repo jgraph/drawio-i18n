@@ -43,6 +43,7 @@ allowRelativeUrl=Luba suhteline URL
 alreadyConnected=Punktid on juba ühendatud
 appearance=Välimus
 apply=Rakenda
+appUpdateAvailable=Saadaval on uus versioon. Kliki siia uuendamiseks.
 archiMate21=ArchiMate 2.1
 arrange=Järjesta
 arrow=Nool

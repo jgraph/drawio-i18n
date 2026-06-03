@@ -43,6 +43,7 @@ allowRelativeUrl=Dovoli relativni URL
 alreadyConnected=Vozlišča so že povezana
 appearance=Videz
 apply=Uporabi
+appUpdateAvailable=Na voljo je nova različica. Kliknite tukaj za posodobitev.
 archiMate21=ArchiMate 2.1
 arrange=Razporedi
 arrow=Puščica

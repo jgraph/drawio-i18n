@@ -43,6 +43,7 @@ allowRelativeUrl=Zezwól na względny adres URL
 alreadyConnected=Węzły zostały już połączone
 appearance=Wygląd
 apply=Zastosuj
+appUpdateAvailable=Dostępna jest nowa wersja. Kliknij tutaj, aby zaktualizować.
 archiMate21=ArchiMate 2.1
 arrange=Rozmieść
 arrow=Strzałka

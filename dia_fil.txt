@@ -43,6 +43,7 @@ allowRelativeUrl=Payagan ang relative URL
 alreadyConnected=Nakakonekta na ang mga node
 appearance=Hitsura
 apply=Gamitin
+appUpdateAvailable=May bagong bersyon na available. Pindutin dito para i-update.
 archiMate21=ArchiMate 2.1
 arrange=Isaayos
 arrow=Panuro

@@ -43,6 +43,7 @@ allowRelativeUrl=Göreli URL'lere izin ver
 alreadyConnected=Düğümler zaten bağlı
 appearance=Görünüm
 apply=Uygula
+appUpdateAvailable=Yeni bir sürüm mevcut. Güncellemek için burayı tıklayınız.
 archiMate21=ArchiMate 2.1
 arrange=Yerleştir
 arrow=Ok

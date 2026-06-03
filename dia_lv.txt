@@ -43,6 +43,7 @@ allowRelativeUrl=Atļaut relatīvo URL
 alreadyConnected=Mezgli jau ir savienoti
 appearance=Izskats
 apply=Pielietot
+appUpdateAvailable=Ir pieejama jauna versija. Noklikšķiniet šeit, lai atjauninātu.
 archiMate21=ArchiMate 2.1
 arrange=Sakārtot
 arrow=Bulta

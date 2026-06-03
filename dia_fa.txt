@@ -43,6 +43,7 @@ allowRelativeUrl=‫اجازه URL نسبی‬
 alreadyConnected=‫گره ها قبلاً وصل شده اند‬
 appearance=‫ظاهر‬
 apply=‫اعمال‬
+appUpdateAvailable=‫نسخه جدیدی در دسترس است. برای به روز رسانی اینجا کلیک کنید.‬
 archiMate21=ArchiMate 2.1
 arrange=‫مرتب‌سازی‬
 arrow=‫پیکان‬

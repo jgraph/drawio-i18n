@@ -43,6 +43,7 @@ allowRelativeUrl=Ruhusu URL ya kiasi
 alreadyConnected=Nodi tayari zimeunganishwa
 appearance=Mwonekano
 apply=Tekeleza
+appUpdateAvailable=Toleo jipya linapatikana. Bofya hapa kusasisha.
 archiMate21=ArchiMate 2.1
 arrange=Panga
 arrow=Mshale

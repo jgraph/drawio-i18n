@@ -43,6 +43,7 @@ allowRelativeUrl=Leisti santykinį URL
 alreadyConnected=Mazgai jau prijungti
 appearance=Išvaizda
 apply=Pritaikyti
+appUpdateAvailable=Yra nauja versija. Spustelėkite čia, kad atnaujintumėte.
 archiMate21=ArchiMate 2.1
 arrange=Išdėstyti
 arrow=Rodyklė

@@ -43,6 +43,7 @@ allowRelativeUrl=‫אפשר URL יחסי‬
 alreadyConnected=‫הנקודות כבר מחוברות‬
 appearance=‫מראה‬
 apply=‫החל‬
+appUpdateAvailable=‫גרסה חדשה זמינה. לחץ כאן כדי לעדכן.‬
 archiMate21=ArchiMate 2.1
 arrange=‫ארגן‬
 arrow=‫חץ‬

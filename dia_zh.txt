@@ -43,6 +43,7 @@ allowRelativeUrl=允许相对地址
 alreadyConnected=节点已连接
 appearance=外观
 apply=应用
+appUpdateAvailable=有新版本可用。点击此处更新。
 archiMate21=ArchiMate 2.1
 arrange=排列
 arrow=箭头

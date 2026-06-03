@@ -43,6 +43,7 @@ allowRelativeUrl=Permesi relativan URL-on
 alreadyConnected=Nodoj jam konektitaj
 appearance=Aspekto
 apply=Apliki
+appUpdateAvailable=Nova versio estas disponebla. Klaku ĉi tie por ĝisdatigi.
 archiMate21=ArchiMate 2.1
 arrange=Aranĝi
 arrow=Sago

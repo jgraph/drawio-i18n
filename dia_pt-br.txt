@@ -43,6 +43,7 @@ allowRelativeUrl=Permitir URL relativa
 alreadyConnected=Os nós já estão conectados
 appearance=Aparência
 apply=Aplicar
+appUpdateAvailable=Uma nova versão está disponível. Clique aqui para atualizar.
 archiMate21=ArchiMate 2.1
 arrange=Ordenar
 arrow=Seta

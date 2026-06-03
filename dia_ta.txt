@@ -43,6 +43,7 @@ allowRelativeUrl=சார்பு URL-ஐ அனுமதி
 alreadyConnected=ஏற்கனவே இணைக்கப்பட்ட முனைகள்
 appearance=தோற்றம்
 apply=செயல்படுத்து
+appUpdateAvailable=புதிய பதிப்பு கிடைக்கிறது. புதுப்பிக்க இங்கே கிளிக் செய்க.
 archiMate21=ஆர்க்கிமேட் 2.1
 arrange=ஏற்பாடுசெய்
 arrow=அம்பு

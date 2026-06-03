@@ -81,6 +81,7 @@ allowRelativeUrl=Allow relative URL
 alreadyConnected=Nodes already connected
 appearance=Appearance
 apply=Apply
+appUpdateAvailable=A new version is available. Click here to update.
 archiMate21=ArchiMate 2.1
 arrange=Arrange
 arrow=Arrow

@@ -43,6 +43,7 @@ allowRelativeUrl=አንጻራዊ ዩአርኤል ይፍቀዱ
 alreadyConnected=ኖዶች አስቀድመው ተገናኝተዋል
 appearance=መልክ
 apply=ተግብር
+appUpdateAvailable=አዲስ ስሪት ይገኛል። ለማዘመን እዚህ ጠቅ ያድርጉ።
 archiMate21=አርኪሜት 2.1
 arrange=አደራጅ
 arrow=ቀስት

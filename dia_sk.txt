@@ -43,6 +43,7 @@ allowRelativeUrl=Povoliť relatívnu URL
 alreadyConnected=Uzly sú už prepojené
 appearance=Vzhľad
 apply=Použiť
+appUpdateAvailable=Je dostupná nová verzia. Kliknutím sem aktualizujete.
 archiMate21=ArchiMate 2.1
 arrange=Usporiadať
 arrow=Šípka

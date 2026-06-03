@@ -43,6 +43,7 @@ allowRelativeUrl=సాపేక్ష URLను అనుమతించు
 alreadyConnected=నోడ్‌లు ఇప్పటికే కనెక్ట్ చేయబడ్డాయి
 appearance=రూపాంతరం
 apply=వర్తింపజేయి
+appUpdateAvailable=కొత్త వెర్షన్ అందుబాటులో ఉంది. అప్‌డేట్ చేయడానికి ఇక్కడ క్లిక్ చేయండి.
 archiMate21=ArchiMate 2.1
 arrange=అమర్చు
 arrow=బాణం

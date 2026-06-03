@@ -43,6 +43,7 @@ allowRelativeUrl=Tillat relativ URL
 alreadyConnected=Punktene er allerede sammenkoblet
 appearance=Utseende
 apply=Bruk
+appUpdateAvailable=En ny versjon er tilgjengelig. Klikk her for å oppdatere.
 archiMate21=ArchiMate 2.1
 arrange=Ordne
 arrow=Pil

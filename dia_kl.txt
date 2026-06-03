@@ -43,6 +43,7 @@ allowRelativeUrl=URL tuluttut akueriuk
 alreadyConnected=Node-it siuaneersimagaluarput
 appearance=Isikkoq
 apply=Atoruk
+appUpdateAvailable=Versioni nutaaq atorneqarsinnaavoq. Maani toorlutit nutarteruk.
 archiMate21=ArchiMate 2.1
 arrange=Ilaallugu
 arrow=Qarsoq

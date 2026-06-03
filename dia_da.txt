@@ -43,6 +43,7 @@ allowRelativeUrl=Tillad relativ URL
 alreadyConnected=Punkter er allerede tilsluttet
 appearance=Udseende
 apply=Anvend
+appUpdateAvailable=En ny version er tilgængelig. Klik her for at opdatere.
 archiMate21=ArchiMate 2.1
 arrange=Arranger
 arrow=Pil

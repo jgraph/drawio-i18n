@@ -41,6 +41,7 @@ allowRelativeUrl=allowRelativeUrl
 alreadyConnected=alreadyConnected
 appearance=appearance
 apply=apply
+appUpdateAvailable=appUpdateAvailable
 archiMate21=archiMate21
 arrange=arrange
 arrow=arrow

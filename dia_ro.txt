@@ -43,6 +43,7 @@ allowRelativeUrl=Permite URL relativ
 alreadyConnected=Nodurile sunt deja conectate
 appearance=Aspect
 apply=Aplică
+appUpdateAvailable=O versiune nouă este disponibilă. Apasă aici pentru a actualiza.
 archiMate21=ArchiMate 2.1
 arrange=Aranjează
 arrow=Săgeată
