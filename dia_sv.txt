@@ -1444,3 +1444,4 @@ linkIcons=Länkikoner
 tooltipIcons=Verktygstipsikoner
 formatJson=JSON
 editor=Redigerare
+draftLoadedWUnpublishedChanges=Diagrammet har lästs in från ett utkast med opublicerade ändringar. Det skiljer sig från den publicerade versionen.

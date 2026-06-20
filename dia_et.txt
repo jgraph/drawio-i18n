@@ -1444,3 +1444,4 @@ linkIcons=Lingiikoonid
 tooltipIcons=Kohtspikrite ikoonid
 formatJson=JSON
 editor=Redaktor
+draftLoadedWUnpublishedChanges=Diagramm laaditi mustandist, milles on avaldamata muudatusi. See erineb avaldatud versioonist.

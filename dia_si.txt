@@ -1444,3 +1444,4 @@ linkIcons=සබැඳි අයිකන
 tooltipIcons=මෙවලම් ඉඟි අයිකන
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=රූප සටහන ප්‍රකාශයට පත් නොකළ වෙනස්කම් සහිත කෙටුම්පතකින් පූරණය විය. එය ප්‍රකාශිත අනුවාදයට වඩා වෙනස් වේ.

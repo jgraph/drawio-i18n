@@ -1444,3 +1444,4 @@ linkIcons=Aikoni za kiungo
 tooltipIcons=Aikoni za vidokezo
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=Mchoro umepakiwa kutoka kwa rasimu yenye mabadiliko ambayo hayajachapishwa. Ni tofauti na toleo lililochapishwa.

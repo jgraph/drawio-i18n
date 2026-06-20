@@ -1444,3 +1444,4 @@ linkIcons=Biểu tượng liên kết
 tooltipIcons=Biểu tượng chú giải
 formatJson=JSON
 editor=Trình chỉnh sửa
+draftLoadedWUnpublishedChanges=Sơ đồ đã được tải từ bản nháp có các thay đổi chưa được phát hành. Nó khác với phiên bản đã phát hành.

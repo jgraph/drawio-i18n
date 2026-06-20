@@ -1444,3 +1444,4 @@ linkIcons=‫أيقونات الروابط‬
 tooltipIcons=‫أيقونات التلميحات‬
 formatJson=JSON
 editor=محرر
+draftLoadedWUnpublishedChanges=تم تحميل الرسم التخطيطي من مسودة تحتوي على تغييرات غير منشورة. وهو يختلف عن النسخة المنشورة.

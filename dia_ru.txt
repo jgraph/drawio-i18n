@@ -1444,3 +1444,4 @@ linkIcons=Значки ссылок
 tooltipIcons=Значки подсказок
 formatJson=JSON
 editor=Редактор
+draftLoadedWUnpublishedChanges=Диаграмма загружена из черновика с неопубликованными изменениями. Она отличается от опубликованной версии.

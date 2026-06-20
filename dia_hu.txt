@@ -1444,3 +1444,4 @@ linkIcons=Hivatkozás ikonok
 tooltipIcons=Buboréksúgó ikonok
 formatJson=JSON
 editor=Szerkesztő
+draftLoadedWUnpublishedChanges=A diagram egy nem közzétett módosításokat tartalmazó vázlatból töltődött be. Eltér a közzétett verziótól.

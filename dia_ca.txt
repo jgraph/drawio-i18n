@@ -1444,3 +1444,4 @@ linkIcons=Icones d'enllaç
 tooltipIcons=Icones de consells d'eines
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=El diagrama s'ha carregat des d'un esborrany amb canvis no publicats. És diferent de la versió publicada.

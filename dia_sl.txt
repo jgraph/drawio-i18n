@@ -1444,3 +1444,4 @@ linkIcons=Ikone povezav
 tooltipIcons=Ikone opisov orodij
 formatJson=JSON
 editor=Urejevalnik
+draftLoadedWUnpublishedChanges=Diagram je bil naložen iz osnutka z neobjavljenimi spremembami. Razlikuje se od objavljene različice.

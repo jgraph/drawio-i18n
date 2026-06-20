@@ -1444,3 +1444,4 @@ linkIcons=Ikony hiperłączy
 tooltipIcons=Ikony dymków
 formatJson=JSON
 editor=Edytor
+draftLoadedWUnpublishedChanges=Diagram został wczytany z wersji roboczej z nieopublikowanymi zmianami. Różni się od opublikowanej wersji.

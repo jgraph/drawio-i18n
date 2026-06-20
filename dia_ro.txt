@@ -1444,3 +1444,4 @@ linkIcons=Pictograme legături
 tooltipIcons=Pictograme indicații
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=Diagrama a fost încărcată dintr-o ciornă cu modificări nepublicate. Este diferită de versiunea publicată.

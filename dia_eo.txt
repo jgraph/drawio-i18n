@@ -1444,3 +1444,4 @@ linkIcons=Ligilaj piktogramoj
 tooltipIcons=Ŝpruchelpaj piktogramoj
 formatJson=JSON
 editor=Redaktilo
+draftLoadedWUnpublishedChanges=La diagramo estis ŝargita el malneto kun nepublikigitaj ŝanĝoj. Ĝi diferencas de la publikigita versio.

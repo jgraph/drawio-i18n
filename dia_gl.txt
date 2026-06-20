@@ -1444,3 +1444,4 @@ linkIcons=Iconas de ligazón
 tooltipIcons=Iconas de indicación
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=O diagrama cargouse desde un borrador con cambios non publicados. É diferente da versión publicada.

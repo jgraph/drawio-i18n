@@ -1444,3 +1444,4 @@ linkIcons=Lenkeikoner
 tooltipIcons=Verktøytipsikoner
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=Diagrammet er lastet inn fra et utkast med upubliserte endringer. Det er forskjellig fra den publiserte versjonen.

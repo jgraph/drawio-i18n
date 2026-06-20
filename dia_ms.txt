@@ -1444,3 +1444,4 @@ linkIcons=Ikon pautan
 tooltipIcons=Ikon petua alat
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=Rajah telah dimuatkan daripada draf dengan perubahan yang belum diterbitkan. Ia berbeza daripada versi yang diterbitkan.

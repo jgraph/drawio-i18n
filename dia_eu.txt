@@ -1444,3 +1444,4 @@ linkIcons=Esteken ikonoak
 tooltipIcons=Argibideen ikonoak
 formatJson=JSON
 editor=Editorea
+draftLoadedWUnpublishedChanges=Diagrama argitaratu gabeko aldaketak dituen zirriborro batetik kargatu da. Argitaratutako bertsioaren desberdina da.

@@ -1444,3 +1444,4 @@ linkIcons=Ikon tautan
 tooltipIcons=Ikon tooltip
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=Diagram telah dimuat dari draf dengan perubahan yang belum dipublikasikan. Ini berbeda dari versi yang dipublikasikan.

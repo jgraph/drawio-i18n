@@ -1444,3 +1444,4 @@ linkIcons=Link Icons
 tooltipIcons=Tooltip Icons
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=Titartagaq kladdimit saqqummersinneqanngitsunik allannguutinik usinneqarpoq. Saqqummersitamit assigiinngilaq.

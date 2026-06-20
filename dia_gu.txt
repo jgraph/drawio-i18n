@@ -1444,3 +1444,4 @@ linkIcons=લિંક ચિહ્નો
 tooltipIcons=ટૂલટિપ ચિહ્નો
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=ડાયાગ્રામ અપ્રકાશિત ફેરફારો સાથેના ડ્રાફ્ટમાંથી લોડ થયો છે. તે પ્રકાશિત આવૃત્તિથી અલગ છે.

@@ -1444,3 +1444,4 @@ linkIcons=লিঙ্ক আইকন
 tooltipIcons=টুলটিপ আইকন
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=ডায়াগ্রামটি অপ্রকাশিত পরিবর্তন সহ একটি খসড়া থেকে লোড হয়েছে। এটি প্রকাশিত সংস্করণ থেকে আলাদা।

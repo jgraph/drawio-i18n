@@ -1444,3 +1444,4 @@ linkIcons=Mga icon ng link
 tooltipIcons=Mga icon ng tooltip
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=Na-load ang diagram mula sa isang draft na may mga hindi pa nailalathalang pagbabago. Iba ito sa nailathalang bersyon.

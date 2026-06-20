@@ -1444,3 +1444,4 @@ linkIcons=Saišu ikonas
 tooltipIcons=Rīka padomu ikonas
 formatJson=JSON
 editor=Redaktors
+draftLoadedWUnpublishedChanges=Diagramma ielādēta no melnraksta ar nepublicētām izmaiņām. Tā atšķiras no publicētās versijas.

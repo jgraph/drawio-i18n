@@ -1444,3 +1444,4 @@ linkIcons=Iconos de enlace
 tooltipIcons=Iconos de descripción emergente
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=El diagrama se ha cargado desde un borrador con cambios no publicados. Es diferente de la versión publicada.

@@ -1444,3 +1444,4 @@ linkIcons=Bağlantı simgeleri
 tooltipIcons=Araç ipucu simgeleri
 formatJson=JSON
 editor=Düzenleyici
+draftLoadedWUnpublishedChanges=Diyagram, yayımlanmamış değişiklikler içeren bir taslaktan yüklendi. Yayımlanan sürümden farklıdır.

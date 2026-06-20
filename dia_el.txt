@@ -1444,3 +1444,4 @@ linkIcons=Εικονίδια συνδέσμων
 tooltipIcons=Εικονίδια βοηθημάτων
 formatJson=JSON
 editor=Επεξεργαστής
+draftLoadedWUnpublishedChanges=Το διάγραμμα φορτώθηκε από ένα πρόχειρο με μη δημοσιευμένες αλλαγές. Διαφέρει από τη δημοσιευμένη έκδοση.

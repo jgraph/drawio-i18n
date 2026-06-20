@@ -1444,3 +1444,4 @@ linkIcons=Ikone linkova
 tooltipIcons=Ikone opisa
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=Dijagram je učitan iz nacrta s neobjavljenim izmjenama. Razlikuje se od objavljene verzije.

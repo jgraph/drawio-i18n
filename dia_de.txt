@@ -1444,3 +1444,4 @@ linkIcons=Verknüpfungssymbole
 tooltipIcons=Tooltipsymbole
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=Das Diagramm wurde aus einem Entwurf mit unveröffentlichten Änderungen geladen. Es unterscheidet sich von der veröffentlichten Version.

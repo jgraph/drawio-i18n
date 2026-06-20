@@ -1444,3 +1444,4 @@ linkIcons=Icone di collegamento
 tooltipIcons=Icone suggerimento
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=Il diagramma è stato caricato da una bozza con modifiche non pubblicate. È diverso dalla versione pubblicata.

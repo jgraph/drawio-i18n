@@ -1444,3 +1444,4 @@ linkIcons=Іконки посилань
 tooltipIcons=Іконки підказок
 formatJson=JSON
 editor=Редактор
+draftLoadedWUnpublishedChanges=Діаграму завантажено з чернетки з неопублікованими змінами. Вона відрізняється від опублікованої версії.

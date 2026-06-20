@@ -1444,3 +1444,4 @@ linkIcons=Nuorodų piktogramos
 tooltipIcons=Užuominų piktogramos
 formatJson=JSON
 editor=Redaktorius
+draftLoadedWUnpublishedChanges=Diagrama įkelta iš juodraščio su nepaskelbtais pakeitimais. Ji skiriasi nuo paskelbtos versijos.

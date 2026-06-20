@@ -1444,3 +1444,4 @@ linkIcons=ಲಿಂಕ್ ಐಕಾನ್‌ಗಳು
 tooltipIcons=ಟೂಲ್‌ಟಿಪ್ ಐಕಾನ್‌ಗಳು
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=ರೇಖಾಚಿತ್ರವನ್ನು ಪ್ರಕಟಿಸದ ಬದಲಾವಣೆಗಳಿರುವ ಕರಡಿನಿಂದ ಲೋಡ್ ಮಾಡಲಾಗಿದೆ. ಇದು ಪ್ರಕಟಿಸಿದ ಆವೃತ್ತಿಗಿಂತ ಭಿನ್ನವಾಗಿದೆ.

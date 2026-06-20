@@ -1444,3 +1444,4 @@ linkIcons=Linkkikuvakkeet
 tooltipIcons=Työkaluvihjekuvakkeet
 formatJson=JSON
 editor=Muokkain
+draftLoadedWUnpublishedChanges=Kaavio ladattiin luonnoksesta, jossa on julkaisemattomia muutoksia. Se eroaa julkaistusta versiosta.

@@ -1444,3 +1444,4 @@ linkIcons=‫نمادهای پیوند‬
 tooltipIcons=‫نمادهای راهنمای ابزار‬
 formatJson=JSON
 editor=ویرایشگر
+draftLoadedWUnpublishedChanges=نمودار از یک پیش‌نویس با تغییرات منتشرنشده بارگذاری شده است. این با نسخهٔ منتشرشده متفاوت است.

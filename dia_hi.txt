@@ -1444,3 +1444,4 @@ linkIcons=लिंक आइकन
 tooltipIcons=टूलटिप आइकन
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=आरेख अप्रकाशित परिवर्तनों वाले ड्राफ़्ट से लोड हुआ है। यह प्रकाशित संस्करण से भिन्न है।

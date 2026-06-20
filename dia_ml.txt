@@ -1444,3 +1444,4 @@ linkIcons=ലിങ്ക് ഐക്കണുകൾ
 tooltipIcons=ടൂൾട്ടിപ്പ് ഐക്കണുകൾ
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=പ്രസിദ്ധീകരിക്കാത്ത മാറ്റങ്ങളുള്ള ഒരു ഡ്രാഫ്റ്റിൽ നിന്നാണ് ഡയഗ്രം ലോഡ് ചെയ്തത്. ഇത് പ്രസിദ്ധീകരിച്ച പതിപ്പിൽ നിന്ന് വ്യത്യസ്തമാണ്.

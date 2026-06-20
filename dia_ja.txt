@@ -1444,3 +1444,4 @@ linkIcons=リンクアイコン
 tooltipIcons=ツールチップアイコン
 formatJson=JSON
 editor=エディター
+draftLoadedWUnpublishedChanges=図は未公開の変更を含む下書きから読み込まれました。公開バージョンとは異なります。

@@ -1444,3 +1444,4 @@ linkIcons=Icônes de lien
 tooltipIcons=Icônes d'info-bulle
 formatJson=JSON
 editor=Éditeur
+draftLoadedWUnpublishedChanges=Le diagramme a été chargé à partir d'un brouillon comportant des modifications non publiées. Il diffère de la version publiée.

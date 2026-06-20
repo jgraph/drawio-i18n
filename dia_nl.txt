@@ -1444,3 +1444,4 @@ linkIcons=Linkpictogrammen
 tooltipIcons=Tooltip-pictogrammen
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=Het diagram is geladen vanuit een concept met niet-gepubliceerde wijzigingen. Het verschilt van de gepubliceerde versie.

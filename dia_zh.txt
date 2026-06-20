@@ -1444,3 +1444,4 @@ linkIcons=链接图标
 tooltipIcons=工具提示图标
 formatJson=JSON
 editor=编辑器
+draftLoadedWUnpublishedChanges=图表已从包含未发布更改的草稿加载。它与已发布的版本不同。

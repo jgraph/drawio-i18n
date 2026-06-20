@@ -1444,3 +1444,4 @@ linkIcons=Ikony odkazov
 tooltipIcons=Ikony tipov
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=Diagram bol načítaný z konceptu s nepublikovanými zmenami. Líši sa od publikovanej verzie.

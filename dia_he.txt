@@ -1444,3 +1444,4 @@ linkIcons=‫סמלי קישור‬
 tooltipIcons=‫סמלי טיפים‬
 formatJson=JSON
 editor=עורך
+draftLoadedWUnpublishedChanges=התרשים נטען מטיוטה עם שינויים שלא פורסמו. הוא שונה מהגרסה שפורסמה.

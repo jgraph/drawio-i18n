@@ -1444,3 +1444,4 @@ linkIcons=Икони на връзки
 tooltipIcons=Икони на подсказки
 formatJson=JSON
 editor=Редактор
+draftLoadedWUnpublishedChanges=Диаграмата е заредена от чернова с непубликувани промени. Тя се различава от публикуваната версия.

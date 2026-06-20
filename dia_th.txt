@@ -1444,3 +1444,4 @@ linkIcons=ไอคอนลิงก์
 tooltipIcons=ไอคอนคำแนะนำเครื่องมือ
 formatJson=JSON
 editor=ตัวแก้ไข
+draftLoadedWUnpublishedChanges=ไดอะแกรมถูกโหลดจากฉบับร่างที่มีการเปลี่ยนแปลงที่ยังไม่ได้เผยแพร่ ซึ่งแตกต่างจากเวอร์ชันที่เผยแพร่แล้ว

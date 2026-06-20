@@ -1444,3 +1444,4 @@ linkIcons=የአገናኝ አዶዎች
 tooltipIcons=የመሣሪያ ጠቃሚ ምክር አዶዎች
 formatJson=JSON
 editor=Editor
+draftLoadedWUnpublishedChanges=ሥዕላዊ መግለጫው ካልታተሙ ለውጦች ጋር ከረቂቅ ተጭኗል። ከታተመው ስሪት የተለየ ነው።
