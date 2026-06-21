@@ -1302,6 +1302,7 @@ confPartialPageList=Impossibile recuperare tutte le pagine a causa di un errore 
 spellCheck=Controllo ortografico
 noChange=Nessuna modifica
 lblToSvg=Converti le etichette in SVG
+autoRotateLabel=Ruota con il connettore
 txtSettings=Impostazioni del testo
 LinksLost=I collegamenti andranno persi
 arcSize=Dimensione arco

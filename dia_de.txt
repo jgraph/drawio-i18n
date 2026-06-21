@@ -1302,6 +1302,7 @@ confPartialPageList=We couldn't fetch all pages due to an error in Confluence. C
 spellCheck=Rechtschreibeprüfung
 noChange=Keine Änderung
 lblToSvg=Beschriftungen zu SVG konvertieren
+autoRotateLabel=Mit Konnektor drehen
 txtSettings=Texteinstellungen
 LinksLost=Verknüpfungen gehen verloren
 arcSize=Bogengröße

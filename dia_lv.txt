@@ -1302,6 +1302,7 @@ confPartialPageList=Mēs nevarējām ienest visas lapas Confluence kļūdas dē�
 spellCheck=Pareizrakstības pārbaudītājs
 noChange=Bez izmaiņām
 lblToSvg=Konvertēt etiķetes uz SVG
+autoRotateLabel=Pagriezt ar savienotāju
 txtSettings=Teksta iestatījumi
 LinksLost=Saites tiks zaudētas
 arcSize=Loka izmērs

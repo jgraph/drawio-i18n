@@ -1302,6 +1302,7 @@ confPartialPageList=Ni ne povis preni ĉiujn paĝojn pro eraro en Confluence. Da
 spellCheck=Literumkontrolilo
 noChange=Sen ŝanĝo
 lblToSvg=Konverti etikedojn al SVG
+autoRotateLabel=Turni kun konektilo
 txtSettings=Tekstaj agordoj
 LinksLost=Ligiloj perdiĝos
 arcSize=Arka grandeco

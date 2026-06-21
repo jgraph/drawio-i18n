@@ -1302,6 +1302,7 @@ confPartialPageList=Kami tidak dapat mengambil semua halaman kerana ralat dalam 
 spellCheck=Penyemak ejaan
 noChange=Tiada Perubahan
 lblToSvg=Tukar label kepada SVG
+autoRotateLabel=Putar dengan penyambung
 txtSettings=Tetapan Teks
 LinksLost=Pautan akan hilang
 arcSize=Saiz Lengkung

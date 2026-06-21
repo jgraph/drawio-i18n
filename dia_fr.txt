@@ -1302,6 +1302,7 @@ confPartialPageList=Nous n'avons pas pu récupérer toutes les pages en raison d
 spellCheck=Correcteur orthographique
 noChange=Pas de changement
 lblToSvg=Convertir les étiquettes en SVG
+autoRotateLabel=Pivoter avec le connecteur
 txtSettings=Paramètres de texte
 LinksLost=Les liens seront perdus
 arcSize=Taille de l'arc

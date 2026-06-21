@@ -1302,6 +1302,7 @@ confPartialPageList=Nie mogliśmy pobrać wszystkich stron z powodu błędu w Co
 spellCheck=Sprawdzanie pisowni
 noChange=Bez zmian
 lblToSvg=Konwersja etykiet do SVG
+autoRotateLabel=Obróć wraz z łącznikiem
 txtSettings=Ustawienia tekstu
 LinksLost=Linki zostaną utracone
 arcSize=Rozmiar łuku

@@ -1302,6 +1302,7 @@ confPartialPageList=Confluence에서 발생한 오류로 모든 페이지를 가
 spellCheck=맞춤법 검사
 noChange=변경사항 없음
 lblToSvg=라벨을 SVG로 변환
+autoRotateLabel=커넥터에 맞춰 회전
 txtSettings=텍스트 설정
 LinksLost=링크가 손실됩니다
 arcSize=호 크기

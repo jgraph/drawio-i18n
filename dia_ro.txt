@@ -1302,6 +1302,7 @@ confPartialPageList=Nu am putut prelua toate paginile din cauza unei erori în C
 spellCheck=Verificator ortografic
 noChange=Nicio modificare
 lblToSvg=Conversie etichete în SVG
+autoRotateLabel=Rotire cu conectorul
 txtSettings=Setări text
 LinksLost=Linkurile vor fi pierdute
 arcSize=Dimensiune arc

@@ -1302,6 +1302,7 @@ confPartialPageList=Confluence-ലെ ഒരു പിശക് കാരണം 
 spellCheck=സ്പെൽ ചെക്കർ
 noChange=മാറ്റമില്ല
 lblToSvg=ലേബലുകൾ SVG-യിലേക്ക് പരിവർത്തനം ചെയ്യുക
+autoRotateLabel=കണക്ടറിനൊപ്പം തിരിക്കുക
 txtSettings=ടെക്സ്റ്റ് ക്രമീകരണങ്ങൾ
 LinksLost=ലിങ്കുകൾ നഷ്ടപ്പെടും
 arcSize=ആർക്ക് വലുപ്പം

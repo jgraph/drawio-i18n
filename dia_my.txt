@@ -1302,6 +1302,7 @@ confPartialPageList=Confluence တွင် အမှားတစ်ခုကြ
 spellCheck=စာလုံးပေါင်းသတ် စစ်ဆေးကိရိယာ
 noChange=ပြောင်းလဲမှုမရှိ
 lblToSvg=အညွှန်းများကို SVG သို့ ပြောင်းရန်
+autoRotateLabel=ဆက်သွယ်ပစ္စည်းနှင့်အတူ လှည့်ပါ
 txtSettings=စာသား ဆက်တင်များ
 LinksLost=လင့်ခ်များ ဆုံးရှုံးမည်
 arcSize=အဝိုင်းအရွယ်အစား

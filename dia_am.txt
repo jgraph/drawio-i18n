@@ -1302,6 +1302,7 @@ confPartialPageList=በConfluence ላይ ባለ ስህተት ምክንያት ሁ
 spellCheck=የፊደል አረማመድ ፈታሽ
 noChange=ምንም ለውጥ የለም
 lblToSvg=መለያዎችን ወደ SVG ቀይር
+autoRotateLabel=ከግንኙነት ጋር አሽከርክር
 txtSettings=የጽሑፍ ቅንብሮች
 LinksLost=አገናኞች ይጠፋሉ
 arcSize=የአርክ መጠን

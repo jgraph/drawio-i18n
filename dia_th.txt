@@ -1302,6 +1302,7 @@ confPartialPageList=เราไม่สามารถดึงข้อมู
 spellCheck=ตัวตรวจสอบการสะกด
 noChange=ไม่มีการเปลี่ยนแปลง
 lblToSvg=แปลงป้ายกำกับเป็น SVG
+autoRotateLabel=หมุนตามตัวเชื่อม
 txtSettings=การตั้งค่าข้อความ
 LinksLost=ลิงก์จะสูญหาย
 arcSize=ขนาดส่วนโค้ง

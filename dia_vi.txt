@@ -1302,6 +1302,7 @@ confPartialPageList=Chúng tôi không thể tải tất cả các trang do lỗ
 spellCheck=Kiểm tra chính tả
 noChange=Không thay đổi
 lblToSvg=Chuyển đổi nhãn sang SVG
+autoRotateLabel=Xoay theo đầu nối
 txtSettings=Cài đặt văn bản
 LinksLost=Các liên kết sẽ bị mất
 arcSize=Kích thước cung

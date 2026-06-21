@@ -1302,6 +1302,7 @@ confPartialPageList=由於 Confluence 發生錯誤，我們無法擷取所有頁
 spellCheck=拼寫檢查
 noChange=無變更
 lblToSvg=將標籤轉換為 SVG
+autoRotateLabel=隨連接線旋轉
 txtSettings=文字設定
 LinksLost=連結將會遺失
 arcSize=弧形大小

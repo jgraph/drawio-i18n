@@ -1302,6 +1302,7 @@ confPartialPageList=Nem sikerült az összes oldalt lekérni egy Confluence hiba
 spellCheck=Helyesírás-ellenőrző
 noChange=Nincs változás
 lblToSvg=Címkék konvertálása SVG-vé
+autoRotateLabel=Forgatás a csatlakozóval
 txtSettings=Szövegbeállítások
 LinksLost=A hivatkozások elvesznek
 arcSize=Ív mérete

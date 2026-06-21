@@ -1302,6 +1302,7 @@ confPartialPageList=Confluence में त्रुटि के कारण 
 spellCheck=वर्तनी जाँचकर्ता
 noChange=कोई परिवर्तन नहीं
 lblToSvg=लेबल को SVG में बदलें
+autoRotateLabel=कनेक्टर के साथ घुमाएँ
 txtSettings=टेक्स्ट सेटिंग्स
 LinksLost=लिंक खो जाएंगे
 arcSize=आर्क आकार

@@ -1302,6 +1302,7 @@ confPartialPageList=Confluence-imi allanneq pissutigalugu quppernernik tamakkiis
 spellCheck=Oqaatsit allaaserissorsiut
 noChange=Allanngutsisoqanngilaq
 lblToSvg=Titartakkat SVG-mut nuussiuk
+autoRotateLabel=Attaveq malillugu saaffigineq
 txtSettings=Allaqqaasut aalajangersagaapput
 LinksLost=Ilanngutit tammarneqassapput
 arcSize=Arc-ip angissusia

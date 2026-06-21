@@ -1302,6 +1302,7 @@ confPartialPageList=Hatukuweza kuleta kurasa zote kwa sababu ya hitilafu katika 
 spellCheck=Kikagua tahajia
 noChange=Hakuna Mabadiliko
 lblToSvg=Badilisha lebo kuwa SVG
+autoRotateLabel=Zungusha pamoja na kiunganishi
 txtSettings=Mipangilio ya Maandishi
 LinksLost=Viungo vitapotea
 arcSize=Ukubwa wa Arc

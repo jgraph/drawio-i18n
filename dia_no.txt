@@ -1302,6 +1302,7 @@ confPartialPageList=Vi kunne ikke hente alle sider på grunn av en feil i Conflu
 spellCheck=Stavekontroll
 noChange=Ingen endring
 lblToSvg=Konverter etiketter til SVG
+autoRotateLabel=Roter med forbindelsen
 txtSettings=Tekstinnstillinger
 LinksLost=Lenker vil gå tapt
 arcSize=Buestørrelse

@@ -1302,6 +1302,7 @@ confPartialPageList=Confluence'i vea tõttu ei õnnestunud kõiki lehti laadida.
 spellCheck=Õigekirjakontroll
 noChange=Muutusteta
 lblToSvg=Teisenda sildid SVG-ks
+autoRotateLabel=Pööra koos konnektoriga
 txtSettings=Teksti seaded
 LinksLost=Lingid lähevad kaotsi
 arcSize=Kaare suurus

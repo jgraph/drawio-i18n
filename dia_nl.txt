@@ -1302,6 +1302,7 @@ confPartialPageList=We konden niet alle pagina's ophalen vanwege een fout in Con
 spellCheck=Spellingscontrole
 noChange=Geen wijziging
 lblToSvg=Labels converteren naar SVG
+autoRotateLabel=Met connector meedraaien
 txtSettings=Tekst-instellingen
 LinksLost=Koppelingen gaan verloren
 arcSize=Boog - grootte

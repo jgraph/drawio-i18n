@@ -1302,6 +1302,7 @@ confPartialPageList=Ezin izan ditugu orrialde guztiak eskuratu Confluence-n erro
 spellCheck=Zuzentzaile ortografikoa
 noChange=Ez aldatu
 lblToSvg=Bihurtu etiketak SVG formatura
+autoRotateLabel=Biratu konektorearekin
 txtSettings=Testuaren ezarpenak
 LinksLost=Estekak galduko dira
 arcSize=Arkuaren tamaina

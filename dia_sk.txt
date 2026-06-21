@@ -1302,6 +1302,7 @@ confPartialPageList=Nepodarilo sa načítať všetky stránky kvôli chybe v Con
 spellCheck=Kontrola pravopisu
 noChange=Bez zmeny
 lblToSvg=Previesť popisky na SVG
+autoRotateLabel=Otočiť podľa konektora
 txtSettings=Nastavenia textu
 LinksLost=Odkazy sa stratia
 arcSize=Veľkosť oblúka

@@ -1302,6 +1302,7 @@ confPartialPageList=Confluence'da bir hata nedeniyle tüm sayfalar alınamadı. 
 spellCheck=Yazım denetleyici
 noChange=Değişiklik Yok
 lblToSvg=Etiketleri SVG'ye dönüştür
+autoRotateLabel=Bağlayıcıyla döndür
 txtSettings=Metin Ayarları
 LinksLost=Bağlantılar kaybolacak
 arcSize=Yay Boyutu

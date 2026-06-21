@@ -1302,6 +1302,7 @@ confPartialPageList=Nismo mogli preuzeti sve stranice zbog greške u Confluence-
 spellCheck=Provjera pravopisa
 noChange=Nema promjena
 lblToSvg=Pretvori oznake u SVG
+autoRotateLabel=Rotiraj s konektorom
 txtSettings=Postavke teksta
 LinksLost=Veze će biti izgubljene
 arcSize=Veličina luka

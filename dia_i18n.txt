@@ -1302,6 +1302,7 @@ confPartialPageList=confPartialPageList
 spellCheck=spellCheck
 noChange=noChange
 lblToSvg=lblToSvg
+autoRotateLabel=autoRotateLabel
 txtSettings=txtSettings
 LinksLost=LinksLost
 arcSize=arcSize

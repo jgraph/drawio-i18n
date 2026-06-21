@@ -1302,6 +1302,7 @@ confPartialPageList=Não foi possível buscar todas as páginas devido a um erro
 spellCheck=Verificação ortográfica
 noChange=Nenhuma alteração
 lblToSvg=Converter textos para SVG
+autoRotateLabel=Girar com o conector
 txtSettings=Configurações de texto
 LinksLost=Links serão descartados
 arcSize=Tamanho do arco

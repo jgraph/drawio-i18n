@@ -1302,6 +1302,7 @@ confPartialPageList=Emme voineet noutaa kaikkia sivuja Confluence-virheen vuoksi
 spellCheck=Oikoluku
 noChange=Ei muutosta
 lblToSvg=Muunna nimiöt SVG-muotoon
+autoRotateLabel=Käännä liittimen mukaan
 txtSettings=Tekstiasetukset
 LinksLost=Linkit katoavat
 arcSize=Kaaren koko

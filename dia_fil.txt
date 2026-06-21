@@ -1302,6 +1302,7 @@ confPartialPageList=Hindi namin nakuha ang lahat ng mga pahina dahil sa error sa
 spellCheck=Spell checker
 noChange=Walang Pagbabago
 lblToSvg=I-convert ang mga label sa SVG
+autoRotateLabel=Iikot ayon sa konektor
 txtSettings=Mga Setting ng Teksto
 LinksLost=Mawawala ang mga link
 arcSize=Laki ng Arko

@@ -1302,6 +1302,7 @@ confPartialPageList=Δεν μπορέσαμε να ανακτήσουμε όλε
 spellCheck=Ορθογραφικός έλεγχος
 noChange=Καμία Αλλαγή
 lblToSvg=Μετατροπή ετικετών σε SVG
+autoRotateLabel=Περιστροφή με τον σύνδεσμο
 txtSettings=Ρυθμίσεις Κειμένου
 LinksLost=Οι σύνδεσμοι θα χαθούν
 arcSize=Μέγεθος Τόξου
