@@ -473,6 +473,7 @@ italic=Kurziv
 kennedy=Kennedy
 keyboardShortcuts=Prečice na tastaturi
 labels=Oznake
+labelWidth=Širina oznake
 layers=Slojevi
 landscape=Pejzaž
 language=Jezik

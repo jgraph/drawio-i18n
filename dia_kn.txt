@@ -473,6 +473,7 @@ italic=ಇಟಾಲಿಕ್
 kennedy=Kennedy
 keyboardShortcuts=ಕೀಬೋರ್ಡ್ ಶಾರ್ಟ್‌ಕಟ್‌ಗಳು
 labels=ಲೇಬಲ್‌ಗಳು
+labelWidth=ಲೇಬಲ್ ಅಗಲ
 layers=ಲೇಯರ್‌ಗಳು
 landscape=ಲ್ಯಾಂಡ್‌ಸ್ಕೇಪ್
 language=ಭಾಷೆ

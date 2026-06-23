@@ -473,6 +473,7 @@ italic=Chữ nghiêng
 kennedy=Kennedy
 keyboardShortcuts=Phím tắt
 labels=Nhãn
+labelWidth=Chiều rộng nhãn
 layers=Lớp
 landscape=Ngang
 language=Ngôn Ngữ

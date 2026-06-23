@@ -472,6 +472,7 @@ italic=Cursief
 kennedy=Kennedy
 keyboardShortcuts=Sneltoetscombinaties
 labels=Labels
+labelWidth=Labelbreedte
 layers=Lagen
 landscape=Liggend
 language=Taal

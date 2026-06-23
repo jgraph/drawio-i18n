@@ -473,6 +473,7 @@ italic=Dőlt
 kennedy=Kennedy
 keyboardShortcuts=Billentyűparancsok
 labels=Címkék
+labelWidth=Címke szélessége
 layers=Rétegek
 landscape=Fekvő lap
 language=Nyelv

@@ -473,6 +473,7 @@ italic=तिर्कस
 kennedy=Kennedy
 keyboardShortcuts=कीबोर्ड शॉर्टकट
 labels=लेबल्स
+labelWidth=लेबल रुंदी
 layers=स्तर
 landscape=लँडस्केप
 language=भाषा

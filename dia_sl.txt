@@ -473,6 +473,7 @@ italic=Ležeče
 kennedy=Kennedy
 keyboardShortcuts=Bližnjice na tipkovnici
 labels=Oznake
+labelWidth=Širina oznake
 layers=Plasti
 landscape=Ležeče
 language=Jezik

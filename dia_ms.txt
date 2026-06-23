@@ -473,6 +473,7 @@ italic=Italik
 kennedy=Kennedy
 keyboardShortcuts=Pintasan papan kekunci
 labels=Label
+labelWidth=Lebar Label
 layers=Lapisan
 landscape=Landskap
 language=Bahasa

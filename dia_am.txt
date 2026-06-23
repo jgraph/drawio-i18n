@@ -473,6 +473,7 @@ italic=ኢታሊክ
 kennedy=ኬነዲ
 keyboardShortcuts=የቁልፍ ሰሌዳ አቋራጮች
 labels=መለያዎች
+labelWidth=የመለያ ስፋት
 layers=ንብርብሮች
 landscape=የወርድ ገጽ
 language=ቋንቋ

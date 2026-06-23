@@ -473,6 +473,7 @@ italic=Курсив
 kennedy=Кенеди
 keyboardShortcuts=Комбинации от клавиши
 labels=Етикети
+labelWidth=Ширина на етикета
 layers=Слоеве
 landscape=Хоризонтален
 language=Език

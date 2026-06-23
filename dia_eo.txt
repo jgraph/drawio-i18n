@@ -473,6 +473,7 @@ italic=Kursiva
 kennedy=Kennedy
 keyboardShortcuts=Klavkombinoj
 labels=Etikedoj
+labelWidth=Etikedolarĝo
 layers=Tavoloj
 landscape=Horizontala
 language=Lingvo

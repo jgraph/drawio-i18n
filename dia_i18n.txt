@@ -472,6 +472,7 @@ italic=italic
 kennedy=kennedy
 keyboardShortcuts=keyboardShortcuts
 labels=labels
+labelWidth=labelWidth
 layers=layers
 landscape=landscape
 language=language

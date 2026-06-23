@@ -473,6 +473,7 @@ italic=Kursīvs
 kennedy=Kenedijs
 keyboardShortcuts=Tastatūras īsinājumtaustiņi
 labels=Etiķetes
+labelWidth=Etiķetes platums
 layers=Slāņi
 landscape=Ainavas orientācija
 language=Valoda

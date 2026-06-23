@@ -468,6 +468,7 @@ italic=‫נטוי‬
 kennedy=‫קנדי‬
 keyboardShortcuts=‫קיצורי מקלדת‬
 labels=Labels
+labelWidth=‫רוחב Label‬
 layers=‫שכבות‬
 landscape=‫נוף‬
 language=‫שפה‬

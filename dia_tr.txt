@@ -473,6 +473,7 @@ italic=Eğik
 kennedy=Kennedy
 keyboardShortcuts=Klavye kısayolları
 labels=Etiketler
+labelWidth=Etiket genişliği
 layers=Katmanlar
 landscape=Yatay
 language=Dil

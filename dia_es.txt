@@ -473,6 +473,7 @@ italic=Cursiva
 kennedy=Kennedy
 keyboardShortcuts=Atajos de teclado
 labels=Etiquetas
+labelWidth=Ancho de etiqueta
 layers=Capas
 landscape=Orientación horizontal
 language=Idioma

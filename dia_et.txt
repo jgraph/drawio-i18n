@@ -473,6 +473,7 @@ italic=Kursiiv
 kennedy=Kennedy
 keyboardShortcuts=Kiirklahvid
 labels=Sildid
+labelWidth=Sildi laius
 layers=Kihid
 landscape=Horisontaalne vaade
 language=Keel

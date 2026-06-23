@@ -473,6 +473,7 @@ italic=Cursiv
 kennedy=Kennedy
 keyboardShortcuts=Comenzi rapide tastatură
 labels=Etichete
+labelWidth=Lățime etichetă
 layers=Straturi
 landscape=Peisaj
 language=Limbă

@@ -473,6 +473,7 @@ italic=Πλάγια
 kennedy=Kennedy
 keyboardShortcuts=Συντομεύσεις πληκτρολογίου
 labels=Ετικέτες
+labelWidth=Πλάτος Ετικέτας
 layers=Επίπεδα
 landscape=Οριζόντιος προσανατολισμός
 language=Γλώσσα

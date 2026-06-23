@@ -473,6 +473,7 @@ italic=Etzana
 kennedy=Kennedy
 keyboardShortcuts=Laster-teklak
 labels=Etiketak
+labelWidth=Etiketaren zabalera
 layers=Geruzak
 landscape=Horizontala
 language=Hizkuntza

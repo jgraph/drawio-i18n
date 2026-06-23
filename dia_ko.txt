@@ -473,6 +473,7 @@ italic=기울임꼴
 kennedy=케네디
 keyboardShortcuts=키보드 단축키
 labels=라벨
+labelWidth=라벨 너비
 layers=레이어
 landscape=가로
 language=언어

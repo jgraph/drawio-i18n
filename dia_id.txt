@@ -473,6 +473,7 @@ italic=Miring
 kennedy=Kennedy
 keyboardShortcuts=Pintasan Papan Tik
 labels=Label
+labelWidth=Lebar Label
 layers=Lapisan
 landscape=Lanskap
 language=Bahasa

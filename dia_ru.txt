@@ -473,6 +473,7 @@ italic=Курсив
 kennedy=Кеннеди
 keyboardShortcuts=Комбинации клавиш
 labels=Надписи
+labelWidth=Ширина надписи
 layers=Слои
 landscape=Альбомная
 language=Язык

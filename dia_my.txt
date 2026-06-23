@@ -473,6 +473,7 @@ italic=စာလုံးစောင်း
 kennedy=Kennedy
 keyboardShortcuts=ကီးဘုတ်ဖြတ်လမ်းများ
 labels=တံဆိပ်များ
+labelWidth=တံဆိပ်အကျယ်
 layers=အလွှာများ
 landscape=အလျားလိုက်
 language=ဘာသာစကား

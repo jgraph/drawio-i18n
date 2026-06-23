@@ -473,6 +473,7 @@ italic=Kursyvas
 kennedy=Kennedy
 keyboardShortcuts=Spartieji klavišai
 labels=Etiketės
+labelWidth=Etiketės plotis
 layers=Sluoksniai
 landscape=Gulsčias
 language=Kalba

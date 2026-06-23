@@ -473,6 +473,7 @@ italic=斜體
 kennedy=Kennedy
 keyboardShortcuts=快速鍵
 labels=標籤
+labelWidth=標籤寬度
 layers=圖層
 landscape=橫向
 language=語言

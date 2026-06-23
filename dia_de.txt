@@ -473,6 +473,7 @@ italic=Kursiv
 kennedy=Kennedy
 keyboardShortcuts=Tastenkombinationen
 labels=Beschriftungen
+labelWidth=Beschriftungsbreite
 layers=Ebenen
 landscape=Querformat
 language=Sprache

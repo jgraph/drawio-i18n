@@ -473,6 +473,7 @@ italic=Kursiv
 kennedy=Kennedy
 keyboardShortcuts=Tastaturgenveje
 labels=Etiketter
+labelWidth=Etiketbredde
 layers=Lag
 landscape=Landskab
 language=Sprog

@@ -473,6 +473,7 @@ italic=Kurzíva
 kennedy=Kennedy
 keyboardShortcuts=Klávesové skratky
 labels=Štítky
+labelWidth=Šírka štítku
 layers=Vrstvy
 landscape=Na šírku
 language=Jazyk

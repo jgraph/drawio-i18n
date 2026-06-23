@@ -473,6 +473,7 @@ italic=ইটালিক
 kennedy=Kennedy
 keyboardShortcuts=কীবোর্ড শর্টকাট
 labels=লেবেল
+labelWidth=লেবেলের প্রস্থ
 layers=লেয়ার
 landscape=ল্যান্ডস্কেপ
 language=ভাষা

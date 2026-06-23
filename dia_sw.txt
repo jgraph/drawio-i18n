@@ -473,6 +473,7 @@ italic=Italiki
 kennedy=Kennedy
 keyboardShortcuts=Njia za Mkato za Kibodi
 labels=Lebo
+labelWidth=Upana wa Lebo
 layers=Tabaka
 landscape=Mlalo
 language=Lugha

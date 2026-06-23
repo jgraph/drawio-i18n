@@ -473,6 +473,7 @@ italic=Italiko
 kennedy=Kennedy
 keyboardShortcuts=Mga Shortcut sa Keyboard
 labels=Mga Label
+labelWidth=Lapad ng Label
 layers=Mga patong
 landscape=Pahiga
 language=Wika

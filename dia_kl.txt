@@ -473,6 +473,7 @@ italic=Kursivi
 kennedy=Kennedy
 keyboardShortcuts=Takkornermik najoqqutaq
 labels=Taaguutit
+labelWidth=Taaguutip silittasusia
 layers=Issallit
 landscape=Nunavissuaq
 language=Oqaatsit

@@ -473,6 +473,7 @@ italic=Italique
 kennedy=Kennedy
 keyboardShortcuts=Raccourcis clavier
 labels=Étiquettes
+labelWidth=Largeur de l'étiquette
 layers=Couches
 landscape=Paysage
 language=Langue

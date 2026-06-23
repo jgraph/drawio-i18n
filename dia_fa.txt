@@ -473,6 +473,7 @@ italic=‫ایتالیک‬
 kennedy=Kennedy
 keyboardShortcuts=‫کلید های میانبر‬
 labels=‫برچسب‌ها‬
+labelWidth=‫عرض برچسب‬
 layers=‫لایه ها‬
 landscape=‫افقی‬
 language=‫زبان‬

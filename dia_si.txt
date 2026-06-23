@@ -473,6 +473,7 @@ italic=ඇලකුරු
 kennedy=Kennedy
 keyboardShortcuts=යතුරුපුවරු කෙටිමං
 labels=ලේබල
+labelWidth=ලේබල පළල
 layers=ස්තර
 landscape=තිරස්
 language=භාෂාව

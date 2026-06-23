@@ -473,6 +473,7 @@ italic=Kursywa
 kennedy=Kennedy
 keyboardShortcuts=Skróty klawiszowe
 labels=Etykiety
+labelWidth=Szerokość etykiety
 layers=Warstwy
 landscape=Poziomy
 language=Język

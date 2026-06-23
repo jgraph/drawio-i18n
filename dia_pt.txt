@@ -473,6 +473,7 @@ italic=Itálico
 kennedy=Kennedy
 keyboardShortcuts=Atalhos do teclado
 labels=Etiquetas
+labelWidth=Largura da etiqueta
 layers=Camadas
 landscape=Horizontal
 language=Idioma

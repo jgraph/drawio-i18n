@@ -468,6 +468,7 @@ italic=‫خط مائل‬
 kennedy=‫كنيدي‬
 keyboardShortcuts=‫اختصارات لوحة المفاتيح‬
 labels=‫تسميات‬
+labelWidth=‫عرض التسمية‬
 layers=‫طبقات‬
 landscape=‫طباعة بالعرض‬
 language=‫لغة‬

@@ -473,6 +473,7 @@ italic=ตัวเอียง
 kennedy=Kennedy
 keyboardShortcuts=ทางลัดคีย์บอร์ด
 labels=ป้ายกำกับ
+labelWidth=ความกว้างป้ายกำกับ
 layers=เลเยอร์
 landscape=แนวนอน
 language=ภาษา

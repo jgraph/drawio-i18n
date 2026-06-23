@@ -473,6 +473,7 @@ italic=சாய்வு
 kennedy=கென்னடி
 keyboardShortcuts=விசைப்பலகை குறுக்குவழிகள்
 labels=சிட்டைகள்
+labelWidth=சிட்டை அகலம்
 layers=அடுக்குகள்
 landscape=கிடை நிலை
 language=மொழி

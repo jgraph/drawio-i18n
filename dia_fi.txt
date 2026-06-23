@@ -473,6 +473,7 @@ italic=Kursivoitu
 kennedy=Kennedy
 keyboardShortcuts=Pikanäppäimet
 labels=Tunnisteet
+labelWidth=Tekstin leveys
 layers=Tasot
 landscape=Vaakasuunta
 language=Kieli
