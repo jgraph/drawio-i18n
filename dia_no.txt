@@ -751,6 +751,7 @@ saving=Lagrer
 scratchpad=Kladdeblokk
 scrollbars=Rullefelt
 search=Søk
+searchImages=Søk bilder
 searchShapes=Søk former
 searchShapesInOpenLibraries=Søk former i åpne biblioteker
 selectAll=Velg alt

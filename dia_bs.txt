@@ -751,6 +751,7 @@ saving=Spašavanje
 scratchpad=Radna memorija
 scrollbars=Klizači
 search=Pretraga
+searchImages=Pretraga slika
 searchShapes=Pretraga oblika
 searchShapesInOpenLibraries=Pretraga oblika u otvorenim bibliotekama
 selectAll=Izaberi sve

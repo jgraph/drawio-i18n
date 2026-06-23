@@ -751,6 +751,7 @@ saving=Menyimpan
 scratchpad=Pad conteng
 scrollbars=Bar skrol
 search=Cari
+searchImages=Cari Imej
 searchShapes=Cari Bentuk
 searchShapesInOpenLibraries=Cari Bentuk dalam Pustaka Terbuka
 selectAll=Pilih Semua

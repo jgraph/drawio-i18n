@@ -751,6 +751,7 @@ saving=သိမ်းဆည်းနေသည်
 scratchpad=မှတ်စုခွက်
 scrollbars=လှိမ့်ဘားများ
 search=ရှာဖွေရန်
+searchImages=ပုံများရှာဖွေရန်
 searchShapes=ပုံသဏ္ဍာန်များရှာဖွေရန်
 searchShapesInOpenLibraries=ဖွင့်ထားသော စာကြည့်တိုက်များတွင် ပုံသဏ္ဍာန်များရှာဖွေရန်
 selectAll=အားလုံးရွေးရန်

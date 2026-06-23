@@ -751,6 +751,7 @@ saving=Zapisywanie
 scratchpad=Brudnopis
 scrollbars=Paski przewijania
 search=Szukaj
+searchImages=Szukaj obrazów
 searchShapes=Szukaj kształtów
 searchShapesInOpenLibraries=Szukaj kształtów w otwartych bibliotekach
 selectAll=Zaznacz wszystko

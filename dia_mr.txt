@@ -751,6 +751,7 @@ saving=जतन करत आहे
 scratchpad=स्क्रॅचपॅड
 scrollbars=स्क्रोलबार
 search=शोधा
+searchImages=प्रतिमा शोधा
 searchShapes=आकार शोधा
 searchShapesInOpenLibraries=उघड्या लायब्ररींमध्ये आकार शोधा
 selectAll=सर्व निवडा

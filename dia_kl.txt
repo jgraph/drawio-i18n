@@ -751,6 +751,7 @@ saving=Toqqorpoq
 scratchpad=Allaserinnillivik
 scrollbars=Scrollbarit
 search=Ujarlerit
+searchImages=Assiit ujarlerit
 searchShapes=Figuurit ujarlerit
 searchShapesInOpenLibraries=Figuurit ujarlerit ammasimani periarfissat katitervingni
 selectAll=Tamakkerlugit toqqaruk

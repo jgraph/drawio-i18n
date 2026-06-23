@@ -751,6 +751,7 @@ saving=保存中
 scratchpad=スクラッチパッド
 scrollbars=スクロールバー
 search=検索
+searchImages=画像を検索
 searchShapes=図形を検索
 searchShapesInOpenLibraries=開いているライブラリ内の図形を検索
 selectAll=すべて選択

@@ -751,6 +751,7 @@ saving=กำลังบันทึก
 scratchpad=กระดานร่าง
 scrollbars=แถบเลื่อน
 search=ค้นหา
+searchImages=ค้นหารูปภาพ
 searchShapes=ค้นหารูปร่าง
 searchShapesInOpenLibraries=ค้นหารูปร่างในไลบรารีที่เปิดอยู่
 selectAll=เลือกทั้งหมด

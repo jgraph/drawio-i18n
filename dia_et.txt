@@ -751,6 +751,7 @@ saving=Salvestan
 scratchpad=Märkmik
 scrollbars=Kerimisribad
 search=Otsi
+searchImages=Otsi pilte
 searchShapes=Otsi kujundeid
 searchShapesInOpenLibraries=Otsi kujundeid avatud kogumikes
 selectAll=Vali kõik

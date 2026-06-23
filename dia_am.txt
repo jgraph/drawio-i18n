@@ -751,6 +751,7 @@ saving=በማስቀመጥ ላይ
 scratchpad=የማስታወሻ ገጽ
 scrollbars=የማሸብለያ አሞሌዎች
 search=ፍለጋ
+searchImages=ምስሎችን ፈልግ
 searchShapes=ቅርጾችን ፈልግ
 searchShapesInOpenLibraries=ቅርጾችን በክፍት ቤተ-መጻሕፍት ውስጥ ፈልግ
 selectAll=ሁሉንም ይምረጡ

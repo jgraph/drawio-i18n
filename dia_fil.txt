@@ -751,6 +751,7 @@ saving=Nagse-save
 scratchpad=Pandalang-sulat
 scrollbars=Mga Scrollbar
 search=Maghanap
+searchImages=Maghanap ng mga Imahe
 searchShapes=Maghanap ng mga Hugis
 searchShapesInOpenLibraries=Maghanap ng mga Hugis sa Bukas na mga Library
 selectAll=Piliin lahat

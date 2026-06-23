@@ -751,6 +751,7 @@ saving=Đang lưu
 scratchpad=Bảng nháp
 scrollbars=Thanh cuộn
 search=Tìm kiếm
+searchImages=Tìm hình ảnh
 searchShapes=Tìm hình khối
 searchShapesInOpenLibraries=Tìm hình khối trong thư viện đang mở
 selectAll=Chọn tất cả

@@ -751,6 +751,7 @@ saving=Inahifadhi
 scratchpad=Ubao wa Muda
 scrollbars=Vitelezi
 search=Tafuta
+searchImages=Tafuta Picha
 searchShapes=Tafuta Maumbo
 searchShapesInOpenLibraries=Tafuta Maumbo katika Maktaba Zilizofunguliwa
 selectAll=Chagua Zote

@@ -751,6 +751,7 @@ saving=Gordetzen
 scratchpad=Zirriborroa
 scrollbars=Korritze-barrak
 search=Bilatu
+searchImages=Bilatu irudiak
 searchShapes=Bilatu formak
 searchShapesInOpenLibraries=Bilatu formak irekitako liburutegietan
 selectAll=Hautatu guztia

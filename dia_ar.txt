@@ -744,6 +744,7 @@ saving=‫جاري الحفظ‬
 scratchpad=‫لوحة ملاحظات‬
 scrollbars=‫أشرطة التمرير‬
 search=‫بحث‬
+searchImages=‫بحث عن الصور‬
 searchShapes=‫بحث عن الأشكال‬
 searchShapesInOpenLibraries=بحث عن الأشكال في المكتبات المفتوحة
 selectAll=‫تحديد الكل‬

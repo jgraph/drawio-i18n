@@ -751,6 +751,7 @@ saving=Γίνεται αποθήκευση
 scratchpad=Σημειωματάριο
 scrollbars=Μπάρες κύλισης
 search=Αναζήτηση
+searchImages=Αναζήτηση Εικόνων
 searchShapes=Αναζήτηση Σχημάτων
 searchShapesInOpenLibraries=Αναζήτηση Σχημάτων σε Ανοιχτές Βιβλιοθήκες
 selectAll=Επιλογή Όλων

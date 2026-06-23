@@ -751,6 +751,7 @@ saving=சேமிப்பு
 scratchpad=கீறல் திண்டு
 scrollbars=சுருள்பட்டிகள்
 search=தேடு
+searchImages=படங்களைத் தேடு
 searchShapes=வடிவங்களைத் தேடு
 searchShapesInOpenLibraries=திறந்த நூலகங்களில் வடிவங்களைத் தேடு
 selectAll=அனைத்தையும் தெரிவுசெய்

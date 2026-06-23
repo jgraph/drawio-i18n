@@ -751,6 +751,7 @@ saving=Se salvează
 scratchpad=Ciornă
 scrollbars=Bare de rulare
 search=Căutare
+searchImages=Caută imagini
 searchShapes=Caută forme
 searchShapesInOpenLibraries=Caută forme în bibliotecile deschise
 selectAll=Selectează tot

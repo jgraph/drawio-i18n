@@ -751,6 +751,7 @@ saving=Збереження
 scratchpad=Чернетка
 scrollbars=Смуги прокрутки
 search=Пошук
+searchImages=Шукати зображення
 searchShapes=Шукати фігури
 searchShapesInOpenLibraries=Шукати фігури у відкритих бібліотеках
 selectAll=Вибрати все

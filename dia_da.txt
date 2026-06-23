@@ -751,6 +751,7 @@ saving=Gemmer
 scratchpad=Notesblok
 scrollbars=Rullebjælker
 search=Søg
+searchImages=Søg billeder
 searchShapes=Søg former
 searchShapesInOpenLibraries=Søg former i åbne biblioteker
 selectAll=Vælg Alt

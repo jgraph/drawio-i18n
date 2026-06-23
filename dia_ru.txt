@@ -751,6 +751,7 @@ saving=Идёт сохранение
 scratchpad=Избранное
 scrollbars=Полосы прокрутки
 search=Поиск
+searchImages=Поиск изображений
 searchShapes=Поиск фигур
 searchShapesInOpenLibraries=Поиск фигур в открытых библиотеках
 selectAll=Выбрать всё

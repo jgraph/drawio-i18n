@@ -750,6 +750,7 @@ saving=saving
 scratchpad=scratchpad
 scrollbars=scrollbars
 search=search
+searchImages=searchImages
 searchShapes=searchShapes
 searchShapesInOpenLibraries=searchShapesInOpenLibraries
 selectAll=selectAll

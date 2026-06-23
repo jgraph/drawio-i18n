@@ -751,6 +751,7 @@ saving=ಉಳಿಸಲಾಗುತ್ತಿದೆ
 scratchpad=ಸ್ಕ್ರಾಚ್‌ಪ್ಯಾಡ್
 scrollbars=ಸ್ಕ್ರಾಲ್‌ಬಾರ್‌ಗಳು
 search=ಹುಡುಕು
+searchImages=ಚಿತ್ರಗಳನ್ನು ಹುಡುಕಿ
 searchShapes=ಆಕಾರಗಳನ್ನು ಹುಡುಕಿ
 searchShapesInOpenLibraries=ತೆರೆದ ಲೈಬ್ರರಿಗಳಲ್ಲಿ ಆಕಾರಗಳನ್ನು ಹುಡುಕಿ
 selectAll=ಎಲ್ಲವನ್ನೂ ಆಯ್ಕೆಮಾಡಿ

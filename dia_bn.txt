@@ -751,6 +751,7 @@ saving=সংরক্ষণ হচ্ছে
 scratchpad=স্ক্র্যাচপ্যাড
 scrollbars=স্ক্রলবার
 search=অনুসন্ধান
+searchImages=ছবি অনুসন্ধান করুন
 searchShapes=আকৃতি অনুসন্ধান করুন
 searchShapesInOpenLibraries=খোলা লাইব্রেরিসমূহে আকৃতি অনুসন্ধান করুন
 selectAll=সব নির্বাচন করুন

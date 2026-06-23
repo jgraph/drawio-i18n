@@ -751,6 +751,7 @@ saving=Snimanje
 scratchpad=Radna tabla
 scrollbars=Skrol trake
 search=Pretraga
+searchImages=Pretraži slike
 searchShapes=Pretraži oblike
 searchShapesInOpenLibraries=Pretraži oblike u otvorenim bibliotekama
 selectAll=Izaberi sve

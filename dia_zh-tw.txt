@@ -751,6 +751,7 @@ saving=儲存中
 scratchpad=便箋本
 scrollbars=捲軸
 search=搜尋
+searchImages=搜尋圖片
 searchShapes=搜尋圖形
 searchShapesInOpenLibraries=在已開啟的圖庫中搜尋圖形
 selectAll=全選

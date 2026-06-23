@@ -751,6 +751,7 @@ saving=Wird gespeichert
 scratchpad=Notizblock
 scrollbars=Scrollbars
 search=Suchen
+searchImages=Bilder suchen
 searchShapes=Formen suchen
 searchShapesInOpenLibraries=Formen suchen in offenen Bibliotheken
 selectAll=Alles auswählen

@@ -751,6 +751,7 @@ saving=સાચવી રહ્યા છીએ
 scratchpad=સ્ક્રેચપેડ
 scrollbars=સ્ક્રોલબાર
 search=શોધો
+searchImages=છબીઓ શોધો
 searchShapes=આકારો શોધો
 searchShapesInOpenLibraries=ખુલ્લી લાઇબ્રેરીઓમાં આકારો શોધો
 selectAll=બધું પસંદ કરો

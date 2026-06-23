@@ -751,6 +751,7 @@ saving=Konservado
 scratchpad=Skrapbloko
 scrollbars=Rulumstangoj
 search=Serĉi
+searchImages=Serĉi Bildojn
 searchShapes=Serĉi Formojn
 searchShapesInOpenLibraries=Serĉi Formojn en Malfermitaj Bibliotekoj
 selectAll=Elekti Ĉion

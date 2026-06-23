@@ -780,6 +780,7 @@ saving=Saving
 scratchpad=Scratchpad
 scrollbars=Scrollbars
 search=Search
+searchImages=Search Images
 searchShapes=Search Shapes
 searchShapesInOpenLibraries=Search Shapes in Open Libraries
 selectAll=Select All

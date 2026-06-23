@@ -751,6 +751,7 @@ saving=S'està desant
 scratchpad=Bloc de notes
 scrollbars=Barres de desplaçament
 search=Cerca
+searchImages=Cerca imatges
 searchShapes=Cerca formes
 searchShapesInOpenLibraries=Cerca formes a les biblioteques obertes
 selectAll=Selecciona-ho tot

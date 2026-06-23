@@ -751,6 +751,7 @@ saving=Saglabāšana
 scratchpad=Skicēšanas bloks
 scrollbars=Ritjoslas
 search=Meklēt
+searchImages=Meklēt attēlus
 searchShapes=Meklēt formas
 searchShapesInOpenLibraries=Meklēt formas atvērtās bibliotēkās
 selectAll=Izvēlēties visu

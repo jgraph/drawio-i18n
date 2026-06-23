@@ -751,6 +751,7 @@ saving=सहेजा जा रहा है
 scratchpad=स्क्रैचपैड
 scrollbars=स्क्रॉलबार
 search=खोजें
+searchImages=छवियाँ खोजें
 searchShapes=आकृतियाँ खोजें
 searchShapesInOpenLibraries=खुली लाइब्रेरी में आकृतियाँ खोजें
 selectAll=सभी चुनें

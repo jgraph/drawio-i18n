@@ -751,6 +751,7 @@ saving=සුරකිමින්
 scratchpad=සටහන් පුවරුව
 scrollbars=අනුචලන තීරු
 search=සොයන්න
+searchImages=පින්තූර සොයන්න
 searchShapes=හැඩ සොයන්න
 searchShapesInOpenLibraries=විවෘත පුස්තකාලවල ආකෘති සොයන්න
 selectAll=සියල්ල තෝරන්න

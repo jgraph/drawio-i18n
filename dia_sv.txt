@@ -751,6 +751,7 @@ saving=Sparar
 scratchpad=Anteckningsblock
 scrollbars=Rullningslister
 search=Sök
+searchImages=Sök bilder
 searchShapes=Sök Former
 searchShapesInOpenLibraries=Sök Former i Öppna Bibliotek
 selectAll=Markera allt

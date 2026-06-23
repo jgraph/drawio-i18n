@@ -751,6 +751,7 @@ saving=സേവ് ചെയ്യുന്നു
 scratchpad=സ്ക്രാച്ച്പാഡ്
 scrollbars=സ്ക്രോൾബാറുകൾ
 search=തിരയുക
+searchImages=ചിത്രങ്ങൾ തിരയുക
 searchShapes=ആകൃതികൾ തിരയുക
 searchShapesInOpenLibraries=തുറന്ന ലൈബ്രറികളിൽ ആകൃതികൾ തിരയുക
 selectAll=എല്ലാം തിരഞ്ഞെടുക്കുക

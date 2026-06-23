@@ -751,6 +751,7 @@ saving=Guardando
 scratchpad=Bloc de notas
 scrollbars=Barras de desplazamiento
 search=Buscar
+searchImages=Buscar imágenes
 searchShapes=Buscar formas
 searchShapesInOpenLibraries=Buscar formas en bibliotecas abiertas
 selectAll=Seleccionar todo

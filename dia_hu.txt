@@ -751,6 +751,7 @@ saving=Mentés folyamatban
 scratchpad=Jegyzetblokk
 scrollbars=Gördítősávok
 search=Keresés
+searchImages=Képek keresése
 searchShapes=Alakzatok keresése
 searchShapesInOpenLibraries=Alakzatok keresése megnyitott könyvtárakban
 selectAll=Mindent kijelöl

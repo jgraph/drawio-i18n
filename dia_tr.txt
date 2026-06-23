@@ -751,6 +751,7 @@ saving=Kaydediliyor
 scratchpad=Bloknot
 scrollbars=Kaydırma çubukları
 search=Ara
+searchImages=Resimleri ara
 searchShapes=Şekilleri ara
 searchShapesInOpenLibraries=Açık kütüphanelerde şekilleri ara
 selectAll=Tümünü seç

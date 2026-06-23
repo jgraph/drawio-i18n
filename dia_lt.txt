@@ -751,6 +751,7 @@ saving=Išsaugoma
 scratchpad=Juodraštinė
 scrollbars=Slankjuostės
 search=Ieškoti
+searchImages=Ieškoti paveikslėlių
 searchShapes=Ieškoti figūrų
 searchShapesInOpenLibraries=Ieškoti formų atvertose bibliotekose
 selectAll=Pasirinkti viską

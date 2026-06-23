@@ -751,6 +751,7 @@ saving=Tallennetaan
 scratchpad=Muistilehtiö
 scrollbars=Vierityspalkit
 search=Hae
+searchImages=Hae kuvia
 searchShapes=Hae kuvioita
 searchShapesInOpenLibraries=Hae kuvioita avoimista kokoelmista
 selectAll=Valitse kaikki

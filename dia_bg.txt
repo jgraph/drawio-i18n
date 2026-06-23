@@ -751,6 +751,7 @@ saving=Запазване
 scratchpad=Бележник
 scrollbars=Скролиращи ленти
 search=Търсене
+searchImages=Търсене на изображения
 searchShapes=Търсене на форми
 searchShapesInOpenLibraries=Търсене на форми в отворени библиотеки
 selectAll=Маркиране на всичко

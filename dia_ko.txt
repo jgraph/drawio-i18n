@@ -751,6 +751,7 @@ saving=저장중
 scratchpad=스크래치 패드
 scrollbars=스크롤바
 search=검색
+searchImages=이미지 검색
 searchShapes=도형 검색
 searchShapesInOpenLibraries=열린 라이브러리에서 도형 검색
 selectAll=모두 선택

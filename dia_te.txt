@@ -751,6 +751,7 @@ saving=సేవ్ అవుతోంది
 scratchpad=స్క్రాచ్‌ప్యాడ్
 scrollbars=స్క్రోల్‌బార్‌లు
 search=శోధించు
+searchImages=చిత్రాలను శోధించండి
 searchShapes=ఆకారాలను శోధించండి
 searchShapesInOpenLibraries=తెరిచిన లైబ్రరీలలో ఆకారాలను శోధించండి
 selectAll=అన్నీ ఎంచుకోండి

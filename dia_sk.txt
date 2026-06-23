@@ -751,6 +751,7 @@ saving=Ukladá sa
 scratchpad=Zápisník
 scrollbars=Posuvníky
 search=Hľadať
+searchImages=Hľadať obrázky
 searchShapes=Hľadať tvary
 searchShapesInOpenLibraries=Hľadať tvary v otvorených knižniciach
 selectAll=Vybrať všetko

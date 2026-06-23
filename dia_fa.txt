@@ -751,6 +751,7 @@ saving=‫در حال ذخیره کردن‬
 scratchpad=‫صفحه پیش نویس‬
 scrollbars=‫نوارهای پیمایش‬
 search=‫جستجو‬
+searchImages=‫جستجوی تصاویر‬
 searchShapes=‫جستجوی شکل ها‬
 searchShapesInOpenLibraries=جستجوی شکل ها در کتابخانه‌های باز
 selectAll=‫انتخاب همه‬

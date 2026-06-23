@@ -744,6 +744,7 @@ saving=‫שומר‬
 scratchpad=‫פנקס‬
 scrollbars=‫סרגלי גלילה‬
 search=‫חפש‬
+searchImages=‫חפש תמונות‬
 searchShapes=‫חפש צורות‬
 searchShapesInOpenLibraries=חפש צורות בספריות פתוחות
 selectAll=‫בחר הכל‬

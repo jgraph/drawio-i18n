@@ -751,6 +751,7 @@ saving=Shranjevanje
 scratchpad=Beležnica
 scrollbars=Drsniki
 search=Iskanje
+searchImages=Išči slike
 searchShapes=Išči oblike
 searchShapesInOpenLibraries=Išči oblike v odprtih knjižnicah
 selectAll=Izberi vse
