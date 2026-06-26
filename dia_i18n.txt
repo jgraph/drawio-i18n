@@ -442,6 +442,7 @@ importFrom=importFrom
 includeCopyOfMyDiagram=includeCopyOfMyDiagram
 increaseIndent=increaseIndent
 decreaseIndent=decreaseIndent
+inherit=inherit
 initialView=initialView
 insert=insert
 insertColumnBefore=insertColumnBefore
