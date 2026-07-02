@@ -739,6 +739,7 @@ rotate=旋转
 rotateTooltip=点击并拖拽旋转，点击仅将形状旋转90度
 rotation=旋转
 rounded=圆角
+runLastLayout=运行上次布局
 save=保存
 scroll=滚动至
 saveAndExit=保存并退出

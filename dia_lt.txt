@@ -739,6 +739,7 @@ rotate=Pasukti
 rotateTooltip=Spustelėkite ir vilkite, kad pasuktumėte, spustelėkite, kad pasuktumėte figūrą tik 90 laipsnių kampu
 rotation=Pasukimas
 rounded=Suapvalinta
+runLastLayout=Vykdyti paskutinį išdėstymą
 save=Išsaugoti
 scroll=Slinkti į
 saveAndExit=Išsaugoti ir išeiti

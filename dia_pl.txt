@@ -739,6 +739,7 @@ rotate=Obróć
 rotateTooltip=Kliknij i przeciągnij, aby obrócić; kliknij, aby przekręcić o 90 stopni
 rotation=Obrót
 rounded=Zaokrąglony
+runLastLayout=Uruchom ostatni układ
 save=Zapisz
 scroll=Przewiń do
 saveAndExit=Zapisz i wyjdź

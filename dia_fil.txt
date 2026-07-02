@@ -739,6 +739,7 @@ rotate=Paikutin
 rotateTooltip=Pindutin at hilahin para paikutin, pindutin para ikutin ang hugis ng 90 degrees lamang
 rotation=Pag-ikot
 rounded=Bilugan
+runLastLayout=Patakbuhin ang huling pagkakaayos
 save=I-save
 scroll=Mag-scroll sa
 saveAndExit=I-save at umalis

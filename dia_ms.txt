@@ -739,6 +739,7 @@ rotate=Putar
 rotateTooltip=Klik dan seret untuk memutar, klik untuk memutar bentuk hanya 90 darjah
 rotation=Putaran
 rounded=Bulat
+runLastLayout=Jalankan susun atur terakhir
 save=Simpan
 scroll=Tatal ke
 saveAndExit=Simpan & Keluar

@@ -739,6 +739,7 @@ rotate=Biratu
 rotateTooltip=Egin klik eta arrastatu biratzeko, egin klik forma 90 gradu soilik biratzeko
 rotation=Biraketa
 rounded=Borobildua
+runLastLayout=Exekutatu azken konposaketa
 save=Gorde
 scroll=Korritu hona
 saveAndExit=Gorde eta irten

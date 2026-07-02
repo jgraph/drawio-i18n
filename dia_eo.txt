@@ -739,6 +739,7 @@ rotate=Rotacii
 rotateTooltip=Klaku kaj trenu por rotacii, klaku por turni formon nur je 90 gradoj
 rotation=Rotacio
 rounded=Rondigita
+runLastLayout=Ruli lastan aranĝon
 save=Konservi
 scroll=Rulumi al
 saveAndExit=Konservi kaj eliri

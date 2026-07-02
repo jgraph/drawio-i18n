@@ -739,6 +739,7 @@ rotate=Girar
 rotateTooltip=Clique e arraste para girar. Clique para girar a forma em 90 graus
 rotation=Rotação
 rounded=Arredondado
+runLastLayout=Executar último layout
 save=Salvar
 scroll=Rolar até
 saveAndExit=Salvar e sair

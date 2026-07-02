@@ -739,6 +739,7 @@ rotate=Döndür
 rotateTooltip=Döndürmek için tıklayın ve sürükleyin, 90 derece döndürmek için tıklayın
 rotation=Döndürme
 rounded=Yuvarlanmış
+runLastLayout=Son düzeni çalıştır
 save=Kaydet
 scroll=Şuraya kaydır
 saveAndExit=Kaydet ve Çık

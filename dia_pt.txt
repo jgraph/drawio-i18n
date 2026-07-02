@@ -739,6 +739,7 @@ rotate=Rodar
 rotateTooltip=Clique e arraste para rodar, clique para virar a forma apenas 90 graus
 rotation=Rotação
 rounded=Arredondado
+runLastLayout=Executar último traçado
 save=Guardar
 scroll=Deslocar para
 saveAndExit=Guardar e sair

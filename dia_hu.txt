@@ -739,6 +739,7 @@ rotate=Forgatás
 rotateTooltip=Forgatáshoz kattintson és húzza, 90 fokos elforgatáshoz csak kattintson
 rotation=Forgatás
 rounded=Lekerekített
+runLastLayout=Utolsó elrendezés futtatása
 save=Mentés
 scroll=Görgetés ide
 saveAndExit=Mentés és kilépés

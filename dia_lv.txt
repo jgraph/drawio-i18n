@@ -739,6 +739,7 @@ rotate=Pagriezt
 rotateTooltip=Lai pagrieztu, noklikšķiniet un velciet, noklikšķiniet, lai pagrieztu formu tikai par 90 grādiem
 rotation=Rotācija
 rounded=Noapaļots
+runLastLayout=Palaist pēdējo izkārtojumu
 save=Saglabāt
 scroll=Ritināt uz
 saveAndExit=Saglabāt un iziet

@@ -739,6 +739,7 @@ rotate=කරකවන්න
 rotateTooltip=කරකැවීමට ක්ලික් කර අදින්න, හැඩය අංශක 90කින් පමණක් හැරවීමට ක්ලික් කරන්න
 rotation=භ්‍රමණය
 rounded=වටකුරු
+runLastLayout=අවසාන පිරිසැලසුම ධාවනය කරන්න
 save=සුරකින්න
 scroll=අනුචලනය
 saveAndExit=සුරකා පිටවන්න

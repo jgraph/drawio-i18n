@@ -739,6 +739,7 @@ rotate=Zungusha
 rotateTooltip=Bofya na buruta kuzungusha, bofya kugeuza umbo kwa nyuzi 90 pekee
 rotation=Uzungushaji
 rounded=Pembe Laini
+runLastLayout=Endesha mpangilio wa mwisho
 save=Hifadhi
 scroll=Sogeza Hadi
 saveAndExit=Hifadhi na Ondoka

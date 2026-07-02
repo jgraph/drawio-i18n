@@ -739,6 +739,7 @@ rotate=Rotiraj
 rotateTooltip=Klikni i vuci za rotiranje, klikni za okretanje oblika samo za 90 stepeni
 rotation=Rotacija
 rounded=Zaobljen
+runLastLayout=Pokreni poslednji raspored
 save=Snimi
 scroll=Помери до
 saveAndExit=Snimi i izađi

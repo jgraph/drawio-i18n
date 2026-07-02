@@ -739,6 +739,7 @@ rotate=Kierrä
 rotateTooltip=Klikkaa ja vedä kiertääksesi, klikkaa kääntääksesi muotoa vain 90 astetta
 rotation=Kiertäminen
 rounded=Pyöristetty
+runLastLayout=Suorita viimeisin asettelu
 save=Tallenna
 scroll=Vieritä kohtaan
 saveAndExit=Tallenna & poistu

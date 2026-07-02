@@ -739,6 +739,7 @@ rotate=አሽከርክር
 rotateTooltip=ለማሽከርከር ጠቅ አድርገው ይጎትቱ፣ ቅርጹን በ90 ዲግሪ ብቻ ለማዞር ጠቅ ያድርጉ
 rotation=ማሽከርከር
 rounded=ክብ ጠርዝ
+runLastLayout=የመጨረሻውን አቀማመጥ አሂድ
 save=አስቀምጥ
 scroll=ጥቅልል ወደ
 saveAndExit=አስቀምጥ እና ውጣ

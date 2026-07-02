@@ -739,6 +739,7 @@ rotate=घुमाएं
 rotateTooltip=घुमाने के लिए क्लिक करें और खींचें, केवल 90 डिग्री घुमाने के लिए क्लिक करें
 rotation=घुमाव
 rounded=गोलाकार
+runLastLayout=अंतिम लेआउट चलाएँ
 save=सहेजें
 scroll=स्क्रॉल करें
 saveAndExit=सहेजें और बाहर निकलें

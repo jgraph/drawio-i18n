@@ -732,6 +732,7 @@ rotate=‫قم بالتدوير‬
 rotateTooltip=‫انقر و اسحب للتدوير, انقر للتدوير بزاوية 90 درجة.‬
 rotation=‫تدوير‬
 rounded=‫دائري‬
+runLastLayout=‫تشغيل آخر تصميم‬
 save=‫حفظ‬
 scroll=انتقل إلى
 saveAndExit=‫حفظ و مغادرة‬

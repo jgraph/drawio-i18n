@@ -739,6 +739,7 @@ rotate=Roter
 rotateTooltip=Klik og træk for at rotere, klik for at rotere 90 grader
 rotation=Rotation
 rounded=Afrundet
+runLastLayout=Kør seneste layout
 save=Gem
 scroll=Rul til
 saveAndExit=Gem & Afslut

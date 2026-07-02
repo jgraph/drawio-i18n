@@ -739,6 +739,7 @@ rotate=Rotera
 rotateTooltip=Klicka-och-dra för att rotera, klicka för att rotera 90 grader
 rotation=Rotation
 rounded=Rundad
+runLastLayout=Kör senaste layout
 save=Spara
 scroll=Rulla till
 saveAndExit=Spara & Avsluta

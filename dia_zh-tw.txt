@@ -739,6 +739,7 @@ rotate=旋轉
 rotateTooltip=點選並拖曳旋轉，或單擊旋轉90度
 rotation=旋轉
 rounded=圓角
+runLastLayout=執行上次的版面配置
 save=儲存
 scroll=捲動至
 saveAndExit=儲存並退出

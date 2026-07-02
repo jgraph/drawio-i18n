@@ -739,6 +739,7 @@ rotate=Otočiť
 rotateTooltip=Kliknutím a ťahaním otočíte, kliknutím otočíte tvar iba o 90 stupňov
 rotation=Otočenie
 rounded=Zaoblené
+runLastLayout=Spustiť posledné rozloženie
 save=Uložiť
 scroll=Posunúť na
 saveAndExit=Uložiť a ukončiť

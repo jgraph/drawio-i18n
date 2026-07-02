@@ -739,6 +739,7 @@ rotate=Otočit
 rotateTooltip=Pokud chcete natočit, klikněte a táhněte. Pokud chcete otočit o 90 stupňů, pouze klikněte
 rotation=Natočení
 rounded=Zaoblený
+runLastLayout=Spustit poslední rozvržení
 save=Uložit
 scroll=Posunout na
 saveAndExit=Uložit a ukončit

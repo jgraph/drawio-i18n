@@ -739,6 +739,7 @@ rotate=Rotește
 rotateTooltip=Dă clic și trage pentru a roti, clic pentru a întoarce forma doar cu 90 de grade
 rotation=Rotație
 rounded=Rotunjit
+runLastLayout=Execută ultimul aranjament
 save=Salvare
 scroll=Derulează la
 saveAndExit=Salvare și ieșire

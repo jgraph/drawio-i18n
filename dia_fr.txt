@@ -739,6 +739,7 @@ rotate=Pivoter
 rotateTooltip=Cliquer et glisser pour pivoter, cliquer pour pivoter de 90 degrés
 rotation=Rotation
 rounded=Arrondi
+runLastLayout=Exécuter la dernière disposition
 save=Enregistrer
 scroll=Défiler vers
 saveAndExit=Enregistrer et quitter

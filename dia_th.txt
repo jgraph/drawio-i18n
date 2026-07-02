@@ -739,6 +739,7 @@ rotate=หมุน
 rotateTooltip=คลิกและลากเพื่อหมุน คลิกเพื่อหมุน 90 องศา
 rotation=การหมุน
 rounded=มุมมน
+runLastLayout=เรียกใช้เค้าโครงล่าสุด
 save=บันทึก
 scroll=เลื่อนไปที่
 saveAndExit=บันทึก และ ออก

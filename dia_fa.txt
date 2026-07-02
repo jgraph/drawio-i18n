@@ -739,6 +739,7 @@ rotate=‫چرخاندن‬
 rotateTooltip=‫برای چرخاندن کلیک کرده و بکشید، برای چرخش 90 درجه کلیک کنید‬
 rotation=‫چرخش‬
 rounded=‫گرد‬
+runLastLayout=‫اجرای آخرین چیدمان‬
 save=‫ذخیره‬
 scroll=پیمایش تا
 saveAndExit=‫ذخیره و خروج‬

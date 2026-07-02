@@ -739,6 +739,7 @@ rotate=Rota
 rotateTooltip=Feu clic i arrossegueu per rotar, feu clic per girar 90 graus
 rotation=Rotació
 rounded=Arrodonit
+runLastLayout=Executa el darrer disseny
 save=Desa
 scroll=Desplaça fins a
 saveAndExit=Desa i surt

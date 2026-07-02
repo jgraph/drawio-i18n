@@ -739,6 +739,7 @@ rotate=ફેરવો
 rotateTooltip=ફેરવવા માટે ક્લિક કરો અને ખેંચો, આકારને ફક્ત 90 ડિગ્રી ફેરવવા માટે ક્લિક કરો
 rotation=પરિભ્રમણ
 rounded=ગોળાકાર
+runLastLayout=છેલ્લું લેઆઉટ ચલાવો
 save=સાચવો
 scroll=સ્ક્રોલ કરો
 saveAndExit=સાચવો અને બહાર નીકળો

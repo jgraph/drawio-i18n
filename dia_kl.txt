@@ -739,6 +739,7 @@ rotate=Kaasalaaruk
 rotateTooltip=Tooruk nuukkullugillu kaasalaarniarlugu, toorlugu angusat kisimik 90 gradussinik kaasalaassallugu
 rotation=Kaasalaaneq
 rounded=Avataarujulik
+runLastLayout=Imminnut ilanngussineq kingulleq ingerlatiguk
 save=Toqqoruk
 scroll=Pissaagit
 saveAndExit=Toqqoruk & Aniit

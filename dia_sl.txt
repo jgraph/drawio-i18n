@@ -739,6 +739,7 @@ rotate=Zasukaj
 rotateTooltip=Kliknite in povlecite za zasuk, kliknite za zasuk oblike samo za 90 stopinj
 rotation=Zasuk
 rounded=Zaobljeno
+runLastLayout=Zaženi zadnjo postavitev
 save=Shrani
 scroll=Pomakni do
 saveAndExit=Shrani in zapri

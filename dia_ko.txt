@@ -739,6 +739,7 @@ rotate=회전
 rotateTooltip=클릭 후 드래그하여 회전, 클릭하여 90도 회전
 rotation=회전
 rounded=둥근 모서리
+runLastLayout=마지막 레이아웃 실행
 save=저장
 scroll=스크롤 대상
 saveAndExit=저장 후 나가기

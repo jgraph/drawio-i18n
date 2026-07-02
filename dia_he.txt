@@ -732,6 +732,7 @@ rotate=‫סובב‬
 rotateTooltip=‫לחץ וגרור כדי לסובב, לחץ כדי לסובב ב-90 מעלות‬
 rotation=‫סיבוב‬
 rounded=‫מעוגל‬
+runLastLayout=‫הפעל את הפריסה האחרונה‬
 save=‫שמור‬
 scroll=גלול אל
 saveAndExit=‫שמור וצא‬

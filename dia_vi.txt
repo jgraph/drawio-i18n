@@ -739,6 +739,7 @@ rotate=Xoay
 rotateTooltip=Nhấp chuột và kéo để xoay, nhấp chuột để xoay 90 độ
 rotation=Góc xoay
 rounded=Bo tròn
+runLastLayout=Chạy bố cục gần nhất
 save=Lưu
 scroll=Cuộn đến
 saveAndExit=Lưu & Thoát

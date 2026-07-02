@@ -739,6 +739,7 @@ rotate=ঘোরান
 rotateTooltip=ঘোরাতে ক্লিক করে টানুন, শুধুমাত্র ৯০ ডিগ্রি ঘোরাতে ক্লিক করুন
 rotation=ঘূর্ণন
 rounded=গোলাকার
+runLastLayout=সর্বশেষ লেআউট চালান
 save=সংরক্ষণ
 scroll=স্ক্রল করুন
 saveAndExit=সংরক্ষণ ও প্রস্থান

@@ -738,6 +738,7 @@ rotate=rotate
 rotateTooltip=rotateTooltip
 rotation=rotation
 rounded=rounded
+runLastLayout=runLastLayout
 save=save
 scroll=Scroll To
 saveAndExit=saveAndExit
