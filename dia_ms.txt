@@ -43,7 +43,6 @@ allowRelativeUrl=Benarkan URL relatif
 alreadyConnected=Nod telah disambungkan
 appearance=Penampilan
 apply=Gunakan
-appUpdateAvailable=Versi baharu tersedia. Klik di sini untuk mengemas kini.
 archiMate21=ArchiMate 2.1
 arrange=Susun
 arrow=Anak panah

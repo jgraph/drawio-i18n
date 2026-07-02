@@ -43,7 +43,6 @@ allowRelativeUrl=റിലേറ്റീവ് URL അനുവദിക്ക�
 alreadyConnected=നോഡുകൾ ഇതിനകം കണക്റ്റ് ചെയ്തിരിക്കുന്നു
 appearance=രൂപഭാവം
 apply=പ്രയോഗിക്കുക
-appUpdateAvailable=ഒരു പുതിയ പതിപ്പ് ലഭ്യമാണ്. അപ്ഡേറ്റ് ചെയ്യാൻ ഇവിടെ ക്ലിക്ക് ചെയ്യുക.
 archiMate21=ArchiMate 2.1
 arrange=ക്രമീകരിക്കുക
 arrow=അമ്പ്
