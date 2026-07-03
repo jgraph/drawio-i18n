@@ -1443,6 +1443,7 @@ orthogonalStrict=Trực giao (nghiêm ngặt)
 openLucidSite=Mở trang web Lucidchart trong tab khác và đăng nhập vào tài khoản của bạn, sau đó quay lại tab này và nhấp lại vào nút "Bắt đầu nhập".
 previewSaveNoPermission=Bạn không có quyền lưu hình ảnh xem trước. Trang nguồn có thể bị hạn chế hoặc bạn có thể không có quyền chỉnh sửa trên trang. Điều này chỉ ảnh hưởng đến việc xuất trang này sang PDF/Word.
 preserveOrigin=Giữ gốc tọa độ
+sharedStems=Gộp các liên kết đi ra
 edgeStyle=Kiểu cạnh
 corners=Góc
 keepStyle=Giữ kiểu

@@ -1443,6 +1443,7 @@ orthogonalStrict=ኦርተጉናል (Strict)
 openLucidSite=ሌላ ትር ውስጥ Lucidchart ድህረ-ገጽ ይክፈቱ እና ወደ መለያዎ ይግቡ፣ ከዚያ ወደዚህ ትር ይመለሱ እና "ማስገባት ጀምር" ቁልፍን ዳግም ጠቅ ያድርጉ።
 previewSaveNoPermission=የቅድመ-እይታ ምስልን ለማስቀመጥ ፈቃድ የለዎትም። ምንጩ ገጽ የተገደበ ሊሆን ይችላል ወይም በገጹ ላይ የማረም ፈቃድ ላይኖርዎት ይችላል። ይህ የሚነካው ይህን ገጽ ወደ PDF/Word መላክን ብቻ ነው።
 preserveOrigin=Preserve Origin
+sharedStems=Bundle Outgoing Connections
 edgeStyle=የጠርዝ ቅጥ
 corners=ማዕዘኖች
 keepStyle=ቅጥን አስቀምጥ

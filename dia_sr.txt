@@ -1443,6 +1443,7 @@ orthogonalStrict=Ortogonalni (strogi)
 openLucidSite=Отворите Lucidchart сајт у другој картици и пријавите се у свој налог, затим се вратите на ову картицу и поново кликните на дугме „Start Import".
 previewSaveNoPermission=Немате дозволу да сачувате слику прегледа. Изворна страница може бити ограничена или можда немате дозволу за уређивање странице. Ово утиче само на извоз ове странице у PDF/Word.
 preserveOrigin=Sačuvaj koordinatni početak
+sharedStems=Grupiši izlazne veze
 edgeStyle=Стил ивице
 corners=Углови
 keepStyle=Задржи стил

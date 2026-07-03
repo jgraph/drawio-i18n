@@ -1443,6 +1443,7 @@ orthogonalStrict=Dikgen (sıkı)
 openLucidSite=Lucidchart sitesini başka bir sekmede açın ve hesabınıza giriş yapın, ardından bu sekmeye geri dönün ve "İçe Aktarmayı Başlat" düğmesine tekrar tıklayın.
 previewSaveNoPermission=Önizleme görüntüsünü kaydetme izniniz yok. Kaynak sayfa kısıtlanmış olabilir veya sayfada düzenleme izniniz olmayabilir. Bu yalnızca bu sayfanın PDF/Word olarak dışa aktarılmasını etkiler.
 preserveOrigin=Orijini koru
+sharedStems=Giden bağlantıları grupla
 edgeStyle=Kenar stili
 corners=Köşeler
 keepStyle=Stili koru

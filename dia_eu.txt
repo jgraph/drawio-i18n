@@ -1443,6 +1443,7 @@ orthogonalStrict=Ortogonala (zorrotza)
 openLucidSite=Ireki Lucidchart webgunea beste fitxa batean eta hasi saioa zure kontuan, ondoren itzuli fitxa honetara eta klikatu berriro "Hasi inportatzen" botoian.
 previewSaveNoPermission=Ez duzu aurrebistaren irudia gordetzeko baimenik. Iturburu-orria mugatuta egon daiteke edo agian ez duzu orrian editatzeko baimenik. Honek orri honen PDF/Word esportazioari soilik eragiten dio.
 preserveOrigin=Mantendu jatorria
+sharedStems=Bildu irteerako konexioak
 edgeStyle=Ertzaren estiloa
 corners=Izkinak
 keepStyle=Mantendu estiloa

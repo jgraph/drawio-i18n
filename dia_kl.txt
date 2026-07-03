@@ -1443,6 +1443,7 @@ orthogonalStrict=Ortogonal (Strict)
 openLucidSite=Lucidchart-ip internetimminni allat tabimi atugarissaaruk atorlugilu nalunaarsorpallasimavaa, tassanngaannaq tabi una nutaap atorlugit "Aatsisarineq aallartippoq" tigummissaguk.
 previewSaveNoPermission=Assit takutitsisartup toqqorniarnissaa pisinnaatitaaffigingilat. Quppernerup imminut killiliivaa imaluunniit quppernermi allanngortitsisinnaajunnaarpat. Tamanna kisiat suliffigineqartut PDF/Word-imut nuussinermut sunniuteqarpoq.
 preserveOrigin=Preserve Origin
+sharedStems=Bundle Outgoing Connections
 edgeStyle=Sineriup ilusia
 corners=Iggiat
 keepStyle=Ilusia attatigit

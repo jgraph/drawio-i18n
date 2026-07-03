@@ -1443,6 +1443,7 @@ orthogonalStrict=Ortogonal (estricte)
 openLucidSite=Obriu el lloc web de Lucidchart en una altra pestanya i inicieu sessió al vostre compte, després torneu a aquesta pestanya i feu clic de nou al botó "Inicia la importació".
 previewSaveNoPermission=No teniu permís per desar la imatge de previsualització. La pàgina d'origen pot estar restringida o és possible que no tingueu permís d'edició a la pàgina. Això només afecta l'exportació d'aquesta pàgina a PDF/Word.
 preserveOrigin=Conserva l'origen
+sharedStems=Agrupa les connexions de sortida
 edgeStyle=Estil de vora
 corners=Cantonades
 keepStyle=Mantenir estil

@@ -1443,6 +1443,7 @@ orthogonalStrict=orthogonalStrict
 openLucidSite=openLucidSite
 previewSaveNoPermission=previewSaveNoPermission
 preserveOrigin=Preserve Origin
+sharedStems=Bundle Outgoing Connections
 edgeStyle=edgeStyle
 corners=corners
 keepStyle=keepStyle
