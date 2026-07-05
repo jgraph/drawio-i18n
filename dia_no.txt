@@ -409,6 +409,7 @@ grid=Rutenett
 gridColor=Rutenettfarge
 gridSize=Størrelse på rutenett
 group=Grupper
+groupPadding=Gruppeutfylling
 guides=Støttelinjer
 heading=Overskrift
 height=Høyde

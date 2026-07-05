@@ -409,6 +409,7 @@ grid=Lưới
 gridColor=Màu lưới
 gridSize=Kích thước lưới
 group=Nhóm lại
+groupPadding=Đệm nhóm
 guides=Đường căn chỉnh
 heading=Tiêu đề
 height=Chiều cao

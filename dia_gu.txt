@@ -409,6 +409,7 @@ grid=ગ્રિડ
 gridColor=ગ્રિડ રંગ
 gridSize=ગ્રિડ કદ
 group=ગ્રુપ
+groupPadding=જૂથ પેડિંગ
 guides=માર્ગદર્શિકાઓ
 heading=શીર્ષક
 height=ઊંચાઈ

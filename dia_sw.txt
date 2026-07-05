@@ -409,6 +409,7 @@ grid=Gridi
 gridColor=Rangi ya Gridi
 gridSize=Ukubwa wa Gridi
 group=Kundi
+groupPadding=Nafasi ya ndani ya kundi
 guides=Miongozo
 heading=Kichwa
 height=Urefu

@@ -409,6 +409,7 @@ grid=網格
 gridColor=網格線顏色
 gridSize=網格大小
 group=群組
+groupPadding=群組內距
 guides=參考線
 heading=標題
 height=高

@@ -409,6 +409,7 @@ grid=Gitternetz
 gridColor=Gitternetzfarbe
 gridSize=Gitternetzgröße
 group=Gruppieren
+groupPadding=Gruppen-Innenabstand
 guides=Führungslinien
 heading=Überschrift
 height=Höhe

@@ -409,6 +409,7 @@ grid=ဂရစ်
 gridColor=ဂရစ်အရောင်
 gridSize=ဂရစ်အရွယ်အစား
 group=အုပ်စုဖွဲ့
+groupPadding=အုပ်စု အတွင်းအကွာအဝေး
 guides=လမ်းညွှန်များ
 heading=ခေါင်းစဉ်
 height=အမြင့်

@@ -409,6 +409,7 @@ grid=‫شبکه‬
 gridColor=‫رنگ شبکه‬
 gridSize=‫اندازه شبکه‬
 group=‫گروه‬
+groupPadding=‫فاصله داخلی گروه‬
 guides=‫راهنماها‬
 heading=‫سرتیتر‬
 height=‫ارتفاع‬

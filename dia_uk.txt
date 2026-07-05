@@ -409,6 +409,7 @@ grid=Сітка
 gridColor=Колір сітки
 gridSize=Розмір сітки
 group=Групувати
+groupPadding=Внутрішній відступ групи
 guides=Напрямні
 heading=Заголовок
 height=Висота

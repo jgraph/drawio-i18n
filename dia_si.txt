@@ -409,6 +409,7 @@ grid=ජාලකය
 gridColor=ජාලක වර්ණය
 gridSize=ජාලක ප්‍රමාණය
 group=සමූහය
+groupPadding=සමූහයේ අභ්‍යන්තර පිරවුම
 guides=මාර්ගෝපදේශ
 heading=ශීර්ෂය
 height=උස

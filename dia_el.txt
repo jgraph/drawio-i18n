@@ -409,6 +409,7 @@ grid=Πλέγμα
 gridColor=Χρώμα πλέγματος
 gridSize=Μέγεθος πλέγματος
 group=Ομαδοποίηση
+groupPadding=Εσωτερικό περιθώριο ομάδας
 guides=Οδηγοί
 heading=Επικεφαλίδα
 height=Ύψος

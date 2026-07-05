@@ -409,6 +409,7 @@ grid=격자
 gridColor=격자 색상
 gridSize=격자 크기
 group=그룹
+groupPadding=그룹 안쪽 여백
 guides=가이드
 heading=제목
 height=높이

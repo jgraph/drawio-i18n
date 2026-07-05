@@ -409,6 +409,7 @@ grid=Sareta
 gridColor=Saretaren kolorea
 gridSize=Saretaren tamaina
 group=Taldea
+groupPadding=Taldearen betegarria
 guides=Gidak
 heading=Izenburua
 height=Altuera

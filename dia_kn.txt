@@ -409,6 +409,7 @@ grid=ಗ್ರಿಡ್
 gridColor=ಗ್ರಿಡ್ ಬಣ್ಣ
 gridSize=ಗ್ರಿಡ್ ಗಾತ್ರ
 group=ಗುಂಪು
+groupPadding=ಗುಂಪಿನ ಒಳ ಅಂತರ
 guides=ಮಾರ್ಗದರ್ಶಿಗಳು
 heading=ಶೀರ್ಷಿಕೆ
 height=ಎತ್ತರ

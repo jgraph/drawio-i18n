@@ -409,6 +409,7 @@ grid=Tinklelis
 gridColor=Tinklelio spalva
 gridSize=Tinklelio dydis
 group=Grupuoti
+groupPadding=Vidinis grupės tarpas
 guides=Kreiptuvai
 heading=Antraštė
 height=Aukštis

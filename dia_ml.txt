@@ -409,6 +409,7 @@ grid=ഗ്രിഡ്
 gridColor=ഗ്രിഡ് നിറം
 gridSize=ഗ്രിഡ് വലുപ്പം
 group=ഗ്രൂപ്പ്
+groupPadding=ഗ്രൂപ്പ് പാഡിംഗ്
 guides=ഗൈഡുകൾ
 heading=തലക്കെട്ട്
 height=ഉയരം

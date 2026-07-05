@@ -409,6 +409,7 @@ grid=Grade
 gridColor=Cor da grade
 gridSize=Tamanho da grade
 group=Agrupar
+groupPadding=Preenchimento do grupo
 guides=Guias
 heading=Cabeçalho
 height=Altura

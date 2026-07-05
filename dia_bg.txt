@@ -409,6 +409,7 @@ grid=Решетка
 gridColor=Цвят на решетката
 gridSize=Размер на решетката
 group=Група
+groupPadding=Вътрешно поле на групата
 guides=Водачи
 heading=Заглавие
 height=Височина

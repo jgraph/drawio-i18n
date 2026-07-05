@@ -409,6 +409,7 @@ grid=Toortat
 gridColor=Toortat qalipaat
 gridSize=Toortat angissusiat
 group=Kattuffik
+groupPadding=Kattuffiup iluani inissaa
 guides=Ilitsersuutit
 heading=Qulequtaq
 height=Portussuseq

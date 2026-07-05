@@ -409,6 +409,7 @@ grid=Ruudustik
 gridColor=Ruudustiku värv
 gridSize=Ruudustiku suurus
 group=Rühm
+groupPadding=Rühma sisepolster
 guides=Juhikud
 heading=Päis
 height=Kõrgus

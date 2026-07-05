@@ -409,6 +409,7 @@ grid=Griglia
 gridColor=Colore griglia
 gridSize=Dimensioni griglia
 group=Raggruppa
+groupPadding=Spaziatura interna del gruppo
 guides=Guide
 heading=Titolo
 height=Altezza

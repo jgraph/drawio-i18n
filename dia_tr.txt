@@ -409,6 +409,7 @@ grid=Kılavuz
 gridColor=Kılavuz Rengi
 gridSize=Kılavuz boyutu
 group=Grupla
+groupPadding=Grup dolgusu
 guides=Kılavuzlar
 heading=Başlık
 height=Yükseklik

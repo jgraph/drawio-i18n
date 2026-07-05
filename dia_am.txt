@@ -409,6 +409,7 @@ grid=ግሪድ
 gridColor=ግሪድ ቀለም
 gridSize=ግሪድ መጠን
 group=ቡድን
+groupPadding=የቡድን ውስጣዊ ክፍተት
 guides=መመሪያዎች
 heading=ርዕስ
 height=ከፍታ

@@ -409,6 +409,7 @@ grid=গ্রিড
 gridColor=গ্রিড রঙ
 gridSize=গ্রিড আকার
 group=গ্রুপ
+groupPadding=গ্রুপ প্যাডিং
 guides=গাইড
 heading=শিরোনাম
 height=উচ্চতা

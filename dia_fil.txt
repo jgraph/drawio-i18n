@@ -409,6 +409,7 @@ grid=Salungguhit
 gridColor=Kulay ng Grid
 gridSize=Sukat ng Grid
 group=Grupo
+groupPadding=Padding ng grupo
 guides=Mga gabay
 heading=Pamagat
 height=Taas

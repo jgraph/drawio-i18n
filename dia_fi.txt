@@ -409,6 +409,7 @@ grid=Ruudukko
 gridColor=Ruudukon väri
 gridSize=Ruudukon koko
 group=Ryhmitä
+groupPadding=Ryhmän täyte
 guides=Apuviivat
 heading=Otsikko
 height=Korkeus

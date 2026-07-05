@@ -409,6 +409,7 @@ grid=Krado
 gridColor=Krada koloro
 gridSize=Krada grandeco
 group=Grupigi
+groupPadding=Interna ŝtopado de grupo
 guides=Gvidlinioj
 heading=Titolo
 height=Alto

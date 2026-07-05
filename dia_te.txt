@@ -409,6 +409,7 @@ grid=గ్రిడ్
 gridColor=గ్రిడ్ రంగు
 gridSize=గ్రిడ్ పరిమాణం
 group=గ్రూప్
+groupPadding=గ్రూప్ ప్యాడింగ్
 guides=గైడ్‌లు
 heading=హెడ్డింగ్
 height=ఎత్తు

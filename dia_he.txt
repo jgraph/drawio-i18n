@@ -404,6 +404,7 @@ grid=‫רשת‬
 gridColor=‫צבע רשת‬
 gridSize=‫גודל רשת‬
 group=‫קבץ‬
+groupPadding=‫ריפוד קבוצה‬
 guides=‫מדריכים‬
 heading=‫כותרת‬
 height=‫גובה‬

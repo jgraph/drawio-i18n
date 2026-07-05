@@ -409,6 +409,7 @@ grid=Grella
 gridColor=Cor da grella
 gridSize=Tamaño da grella
 group=Grupo
+groupPadding=Recheo do grupo
 guides=Guías
 heading=Cabeceira
 height=Altura

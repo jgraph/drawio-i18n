@@ -409,6 +409,7 @@ grid=Grid
 gridColor=Warna Grid
 gridSize=Saiz Grid
 group=Kumpulan
+groupPadding=Padding kumpulan
 guides=Panduan
 heading=Tajuk
 height=Ketinggian

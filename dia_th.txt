@@ -409,6 +409,7 @@ grid=แบบตาราง
 gridColor=สีของตาราง
 gridSize=ขนาดของแบบตาราง
 group=กลุ่ม
+groupPadding=ระยะห่างภายในกลุ่ม
 guides=เส้นบอกแนว
 heading=หัวข้อ
 height=ความสูง

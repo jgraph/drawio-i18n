@@ -409,6 +409,7 @@ grid=Siatka
 gridColor=Kolor siatki
 gridSize=Rozmiar siatki
 group=Grupuj
+groupPadding=Wewnętrzny margines grupy
 guides=Prowadnice
 heading=Nagłówek
 height=Wysokość

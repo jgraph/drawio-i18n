@@ -409,6 +409,7 @@ grid=Quadrícula
 gridColor=Color de la quadrícula
 gridSize=Mida de la quadrícula
 group=Agrupar
+groupPadding=Encoixinat del grup
 guides=Guies
 heading=Capçalera
 height=Alçada

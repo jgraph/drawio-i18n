@@ -409,6 +409,7 @@ grid=グリッド
 gridColor=グリッドの色
 gridSize=グリッドサイズ
 group=グループ化
+groupPadding=グループのパディング
 guides=ガイド
 heading=見出し
 height=縦幅

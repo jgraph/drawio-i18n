@@ -404,6 +404,7 @@ grid=‫شبكة‬
 gridColor=‫لون الشبكة‬
 gridSize=‫حجم الشبكة‬
 group=‫تصنيف‬
+groupPadding=‫حشو المجموعة‬
 guides=‫أدلة‬
 heading=‫عنوان‬
 height=‫الارتفاع‬

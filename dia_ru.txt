@@ -409,6 +409,7 @@ grid=Сетка
 gridColor=Цвет сетки
 gridSize=Шаг сетки
 group=Группировать
+groupPadding=Внутренний отступ группы
 guides=Направляющие
 heading=Заголовок
 height=Высота

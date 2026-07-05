@@ -409,6 +409,7 @@ grid=கட்டம்
 gridColor=கட்டம் நிறம்
 gridSize=கட்டம் அளவு
 group=குழு
+groupPadding=குழு உள் இடைவெளி
 guides=வழிகாட்டிகள்
 heading=தலைப்பு
 height=உயரம்

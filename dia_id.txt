@@ -409,6 +409,7 @@ grid=Kisi
 gridColor=Warna Kisi
 gridSize=Ukuran Kisi
 group=Grup
+groupPadding=Padding grup
 guides=Panduan
 heading=Tajuk
 height=Tinggi

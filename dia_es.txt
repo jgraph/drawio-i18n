@@ -409,6 +409,7 @@ grid=Cuadrícula
 gridColor=Color de la cuadrícula
 gridSize=Tamaño de la cuadrícula
 group=Agrupar
+groupPadding=Relleno del grupo
 guides=Guías
 heading=Encabezado
 height=Altura

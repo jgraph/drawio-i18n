@@ -409,6 +409,7 @@ grid=网格
 gridColor=网格线颜色
 gridSize=网格大小
 group=组合
+groupPadding=组内边距
 guides=参考线
 heading=标题
 height=高

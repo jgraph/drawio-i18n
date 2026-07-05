@@ -409,6 +409,7 @@ grid=Rutnät
 gridColor=Rutnätsfärg
 gridSize=Rutnätsstorlek
 group=Gruppera
+groupPadding=Grupputfyllnad
 guides=Stödlinjer
 heading=Rubrik
 height=Höjd

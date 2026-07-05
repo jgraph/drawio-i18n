@@ -408,6 +408,7 @@ grid=grid
 gridColor=gridColor
 gridSize=gridSize
 group=group
+groupPadding=groupPadding
 guides=guides
 heading=heading
 height=height

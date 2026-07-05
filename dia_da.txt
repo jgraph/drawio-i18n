@@ -409,6 +409,7 @@ grid=Gitter
 gridColor=Gitterfarve
 gridSize=Gitterstørrelse
 group=Gruppe
+groupPadding=Gruppeudfyldning
 guides=Hjælpelinjer
 heading=Overskrift
 height=Højde

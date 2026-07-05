@@ -409,6 +409,7 @@ grid=Mriežka
 gridColor=Farba mriežky
 gridSize=Veľkosť mriežky
 group=Zoskupiť
+groupPadding=Vnútorný okraj skupiny
 guides=Vodítka
 heading=Nadpis
 height=Výška

@@ -409,6 +409,7 @@ grid=Grilă
 gridColor=Culoare grilă
 gridSize=Dimensiune grilă
 group=Grupează
+groupPadding=Spațiere interioară grup
 guides=Ghiduri
 heading=Titlu
 height=Înălțime

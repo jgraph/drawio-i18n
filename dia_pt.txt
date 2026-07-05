@@ -409,6 +409,7 @@ grid=Grelha
 gridColor=Cor da grelha
 gridSize=Tamanho da grelha
 group=Agrupar
+groupPadding=Preenchimento do grupo
 guides=Guias
 heading=Cabeçalho
 height=Altura

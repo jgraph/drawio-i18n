@@ -408,6 +408,7 @@ grid=Raster
 gridColor=Rasterkleur
 gridSize=Rastergrootte
 group=Groeperen
+groupPadding=Groepsopvulling
 guides=Hulplijnen
 heading=Kop
 height=Hoogte

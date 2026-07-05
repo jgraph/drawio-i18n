@@ -409,6 +409,7 @@ grid=Rács
 gridColor=Rács színe
 gridSize=Rács mérete
 group=Csoportosít
+groupPadding=Csoport belső margója
 guides=Segédvonalak
 heading=Címsor
 height=Magasság

@@ -409,6 +409,7 @@ grid=Mreža
 gridColor=Boja mreže
 gridSize=Veličina mreže
 group=Grupiraj
+groupPadding=Unutarnja ispuna grupe
 guides=Vodilice
 heading=Naslov
 height=Visina

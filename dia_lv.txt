@@ -409,6 +409,7 @@ grid=Režģis
 gridColor=Režģa krāsa
 gridSize=Režģa izmērs
 group=Grupēt
+groupPadding=Grupas iekšējā atkāpe
 guides=Vadlīnijas
 heading=Virsraksts
 height=Augstums
