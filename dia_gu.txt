@@ -1440,7 +1440,6 @@ wait=રાહ જુઓ
 anonymize=અનામી કરો
 connector=કનેક્ટર
 extractText=લખાણ કાઢો
-orthogonalStrict=ઓર્થોગોનલ (Strict)
 openLucidSite=બીજી ટૅબમાં Lucidchart સાઇટ ખોલો અને તમારા ખાતામાં લૉગ ઇન કરો, પછી આ ટૅબ પર પાછા આવો અને ફરીથી "આયાત શરૂ કરો" બટન ક્લિક કરો.
 previewSaveNoPermission=તમારી પાસે પ્રીવ્યૂ ઇમેજ સાચવવાની પરવાનગી નથી. સ્રોત પૃષ્ઠ પ્રતિબંધિત હોઈ શકે છે અથવા તમારી પાસે પૃષ્ઠ પર સંપાદન પરવાનગી ન હોઈ શકે. આ ફક્ત આ પૃષ્ઠને PDF/Word પર નિકાસ કરવાને અસર કરે છે.
 preserveOrigin=Preserve Origin

@@ -1440,7 +1440,6 @@ wait=Wachten
 anonymize=Anonimiseren
 connector=Connector
 extractText=Tekst extraheren
-orthogonalStrict=Orthogonaal (strikt)
 openLucidSite=Open de Lucidchart-website in een ander tabblad en log in op uw account, kom dan terug naar dit tabblad en klik opnieuw op de knop "Start importeren".
 previewSaveNoPermission=U heeft geen toestemming om de voorbeeldafbeelding op te slaan. De bronpagina kan beperkt zijn of u heeft mogelijk geen bewerkingsrechten op de pagina. Dit beïnvloedt alleen het exporteren van deze pagina naar PDF/Word.
 preserveOrigin=Oorsprong behouden

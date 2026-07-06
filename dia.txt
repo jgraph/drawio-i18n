@@ -1450,7 +1450,6 @@ anonymize=Anonymize
 connector=Connector
 extractText=Extract Text
 legacyLayouts=Legacy Layouts
-orthogonalStrict=Orthogonal (Strict)
 edgeStyle=Edge Style
 corners=Corners
 keepStyle=Keep Existing Style

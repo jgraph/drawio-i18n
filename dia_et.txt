@@ -1440,7 +1440,6 @@ wait=Oota
 anonymize=Muuda anonüümseks
 connector=Konnektor
 extractText=Eralda tekst
-orthogonalStrict=Ortogonaalne (range)
 openLucidSite=Avage Lucidchart'i sait teises vahekaardis ja logige oma kontole sisse, seejärel tulge selle vahekaardi juurde tagasi ja klõpsake uuesti nuppu „Alusta importi".
 previewSaveNoPermission=Teil pole õigust eelvaate pildi salvestamiseks. Lähtelehekülg võib olla piiratud või teil ei pruugi olla lehekülje redigeerimisõigust. See mõjutab ainult selle lehekülje eksportimist PDF/Word-i.
 preserveOrigin=Säilita lähtepunkt

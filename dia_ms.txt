@@ -1440,7 +1440,6 @@ wait=Tunggu
 anonymize=Anonimkan
 connector=Penyambung
 extractText=Ekstrak teks
-orthogonalStrict=Ortogonal (ketat)
 openLucidSite=Buka laman Lucidchart dalam tab lain dan log masuk ke akaun anda, kemudian kembali ke tab ini dan klik butang "Mula Import" sekali lagi.
 previewSaveNoPermission=Anda tidak mempunyai kebenaran untuk menyimpan imej pratonton. Halaman sumber mungkin dihadkan atau anda mungkin tidak mempunyai kebenaran untuk mengedit halaman tersebut. Ini hanya mempengaruhi eksport halaman ini ke PDF/Word.
 preserveOrigin=Kekalkan titik asalan
