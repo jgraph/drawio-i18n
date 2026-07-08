@@ -584,6 +584,7 @@ noResponse=Tiada respons daripada pelayan
 noResultsFor=Tiada hasil untuk '{1}'
 noRevisions=Tiada semakan
 noSearchResults=Tiada hasil carian ditemui
+noStepsYet=Belum ada langkah. Tambah langkah pertama di bawah.
 noPageContentOrNotSaved=Tiada sauh ditemui pada halaman ini atau ia belum disimpan lagi
 normal=Normal
 north=Utara

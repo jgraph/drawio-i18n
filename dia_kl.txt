@@ -584,6 +584,7 @@ noResponse=Server-imit akiuuteqanngilaq
 noResultsFor={1}'-imut sumipassuit naatsut
 noRevisions=Iluarsaanerat naatsut
 noSearchResults=Ujarlerinermi sumipassuit naatsersornagit
+noStepsYet=Alloriarfiit suli pineqanngillat. Alloriarfik siulleq ataani ilanngutiuk.
 noPageContentOrNotSaved=Quppernermi tamaani anchor-it naatsersornagit imaluunniit suli toqqaanngitsut
 normal=Nalinginnaaq
 north=Avannaani

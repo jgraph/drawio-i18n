@@ -584,6 +584,7 @@ noResponse=Serveris neatsako
 noResultsFor=Nerasta rezultatų užklausai '{1}'
 noRevisions=Nėra versijų
 noSearchResults=Paieškos rezultatų nerasta
+noStepsYet=Kol kas nėra žingsnių. Pridėkite pirmą žingsnį žemiau.
 noPageContentOrNotSaved=Šiame puslapyje nerasta jokių žymių arba jis dar neišsaugotas
 normal=Paprastas
 north=Šiaurė

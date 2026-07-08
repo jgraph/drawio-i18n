@@ -584,6 +584,7 @@ noResponse=Hakuna jibu kutoka kwa seva
 noResultsFor=Hakuna matokeo ya '{1}'
 noRevisions=Hakuna marekebisho
 noSearchResults=Hakuna matokeo ya utafutaji yaliyopatikana
+noStepsYet=Bado hakuna hatua. Ongeza hatua ya kwanza hapa chini.
 noPageContentOrNotSaved=Hakuna nanga zilizopatikana kwenye ukurasa huu au bado haujahifadhiwa
 normal=Kawaida
 north=Kaskazini

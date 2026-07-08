@@ -584,6 +584,7 @@ noResponse=Keine Antwort vom Server
 noResultsFor=Keine Resultate für '{1}'
 noRevisions=Keine Überarbeitungen
 noSearchResults=Keine Suchergebnisse gefunden
+noStepsYet=Noch keine Schritte. Fügen Sie unten den ersten Schritt hinzu.
 noPageContentOrNotSaved=Kein Seiteninhalt oder noch nicht gespeichert
 normal=Normal
 north=Nord

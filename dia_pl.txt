@@ -584,6 +584,7 @@ noResponse=Brak odpowiedzi z serwera
 noResultsFor=Brak wyników dla '{1}'
 noRevisions=Brak wersji
 noSearchResults=Brak wyników wyszukiwania
+noStepsYet=Brak kroków. Dodaj pierwszy krok poniżej.
 noPageContentOrNotSaved=Na tej stronie nie znaleziono kotwic lub nie zostały jeszcze zapisane
 normal=Normalny
 north=Północ

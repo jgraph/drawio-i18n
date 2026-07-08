@@ -583,6 +583,7 @@ noResponse=Geen antwoord van de server
 noResultsFor=Geen resultaten voor '{1}'
 noRevisions=Geen revisies
 noSearchResults=Geen zoekresultaten gevonden
+noStepsYet=Nog geen stappen. Voeg hieronder de eerste stap toe.
 noPageContentOrNotSaved=Geen ankers op deze pagina gevonden of hij is nog niet opgeslagen.
 normal=Normaal
 north=Boven

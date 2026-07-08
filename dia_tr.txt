@@ -584,6 +584,7 @@ noResponse=Sunucudan yanıt yok
 noResultsFor='{1}' için sonuç yok
 noRevisions=Revizyon yok
 noSearchResults=Arama sonucu bulunamadı
+noStepsYet=Henüz adım yok. İlk adımı aşağıdan ekleyin.
 noPageContentOrNotSaved=Bu sayfada tutturucular bulunmamaktadır veya henüz kaydedilmedi
 normal=Normal
 north=Kuzey

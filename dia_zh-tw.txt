@@ -584,6 +584,7 @@ noResponse=伺服器無回應
 noResultsFor=未找到「{1}」的相關結果
 noRevisions=無修訂
 noSearchResults=無任何搜尋結果
+noStepsYet=尚無步驟。請在下方新增第一個步驟。
 noPageContentOrNotSaved=此頁面上找不到任何錨點，或錨點尚未儲存
 normal=正常
 north=向上漸層

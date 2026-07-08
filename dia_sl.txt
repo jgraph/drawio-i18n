@@ -584,6 +584,7 @@ noResponse=Ni odgovora strežnika
 noResultsFor=Ni rezultatov za '{1}'
 noRevisions=Ni revizij
 noSearchResults=Ni najdenih rezultatov iskanja
+noStepsYet=Še ni korakov. Dodajte prvi korak spodaj.
 noPageContentOrNotSaved=Na tej strani ni najdenih sider ali pa še ni bila shranjena
 normal=Normalno
 north=Sever

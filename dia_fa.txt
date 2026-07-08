@@ -584,6 +584,7 @@ noResponse=‫عدم پاسخگویی سرور‬
 noResultsFor=‫نتیجه ای برای '{1}' یافت نشد‬
 noRevisions=‫ویرایشی وجود ندارد‬
 noSearchResults=‫نتیجه ای یافت نشد‬
+noStepsYet=هنوز مرحله‌ای وجود ندارد. اولین مرحله را در زیر اضافه کنید.
 noPageContentOrNotSaved=‫لنگری در این صفحه یافت نشده و یا هنوز ذخیره نشده است.‬
 normal=‫نرمال‬
 north=‫شمال‬

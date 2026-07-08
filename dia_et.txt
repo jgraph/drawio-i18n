@@ -584,6 +584,7 @@ noResponse=Server ei vasta
 noResultsFor=Tulemused puuduvad päringule '{1}'
 noRevisions=Versioone pole
 noSearchResults=Otsingutulemusi ei leitud
+noStepsYet=Samme pole veel. Lisage esimene samm allpool.
 noPageContentOrNotSaved=Ankruid ei leitud sellelt lehelt või seda pole veel salvestatud
 normal=Normaalne
 north=Põhi

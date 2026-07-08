@@ -584,6 +584,7 @@ noResponse=No hay respuesta del servidor
 noResultsFor=No hay resultados para '{1}'
 noRevisions=Sin revisiones
 noSearchResults=No se encontró ningún resultado de búsqueda
+noStepsYet=Aún no hay pasos. Añada el primer paso abajo.
 noPageContentOrNotSaved=No se encontró ningún ancla en esta página o aún no ha sido guardada
 normal=Normal
 north=Norte

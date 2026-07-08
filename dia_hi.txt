@@ -584,6 +584,7 @@ noResponse=सर्वर से कोई प्रतिक्रिया �
 noResultsFor={1}' के लिए कोई परिणाम नहीं
 noRevisions=कोई संशोधन नहीं
 noSearchResults=कोई खोज परिणाम नहीं मिला
+noStepsYet=अभी तक कोई चरण नहीं। नीचे पहला चरण जोड़ें।
 noPageContentOrNotSaved=इस पृष्ठ पर कोई एंकर नहीं मिला या इसे अभी तक सहेजा नहीं गया है
 normal=सामान्य
 north=उत्तर

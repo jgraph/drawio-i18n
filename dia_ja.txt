@@ -584,6 +584,7 @@ noResponse=サーバーの応答がありません。
 noResultsFor={1}'の結果はありません
 noRevisions=改訂はありません。
 noSearchResults=検索結果は見つかりませんでした。
+noStepsYet=まだステップがありません。下から最初のステップを追加してください。
 noPageContentOrNotSaved=このページにアンカーが見つからないか、まだ保存されていません
 normal=ノーマル
 north=上

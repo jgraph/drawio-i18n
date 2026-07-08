@@ -584,6 +584,7 @@ noResponse=Neniu respondo de servilo
 noResultsFor=Neniuj rezultoj por '{1}'
 noRevisions=Neniuj revizioj
 noSearchResults=Neniuj serĉrezultoj trovitaj
+noStepsYet=Ankoraŭ neniuj paŝoj. Aldonu la unuan paŝon sube.
 noPageContentOrNotSaved=Neniuj ankroj trovitaj sur ĉi tiu paĝo aŭ ĝi ankoraŭ ne estas konservita
 normal=Normala
 north=Nordo

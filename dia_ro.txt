@@ -584,6 +584,7 @@ noResponse=Niciun răspuns de la server
 noResultsFor=Fără rezultate pentru „{1}”
 noRevisions=Fără revizii
 noSearchResults=Nu s-au găsit rezultate de căutare
+noStepsYet=Încă nu există pași. Adăugați primul pas mai jos.
 noPageContentOrNotSaved=Nu s-au găsit ancore pe această pagină sau nu a fost salvată încă
 normal=Normal
 north=Nord

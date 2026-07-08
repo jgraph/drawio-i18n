@@ -578,6 +578,7 @@ noResponse=‫لا إجابة من طرف الخادم‬
 noResultsFor=‫لا توجد نتائج متعلقة بـ '{1}'‬
 noRevisions=‫لا توجد مراجعات‬
 noSearchResults=‫لم يتم العثور على نتائج بحث‬
+noStepsYet=لا توجد خطوات بعد. أضف الخطوة الأولى أدناه.
 noPageContentOrNotSaved=‫لا توجد مراجع على هذه الصفحة أو لم يتم حفظها بعد‬
 normal=‫عادي‬
 north=‫شمال‬

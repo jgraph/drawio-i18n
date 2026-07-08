@@ -584,6 +584,7 @@ noResponse=Tidak ada respons dari server
 noResultsFor=Tidak ada hasil untuk '{1}'
 noRevisions=Tidak ada revisi
 noSearchResults=Tidak ada hasil pencarian yang ditemukan
+noStepsYet=Belum ada langkah. Tambahkan langkah pertama di bawah.
 noPageContentOrNotSaved=Tidak ada jangkar yang ditemukan di halaman ini atau halaman belum disimpan
 normal=Normal
 north=Utara

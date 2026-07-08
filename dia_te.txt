@@ -584,6 +584,7 @@ noResponse=సర్వర్ నుండి ప్రతిస్పందన 
 noResultsFor={1}' కోసం ఫలితాలు లేవు
 noRevisions=రివిజన్లు లేవు
 noSearchResults=శోధన ఫలితాలు కనుగొనబడలేదు
+noStepsYet=ఇంకా దశలు లేవు. క్రింద మొదటి దశను జోడించండి.
 noPageContentOrNotSaved=ఈ పేజీలో యాంకర్లు కనుగొనబడలేదు లేదా ఇంకా సేవ్ చేయబడలేదు
 normal=సాధారణం
 north=ఉత్తరం

@@ -584,6 +584,7 @@ noResponse=Inget svar från servern
 noResultsFor=Inga resultat för '{1}'
 noRevisions=Inga revisioner
 noSearchResults=Inga sökresultat hittades
+noStepsYet=Inga steg ännu. Lägg till det första steget nedan.
 noPageContentOrNotSaved=Inga ankare funna på denna sidan, eller så har den inte sparats ännu.
 normal=Normal
 north=Norr

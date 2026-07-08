@@ -584,6 +584,7 @@ noResponse=El servidor no respon
 noResultsFor=No s'ha trobat cap resultat per {1}
 noRevisions=Sense revisions
 noSearchResults=No s'ha trobat cap resultat
+noStepsYet=Encara no hi ha passos. Afegiu el primer pas a sota.
 noPageContentOrNotSaved=No s'han trobat enllaços a la pàgina o encara no s'ha desat
 normal=Normal
 north=Nord

@@ -584,6 +584,7 @@ noResponse=Сервер не відповідає
 noResultsFor=Результати для '{1}' відсутні
 noRevisions=Версії відсутні
 noSearchResults=Результати пошуку відсутні
+noStepsYet=Кроків поки немає. Додайте перший крок нижче.
 noPageContentOrNotSaved=На сторінці якорів не знайдено або вона ще не збережена
 normal=Звичайний
 north=Північ

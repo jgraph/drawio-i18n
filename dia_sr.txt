@@ -584,6 +584,7 @@ noResponse=Nema odgovora od servera
 noResultsFor=Nema rezultata za '{1}'
 noRevisions=Nema revizija
 noSearchResults=Nema pronađenih rezultata pretrage
+noStepsYet=Još nema koraka. Dodajte prvi korak ispod.
 noPageContentOrNotSaved=Nema sidara na ovoj stranici ili stranica još nije sačuvana
 normal=Normal
 north=Sever

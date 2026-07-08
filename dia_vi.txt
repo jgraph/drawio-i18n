@@ -584,6 +584,7 @@ noResponse=Không có phản hồi từ máy chủ
 noResultsFor=Không có kết quả cho '{1}'
 noRevisions=Không có phiên bản
 noSearchResults=Không có kết quả tìm kiếm
+noStepsYet=Chưa có bước nào. Thêm bước đầu tiên bên dưới.
 noPageContentOrNotSaved=Không có mỏ neo nào trên trang này hoặc nó chưa được lưu
 normal=Bình thường
 north=Hướng Bắc

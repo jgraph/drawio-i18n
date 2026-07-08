@@ -584,6 +584,7 @@ noResponse=සේවාදායකයෙන් ප්‍රතිචාරය�
 noResultsFor={1}' සඳහා ප්‍රතිඵල නැත
 noRevisions=සංශෝධන නැත
 noSearchResults=සෙවුම් ප්‍රතිඵල හමු නොවීය
+noStepsYet=තවම පියවර නොමැත. පළමු පියවර පහතින් එක් කරන්න.
 noPageContentOrNotSaved=මෙම පිටුවේ නැංගුරම් හමු නොවීය හෝ එය තවම සුරකින ලද නැත
 normal=සාමාන්‍ය
 north=උතුර

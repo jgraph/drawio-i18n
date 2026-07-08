@@ -584,6 +584,7 @@ noResponse=ไม่มีการตอบรับจากเซิฟเว
 noResultsFor=ไม่มีผลลัพธ์สำหรับ '{1}'
 noRevisions=ไม่มีการปรับปรุง
 noSearchResults=ไม่พบผลลัพธ์การค้นหา
+noStepsYet=ยังไม่มีขั้นตอน เพิ่มขั้นตอนแรกด้านล่าง
 noPageContentOrNotSaved=ไม่พบตัวยึดบนหน้านี้ หรือยังไม่มีการบันทึก
 normal=ปกติ
 north=ทิศเหนือ

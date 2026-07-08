@@ -584,6 +584,7 @@ noResponse=Nav atbildes no servera
 noResultsFor=Nav rezultātu '{1}'
 noRevisions=Nav versiju
 noSearchResults=Meklēšanas rezultāti nav atrasti
+noStepsYet=Vēl nav soļu. Pievienojiet pirmo soli zemāk.
 noPageContentOrNotSaved=Šajā lapā nav atrasts neviens enkurs vai arī tas vēl nav saglabāts
 normal=Normāls
 north=Ziemeļi

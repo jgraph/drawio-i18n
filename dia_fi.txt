@@ -584,6 +584,7 @@ noResponse=Ei vastausta palvelimelta
 noResultsFor=Ei tuloksia haulle '{1}'
 noRevisions=Ei versiohistoriaa
 noSearchResults=Hakutuloksia ei löytynyt
+noStepsYet=Ei vielä vaiheita. Lisää ensimmäinen vaihe alta.
 noPageContentOrNotSaved=Kirjanmerkkejä ei löydetty tai sivua ei vielä tallennettu.
 normal=Normaali
 north=Pohjoinen

@@ -584,6 +584,7 @@ noResponse=Zerbitzarian erantzunik ez
 noResultsFor=Ez dago emaitzarik '{1}'-erako
 noRevisions=Berrikuspenik ez
 noSearchResults=Ez da bilaketaren emaitzarik aurkitu
+noStepsYet=Oraindik ez dago urratsik. Gehitu lehen urratsa behean.
 noPageContentOrNotSaved=Ez da aurkitu aingurarik orri honetan edo oraindik ez da gorde
 normal=Normala
 north=Iparraldea

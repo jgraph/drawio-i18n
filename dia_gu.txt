@@ -584,6 +584,7 @@ noResponse=સર્વર તરફથી કોઈ પ્રતિસાદ �
 noResultsFor={1}' માટે કોઈ પરિણામો નથી
 noRevisions=કોઈ સુધારાઓ નથી
 noSearchResults=કોઈ શોધ પરિણામો મળ્યા નથી
+noStepsYet=હજી કોઈ પગલાં નથી. નીચે પહેલું પગલું ઉમેરો.
 noPageContentOrNotSaved=આ પૃષ્ઠ પર કોઈ એન્કર મળ્યા નથી અથવા તે હજુ સુધી સાચવવામાં આવ્યું નથી
 normal=સામાન્ય
 north=ઉત્તર

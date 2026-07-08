@@ -583,6 +583,7 @@ noResponse=noResponse
 noResultsFor=noResultsFor
 noRevisions=noRevisions
 noSearchResults=noSearchResults
+noStepsYet=noStepsYet
 noPageContentOrNotSaved=noPageContentOrNotSaved
 normal=normal
 north=north

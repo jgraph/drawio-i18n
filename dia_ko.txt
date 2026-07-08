@@ -584,6 +584,7 @@ noResponse=서버로부터 응답이 없습니다.
 noResultsFor="{1}"에 대한 검색 결과가 없습니다.
 noRevisions=수정사항이 없습니다.
 noSearchResults=검색 결과가 없습니다.
+noStepsYet=아직 단계가 없습니다. 아래에서 첫 번째 단계를 추가하세요.
 noPageContentOrNotSaved=이 페이지에서 앵커를 찾을 수 없거나 아직 저장되지 않았습니다.
 normal=정상
 north=상단

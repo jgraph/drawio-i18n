@@ -584,6 +584,7 @@ noResponse=सर्व्हरकडून प्रतिसाद नाह�
 noResultsFor={1}' साठी निकाल नाहीत
 noRevisions=सुधारणा नाहीत
 noSearchResults=शोध निकाल सापडले नाहीत
+noStepsYet=अद्याप कोणतेही टप्पे नाहीत. खाली पहिला टप्पा जोडा.
 noPageContentOrNotSaved=या पृष्ठावर अँकर सापडले नाहीत किंवा ते अद्याप सेव्ह केले गेले नाही
 normal=सामान्य
 north=उत्तर

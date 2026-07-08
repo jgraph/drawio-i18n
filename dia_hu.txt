@@ -584,6 +584,7 @@ noResponse=Nincs válasz a szervertől
 noResultsFor=Nincs eredmény a következőre: '{1}'
 noRevisions=Nincs revízió
 noSearchResults=Nem található keresési eredmény
+noStepsYet=Még nincsenek lépések. Adja hozzá az első lépést alább.
 noPageContentOrNotSaved=Nem található horgony ezen az oldalon, vagy még nem lett mentve
 normal=Normál
 north=Észak

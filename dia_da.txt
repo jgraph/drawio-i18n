@@ -584,6 +584,7 @@ noResponse=Intet svar fra serveren
 noResultsFor=Ingen resultater for '{1}'
 noRevisions=Ingen versioner
 noSearchResults=Ingen søgeresultater fundet
+noStepsYet=Ingen trin endnu. Tilføj det første trin nedenfor.
 noPageContentOrNotSaved=Ingen ankere fundet på denne side eller det er ikke blevet gemt endnu
 normal=Normal
 north=Nord

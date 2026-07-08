@@ -584,6 +584,7 @@ noResponse=Žiadna odpoveď zo servera
 noResultsFor=Žiadne výsledky pre '{1}'
 noRevisions=Žiadne revízie
 noSearchResults=Nenašli sa žiadne výsledky vyhľadávania
+noStepsYet=Zatiaľ žiadne kroky. Pridajte prvý krok nižšie.
 noPageContentOrNotSaved=Na tejto stránke sa nenašli žiadne kotvy alebo ešte nebola uložená
 normal=Normálne
 north=Sever

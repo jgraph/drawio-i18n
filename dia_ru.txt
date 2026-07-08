@@ -584,6 +584,7 @@ noResponse=Нет ответа от сервера
 noResultsFor=Нет результатов для '{1}'
 noRevisions=Нет ревизий
 noSearchResults=Ничего не найдено
+noStepsYet=Шагов пока нет. Добавьте первый шаг ниже.
 noPageContentOrNotSaved=На странице нет закладок или страница не была сохранена
 normal=Обычный
 north=Север

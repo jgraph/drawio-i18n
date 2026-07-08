@@ -584,6 +584,7 @@ noResponse=ከአገልጋይ ምላሽ የለም
 noResultsFor=ለ'{1}' ውጤቶች የለም
 noRevisions=ማሻሻያዎች የለም
 noSearchResults=የፍለጋ ውጤቶች የለም
+noStepsYet=እስካሁን ምንም ደረጃዎች የሉም። የመጀመሪያውን ደረጃ ከታች ያክሉ።
 noPageContentOrNotSaved=በዚህ ገጽ ላይ አንድ አንክር የለም ወይም አልተቀመጠም
 normal=መደበኛ
 north=ሰሜን

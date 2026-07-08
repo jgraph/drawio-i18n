@@ -584,6 +584,7 @@ noResponse=Ingen respons fra server
 noResultsFor=Ingen treff for '{1}'
 noRevisions=Ingen revisjoner
 noSearchResults=Ingen søkeresultater funnet
+noStepsYet=Ingen trinn ennå. Legg til det første trinnet nedenfor.
 noPageContentOrNotSaved=Ingen anker funnet på denne siden, eller så har den ikke blitt lagret enda
 normal=Normal
 north=Nord

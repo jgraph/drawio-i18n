@@ -619,6 +619,7 @@ noResponse=No response from server
 noResultsFor=No results for '{1}'
 noRevisions=No revisions
 noSearchResults=No search results found
+noStepsYet=No steps yet. Add the first step below.
 noPageContentOrNotSaved=No anchors found on this page or it hasn't been saved yet
 normal=Normal
 north=North

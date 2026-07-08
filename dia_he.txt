@@ -578,6 +578,7 @@ noResponse=‫אין תגובה מהשרת‬
 noResultsFor=‫לא נמצאו תוצאות עבור '{1}'‬
 noRevisions=‫אין שינויים‬
 noSearchResults=‫לא נמצאו תוצאות לחיפוש‬
+noStepsYet=אין שלבים עדיין. הוסיפו את השלב הראשון למטה.
 noPageContentOrNotSaved=‫לא נמצאו עוגנים בדף זה או שהם טרם נשמרו‬
 normal=‫רגיל‬
 north=‫צפון‬

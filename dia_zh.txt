@@ -584,6 +584,7 @@ noResponse=服务器无响应
 noResultsFor=未找到 '{1}' 的相关结果
 noRevisions=无修订
 noSearchResults=查询无结果
+noStepsYet=暂无步骤。请在下方添加第一个步骤。
 noPageContentOrNotSaved=此页面上找不到锚点，或尚未保存
 normal=正常
 north=向上

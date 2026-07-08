@@ -584,6 +584,7 @@ noResponse=Walang sagot mula sa server
 noResultsFor=Walang resulta para sa '{1}'
 noRevisions=Walang mga rebisyon
 noSearchResults=Walang nakitang resulta ng paghahanap
+noStepsYet=Wala pang mga hakbang. Idagdag ang unang hakbang sa ibaba.
 noPageContentOrNotSaved=Walang nakitang angkla sa pahinang ito, o hindi pa nai-save
 normal=Normal
 north=Hilaga
