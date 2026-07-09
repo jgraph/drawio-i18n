@@ -869,6 +869,7 @@ transition=Transiro
 transparentBackground=Travidebla fono
 trello=Trello
 tryAgain=Reprovu
+retry=Reprovu
 tryOpeningViaThisPage=Provu malfermi per ĉi tiu paĝo
 turn=Turni formon nur je 90°
 type=Tipo

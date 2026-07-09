@@ -869,6 +869,7 @@ transition=রূপান্তর
 transparentBackground=স্বচ্ছ পটভূমি
 trello=Trello
 tryAgain=আবার চেষ্টা করুন
+retry=আবার চেষ্টা করুন
 tryOpeningViaThisPage=এই পৃষ্ঠার মাধ্যমে খোলার চেষ্টা করুন
 turn=শুধুমাত্র আকৃতি ৯০° ঘোরান
 type=ধরন

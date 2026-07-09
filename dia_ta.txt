@@ -869,6 +869,7 @@ transition=மாற்றம்
 transparentBackground=வெளிப்படையான பின்னணி
 trello=Trello
 tryAgain=மீண்டும் முயற்சிக்கவும்
+retry=மீண்டும் முயற்சிக்கவும்
 tryOpeningViaThisPage=இந்த பக்கம் வழியாக திறக்க முயற்சிக்கவும்
 turn=வடிவத்தை 90° மட்டுமே சுழற்றுங்கள்
 type=வகை

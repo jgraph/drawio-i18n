@@ -869,6 +869,7 @@ transition=Tranziție
 transparentBackground=Fundal transparent
 trello=Trello
 tryAgain=Încearcă din nou
+retry=Încearcă din nou
 tryOpeningViaThisPage=Încearcă deschiderea prin această pagină
 turn=Rotește forma cu 90°
 type=Tip

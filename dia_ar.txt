@@ -862,6 +862,7 @@ transition=انتقال
 transparentBackground=‫خلفية شفافة‬
 trello=‫ترلو‬
 tryAgain=‫إعادة المحاولة‬
+retry=‫إعادة المحاولة‬
 tryOpeningViaThisPage=‫حاول فتحه عبر هذه الصفحة‬
 turn=‫تدوير‬
 type=‫نوع‬

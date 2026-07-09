@@ -868,6 +868,7 @@ transition=Overgang
 transparentBackground=Transparante achtergrond
 trello=Trello
 tryAgain=Opnieuw proberen
+retry=Opnieuw proberen
 tryOpeningViaThisPage=Probeer via deze pagina te openen
 turn=90° draaien
 type=Type

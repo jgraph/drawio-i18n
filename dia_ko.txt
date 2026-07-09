@@ -869,6 +869,7 @@ transition=전환
 transparentBackground=투명한 배경
 trello=Trello
 tryAgain=다시 시도
+retry=다시 시도
 tryOpeningViaThisPage=이 페이지를 통해 열어주세요.
 turn=도형만 90° 회전
 type=유형

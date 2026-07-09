@@ -869,6 +869,7 @@ transition=انتقال
 transparentBackground=‫پس زمینه شفاف‬
 trello=Trello
 tryAgain=‫دوباره سعی کنید‬
+retry=‫دوباره سعی کنید‬
 tryOpeningViaThisPage=‫سعی کنید از این صفحه باز کنید‬
 turn=‫چرخش فقط شکل ۹۰ درجه‬
 type=‫نوع‬

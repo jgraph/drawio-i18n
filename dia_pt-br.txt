@@ -869,6 +869,7 @@ transition=Transição
 transparentBackground=Plano de fundo transparente
 trello=Trello
 tryAgain=Tentar novamente
+retry=Tentar novamente
 tryOpeningViaThisPage=Tente abrir através desta página
 turn=Girar Somente a Forma em 90°
 type=Tipo

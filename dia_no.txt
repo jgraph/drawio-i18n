@@ -869,6 +869,7 @@ transition=Overgang
 transparentBackground=Gjennomsiktig bakgrunn
 trello=Trello
 tryAgain=Prøv på nytt
+retry=Prøv på nytt
 tryOpeningViaThisPage=Prøv å åpne fra denne siden
 turn=Roter kun figur 90°
 type=Type

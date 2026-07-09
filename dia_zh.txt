@@ -869,6 +869,7 @@ transition=过渡
 transparentBackground=透明背景
 trello=Trello
 tryAgain=重试
+retry=重试
 tryOpeningViaThisPage=尝试通过此页面开启
 turn=旋转90°
 type=类型

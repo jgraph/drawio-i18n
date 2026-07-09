@@ -869,6 +869,7 @@ transition=Átmenet
 transparentBackground=Átlátszó háttér
 trello=Trello
 tryAgain=Próbálja újra
+retry=Próbálja újra
 tryOpeningViaThisPage=Próbálja megnyitni ezen az oldalon keresztül
 turn=Csak az alakzat forgatása 90°-kal
 type=Típus

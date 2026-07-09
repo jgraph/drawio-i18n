@@ -869,6 +869,7 @@ transition=Geçiş
 transparentBackground=Saydam Arka Plan
 trello=Trello
 tryAgain=Tekrar deneyin
+retry=Tekrar deneyin
 tryOpeningViaThisPage=Bu sayfa üstünden açmayı deneyiniz
 turn=Şekli Yalnızca 90° Döndür
 type=Tür

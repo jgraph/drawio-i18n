@@ -869,6 +869,7 @@ transition=പരിവർത്തനം
 transparentBackground=സുതാര്യ പശ്ചാത്തലം
 trello=Trello
 tryAgain=വീണ്ടും ശ്രമിക്കുക
+retry=വീണ്ടും ശ്രമിക്കുക
 tryOpeningViaThisPage=ഈ പേജ് വഴി തുറക്കാൻ ശ്രമിക്കുക
 turn=ആകൃതി മാത്രം 90° തിരിക്കുക
 type=തരം

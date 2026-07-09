@@ -869,6 +869,7 @@ transition=Chuyển tiếp
 transparentBackground=Hình nền trong suốt
 trello=Trello
 tryAgain=Thử lại
+retry=Thử lại
 tryOpeningViaThisPage=Thử mở bằng trang này
 turn=Xoay hình dạng 90°
 type=Loại

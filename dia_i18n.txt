@@ -868,6 +868,7 @@ transition=Transition
 transparentBackground=transparentBackground
 trello=trello
 tryAgain=tryAgain
+retry=retry
 tryOpeningViaThisPage=tryOpeningViaThisPage
 turn=turn
 type=type

@@ -734,6 +734,7 @@ refresh=Refresh
 regularExpression=Regular Expression
 relative=Relative
 relativeUrlNotAllowed=Relative URL not allowed
+retry=Retry
 rememberMe=Remember Me
 rememberThisSetting=Remember This Setting
 removeFormat=Clear Formatting

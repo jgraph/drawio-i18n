@@ -869,6 +869,7 @@ transition=Mpito
 transparentBackground=Mandharinyuma ya Uwazi
 trello=Trello
 tryAgain=Jaribu tena
+retry=Jaribu tena
 tryOpeningViaThisPage=Jaribu kufungua kupitia ukurasa huu
 turn=Zungusha Umbo Pekee kwa 90°
 type=Aina

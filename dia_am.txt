@@ -869,6 +869,7 @@ transition=ሽግግር
 transparentBackground=ግልጽ ዳራ
 trello=ትሬሎ
 tryAgain=እንደገና ይሞክሩ
+retry=እንደገና ይሞክሩ
 tryOpeningViaThisPage=በዚህ ገጽ በኩል ለመክፈት ይሞክሩ
 turn=ቅርጽ ብቻ 90° ይለውጡ
 type=ዓይነት

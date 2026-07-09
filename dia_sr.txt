@@ -869,6 +869,7 @@ transition=Прелаз
 transparentBackground=Prozirna pozadina
 trello=Trello
 tryAgain=Pokušajte ponovo
+retry=Pokušajte ponovo
 tryOpeningViaThisPage=Pokušajte da otvorite preko ove stranice
 turn=Rotiraj samo oblik za 90°
 type=Tip

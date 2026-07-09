@@ -869,6 +869,7 @@ transition=Trantsizioa
 transparentBackground=Atzeko plano gardena
 trello=Trello
 tryAgain=Saiatu berriro
+retry=Saiatu berriro
 tryOpeningViaThisPage=Saiatu irekitzen orri honen bidez
 turn=Biratu forma soilik 90°
 type=Mota

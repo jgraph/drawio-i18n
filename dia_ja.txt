@@ -869,6 +869,7 @@ transition=トランジション
 transparentBackground=透明な背景
 trello=Trello
 tryAgain=もう一度お試しください
+retry=もう一度お試しください
 tryOpeningViaThisPage=このページから開始してみてください
 turn=図形のみを90°回転
 type=タイプ

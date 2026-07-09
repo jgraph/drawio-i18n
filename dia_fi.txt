@@ -869,6 +869,7 @@ transition=Siirtymä
 transparentBackground=Läpinäkyvä tausta
 trello=Trello
 tryAgain=Yritä uudelleen
+retry=Yritä uudelleen
 tryOpeningViaThisPage=Yritä avata tämän sivun kautta
 turn=Kierrä muotoa vain 90°
 type=Tyyppi

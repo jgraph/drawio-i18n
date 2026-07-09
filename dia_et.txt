@@ -869,6 +869,7 @@ transition=Üleminek
 transparentBackground=Läbipaistev taust
 trello=Trello
 tryAgain=Proovi uuesti
+retry=Proovi uuesti
 tryOpeningViaThisPage=Proovi selle lehe kaudu avamist
 turn=Pööra kujundit 90°
 type=Tüüp

@@ -869,6 +869,7 @@ transition=Pāreja
 transparentBackground=Caurspīdīgs fons
 trello=Trello
 tryAgain=Mēģiniet vēlreiz
+retry=Mēģiniet vēlreiz
 tryOpeningViaThisPage=Mēģiniet atvērt, izmantojot šo lapu
 turn=Pagriezt formu tikai par 90°
 type=Tips

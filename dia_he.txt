@@ -862,6 +862,7 @@ transition=מעבר
 transparentBackground=‫רקע שקוף‬
 trello=Trello
 tryAgain=‫נסה שוב‬
+retry=‫נסה שוב‬
 tryOpeningViaThisPage=‫נסה לפתוח דרך דף זה‬
 turn=‫סובב ב 90°‬
 type=‫סוג‬

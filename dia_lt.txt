@@ -869,6 +869,7 @@ transition=Perėjimas
 transparentBackground=Skaidrus fonas
 trello=Trello
 tryAgain=Bandyti dar kartą
+retry=Bandyti dar kartą
 tryOpeningViaThisPage=Bandykite atidaryti per šį puslapį
 turn=Pasukti tik figūrą 90°
 type=Tipas

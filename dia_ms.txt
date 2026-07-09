@@ -869,6 +869,7 @@ transition=Peralihan
 transparentBackground=Latar Belakang Lutsinar
 trello=Trello
 tryAgain=Cuba lagi
+retry=Cuba lagi
 tryOpeningViaThisPage=Cuba buka melalui halaman ini
 turn=Putar Bentuk Sahaja 90°
 type=Jenis

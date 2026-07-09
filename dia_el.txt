@@ -869,6 +869,7 @@ transition=Μετάβαση
 transparentBackground=Διαφανές Φόντο
 trello=Trello
 tryAgain=Δοκιμάστε ξανά
+retry=Δοκιμάστε ξανά
 tryOpeningViaThisPage=Προσπαθήστε να το ανοίξετε μέσω αυτής της σελίδας
 turn=Περιστροφή Σχήματος Μόνο κατά 90°
 type=Τύπος

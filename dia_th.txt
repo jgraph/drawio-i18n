@@ -869,6 +869,7 @@ transition=การเปลี่ยน
 transparentBackground=พื้นหลังโปร่งใส
 trello=Trello
 tryAgain=ลองอีกครั้ง
+retry=ลองอีกครั้ง
 tryOpeningViaThisPage=ลองเปิดผ่านหน้านี้
 turn=หมุนเฉพาะรูปทรง 90°
 type=ประเภท

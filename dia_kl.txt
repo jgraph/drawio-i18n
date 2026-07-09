@@ -869,6 +869,7 @@ transition=Allanngorneq
 transparentBackground=Tunua Ersinnaanngitsoq
 trello=Trello
 tryAgain=Misileqqiguk
+retry=Misileqqiguk
 tryOpeningViaThisPage=Una atorlugu ammarlugu
 turn=90° anguserialeruk
 type=Suut

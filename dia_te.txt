@@ -869,6 +869,7 @@ transition=పరివర్తన
 transparentBackground=పారదర్శక నేపథ్యం
 trello=Trello
 tryAgain=మళ్ళీ ప్రయత్నించండి
+retry=మళ్ళీ ప్రయత్నించండి
 tryOpeningViaThisPage=ఈ పేజీ ద్వారా తెరవడానికి ప్రయత్నించండి
 turn=ఆకారాన్ని మాత్రమే 90° తిప్పండి
 type=రకం

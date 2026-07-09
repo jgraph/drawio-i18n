@@ -869,6 +869,7 @@ transition=Prechod
 transparentBackground=Priehľadné pozadie
 trello=Trello
 tryAgain=Skúsiť znova
+retry=Skúsiť znova
 tryOpeningViaThisPage=Skúste otvoriť cez túto stránku
 turn=Otočiť tvar o 90°
 type=Typ

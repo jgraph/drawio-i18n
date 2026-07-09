@@ -869,6 +869,7 @@ transition=Transisyon
 transparentBackground=Transparent na Background
 trello=Trello
 tryAgain=Subukan muli
+retry=Subukan muli
 tryOpeningViaThisPage=Subukang buksan mula sa pahinang ito
 turn=Iikot ang Hugis Lamang ng 90°
 type=Tipo

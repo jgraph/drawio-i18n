@@ -869,6 +869,7 @@ transition=ကူးပြောင်းမှု
 transparentBackground=ဖောက်ထွင်းမြင်နောက်ခံ
 trello=Trello
 tryAgain=ထပ်စမ်းကြည့်ပါ
+retry=ထပ်စမ်းကြည့်ပါ
 tryOpeningViaThisPage=ဤစာမျက်နှာမှတဆင့် ဖွင့်ကြည့်ပါ
 turn=ပုံသဏ္ဍာန်ကိုသာ ၉၀° လှည့်ပါ
 type=အမျိုးအစား

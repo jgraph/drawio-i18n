@@ -869,6 +869,7 @@ transition=संक्रमण
 transparentBackground=पारदर्शी पृष्ठभूमि
 trello=Trello
 tryAgain=पुनः प्रयास करें
+retry=पुनः प्रयास करें
 tryOpeningViaThisPage=इस पेज के माध्यम से खोलने का प्रयास करें
 turn=आकृति को केवल 90° घुमाएं
 type=प्रकार
